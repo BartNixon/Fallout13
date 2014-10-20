@@ -363,14 +363,14 @@
 	item_state = "enclaveo"
 	item_color = "enclaveo"
 
-/obj/item/clothing/under/merc/male //Male version
+/obj/item/clothing/under/mercadv/male //Male version
 	name = "merc adventurer outfit"
 	desc = "It's a large leather jacket with torn-off sleeves, paired with a red sweater, a necklace with three teeth of unknown origin strung on, and a pair of brown leather pants.<br>There is also a rough leather bandolier for additional storage capacity."
 	icon_state = "mercam"
 	item_state = "mercam"
 	item_color = "mercam"
 
-/obj/item/clothing/under/merc/female //Female version
+/obj/item/clothing/under/mercadv/female //Female version
 	name = "merc adventurer outfit"
 	desc = "It's a large leather jacket with torn-off sleeves, paired with a midriff-revealing red and black top and a pair of brown leather pants.<br>There is also a rough leather bandolier and belt for additional storage capacity."
 	icon_state = "mercaf"
