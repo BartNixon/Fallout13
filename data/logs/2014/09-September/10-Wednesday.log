@@ -1,0 +1,1196 @@
+
+
+Starting up. 04:06.50
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[04:06:50]ADMIN: Loading Banlistjob
+[04:06:50]ADMIN: Loading jobban_rank
+[04:06:50]ADMIN: jobban_keylist was empty
+[04:06:50]ADMIN: Loading appearance_rank
+[04:06:50]ADMIN: appearance_keylist was empty
+[04:06:50]ADMIN: Updating jobbanfile!
+[04:06:50]ADMIN: Loading Banlist
+[04:08:51]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[04:09:52]ADMIN: BartNixon/(BartNixon) initiated a reboot.
+[04:09:57]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 04:11.17
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[04:11:18]ADMIN: Loading Banlistjob
+[04:11:18]ADMIN: Loading jobban_rank
+[04:11:18]ADMIN: jobban_keylist was empty
+[04:11:18]ADMIN: Loading appearance_rank
+[04:11:18]ADMIN: appearance_keylist was empty
+[04:11:18]ADMIN: Updating jobbanfile!
+[04:11:18]ADMIN: Loading Banlist
+[04:12:00]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[04:13:59]ADMIN: BartNixon/(BartNixon) initiated a reboot.
+[04:14:06]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 04:15.20
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[04:15:20]ADMIN: Loading Banlistjob
+[04:15:20]ADMIN: Loading jobban_rank
+[04:15:20]ADMIN: jobban_keylist was empty
+[04:15:20]ADMIN: Loading appearance_rank
+[04:15:20]ADMIN: appearance_keylist was empty
+[04:15:20]ADMIN: Updating jobbanfile!
+[04:15:20]ADMIN: Loading Banlist
+[04:16:42]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[04:18:34]ACCESS: Logout: *no key*/(BartNixon)
+[04:18:34]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[04:19:06]SAY: Poly/ : Poly wanna cracker!
+[04:19:11]SAY: mouse/ : SQUEEK!
+[04:19:40]ADMIN: BartNixon/(Moses Andreev) has used rudimentary transformation on BartNixon/(Moses Andreev). Transforming to human; deletemob=1
+[04:19:40]ACCESS: Logout: *no key*/(Moses Andreev)
+[04:19:40]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[04:19:56]ADMIN: BartNixon/(Moses Andreev) changed the equipment of BartNixon/(Moses Andreev) to Medical Doctor.
+[04:21:01]SAY: mouse/ : Squeek?
+[04:21:18]EMOTE: monkey (693)/ : <B>The monkey (693)</B> jumps!
+[04:22:16]ADMIN: BartNixon/(Moses Andreev) spawned /mob/living/carbon/human at (148,118,1)
+[04:22:33]ADMIN: BartNixon/(Moses Andreev) dealt 150 amount of brute damage to Rosemary Pinney 
+[04:23:24]EMOTE: monkey (775)/ : <B>The monkey (775)</B> jumps!
+[04:23:33]EMOTE: Rosemary Pinney/ : <B>Rosemary Pinney</B> gasps!
+[04:23:53]SAY: mouse/ : Squeek?
+[04:24:01]EMOTE: Rosemary Pinney/ : <B>Rosemary Pinney</B> gasps!
+[04:24:10]EMOTE: monkey (556)/ : <B>The monkey (556)</B> jumps!
+[04:24:24]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[04:24:39]SAY: mouse/ : Squeek?
+[04:24:47]SAY: mouse/ : SQUEEK!
+[04:24:53]SAY: mouse/ : Squeek!
+[04:25:03]EMOTE: Rosemary Pinney/ : <B>Rosemary Pinney</B> seizes up and falls limp, her eyes dead and lifeless...
+[04:25:30]SAY: mouse/ : Squeek!
+[04:25:51]ADMIN: BartNixon/(Moses Andreev) initiated a reboot.
+[04:25:56]ACCESS: Logout: BartNixon[DC]/(Moses Andreev)
+
+
+Starting up. 04:27.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[04:27:45]ADMIN: Loading Banlistjob
+[04:27:45]ADMIN: Loading jobban_rank
+[04:27:45]ADMIN: jobban_keylist was empty
+[04:27:45]ADMIN: Loading appearance_rank
+[04:27:45]ADMIN: appearance_keylist was empty
+[04:27:45]ADMIN: Updating jobbanfile!
+[04:27:45]ADMIN: Loading Banlist
+[04:28:44]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[04:31:18]ADMIN: BartNixon/(BartNixon) : Heeeeyo!
+[04:31:54]EMOTE: monkey (1)/ : <B>The monkey (1)</B> jumps!
+[04:31:58]SAY: mouse/ : Squeek?
+[04:32:23]SAY: mouse/ : Squeek?
+[04:32:29]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[04:32:33]SAY: mouse/ : SQUEEK!
+[04:32:50]OOC: BartNixon/BartNixon : Test
+[04:32:52]SAY: mouse/ : Squeek!
+[04:32:54]OOC: BartNixon/BartNixon : Derp.
+[04:33:36]SAY: mouse/ : SQUEEK!
+[04:33:41]ACCESS: Logout: *no key*/(BartNixon)
+[04:33:41]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[04:34:11]EMOTE: monkey (1)/ : <B>The monkey (1)</B> jumps!
+[04:34:43]ADMIN: BartNixon/(Moses Andreev) jumped to the Syndicate Mothership
+[04:35:00]ADMIN: BartNixon/(Moses Andreev) has used rudimentary transformation on BartNixon/(Moses Andreev). Transforming to human; deletemob=1
+[04:35:00]ACCESS: Logout: *no key*/(Moses Andreev)
+[04:35:00]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[04:35:01]SAY: mouse/ : SQUEEK!
+[04:35:08]GAME: BartNixon/(Moses Andreev) has primed a syndicate minibomb for detonation at Syndicate Forward Operating Base (79,77,2).
+[04:35:11]GAME: BartNixon/(Moses Andreev) has primed a syndicate minibomb for detonation at Syndicate Forward Operating Base (80,75,2).
+[04:35:13]GAME: Explosion with size (1, 2, 4, 2) in area Syndicate Forward Operating Base (76,77,2)
+[04:35:16]GAME: Explosion with size (1, 2, 4, 2) in area Syndicate Forward Operating Base (76,78,2)
+[04:35:42]SAY: mouse/ : Squeek!
+[04:36:01]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/reagent_containers/hypospray/combat at (74,81,2)
+[04:37:09]ACCESS: Logout: BartNixon[DC]/(Moses Andreev)
+
+
+Starting up. 22:32.23
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[22:32:23]ADMIN: Loading Banlistjob
+[22:32:23]ADMIN: Loading jobban_rank
+[22:32:23]ADMIN: jobban_keylist was empty
+[22:32:23]ADMIN: Loading appearance_rank
+[22:32:23]ADMIN: appearance_keylist was empty
+[22:32:23]ADMIN: Updating jobbanfile!
+[22:32:23]ADMIN: Loading Banlist
+[22:34:36]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[22:35:00]ADMIN: BartNixon/(BartNixon) delayed the game.
+[22:37:29]ACCESS: Login: IDeee/(IDeee) from 7.84.93.29-517297346 || BYOND v501
+[22:49:17]ADMIN: BartNixon/(BartNixon) edited the admin rank of ideee to Paladin
+[22:49:44]ADMIN: HELP: IDeee/(IDeee): ya paladin - heard by 1 non-AFK admins who have +BAN.
+[22:51:23]ADMIN: BartNixon/(BartNixon) edited the admin rank of lydee to Elder
+[22:51:45]ADMIN: BartNixon/(BartNixon) edited the admin rank of ideee to Paladin
+[22:58:00]ACCESS: Login: Lydee/(Lydee) from 7.13.58.115-224893347 || BYOND v506
+[23:00:13]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 13
+[23:00:20]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 12
+[23:00:29]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 11
+[23:00:40]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 10
+[23:00:54]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 9
+[23:01:15]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 8
+[23:01:34]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 7
+[23:01:42]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 6
+[23:01:46]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 1
+[23:01:51]ADMIN: BartNixon/(BartNixon) removed the delay.
+[23:01:58]ADMIN: BartNixon has started the game.
+[23:02:07]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[23:02:08]ACCESS: Logout: *no key*/(BartNixon)
+[23:02:08]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:02:10]ACCESS: Logout: *no key*/(Lydee)
+[23:02:10]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[23:02:23]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[23:02:25]ACCESS: Logout: *no key*/(IDeee)
+[23:02:25]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:02:42]ACCESS: Logout: IDeee[DC]/(Jason Nud)
+[23:03:08]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:03:10]SAY: Pete/ : eh?
+[23:03:12]EMOTE: monkey (185)/ : <B>The monkey (185)</B> jumps!
+[23:03:45]ADMIN: IDeee/(Jason Nud) deleted all objects of type /obj/effect/decal/cleanable/dirt (981 objects deleted) 
+[23:03:46]ADMIN: Lydee/(Grant Gibson) spawned /obj/item/weapon/gun/energy/laser/captain at (65,142,1)
+[23:04:11]ADMIN: Lydee/(Grant Gibson) has modified world.tick_lag to 0.5
+[23:04:22]ADMIN: Lydee/(Grant Gibson) has modified world.tick_lag to 0.6
+[23:04:28]SAY: mouse/ : Squeek!
+[23:05:09]ADMIN: IDeee/(Jason Nud) jumped to 106,134,1 in the Bridge
+[23:05:18]ADMIN: IDeee/(Jason Nud) jumped to 120,132,1 in the Captain's Office
+[23:05:30]ADMIN: IDeee/(Jason Nud) jumped to 120,124,1 in the Captain's Office
+[23:05:33]SAY: mouse/ : SQUEEK!
+[23:05:38]ADMIN: BartNixon/(Moses Andreev) teleported Lydee/(Grant Gibson)
+[23:06:27]EMOTE: monkey (312)/ : <B>The monkey (312)</B> jumps!
+[23:06:52]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/stock_parts/cell/crap at (108,80,1)
+[23:07:02]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/stock_parts/cell/high at (109,80,1)
+[23:07:11]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/stock_parts/cell/super at (110,80,1)
+[23:07:11]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/gloves/combat at (121,130,1)
+[23:07:15]ADMIN: BartNixon/(Moses Andreev) has entered build mode.
+[23:07:16]ADMIN: Build Mode: BartNixon/(Moses Andreev) modified the closet's (0,0,0) dir to 1
+[23:07:19]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw the captain's carapace at the floor (109,81,1)
+[23:07:22]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/shoes/swat/combat at (121,129,1)
+[23:07:22]ADMIN: Build Mode: BartNixon/(Moses Andreev) modified buildmode's name to derp
+[23:07:22]ADMIN: BartNixon/(Moses Andreev) has left build mode.
+[23:07:41]ADMIN: IDeee/(Jason Nud) jumped to Lydee/(Grant Gibson)
+[23:07:42]SAY: mouse/ : Squeek!
+[23:08:26]SAY: grey baby slime (746)/ : Blop...
+[23:08:32]ADMIN: IDeee/(Jason Nud) jumped to 111,65,1 in Space
+[23:08:48]ADMIN: IDeee/(Jason Nud) jumped to 115,68,1 in Engineering
+[23:08:52]SAY: mouse/ : Squeek?
+[23:08:58]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[23:09:09]SAY: mouse/ : Squeek!
+[23:09:10]ACCESS: Logout: *no key*/(Jason Nud)
+[23:09:10]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:09:17]SAY: mouse/ : SQUEEK!
+[23:09:31]ADMIN: BartNixon/(Moses Andreev) has entered build mode.
+[23:09:35]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Grant Gibson at the plating (122,66,1)
+[23:09:36]ADMIN: Lydee/(Grant Gibson) healed / revived Lydee/(Grant Gibson)
+[23:09:37]ADMIN: BartNixon/(Moses Andreev) has left build mode.
+[23:09:45]ACCESS: Logout: *no key*/(Jason Nud)
+[23:09:45]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:09:49]ADMIN: Lydee/(Grant Gibson) jumped to 119,71,1 in Engineering
+[23:09:57]SAY: mouse/ : SQUEEK!
+[23:10:07]ADMIN: IDeee/(Jason Nud) jumped to 103,79,1 in Engineering
+[23:10:11]SAY: mouse/ : Squeek?
+[23:10:44]SAY: grey baby slime (172)/ : Lonely...
+[23:11:20]EMOTE: monkey (636)/ : <B>The monkey (636)</B> jumps!
+[23:12:16]SAY: Pete/ : eh?
+[23:13:20]SAY: Runtime/ : HSSSSS
+[23:13:43]ADMIN: BartNixon/(Moses Andreev) spawned /mob/living/carbon/human at (112,75,1)
+[23:13:47]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[23:13:52]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/reagent_containers/food/snacks/human at (114,75,1)
+[23:13:58]ACCESS: Logout: *no key*/(Jason Nud)
+[23:13:58]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:14:01]ACCESS: Logout: *no key*/(Jason Nud)
+[23:14:01]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:14:03]GAME: PA Control Computer increased to 1 by ideee(Jason Nud) in (112,71,1)
+[23:14:04]GAME: PA Control Computer increased to 2 by ideee(Jason Nud) in (112,71,1)
+[23:14:05]ADMIN: BartNixon/(Moses Andreev) spawned /mob/living/carbon/human at (114,75,1)
+[23:14:06]GAME: PA Control Computer turned ON by ideee(Jason Nud) in (112,71,1)
+[23:14:11]SAY: mouse/ : SQUEEK!
+[23:14:11]EMOTE: monkey (757)/ : <B>The monkey (757)</B> jumps!
+[23:14:14]ADMIN: BartNixon/(Moses Andreev) spawned /mob/living/carbon/human at (113,76,1)
+[23:14:24]ADMIN: BartNixon/(Moses Andreev) deleted Ebba Highlands at (113,75,1)
+[23:14:25]ACCESS: Logout: *no key*/(Jason Nud)
+[23:14:25]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:14:36]ACCESS: Logout: *no key*/(Jason Nud)
+[23:14:36]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:15:03]ACCESS: Logout: *no key*/(Jason Nud)
+[23:15:03]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:15:04]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[23:15:20]SAY: mouse/ : Squeek!
+[23:15:33]ACCESS: Logout: *no key*/(Jason Nud)
+[23:15:33]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:15:34]EMOTE: monkey (636)/ : <B>The monkey (636)</B> jumps!
+[23:15:51]ACCESS: Logout: *no key*/(Jason Nud)
+[23:15:51]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:15:56]ACCESS: Logout: *no key*/(Jason Nud)
+[23:15:56]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:16:00]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[23:16:00]ACCESS: Logout: *no key*/(Jason Nud)
+[23:16:00]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:16:10]EMOTE: monkey (473)/ : <B>The monkey (473)</B> jumps!
+[23:16:31]ACCESS: Logout: *no key*/(Jason Nud)
+[23:16:31]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:16:34]GAME: PA Control Computer decreased to 1 by ideee(Jason Nud) in (112,71,1)
+[23:16:35]GAME: PA Control Computer decreased to 0 by ideee(Jason Nud) in (112,71,1)
+[23:16:40]ACCESS: Logout: *no key*/(Jason Nud)
+[23:16:40]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:16:53]ADMIN: BartNixon/(Moses Andreev) has used rudimentary transformation on BartNixon/(Moses Andreev). Transforming to human; deletemob=1
+[23:16:53]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:16:53]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:17:37]ACCESS: Logout: *no key*/(Jason Nud)
+[23:17:37]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:17:45]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/suit/armor/vest at (97,71,1)
+[23:18:00]EMOTE: monkey (473)/ : <B>The monkey (473)</B> jumps!
+[23:18:02]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[23:18:04]SAY: mouse/ : Squeek!
+[23:18:16]ADMIN: Lydee/(Grant Gibson) spawned /obj/item/clothing/suit/greatcoat at (90,78,1)
+[23:18:18]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/head/helmet/swat at (89,73,1)
+[23:18:33]ADMIN: Lydee/(Grant Gibson) deleted the great coat at (91,74,1)
+[23:18:40]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/head/helmet/riot at (89,72,1)
+[23:18:40]SAY: grey baby slime (746)/ : Blop...
+[23:19:05]ADMIN: Lydee/(Grant Gibson) spawned /obj/item/clothing/suit/armor/vest/det_suit at (91,75,1)
+[23:19:09]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/head/helmet/warden at (88,72,1)
+[23:19:34]ADMIN: Lydee/(Grant Gibson) has entered build mode.
+[23:19:39]ADMIN: Build Mode: Lydee/(Grant Gibson) deleted the shard at (91,74,1)
+[23:19:40]SAY: grey baby slime (746)/ : Lonely...
+[23:19:40]ADMIN: Build Mode: Lydee/(Grant Gibson) deleted the metal rod at (91,74,1)
+[23:19:41]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/head/helmet/swat/syndicate at (89,72,1)
+[23:19:42]ADMIN: Lydee/(Grant Gibson) has left build mode.
+[23:20:34]ADMIN: Lydee/(Grant Gibson) healed / revived Lydee/(Grant Gibson)
+[23:20:38]ADMIN: IDeee/(Jason Nud) deleted the blood at (91,73,1)
+[23:21:01]EMOTE: monkey (699)/ : <B>The monkey (699)</B> collapses!
+[23:21:07]EMOTE: monkey (554)/ : <B>The monkey (554)</B> collapses!
+[23:21:09]EMOTE: monkey (699)/ : <B>The monkey (699)</B> collapses!
+[23:21:29]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[23:21:30]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/energy/laser/retro at (87,78,1)
+[23:21:31]ADMIN: Lydee/(Grant Gibson) has wizard'ed Grant Gibson.
+[23:21:31]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[23:21:32]ADMIN: Lydee/(Grant Gibson) has changeling'ed Grant Gibson.
+[23:21:36]ADMIN: Lydee/(Gib Foundation Director) has nuke op'ed Grant Gibson.
+[23:21:39]ADMIN: Lydee/(Dakota Anderson) has traitor'ed Grant Gibson.
+[23:21:41]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[23:21:44]ADMIN: Lydee/(Dakota Anderson) has cult'ed Grant Gibson.
+[23:21:52]ADMIN: Lydee/(Dakota Anderson) attempted to give Grant Gibson an uplink.
+[23:21:53]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (88,78,1)
+[23:21:56]ADMIN: Lydee/(Dakota Anderson) changed Grant Gibson's telecrystal count to 9e+021.
+[23:22:01]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/deagle at (89,78,1)
+[23:22:08]SAY: mouse/ : SQUEEK!
+[23:22:24]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/storage/backpack/satchel at (88,73,1)
+[23:22:36]SAY: grey baby slime (172)/ : Blop...
+[23:22:36]SAY: mouse/ : Squeek?
+[23:22:38]ADMIN: BartNixon/(Moses Andreev) modified desert eagle's icon to fweapons.dmi
+[23:22:51]ADMIN: BartNixon/(Moses Andreev) modified desert eagle's icon_state to colt6504
+[23:22:54]SAY: Runtime/ : HSSSSS
+[23:23:12]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to centcom commander.
+[23:23:18]SAY: mouse/ : Squeek?
+[23:23:57]SAY: mouse/ : SQUEEK!
+[23:24:08]EMOTE: monkey (473)/ : <B>The monkey (473)</B> jumps!
+[23:24:22]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to as job....
+[23:24:55]SAY: mouse/ : SQUEEK!
+[23:25:04]OOC: Moses Andreev/BartNixon : http://fallout.wikia.com/wiki/9mm_autoloader
+[23:25:17]SAY: mouse/ : Squeek?
+[23:25:23]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to mobster.
+[23:25:33]EMOTE: Jason Nud/IDeee : <B>Jason Nud</B> collapses!
+[23:25:33]ADMIN: BartNixon/(Moses Andreev) healed / Revived IDeee/(Jason Nud)
+[23:25:35]EMOTE: monkey (636)/ : <B>The monkey (636)</B> jumps!
+[23:25:43]EMOTE: monkey (699)/ : <B>The monkey (699)</B> jumps!
+[23:26:11]EMOTE: Santiago Cook/ : <B>Santiago Cook</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:26:22]ADMIN: BartNixon/(Moses Andreev) modified desert eagle's icon_state to colt6504
+[23:26:40]ADMIN: BartNixon/(Moses Andreev) jumped to the Brig
+[23:26:48]ADMIN: BartNixon/(Moses Andreev) jumped to 119,170,1 in the Brig
+[23:26:54]ADMIN: BartNixon/(Moses Andreev) jumped to 122,175,1 in the Security Office
+[23:27:00]SAY: mouse/ : SQUEEK!
+[23:27:03]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:27:03]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:27:04]ADMIN: Lydee/(Dakota Anderson) healed / revived Lydee/(Dakota Anderson)
+[23:27:24]ADMIN: IDeee/(Jason Nud) healed / Revived Lydee/(Dakota Anderson)
+[23:27:37]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to standard space gear.
+[23:27:45]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:27:45]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:27:52]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:52]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:56]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:56]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:56]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:56]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:57]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:57]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:57]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:57]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:58]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:58]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:58]SAY: mouse/ : SQUEEK!
+[23:27:58]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:58]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:58]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:58]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:59]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:59]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:27:59]ACCESS: Logout: *no key*/(Jason Nud)
+[23:27:59]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:28:00]ACCESS: Logout: *no key*/(Jason Nud)
+[23:28:00]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:28:00]ACCESS: Logout: *no key*/(Jason Nud)
+[23:28:00]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:28:02]ADMIN: Lydee/(Dakota Anderson) spawned /obj/mecha/combat/phazon at (93,74,1)
+[23:28:08]SAY: mouse/ : Squeek?
+[23:28:11]ADMIN: BartNixon/(Moses Andreev) jumped to the Escape Shuttle Hallway
+[23:28:14]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to space pirate.
+[23:28:18]ADMIN: BartNixon/(Moses Andreev) jumped to 189,137,1 in the Escape Shuttle Hallway
+[23:28:25]ADMIN: SubtlePM: Lydee/(Dakota Anderson) -> IDeee/(Jason Nud) : fds
+[23:28:39]ADMIN: BartNixon/(Moses Andreev) : Админ чат здес бирюзовый, как на Тау, на ТГ по дефолту он синий.
+[23:28:40]EMOTE: monkey (473)/ : <B>The monkey (473)</B> jumps!
+[23:28:40]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[23:28:44]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to centcom official.
+[23:29:05]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/energy/pulse_rifle/destroyer at (189,136,1)
+[23:29:11]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/energy/laser at (190,136,1)
+[23:29:19]SAY: mouse/ : Squeek?
+[23:29:24]ADMIN: BartNixon/(Moses Andreev) modified laser gun's icon to fweapons.dmi
+[23:29:31]EMOTE: monkey (73)/ : <B>The monkey (73)</B> jumps!
+[23:29:33]SAY: mouse/ : Squeek!
+[23:29:33]ADMIN: BartNixon/(Moses Andreev) modified laser gun's icon_state to AEP7
+[23:29:39]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to death commando.
+[23:29:47]ADMIN: BartNixon/(Moses Andreev) modified pulse destroyer's icon to fhweapons.dmi
+[23:30:00]ADMIN: BartNixon/(Moses Andreev) modified pulse destroyer's icon_state to AER9
+[23:30:19]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[23:30:23]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[23:30:30]SAY: grey baby slime (746)/ : Rawr...
+[23:30:38]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[23:30:44]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[23:30:55]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[23:31:49]ADMIN: BartNixon/(Moses Andreev) modified energy weapon lens's BB to /obj/item/projectile/neurotox
+[23:31:53]SAY: mouse/ : SQUEEK!
+[23:31:55]EMOTE: monkey (699)/ : <B>The monkey (699)</B> jumps!
+[23:32:25]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/energy/pulse_rifle/destroyer at (189,134,1)
+[23:32:29]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/energy/pulse_rifle/destroyer at (190,134,1)
+[23:32:48]ADMIN: BartNixon/(Moses Andreev) modified pulse destroyer's icon to fhweapons.dmi
+[23:32:55]ADMIN: BartNixon/(Moses Andreev) modified pulse destroyer's icon_state to AER9
+[23:33:08]ADMIN: BartNixon/(Moses Andreev) modified pulse destroyer's icon to fhweapons.dmi
+[23:33:09]SAY: mouse/ : SQUEEK!
+[23:33:11]EMOTE: monkey (185)/ : <B>The monkey (185)</B> jumps!
+[23:33:21]ADMIN: BartNixon/(Moses Andreev) modified pulse destroyer's icon_state to upr
+[23:33:30]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[23:33:48]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[23:33:52]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/grenadelauncher at (191,135,1)
+[23:33:59]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/grenadelauncher at (191,134,1)
+[23:34:00]SAY: mouse/ : SQUEEK!
+[23:34:06]EMOTE: monkey (699)/ : <B>The monkey (699)</B> jumps!
+[23:34:09]ADMIN: Lydee/(Dakota Anderson) spawned /obj/item/weapon/shield/energy at (192,131,1)
+[23:34:15]ADMIN: BartNixon/(Moses Andreev) mass modified grenade launcher's icon to fhweapons.dmi
+[23:34:29]ADMIN: BartNixon/(Moses Andreev) mass modified grenade launcher's icon_state to gren-rifle
+[23:34:35]ADMIN: BartNixon/(Moses Andreev) modified grenade launcher's icon_state to gren-launcher
+[23:35:00]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (189,132,1)
+[23:35:05]ADMIN: Lydee/(Dakota Anderson) spawned /obj/item/weapon/shield/energy at (192,132,1)
+[23:35:09]ADMIN: BartNixon/(Moses Andreev) modified C-20r SMG's icon to fhweapons.dmi
+[23:35:16]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[23:35:19]ADMIN: BartNixon/(Moses Andreev) modified C-20r SMG's icon_state to type93
+[23:35:24]EMOTE: monkey (73)/ : <B>The monkey (73)</B> jumps!
+[23:35:31]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/mini_uzi at (189,131,1)
+[23:35:40]ADMIN: BartNixon/(Moses Andreev) modified Uzi's icon to fhweapons.dmi
+[23:35:40]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/shield/energy at (192,128,1)
+[23:35:46]ADMIN: BartNixon/(Moses Andreev) modified Uzi's icon_state to sniper308
+[23:36:13]ACCESS: Logout: *no key*/(Jason Nud)
+[23:36:13]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:36:26]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/grenadelauncher at (189,130,1)
+[23:36:29]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[23:36:37]ADMIN: BartNixon/(Moses Andreev) modified grenade launcher's icon to fhweapons.dmi
+[23:36:47]ADMIN: BartNixon/(Moses Andreev) modified grenade launcher's icon_state to misile-launcher
+[23:36:48]EMOTE: monkey (185)/ : <B>The monkey (185)</B> jumps!
+[23:36:54]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:36:56]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:36:59]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:03]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/gyropistol at (191,132,1)
+[23:37:05]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:07]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:10]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:10]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (191,131,1)
+[23:37:12]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:13]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:16]EMOTE: monkey (636)/ : <B>The monkey (636)</B> jumps!
+[23:37:32]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:33]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:34]SAY: grey baby slime (746)/ : Blorble...
+[23:37:35]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:36]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:39]ADMIN: BartNixon/(Moses Andreev) modified gyrojet pistol's icon to fweapons.dmi
+[23:37:41]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:42]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:43]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:45]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:46]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:37:50]SAY: Pete/ : EHEHEHEHEH
+[23:37:56]SAY: grey baby slime (746)/ : Blop...
+[23:38:08]SAY: grey baby slime (746)/ : Rawr...
+[23:38:10]ADMIN: BartNixon/(Moses Andreev) modified gyrojet pistol's icon_state to n99
+[23:38:23]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:38:24]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:38:26]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:38:27]ADMIN: BartNixon/(Moses Andreev) modified Stechkin pistol's icon to fweapons.dmi
+[23:38:28]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:38:34]ADMIN: BartNixon/(Moses Andreev) modified Stechkin pistol's icon_state to colt6520
+[23:38:35]ACCESS: Logout: *no key*/(Jason Nud)
+[23:38:35]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:38:49]ADMIN: IDeee/(Jason Nud) deleted Nasir White at (176,127,1)
+[23:38:49]EMOTE: monkey (312)/ : <B>The monkey (312)</B> jumps!
+[23:38:49]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (191,130,1)
+[23:38:52]ADMIN: IDeee/(Jason Nud) deleted Jameson Newbern at (176,130,1)
+[23:38:54]ADMIN: IDeee/(Jason Nud) deleted Braxton Brown at (184,130,1)
+[23:38:59]ADMIN: IDeee/(Jason Nud) deleted Ellie Dryfus at (184,127,1)
+[23:39:19]ADMIN: BartNixon/(Moses Andreev) modified Stechkin pistol's icon to fweapons.dmi
+[23:39:20]ADMIN: BartNixon/(Moses Andreev) modified Stechkin pistol's icon_state to Magnum44-sc
+[23:39:27]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (191,129,1)
+[23:39:38]ADMIN: Lydee/(Dakota Anderson) deleted Chad Knapenberger at (182,130,1)
+[23:39:39]ADMIN: BartNixon/(Moses Andreev) modified Stechkin pistol's icon to fweapons.dmi
+[23:39:47]ADMIN: BartNixon/(Moses Andreev) modified Stechkin pistol's icon_state to Magnum44
+[23:39:50]ADMIN: IDeee/(Jason Nud) created a /obj/item/weapon/shield/energy
+[23:39:54]ADMIN: IDeee/(Jason Nud) created a /obj/item/weapon/shield/energy
+[23:40:03]SAY: mouse/ : Squeek!
+[23:40:06]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/gun/projectile/automatic/mini_uzi at (189,129,1)
+[23:40:17]ADMIN: BartNixon/(Moses Andreev) modified Uzi's icon to fweapons.dmi
+[23:40:19]ADMIN: BartNixon/(Moses Andreev) modified Uzi's icon_state to smg10mm
+[23:40:23]ADMIN: IDeee/(Jason Nud) created 11ea /obj/item/weapon/shield/energy
+[23:40:36]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/clothing/gloves/boxing/yellow at (188,131,1)
+[23:41:06]ADMIN: BartNixon/(Moses Andreev) modified boxing gloves's icon to fweapons.dmi
+[23:41:08]ADMIN: BartNixon/(Moses Andreev) modified boxing gloves's icon_state to claw
+[23:42:05]SAY: mouse/ : Squeek!
+[23:42:19]ADMIN: IDeee/(Jason Nud) created 11ea /obj/item/weapon/shield/energy
+[23:42:31]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[23:42:35]ADMIN: IDeee/(Jason Nud) has entered build mode.
+[23:42:38]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:38]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:38]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:39]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:39]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:39]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:40]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:40]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:40]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:40]ADMIN: Build Mode: IDeee/(Jason Nud) deleted the energy combat shield at (183,129,1)
+[23:42:42]ADMIN: IDeee/(Jason Nud) has left build mode.
+[23:43:03]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[23:43:05]SAY: mouse/ : Squeek?
+[23:43:07]SAY: grey baby slime (746)/ : Lonely...
+[23:43:28]ADMIN: BartNixon/(Moses Andreev) jumped to 180,126,1 in the Starboard Primary Hallway
+[23:43:43]SAY: mouse/ : Squeek!
+[23:43:48]ADMIN: BartNixon/(Moses Andreev) has entered build mode.
+[23:43:48]ADMIN: IDeee/(Jason Nud) deleted the electrode at (179,128,1)
+[23:43:48]SAY: mouse/ : Squeek!
+[23:43:54]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Corey Cox at the floor (185,129,1)
+[23:43:56]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Corey Cox at the floor (183,129,1)
+[23:44:00]ADMIN: IDeee/(Jason Nud) deleted the electrode at (184,129,1)
+[23:44:00]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Camden Welty at the floor (175,128,1)
+[23:44:00]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Camden Welty at the floor (176,128,1)
+[23:44:01]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Caleigh Zadovsky at the floor (175,129,1)
+[23:44:02]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Caleigh Zadovsky at the floor (176,129,1)
+[23:44:04]ACCESS: Logout: *no key*/(Jason Nud)
+[23:44:04]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:44:08]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Zachariah Davis at the floor (181,126,1)
+[23:44:09]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Zachariah Davis at the floor (181,127,1)
+[23:44:10]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Shane Franks at the floor (180,126,1)
+[23:44:10]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Shane Franks at the floor (180,127,1)
+[23:44:11]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Amiyah McShain at the floor (179,126,1)
+[23:44:11]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Amiyah McShain at the floor (179,127,1)
+[23:44:14]ADMIN: BartNixon/(Moses Andreev) has left build mode.
+[23:44:16]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:44:17]ADMIN: BartNixon/(Moses Andreev) jumped to 187,129,1 in the Escape Shuttle Hallway
+[23:44:18]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:44:21]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:44:22]ADMIN: IDeee/(Jason Nud) created a /mob/living/carbon/human
+[23:44:28]ACCESS: Logout: *no key*/(Jason Nud)
+[23:44:28]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:44:54]ADMIN: IDeee/(Jason Nud) created 2ea /obj/item/weapon/shield/energy
+[23:45:10]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[23:45:15]ADMIN: IDeee/(Jason Nud) created 2ea /obj/item/weapon/shield/energy
+[23:45:28]ADMIN: BartNixon/(Moses Andreev) spawned /obj/machinery/syndicatebomb at (188,128,1)
+[23:45:29]SAY: mouse/ : Squeek!
+[23:45:43]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/reagent_containers/spray/cleaner at (180,129,1)
+[23:46:16]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/device/sbeacondrop/bomb at (188,130,1)
+[23:46:29]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[23:46:30]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/bombcore/badmin at (186,130,1)
+[23:46:35]SAY: mouse/ : SQUEEK!
+[23:46:59]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[23:47:07]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[23:47:07]ADMIN: BartNixon/(Moses Andreev) jumped to the Syndicate Mothership
+[23:47:11]SAY: mouse/ : SQUEEK!
+[23:47:13]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:47:13]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:47:19]ADMIN: BartNixon/(Moses Andreev) teleported @BartNixon[DC]/(Moses Andreev)
+[23:47:20]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:47:20]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:47:23]ADMIN: IDeee/(Jason Nud) has entered build mode.
+[23:47:25]ADMIN: Lydee/(Dakota Anderson) spawned /obj/item/weapon/gun/energy/pulse_rifle/M1911 at (182,130,1)
+[23:47:41]ADMIN: IDeee/(Jason Nud) has left build mode.
+[23:47:46]ADMIN: IDeee/(Jason Nud) deleted the electrode at (184,128,1)
+[23:47:50]SAY: mouse/ : Squeek!
+[23:47:50]ADMIN: BartNixon/(Moses Andreev) jumped to the Chapel
+[23:47:54]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/gun/energy/pulse_rifle/M1911 at (185,128,1)
+[23:48:00]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/grenade/syndieminibomb at (182,132,1)
+[23:48:07]SAY: mouse/ : Squeek!
+[23:48:12]GAME: BartNixon/(Moses Andreev) has primed a syndicate minibomb for detonation at Chapel (187,133,1).
+[23:48:17]GAME: Explosion with size (1, 2, 4, 2) in area Chapel (182,134,1)
+[23:48:32]ADMIN: IDeee/(Jason Nud) deleted the laser at (180,128,1)
+[23:48:35]ADMIN: IDeee/(Jason Nud) deleted the laser at (179,128,1)
+[23:48:37]ADMIN: IDeee/(Jason Nud) deleted the laser at (178,128,1)
+[23:48:39]ADMIN: BartNixon/(Moses Andreev) has entered build mode.
+[23:48:39]ADMIN: Build Mode: BartNixon/(Moses Andreev) deleted the grille at (180,131,1)
+[23:48:40]ADMIN: IDeee/(Jason Nud) deleted the laser at (178,128,1)
+[23:48:41]ADMIN: Build Mode: BartNixon/(Moses Andreev) deleted the grille at (184,131,1)
+[23:48:41]ADMIN: Build Mode: BartNixon/(Moses Andreev) deleted the grille at (185,131,1)
+[23:48:43]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:43]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:44]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:44]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:44]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:44]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:44]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:45]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:45]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:45]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:46]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:46]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:46]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:46]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:46]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:47]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:47]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:47]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:47]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:48]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:48]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:48]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:48]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:49]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:49]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:49]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:49]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:49]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:48:50]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:48:50]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:48:50]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:48:51]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:51]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:53]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:53]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:54]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:54]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (180,131,1)
+[23:48:55]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:55]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:55]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:55]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (181,131,1)
+[23:48:56]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:56]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:56]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:56]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:57]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (182,131,1)
+[23:48:57]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:57]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:57]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:57]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:58]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (183,131,1)
+[23:48:58]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:58]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:58]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:59]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:59]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (184,131,1)
+[23:48:59]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:48:59]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:49:00]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:49:00]ADMIN: Build Mode: BartNixon/(Moses Andreev) built a window at (185,131,1)
+[23:49:00]ADMIN: IDeee/(Jason Nud) deleted the laser at (184,128,1)
+[23:49:02]ADMIN: BartNixon/(Moses Andreev) has left build mode.
+[23:49:03]ADMIN: IDeee/(Jason Nud) deleted the pulse at (184,128,1)
+[23:49:07]ADMIN: IDeee/(Jason Nud) deleted the pulse at (184,128,1)
+[23:49:10]ADMIN: IDeee/(Jason Nud) deleted the pulse at (184,128,1)
+[23:49:13]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:49:13]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:49:13]ADMIN: IDeee/(Jason Nud) deleted the pulse at (184,128,1)
+[23:49:18]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:49:18]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:49:26]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/grenade/syndieminibomb at (180,128,1)
+[23:49:30]ACCESS: Logout: *no key*/(Dakota Anderson)
+[23:49:30]ACCESS: Login: Lydee/(Dakota Anderson) from 7.13.58.115-224893347 || BYOND v506
+[23:49:42]GAME: BartNixon/(Moses Andreev) has primed a syndicate minibomb for detonation at Starboard Primary Hallway (180,128,1).
+[23:49:44]ACCESS: Logout: *no key*/(Moses Andreev)
+[23:49:44]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:49:47]GAME: Explosion with size (1, 2, 4, 2) in area Starboard Primary Hallway (180,128,1)
+[23:49:53]EMOTE: Zachariah Davis/ : <B>Zachariah Davis</B> gasps!
+[23:49:53]EMOTE: Amelia Leichter/ : <B>Amelia Leichter</B> gasps!
+[23:49:54]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:49:58]EMOTE: Zachariah Davis/ : <B>Zachariah Davis</B> gasps!
+[23:50:02]EMOTE: monkey (636)/ : <B>The monkey (636)</B> jumps!
+[23:50:02]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:50:02]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:50:02]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:50:04]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:50:04]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:50:04]EMOTE: Amelia Leichter/ : <B>Amelia Leichter</B> gasps!
+[23:50:08]EMOTE: Amiyah McShain/ : <B>Amiyah McShain</B> gasps!
+[23:50:10]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:50:10]EMOTE: Karyn Cowart/ : <B>Karyn Cowart</B> gasps!
+[23:50:12]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:12]EMOTE: Karyn Cowart/ : <B>Karyn Cowart</B> gasps!
+[23:50:13]ADMIN: BartNixon/(Moses Andreev) has entered build mode.
+[23:50:14]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:14]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:50:14]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:50:14]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:50:14]ADMIN: Build Mode: BartNixon/(Moses Andreev) modified the closet's (0,0,0) dir to 1
+[23:50:16]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:50:16]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:50:16]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Pedro Hall at the floor (182,127,1)
+[23:50:17]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Pedro Hall at Zachariah Davis (182,127,1)
+[23:50:18]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:18]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:50:20]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:50:20]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:20]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Pedro Hall at the gibs (180,128,1)
+[23:50:22]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Pedro Hall at the gibs (180,128,1)
+[23:50:22]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:50:22]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:50:22]EMOTE: Max Welty/ : <B>Max Welty</B> gasps!
+[23:50:22]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:50:23]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Pedro Hall at space (180,128,1)
+[23:50:24]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:26]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:50:26]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karenza Christman at the gibs (180,128,1)
+[23:50:28]EMOTE: Zachariah Davis/ : <B>Zachariah Davis</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:50:28]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:50:28]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:50:28]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:50:28]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:50:30]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karenza Christman at the gibs (180,128,1)
+[23:50:30]EMOTE: Amiyah McShain/ : <B>Amiyah McShain</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:50:30]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:30]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:50:30]EMOTE: Lawrence Weinstein/ : <B>Lawrence Weinstein</B> gasps!
+[23:50:30]EMOTE: Karenza Christman/ : <B>Karenza Christman</B> gasps!
+[23:50:30]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:50:30]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:32]EMOTE: Shane Franks/ : <B>Shane Franks</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:50:32]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:32]EMOTE: Lawrence Weinstein/ : <B>Lawrence Weinstein</B> gasps!
+[23:50:32]EMOTE: Karyn Cowart/ : <B>Karyn Cowart</B> gasps!
+[23:50:32]EMOTE: Camden Welty/ : <B>Camden Welty</B> gasps!
+[23:50:34]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:34]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:50:34]EMOTE: Max Welty/ : <B>Max Welty</B> gasps!
+[23:50:34]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:50:34]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:34]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:50:36]EMOTE: Lawrence Weinstein/ : <B>Lawrence Weinstein</B> gasps!
+[23:50:36]EMOTE: Camden Welty/ : <B>Camden Welty</B> gasps!
+[23:50:38]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:38]EMOTE: Caleigh Zadovsky/ : <B>Caleigh Zadovsky</B> gasps!
+[23:50:38]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:50:39]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Rachael Jerome at the floor (179,127,1)
+[23:50:40]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:40]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:50:40]EMOTE: Lesly Stroble/ : <B>Lesly Stroble</B> gasps!
+[23:50:40]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:50:42]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[23:50:42]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:50:42]EMOTE: Amelia Leichter/ : <B>Amelia Leichter</B> gasps!
+[23:50:43]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karyn Cowart at Zachariah Davis (179,127,1)
+[23:50:44]EMOTE: Karenza Christman/ : <B>Karenza Christman</B> gasps!
+[23:50:44]EMOTE: Amelia Leichter/ : <B>Amelia Leichter</B> gasps!
+[23:50:44]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:45]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Amiyah McShain at Shane Franks (179,127,1)
+[23:50:46]SAY: mouse/ : Squeek!
+[23:50:46]EMOTE: Lawrence Weinstein/ : <B>Lawrence Weinstein</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:50:46]EMOTE: Max Welty/ : <B>Max Welty</B> gasps!
+[23:50:46]EMOTE: Corey Cox/ : <B>Corey Cox</B> gasps!
+[23:50:46]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:50:47]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Shane Franks at the floor (182,127,1)
+[23:50:48]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:48]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:50:48]EMOTE: Lesly Stroble/ : <B>Lesly Stroble</B> gasps!
+[23:50:49]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Lawrence Weinstein at Karyn Cowart (182,127,1)
+[23:50:50]EMOTE: Karenza Christman/ : <B>Karenza Christman</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:50:50]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:50:50]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:51]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Grant Gibson at the floor (182,128,1)
+[23:50:52]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Grant Gibson at the floor (182,127,1)
+[23:50:52]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:50:52]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:54]EMOTE: monkey (757)/ : <B>The monkey (757)</B> jumps!
+[23:50:54]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:50:54]EMOTE: Corey Cox/ : <B>Corey Cox</B> gasps!
+[23:50:54]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:50:56]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:50:56]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Grant Gibson at space (180,127,1)
+[23:50:58]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:50:58]EMOTE: Caleigh Zadovsky/ : <B>Caleigh Zadovsky</B> gasps!
+[23:50:58]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:50:58]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:50:58]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:50:58]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Lawrence Weinstein at the gibs (179,128,1)
+[23:51:00]EMOTE: Caleigh Zadovsky/ : <B>Caleigh Zadovsky</B> gasps!
+[23:51:00]EMOTE: Corey Cox/ : <B>Corey Cox</B> gasps!
+[23:51:00]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:00]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Zachariah Davis at the floor (182,127,1)
+[23:51:02]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:51:03]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karyn Cowart at the floor (182,127,1)
+[23:51:04]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:51:04]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Zachariah Davis at the floor (179,128,1)
+[23:51:05]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Grant Gibson at Karyn Cowart (182,127,1)
+[23:51:06]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> gasps!
+[23:51:06]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:51:06]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:51:06]EMOTE: Lesly Stroble/ : <B>Lesly Stroble</B> gasps!
+[23:51:06]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:08]SAY: mouse/ : Squeek?
+[23:51:08]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:51:08]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:51:08]EMOTE: Amelia Leichter/ : <B>Amelia Leichter</B> gasps!
+[23:51:08]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:51:09]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Shane Franks at Lawrence Weinstein (179,128,1)
+[23:51:10]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:51:10]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:51:12]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karyn Cowart at the floor (182,127,1)
+[23:51:12]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> gasps!
+[23:51:12]EMOTE: Camden Welty/ : <B>Camden Welty</B> gasps!
+[23:51:12]EMOTE: Caleigh Zadovsky/ : <B>Caleigh Zadovsky</B> gasps!
+[23:51:12]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:51:12]EMOTE: Max Welty/ : <B>Max Welty</B> gasps!
+[23:51:12]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> gasps!
+[23:51:13]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Grant Gibson at the floor (182,127,1)
+[23:51:14]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:14]GAME: IDeee/(Jason Nud) has primed a syndicate bomb (the bomb payload) for detonation at Starboard Primary Hallway(180,128,1)
+[23:51:15]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw the blood at Grant Gibson (182,127,1)
+[23:51:16]SAY: grey baby slime (172)/ : Lonely...
+[23:51:16]EMOTE: Pedro Hall/ : <B>Pedro Hall</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:16]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:51:16]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:16]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karyn Cowart at the floor (182,127,1)
+[23:51:17]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Grant Gibson at the floor (182,127,1)
+[23:51:18]EMOTE: Corey Cox/ : <B>Corey Cox</B> gasps!
+[23:51:18]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Rachael Jerome at Grant Gibson (182,127,1)
+[23:51:19]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karyn Cowart at Rachael Jerome (182,127,1)
+[23:51:20]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:51:20]EMOTE: Caleigh Zadovsky/ : <B>Caleigh Zadovsky</B> gasps!
+[23:51:20]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:51:20]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:20]ADMIN: Build Mode: BartNixon/(Moses Andreev) threw Karyn Cowart at the floor (183,127,1)
+[23:51:22]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> gasps!
+[23:51:22]EMOTE: Max Welty/ : <B>Max Welty</B> gasps!
+[23:51:23]EMOTE: Rachael Jerome/ : <B>Rachael Jerome</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:51:23]EMOTE: Corey Cox/ : <B>Corey Cox</B> gasps!
+[23:51:23]EMOTE: Lesly Stroble/ : <B>Lesly Stroble</B> gasps!
+[23:51:25]ADMIN: BartNixon/(Moses Andreev) has left build mode.
+[23:51:26]EMOTE: Camden Welty/ : <B>Camden Welty</B> gasps!
+[23:51:26]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:28]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> gasps!
+[23:51:28]EMOTE: Max Welty/ : <B>Max Welty</B> gasps!
+[23:51:28]EMOTE: Amelia Leichter/ : <B>Amelia Leichter</B> gasps!
+[23:51:28]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> gasps!
+[23:51:28]ADMIN: IDeee/(Jason Nud) modified syndicate bomb's timer to 1
+[23:51:29]EMOTE: Camden Welty/ : <B>Camden Welty</B> gasps!
+[23:51:30]GAME: The syndicate bomb that IDeee/(Jason Nud) had primed detonated!
+[23:51:30]GAME: Explosion with size (2, 5, 11, 11) in area Starboard Primary Hallway (180,128,1)
+[23:51:32]EMOTE: Jason Nud/IDeee : <B>Jason Nud</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:32]EMOTE: Karyn Cowart/ : <B>Karyn Cowart</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:51:32]EMOTE: Camden Welty/ : <B>Camden Welty</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:32]EMOTE: Caleigh Zadovsky/ : <B>Caleigh Zadovsky</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:51:32]EMOTE: Mekhi Draudy/ : <B>Mekhi Draudy</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:32]EMOTE: Max Welty/ : <B>Max Welty</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:32]EMOTE: Bryce Baskett/ : <B>Bryce Baskett</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:32]EMOTE: Amelia Leichter/ : <B>Amelia Leichter</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:51:32]EMOTE: Grandpa Mcmullen/ : <B>Grandpa Mcmullen</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:32]EMOTE: Corey Cox/ : <B>Corey Cox</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:32]EMOTE: Meryl Rifler/ : <B>Meryl Rifler</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:51:32]EMOTE: Lesly Stroble/ : <B>Lesly Stroble</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:51:32]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:34]EMOTE: Cole Watson/ : <B>Cole Watson</B> gasps!
+[23:51:36]EMOTE: Cole Watson/ : <B>Cole Watson</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:36]ACCESS: Logout: *no key*/(Jason Nud)
+[23:51:36]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:51:38]SAY: grey baby slime (746)/ : I want to eat...
+[23:51:38]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[23:51:48]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:54]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> gasps!
+[23:51:55]ACCESS: Logout: *no key*/(Jason Nud)
+[23:51:55]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:52:00]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[23:52:02]EMOTE: Sabrina Hastings/ : <B>Sabrina Hastings</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:52:26]ADMIN: BartNixon/(Moses Andreev) teleported IDeee/(Jason Nud)
+[23:52:29]ADMIN: BartNixon/(Moses Andreev) teleported Lydee/(Dakota Anderson)
+[23:52:38]ADMIN: BartNixon/(Moses Andreev) spawned /obj/machinery/syndicatebomb/badmin/clown at (136,137,1)
+[23:52:44]ADMIN: Lydee/(Dakota Anderson) has used rudimentary transformation on Lydee/(Dakota Anderson). Transforming to human; deletemob=1
+[23:52:44]ACCESS: Logout: *no key*/(Dakota Anderson)
+[23:52:44]ACCESS: Login: Lydee/(Dakota Anderson) from 7.13.58.115-224893347 || BYOND v506
+[23:52:45]ADMIN: BartNixon/(Moses Andreev) modified clown bomb's timer to 1
+[23:52:47]EMOTE: monkey (185)/ : <B>The monkey (185)</B> jumps!
+[23:52:49]EMOTE: monkey (636)/ : <B>The monkey (636)</B> jumps!
+[23:52:53]SAY: mouse/ : Squeek?
+[23:53:00]ADMIN: Lydee/(Dakota Anderson) changed the equipment of *no key*/(Grant Gibson) to death commando.
+[23:53:01]ADMIN: BartNixon/(Moses Andreev) modified clown bomb's active to 1
+[23:53:03]ACCESS: Logout: *no key*/(Dakota Anderson)
+[23:53:03]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[23:53:09]SAY: mouse/ : SQUEEK!
+[23:53:10]ADMIN: BartNixon/(Moses Andreev) modified clown bomb's timer to 10
+[23:53:17]SAY: mouse/ : Squeek!
+[23:53:23]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[23:53:25]EMOTE: monkey (636)/ : <B>The monkey (636)</B> jumps!
+[23:53:31]SAY: Clown/ : HONK
+[23:53:55]SAY: Clown/ : HONK
+[23:53:55]SAY: Clown/ : Welcome to clown planet!
+[23:53:57]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/gun/projectile/automatic/l6_saw at (136,132,1)
+[23:53:59]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:54:03]SAY: Clown/ : HONK
+[23:54:05]SAY: Clown/ : HONK
+[23:54:05]SAY: Clown/ : Welcome to clown planet!
+[23:54:05]SAY: Clown/ : Welcome to clown planet!
+[23:54:07]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:54:09]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[23:54:09]SAY: Clown/ : Welcome to clown planet!
+[23:54:09]SAY: Clown/ : Honk!
+[23:54:15]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:54:23]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:54:23]ADMIN: BartNixon/(Moses Andreev) mass modified Clown's faction to cult
+[23:54:31]SAY: Clown/ : Honk!
+[23:54:31]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:54:33]SAY: mouse/ : Squeek!
+[23:54:33]SAY: Clown/ : Honk!
+[23:54:33]ADMIN: Lydee/(Grant Gibson) healed / revived Lydee/(Grant Gibson)
+[23:54:39]SAY: Clown/ : Welcome to clown planet!
+[23:54:39]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:54:39]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb/badmin at (134,132,1)
+[23:54:41]SAY: Clown/ : Honk!
+[23:54:43]ADMIN: IDeee/(Jason Nud) spawned /obj/item/ammo_box/magazine/m762 at (136,132,1)
+[23:54:45]ADMIN: BartNixon/(Moses Andreev) modified Clown's faction to russian
+[23:54:45]SAY: Clown/ : HONK
+[23:54:47]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:54:48]GAME: Lydee/(Grant Gibson) has primed a generic summoning badmin bomb (the badmin payload) for detonation at Bar(134,132,1)
+[23:54:49]SAY: Clown/ : Honk!
+[23:54:55]SAY: Clown/ : HONK
+[23:54:57]SAY: Clown/ : Welcome to clown planet!
+[23:55:00]SAY: Clown/ : Honk!
+[23:55:02]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[23:55:05]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[23:55:13]SAY: Clown/ : Welcome to clown planet!
+[23:55:15]SAY: Pete/ : eh?
+[23:55:20]ADMIN: BartNixon/(Moses Andreev) modified generic summoning badmin bomb's timer to 3
+[23:55:21]ADMIN: IDeee/(Jason Nud) modified generic summoning badmin bomb's timer to 1
+[23:55:21]ADMIN: Lydee/(Grant Gibson) modified generic summoning badmin bomb's timer to 2
+[23:55:30]SAY: Clown/ : HONK
+[23:55:32]SAY: Clown/ : HONK
+[23:55:34]SAY: mouse/ : Squeek!
+[23:55:38]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb at (134,132,1)
+[23:55:41]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[23:55:41]GAME: Lydee/(Grant Gibson) has primed a syndicate bomb (the bomb payload) for detonation at Bar(134,132,1)
+[23:55:42]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/grenade/chem_grenade/incendiary at (137,135,1)
+[23:55:53]ADMIN: BartNixon/(Moses Andreev) modified incendiary grenade casing's active to 1
+[23:55:54]ADMIN: IDeee/(Jason Nud) modified syndicate bomb's timer to 1
+[23:55:55]GAME: The syndicate bomb that Lydee/(Grant Gibson) had primed detonated!
+[23:55:55]GAME: Explosion with size (2, 5, 11, 11) in area Bar (134,132,1)
+[23:55:57]ADMIN: Lydee/(Grant Gibson) modified syndicate bomb's timer to 1
+[23:55:58]ACCESS: Logout: *no key*/(Grant Gibson)
+[23:55:58]ACCESS: Login: Lydee/(Dakota Anderson) from 7.13.58.115-224893347 || BYOND v506
+[23:56:00]ADMIN: BartNixon/(Moses Andreev) modified incendiary grenade casing's det_time to 1
+[23:56:10]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[23:56:15]GAME: Explosion with size (2, 3, 4, 0) in area Bar (135,131,1)
+[23:56:17]ACCESS: Logout: *no key*/(Jason Nud)
+[23:56:17]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[23:56:23]GAME: Explosion with size (2, 3, 4, 0) in area Starboard Primary Hallway (135,130,1)
+[23:56:28]SAY: Clown/ : HONK
+[23:56:32]SAY: grey baby slime (172)/ : Where is the food?
+[23:56:34]ADMIN: IDeee/(Jason Nud) has entered build mode.
+[23:56:35]ADMIN: IDeee/(Jason Nud) has left build mode.
+[23:56:37]ADMIN: IDeee/(Jason Nud) has entered build mode.
+[23:56:38]ADMIN: Build Mode: IDeee/(Jason Nud) modified the closet's (0,0,0) dir to 1
+[23:56:40]ADMIN: Build Mode: IDeee/(Jason Nud) modified the closet's (0,0,0) dir to 1
+[23:56:42]GAME: Explosion with size (3, 5, 7, 0) in area Starboard Primary Hallway (133,128,1)
+[23:56:46]SAY: mouse/ : SQUEEK!
+[23:56:54]GAME: Explosion with size (3, 5, 7, 0) in area Bar (138,133,1)
+[23:57:04]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/reagent_containers/food/snacks/meat/human at (190,140,1)
+[23:57:11]GAME: Explosion with size (3, 7, 14, 0) in area Bar (137,132,1)
+[23:57:12]ADMIN: IDeee/(Jason Nud) spawned /mob/living/carbon/human at (190,139,1)
+[23:57:14]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at the wall (190,142,1)
+[23:57:14]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:15]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:15]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:15]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:15]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:15]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:15]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:15]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:16]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:16]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:16]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:16]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:16]EMOTE: Claudia Shaw/ : <B>Claudia Shaw</B> seizes up and falls limp, her eyes dead and lifeless...
+[23:57:16]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:16]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:16]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:17]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:17]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:17]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:17]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:17]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:17]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:17]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:18]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:18]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:18]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:18]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:18]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:18]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (191,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (190,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (190,143,1)
+[23:57:19]ADMIN: Build Mode: IDeee/(Jason Nud) threw Claudia Shaw at space (190,143,1)
+[23:57:20]ADMIN: IDeee/(Jason Nud) has left build mode.
+[23:57:26]GAME: Explosion with size (3, 5, 7, 0) in area Bar (137,132,1)
+[23:57:35]GAME: Explosion with size (3, 7, 14, 0) in area Bar (132,131,1)
+[23:57:37]GAME: Emitter lost power in (104,57,1)
+[23:57:37]GAME: Emitter lost power in (122,57,1)
+[23:57:37]GAME: Emitter lost power in (122,65,1)
+[23:57:44]SAY: grey baby slime (746)/ : Where is the food?
+[23:57:45]GAME: Explosion with size (3, 7, 14, 0) in area Bar (137,132,1)
+[23:57:54]ADMIN: Lydee/(Dakota Anderson) changed the bomb cap to 4, 8, 16
+[23:57:54]ADMIN: Lydee/(Dakota Anderson) used secret togglebombcap
+[23:57:55]ADMIN: Lydee/(Dakota Anderson) changed the bomb cap to 5, 10, 20
+[23:57:55]ADMIN: Lydee/(Dakota Anderson) used secret togglebombcap
+[23:57:56]ADMIN: Lydee/(Dakota Anderson) changed the bomb cap to 7, 14, 28
+[23:57:56]ADMIN: Lydee/(Dakota Anderson) used secret togglebombcap
+[23:57:57]ADMIN: Lydee/(Dakota Anderson) changed the bomb cap to 14, 28, 56
+[23:57:57]ADMIN: Lydee/(Dakota Anderson) used secret togglebombcap
+[23:57:58]GAME: Explosion with size (14, 28, 56, 0) in area Bar (139,131,1)
+[23:58:12]ADMIN: Lydee/(Dakota Anderson) changed the bomb cap to 32, 64, 128
+[23:58:12]ADMIN: Lydee/(Dakota Anderson) used secret togglebombcap
+[23:58:12]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (148,92,1)
+[23:58:12]GAME: Explosion with size (-1, 0, 2, 2) in area Atmospherics (128,94,1)
+[23:58:12]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (124,104,1)
+[23:58:14]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (164,111,1)
+[23:58:16]ADMIN: Lydee/(Dakota Anderson) changed the bomb cap to 3, 7, 14
+[23:58:16]ADMIN: Lydee/(Dakota Anderson) used secret togglebombcap
+[23:58:20]GAME: Explosion with size (-1, 0, 2, 2) in area Mech Bay (167,118,1)
+[23:58:26]ADMIN: Lydee/(Dakota Anderson) changed the bomb cap to 4, 8, 16
+[23:58:26]ADMIN: Lydee/(Dakota Anderson) used secret togglebombcap
+[23:58:53]GAME: Explosion with size (4, 8, 16, 0) in area Bar (139,131,1)
+[23:59:00]GAME: SMES deleted at (Fore Starboard Solar Maintenance)
+[23:59:02]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room Maintenance (86,134,1)
+[23:59:02]GAME: Explosion with size (-1, 0, 2, 2) in area Auxiliary Tool Storage (91,134,1)
+[23:59:02]GAME: Explosion with size (2, 5, 11, 11) in area Escape Shuttle Hallway (188,135,1)
+[23:59:08]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Storage (105,145,1)
+[23:59:10]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Maintenance (97,146,1)
+[23:59:17]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (154,148,1)
+[23:59:18]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (182,149,1)
+[23:59:24]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (165,154,1)
+[23:59:27]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (159,156,1)
+[23:59:32]GAME: Explosion with size (-1, 0, 2, 2) in area Dormitory Maintenance (129,161,1)
+[23:59:55]ADMIN: BartNixon/(Moses Andreev) changed their view range to 128.
+[23:59:55]ADMIN: Lydee/(Dakota Anderson) changed their view range to 14.
+[23:59:55]ADMIN: IDeee/(Jason Nud) changed their view range to 128.
+[23:59:56]GAME: Emitter lost power in (104,57,1)
+[23:59:56]GAME: Emitter lost power in (122,57,1)
+[23:59:56]GAME: Emitter lost power in (104,65,1)
+[23:59:56]GAME: Emitter lost power in (122,65,1)
+[00:00:00]EMOTE: monkey (73)/ : <B>The monkey (73)</B> gasps!
+[00:00:08]EMOTE: monkey (458)/ : <B>The monkey (458)</B> gasps!
+[00:00:08]EMOTE: monkey (636)/ : <B>The monkey (636)</B> gasps!
+[00:00:14]ADMIN: Lydee/(Dakota Anderson) changed their view range to 7.
+[00:00:14]SAY: mouse/ : Squeek!
+[00:00:16]EMOTE: monkey (458)/ : <B>The monkey (458)</B> gasps!
+[00:00:16]EMOTE: monkey (699)/ : <B>The monkey (699)</B> gasps!
+[00:00:16]EMOTE: monkey (720)/ : <B>The monkey (720)</B> gasps!
+[00:00:25]EMOTE: monkey (458)/ : <B>The monkey (458)</B> gasps!
+[00:00:25]EMOTE: monkey (720)/ : <B>The monkey (720)</B> gasps!
+[00:00:33]EMOTE: monkey (185)/ : <B>The monkey (185)</B> gasps!
+[00:00:33]EMOTE: monkey (458)/ : <B>The monkey (458)</B> gasps!
+[00:00:33]EMOTE: monkey (720)/ : <B>The monkey (720)</B> gasps!
+[00:00:38]ADMIN: IDeee/(Jason Nud) changed their view range to 7.
+[00:00:43]EMOTE: monkey (185)/ : <B>The monkey (185)</B> gasps!
+[00:00:43]EMOTE: monkey (720)/ : <B>The monkey (720)</B> gasps!
+[00:00:50]ADMIN: BartNixon/(Moses Andreev) changed their view range to 7.
+[00:00:52]EMOTE: monkey (185)/ : <B>The monkey (185)</B> gasps!
+[00:00:52]EMOTE: monkey (720)/ : <B>The monkey (720)</B> gasps!
+[00:01:01]EMOTE: monkey (185)/ : <B>The monkey (185)</B> gasps!
+[00:01:09]EMOTE: monkey (185)/ : <B>The monkey (185)</B> gasps!
+[00:01:09]EMOTE: monkey (636)/ : <B>The monkey (636)</B> gasps!
+[00:01:22]SAY: mouse/ : SQUEEK!
+[00:01:24]ADMIN: BartNixon/(Moses Andreev) changed their view range to 128.
+[00:01:53]EMOTE: monkey (312)/ : <B>The monkey (312)</B> jumps!
+[00:02:04]SAY: grey baby slime (172)/ : Blop...
+[00:02:19]ADMIN: BartNixon/(Moses Andreev) changed their view range to 7.
+[00:02:29]SAY: grey baby slime (746)/ : I want to eat...
+[00:02:49]ADMIN: BartNixon/(Moses Andreev) played sound sound/radio/newvegasshow1.ogg
+[00:03:20]SAY: mouse/ : SQUEEK!
+[00:04:04]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[00:04:19]SAY: mouse/ : Squeek!
+[00:04:33]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[00:04:39]SAY: mouse/ : SQUEEK!
+[00:05:02]SAY: mouse/ : Squeek!
+[00:05:12]SAY: mouse/ : Squeek!
+[00:05:19]ADMIN: BartNixon/(Moses Andreev) has used rudimentary transformation on BartNixon/(Moses Andreev). Transforming to human; deletemob=1
+[00:05:19]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:05:19]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:05:22]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:05:22]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:05:24]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:05:32]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/clothing/mask/cigarette/cigar/havana at (54,133,1)
+[00:05:44]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/melee/energy/sword/green at (55,132,1)
+[00:06:04]ADMIN: BartNixon/(Moses Andreev) has entered build mode.
+[00:06:06]ADMIN: Build Mode: BartNixon/(Moses Andreev) deleted the lit premium Havanian cigar at (56,134,1)
+[00:06:07]ADMIN: BartNixon/(Moses Andreev) has left build mode.
+[00:06:14]ADMIN: BartNixon/(Moses Andreev) teleported Lydee/(Dakota Anderson)
+[00:06:25]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/clothing/mask/cigarette/cigar/havana at (55,133,1)
+[00:06:32]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:06:32]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:06:34]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:06:34]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:07:37]SAY: mouse/ : Squeek?
+[00:07:41]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:07:41]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:08:27]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:08:27]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:08:38]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:08:38]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:08:42]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:08:42]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:08:58]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:08:58]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:09:45]SAY: mouse/ : Squeek?
+[00:10:00]ADMIN: BartNixon/(Moses Andreev) has used rudimentary transformation on BartNixon/(Moses Andreev). Transforming to human; deletemob=1
+[00:10:00]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:10:00]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:10:03]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:10:03]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:10:10]EMOTE: monkey (473)/ : <B>The monkey (473)</B> jumps!
+[00:10:15]ADMIN: BartNixon/(Moses Andreev) deleted the space carp at (80,109,1)
+[00:10:27]ADMIN: BartNixon/(Moses Andreev) changed the equipment of BartNixon/(Moses Andreev) to Station Engineer.
+[00:10:29]ADMIN: Lydee/(Dakota Anderson) jumped to BartNixon/(Moses Andreev)
+[00:10:43]SAY: mouse/ : SQUEEK!
+[00:10:57]SAY: grey baby slime (746)/ : I want to eat...
+[00:12:24]SAY: mouse/ : Squeek!
+[00:12:36]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:13:26]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:13:36]ADMIN: BartNixon/(Moses Andreev) spawned /obj/item/weapon/card/emag at (80,113,1)
+[00:13:42]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:13:42]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:00]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:00]EMOTE: monkey (781)/ : <B>The monkey (781)</B> gasps!
+[00:14:04]EMOTE: monkey (781)/ : <B>The monkey (781)</B> gasps!
+[00:14:08]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:14:08]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:08]EMOTE: monkey (781)/ : <B>The monkey (781)</B> gasps!
+[00:14:16]EMOTE: monkey (781)/ : <B>The monkey (781)</B> gasps!
+[00:14:25]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:14:25]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:27]ADMIN: BartNixon/(Moses Andreev) modified Quartermaster APC's icon_state to apc-b
+[00:14:33]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:33]EMOTE: monkey (781)/ : <B>The monkey (781)</B> gasps!
+[00:14:41]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:49]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:14:49]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:55]EMOTE: monkey (757)/ : <B>The monkey (757)</B> jumps!
+[00:14:58]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:14:58]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:58]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:14:58]EMOTE: monkey (781)/ : <B>The monkey (781)</B> gasps!
+[00:15:05]ADMIN: BartNixon/(Moses Andreev) modified Quartermaster APC's icon_state to apc-spark
+[00:15:06]EMOTE: monkey (554)/ : <B>The monkey (554)</B> jumps!
+[00:15:06]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:15:06]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:15:12]ADMIN: BartNixon/(Moses Andreev) modified Quartermaster APC's icon_state to apc1
+[00:15:14]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:15:14]EMOTE: monkey (473)/ : <B>The monkey (473)</B> gasps!
+[00:15:17]ADMIN: BartNixon/(Moses Andreev) modified Quartermaster APC's icon_state to apc0
+[00:15:23]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:15:29]SAY: mouse/ : Squeek?
+[00:15:31]EMOTE: monkey (205)/ : <B>The monkey (205)</B> gasps!
+[00:15:42]ADMIN: BartNixon/(Moses Andreev) jumped to 82,115,1 in the Cargo Bay
+[00:16:10]ACCESS: Logout: *no key*/(Moses Andreev)
+[00:16:10]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[00:16:22]EMOTE: monkey (757)/ : <B>The monkey (757)</B> jumps!
+[00:16:22]EMOTE: Moses Andreev/@BartNixon : <B>Moses Andreev</B> snores.
+[00:16:28]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:16:34]ADMIN: BartNixon/(Moses Andreev) teleported Lydee/(Dakota Anderson)
+[00:16:45]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:16:53]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:17:01]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:17:09]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:17:16]SAY: grey baby slime (172)/ : I want to eat...
+[00:17:26]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:17:35]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:17:43]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:17:51]EMOTE: monkey (312)/ : <B>The monkey (312)</B> gasps!
+[00:18:06]SAY: grey baby slime (746)/ : Hungry...
+[00:18:27]SAY: mouse/ : SQUEEK!
+[00:18:33]SAY: mouse/ : Squeek?
+[00:20:30]ACCESS: Logout: Lydee[DC]/(Dakota Anderson)
+[00:20:35]ACCESS: Logout: BartNixon[DC]/(Moses Andreev)
+[00:20:35]ACCESS: Logout: IDeee[DC]/(Jason Nud)

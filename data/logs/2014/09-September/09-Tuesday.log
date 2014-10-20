@@ -1,0 +1,264 @@
+
+
+Starting up. 09:51.37
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[09:51:37]ADMIN: Loading Banlistjob
+[09:51:37]ADMIN: Banlistjob is empty.
+[09:51:37]ADMIN: Banlistjob missing base dir.
+[09:51:37]ADMIN: Loading jobban_rank
+[09:51:37]ADMIN: jobban_keylist was empty
+[09:51:37]ADMIN: Loading appearance_rank
+[09:51:37]ADMIN: appearance_keylist was empty
+[09:51:37]ADMIN: Updating jobbanfile!
+[09:51:37]ADMIN: Loading Banlist
+[09:51:37]ADMIN: Banlist is empty.
+[09:51:37]ADMIN: Banlist missing base dir.
+[09:53:12]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[09:55:34]SAY: Ian/ : YAP
+[09:55:42]SAY: mouse/ : SQUEEK!
+[09:56:17]SAY: mouse/ : Squeek?
+[09:56:34]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[09:56:36]SAY: mouse/ : Squeek?
+[09:56:56]SAY: grey baby slime (668)/ : Lonely...
+[09:57:27]SAY: Ian/ : AUUUUUU
+[09:57:51]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[09:58:43]EMOTE: monkey (147)/ : <B>The monkey (147)</B> jumps!
+[09:58:54]SAY: Poly/ : Wire the solars, you lazy bums!
+[09:59:04]EMOTE: monkey (183)/ : <B>The monkey (183)</B> jumps!
+[09:59:12]EMOTE: monkey (147)/ : <B>The monkey (147)</B> jumps!
+[09:59:37]SAY: mouse/ : Squeek!
+[09:59:45]EMOTE: monkey (565)/ : <B>The monkey (565)</B> jumps!
+[10:00:06]EMOTE: monkey (183)/ : <B>The monkey (183)</B> jumps!
+[10:00:53]SAY: grey baby slime (174)/ : Lonely...
+[10:00:53]SAY: Pete/ : eh?
+[10:01:27]SAY: mouse/ : Squeek!
+[10:01:31]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 11:00.35
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[11:00:35]ADMIN: Loading Banlistjob
+[11:00:35]ADMIN: Loading jobban_rank
+[11:00:35]ADMIN: jobban_keylist was empty
+[11:00:35]ADMIN: Loading appearance_rank
+[11:00:35]ADMIN: appearance_keylist was empty
+[11:00:35]ADMIN: Updating jobbanfile!
+[11:00:35]ADMIN: Loading Banlist
+[11:01:37]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[11:02:51]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 1
+[11:02:53]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 2
+[11:02:56]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon_state to 3
+[11:03:44]ADMIN: Announce: BartNixon/(BartNixon) : Let's have fun!
+[11:03:50]SAY: Pete/ : eh?
+[11:04:08]EMOTE: monkey (570)/ : <B>The monkey (570)</B> jumps!
+[11:04:42]ADMIN: BartNixon/(BartNixon) set the admin notice:
+Wasteland survival in progress!
+[11:05:30]ACCESS: Logout: *no key*/(BartNixon)
+[11:05:30]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[11:05:56]ADMIN: BartNixon/(Moses Andreev) played sound sound/radio/newvegasshow7.ogg
+[11:06:51]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[11:06:56]SAY: mouse/ : Squeek!
+[11:07:26]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[11:07:45]SAY: Tom/ : Squeek?
+[11:08:20]SAY: Ian/ : Bark!
+[11:09:03]SAY: mouse/ : Squeek?
+[11:09:44]SAY: Runtime/ : Esp!
+[11:10:07]EMOTE: monkey (375)/ : <B>The monkey (375)</B> jumps!
+[11:10:09]EMOTE: monkey (295)/ : <B>The monkey (295)</B> jumps!
+[11:10:36]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[11:10:48]SAY: mouse/ : Squeek!
+[11:12:13]SAY: mouse/ : Squeek?
+[11:12:36]EMOTE: monkey (831)/ : <B>The monkey (831)</B> jumps!
+[11:13:00]EMOTE: monkey (42)/ : <B>The monkey (42)</B> jumps!
+[11:13:13]SAY: mouse/ : SQUEEK!
+[11:13:25]EMOTE: monkey (223)/ : <B>The monkey (223)</B> jumps!
+[11:14:09]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[11:15:00]EMOTE: monkey (375)/ : <B>The monkey (375)</B> jumps!
+[11:15:03]ACCESS: Logout: BartNixon[DC]/(Moses Andreev)
+
+
+Starting up. 20:16.03
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[20:16:03]ADMIN: Loading Banlistjob
+[20:16:03]ADMIN: Loading jobban_rank
+[20:16:03]ADMIN: jobban_keylist was empty
+[20:16:03]ADMIN: Loading appearance_rank
+[20:16:03]ADMIN: appearance_keylist was empty
+[20:16:03]ADMIN: Updating jobbanfile!
+[20:16:03]ADMIN: Loading Banlist
+[20:22:14]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[20:24:18]SAY: mouse/ : SQUEEK!
+[20:24:33]EMOTE: monkey (256)/ : <B>The monkey (256)</B> jumps!
+[20:25:54]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 22:06.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[22:06:08]ADMIN: Loading Banlistjob
+[22:06:08]ADMIN: Loading jobban_rank
+[22:06:08]ADMIN: jobban_keylist was empty
+[22:06:08]ADMIN: Loading appearance_rank
+[22:06:08]ADMIN: appearance_keylist was empty
+[22:06:08]ADMIN: Updating jobbanfile!
+[22:06:08]ADMIN: Loading Banlist
+[22:07:46]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[22:08:49]OOC: BartNixon/BartNixon : Test
+[22:08:59]OOC: BartNixon/BartNixon : Holy shit it&#39;s awesome!
+[22:09:51]SAY: mouse/ : SQUEEK!
+[22:09:58]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[22:11:22]SAY: Ian/ : Bark!
+[22:11:25]SAY: mouse/ : Squeek!
+[22:11:49]SAY: mouse/ : SQUEEK!
+[22:12:08]EMOTE: monkey (716)/ : <B>The monkey (716)</B> jumps!
+[22:12:42]ADMIN: BartNixon/(BartNixon) : Test
+[22:13:09]ADMIN: BartNixon/(BartNixon) added keyword +MOD to permission of bartnixon
+[22:13:15]SAY: grey baby slime (712)/ : Rawr...
+[22:13:42]SAY: mouse/ : Squeek!
+[22:14:04]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 23:33.26
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[23:33:26]ADMIN: Loading Banlistjob
+[23:33:26]ADMIN: Loading jobban_rank
+[23:33:26]ADMIN: jobban_keylist was empty
+[23:33:26]ADMIN: Loading appearance_rank
+[23:33:26]ADMIN: appearance_keylist was empty
+[23:33:26]ADMIN: Updating jobbanfile!
+[23:33:26]ADMIN: Loading Banlist
+[23:34:23]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[23:35:35]ADMIN: BartNixon/(BartNixon) checked antagonists.
+[23:36:25]SAY: mouse/ : Squeek?
+[23:36:31]SAY: Ian/ : YAP
+[23:37:02]EMOTE: monkey (126)/ : <B>The monkey (126)</B> jumps!
+[23:37:08]SAY: mouse/ : SQUEEK!
+[23:38:04]SAY: mouse/ : Squeek?
+[23:38:14]SAY: Poly/ : Wire the solars, you lazy bums!
+[23:38:20]EMOTE: monkey (152)/ : <B>The monkey (152)</B> jumps!
+[23:38:22]SAY: mouse/ : Squeek!
+[23:39:19]SAY: mouse/ : Squeek!
+[23:39:19]EMOTE: monkey (126)/ : <B>The monkey (126)</B> jumps!
+[23:39:25]SAY: Tom/ : SQUEEK!
+[23:40:23]OOC: BartNixon/BartNixon : Fck.
+[23:40:30]OOC: BartNixon/BartNixon : I forgot about the Achat.
+[23:40:33]ADMIN: BartNixon/(BartNixon) : Why...
+[23:41:25]SAY: mouse/ : SQUEEK!
+[23:41:29]SAY: mouse/ : SQUEEK!
+[23:42:17]EMOTE: monkey (784)/ : <B>The monkey (784)</B> jumps!
+[23:42:23]EMOTE: monkey (152)/ : <B>The monkey (152)</B> jumps!
+[23:42:27]SAY: mouse/ : Squeek?
+[23:42:48]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[23:43:29]SAY: mouse/ : Squeek?
+[23:43:54]EMOTE: monkey (214)/ : <B>The monkey (214)</B> jumps!
+[23:43:54]SAY: mouse/ : Squeek!
+[23:44:37]SAY: mouse/ : Squeek?
+[23:44:48]EMOTE: monkey (471)/ : <B>The monkey (471)</B> jumps!
+[23:44:58]SAY: mouse/ : Squeek?
+[23:45:15]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[23:45:25]SAY: mouse/ : Squeek!
+[23:45:57]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[23:46:09]SAY: mouse/ : Squeek!
+[23:46:18]SAY: mouse/ : Squeek?
+[23:46:49]EMOTE: monkey (784)/ : <B>The monkey (784)</B> jumps!
+[23:47:05]SAY: mouse/ : SQUEEK!
+[23:47:40]EMOTE: monkey (713)/ : <B>The monkey (713)</B> jumps!
+[23:47:59]EMOTE: monkey (126)/ : <B>The monkey (126)</B> jumps!
+[23:48:12]SAY: mouse/ : Squeek?
+[23:48:13]ADMIN: BartNixon/(BartNixon) has created a command report: Test it!
+[23:48:16]ACCESS: Logout: *no key*/(BartNixon)
+[23:48:16]ACCESS: Login: BartNixon/(Moses Andreev) from 127.0.0.1-3529772718 || BYOND v506
+[23:48:28]ADMIN: BartNixon/(Moses Andreev) has created a command report: Test it.
+[23:48:59]ADMIN: BartNixon/(Moses Andreev) checked antagonists.
+[23:49:40]SAY: mouse/ : Squeek?
+[23:50:01]ADMIN: BartNixon/(Moses Andreev) played sound sound/radio/newvegasshow5.ogg
+[23:50:07]ADMIN: BartNixon/(Moses Andreev) played sound sound/radio/newvegasshow7.ogg
+[23:50:10]SAY: Pete/ : eh?
+[23:50:32]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[23:50:57]EMOTE: monkey (214)/ : <B>The monkey (214)</B> jumps!
+[23:51:07]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[23:51:12]EMOTE: monkey (713)/ : <B>The monkey (713)</B> jumps!
+[23:51:34]SAY: mouse/ : SQUEEK!
+[23:52:22]EMOTE: monkey (204)/ : <B>The monkey (204)</B> jumps!
+[23:52:26]SAY: mouse/ : Squeek?
+[23:53:09]EMOTE: monkey (713)/ : <B>The monkey (713)</B> jumps!
+[23:53:09]SAY: mouse/ : Squeek!
+[23:53:22]EMOTE: monkey (548)/ : <B>The monkey (548)</B> jumps!
+[23:53:47]SAY: mouse/ : Squeek!
+[23:53:47]SAY: mouse/ : Squeek!
+[23:54:22]SAY: mouse/ : SQUEEK!
+[23:54:34]ACCESS: Logout: BartNixon[DC]/(Moses Andreev)

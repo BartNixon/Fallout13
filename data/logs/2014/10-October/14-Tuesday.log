@@ -1,0 +1,1876 @@
+
+
+Starting up. 02:10.51
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[02:10:51]ADMIN: Loading Banlistjob
+[02:10:51]ADMIN: Loading jobban_rank
+[02:10:51]ADMIN: jobban_keylist was empty
+[02:10:51]ADMIN: Loading appearance_rank
+[02:10:51]ADMIN: appearance_keylist was empty
+[02:10:51]ADMIN: Updating jobbanfile!
+[02:10:51]ADMIN: Loading Banlist
+[02:11:44]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[02:12:28]ADMIN: BartNixon has started the game.
+[02:12:31]ACCESS: Logout: *no key*/(BartNixon)
+[02:12:31]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[02:13:01]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[02:13:31]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon to new_chairs.dmi
+[02:13:33]SAY: mouse/ : Squeek!
+[02:13:36]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:13:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the crusty dried vomit at (136,137,1)
+[02:13:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the crusty dried vomit at (139,140,1)
+[02:13:44]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:13:57]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool/bed/chair/office/light at (134,136,1)
+[02:14:02]ADMIN: BartNixon/(Gilroy Rudah) has possessed the chair (/obj/structure/stool/bed/chair/office/light) at (134, 136, 1)
+[02:14:17]SAY: Poly/ : Wire the solars, you lazy bums!
+[02:14:17]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:14:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (138,136,1) dir to 1
+[02:14:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (138,133,1) dir to 1
+[02:14:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (134,133,1) dir to 1
+[02:14:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (134,136,1) dir to 1
+[02:14:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the chair at (135,135,1)
+[02:14:31]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:14:42]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's layer to 3
+[02:14:49]SAY: mouse/ : SQUEEK!
+[02:14:51]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[02:14:59]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon to new_chairs.dmi
+[02:15:06]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon_state to chair_over
+[02:15:15]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[02:15:17]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's name to chair overlay
+[02:15:19]SAY: Ian/ : YAP
+[02:15:32]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair overlay's desc to Yup. This is the overlay. Office chair. Derp.
+[02:15:57]SAY: Tom/ : Squeek?
+[02:16:14]SAY: mouse/ : SQUEEK!
+[02:16:25]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of BartNixon/(Gilroy Rudah) to Librarian.
+[02:16:25]SAY: mouse/ : Squeek!
+[02:16:56]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[02:16:56]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[02:17:06]SAY: mouse/ : Squeek!
+[02:17:06]EMOTE: monkey (144)/ : <B>The monkey (144)</B> jumps!
+[02:17:31]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:32]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:33]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:35]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:36]SAY: mouse/ : Squeek!
+[02:17:36]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:37]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:38]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:39]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:42]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:44]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:44]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:46]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:46]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[02:17:47]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:48]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:49]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:50]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:51]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:52]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[02:17:52]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:53]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:54]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[02:17:54]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:55]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:56]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:58]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:58]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:17:59]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:00]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:01]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:03]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:05]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:06]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:07]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:08]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:08]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:09]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:11]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:18]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[02:18:39]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:40]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:41]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:42]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:43]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:49]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[02:18:49]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[02:18:52]ADMIN: BartNixon/(Gilroy Rudah) used secret whiteout
+[02:18:58]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:18:59]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:00]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:01]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:02]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:07]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:08]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:08]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:09]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:10]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:12]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:13]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:14]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:15]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:16]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:20]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:21]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:23]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:24]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:25]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:26]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:26]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:27]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:28]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:29]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:31]ADMIN: BartNixon/(Gilroy Rudah) created a /mob/living/carbon/human
+[02:19:33]SAY: mouse/ : SQUEEK!
+[02:19:36]ADMIN: BartNixon/(Gilroy Rudah) teleported *no key*/(Weston Sullivan)
+[02:19:43]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[02:19:43]SAY: Tom/ : Squeek!
+[02:19:48]ADMIN: BartNixon/(Gilroy Rudah) teleported *no key*/(Weston Sullivan)
+[02:20:37]ADMIN: BartNixon/(Gilroy Rudah) teleported *no key*/(Sophia Highlands)
+[02:20:39]EMOTE: monkey (814)/ : <B>The monkey (814)</B> jumps!
+[02:20:48]SAY: mouse/ : Squeek!
+[02:20:52]EMOTE: monkey (837)/ : <B>The monkey (837)</B> jumps!
+[02:21:28]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[02:21:52]SAY: Ian/ : Bark!
+[02:21:55]ADMIN: BartNixon/(Gilroy Rudah) teleported *no key*/(Jacoby Murphy)
+[02:22:02]EMOTE: monkey (661)/ : <B>The monkey (661)</B> jumps!
+[02:22:18]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[02:22:23]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[02:22:25]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[02:22:27]SAY: mouse/ : SQUEEK!
+[02:22:37]ADMIN: BartNixon/(Gilroy Rudah) teleported *no key*/(Colton Coldsmith)
+[02:23:01]SAY: mouse/ : SQUEEK!
+[02:23:16]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Sophia Highlands) to Medical Doctor.
+[02:23:19]EMOTE: monkey (814)/ : <B>The monkey (814)</B> jumps!
+[02:23:41]SAY: mouse/ : Squeek!
+[02:23:42]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Jacoby Murphy) to Station Engineer.
+[02:23:49]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Weston Sullivan) to Botanist.
+[02:23:58]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Ronnie Pace) to Clown.
+[02:24:11]SAY: Runtime/ : Purr!
+[02:24:13]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[02:24:45]ADMIN: BartNixon/(Gilroy Rudah) teleported *no key*/(Laura Webb)
+[02:25:06]SAY: mouse/ : Squeek!
+[02:25:11]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Laura Webb) to Cargo Technician.
+[02:25:12]SAY: mouse/ : Squeek?
+[02:25:14]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:25:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the floor (138,136,1)
+[02:25:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the floor (140,136,1)
+[02:25:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the floor (140,137,1)
+[02:25:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the chair (139,137,1)
+[02:25:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (139,135,1)
+[02:25:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (139,133,1)
+[02:25:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (137,133,1)
+[02:25:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (136,134,1)
+[02:25:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (139,134,1)
+[02:25:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sophia Highlands at the floor (136,136,1)
+[02:25:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sophia Highlands at the floor (135,136,1)
+[02:25:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sophia Highlands at the chair (134,136,1)
+[02:25:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sophia Highlands at the table (134,137,1)
+[02:25:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the floor (137,136,1)
+[02:25:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the floor (137,138,1)
+[02:25:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the chair (137,137,1)
+[02:25:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the floor (137,136,1)
+[02:25:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the chair (138,136,1)
+[02:25:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the table (138,137,1)
+[02:25:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Ronnie Pace at the floor (132,134,1)
+[02:25:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Ronnie Pace at the chair (133,134,1)
+[02:25:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Ronnie Pace at the floor (133,135,1)
+[02:25:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Ronnie Pace at the floor (133,134,1)
+[02:25:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Ronnie Pace at the table (134,134,1)
+[02:26:00]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:26:09]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:26:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[02:26:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (137,135,1)
+[02:26:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the chair (138,135,1)
+[02:26:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (139,135,1)
+[02:26:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the floor (137,136,1)
+[02:26:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the floor (137,134,1)
+[02:26:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the floor (137,133,1)
+[02:26:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the chair overlay (138,133,1)
+[02:26:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Weston Sullivan at the table (138,134,1)
+[02:26:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the floor (140,137,1)
+[02:26:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the floor (140,135,1)
+[02:26:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the floor (140,134,1)
+[02:26:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Laura Webb at the chair (139,134,1)
+[02:26:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (139,137,1)
+[02:26:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (139,136,1)
+[02:26:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the chair (139,137,1)
+[02:26:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (139,136,1)
+[02:26:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (138,136,1)
+[02:26:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the floor (137,137,1)
+[02:26:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at Jacoby Murphy (137,137,1)
+[02:26:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jacoby Murphy at the table (138,137,1)
+[02:26:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (139,132,1)
+[02:26:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (138,132,1)
+[02:26:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (136,132,1)
+[02:26:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (135,132,1)
+[02:26:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (135,134,1)
+[02:26:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (134,134,1)
+[02:26:36]EMOTE: monkey (237)/ : <B>The monkey (237)</B> jumps!
+[02:26:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the chair (135,134,1)
+[02:26:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (136,134,1)
+[02:26:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (135,134,1)
+[02:26:39]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:26:41]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[02:26:41]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[02:27:20]SAY: mouse/ : Squeek!
+[02:27:22]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[02:27:59]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[02:28:21]SAY: Pete/ : eh?
+[02:28:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/toy/cards/deck at (135,135,1)
+[02:28:55]SAY: Pete/ : EHEHEHEHEH
+[02:29:37]SAY: mouse/ : SQUEEK!
+[02:29:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/snacks/vegetablesoup at (136,136,1)
+[02:29:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/beer at (137,136,1)
+[02:30:05]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/nukacola at (137,136,1)
+[02:30:12]EMOTE: monkey (814)/ : <B>The monkey (814)</B> jumps!
+[02:30:17]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/nukacola at (137,138,1)
+[02:30:22]SAY: mouse/ : SQUEEK!
+[02:30:32]ADMIN: BartNixon/(Gilroy Rudah) modified Nuka-Cola's pixel_y to 0
+[02:30:37]ADMIN: BartNixon/(Gilroy Rudah) modified Nuka-Cola's pixel_x to -2
+[02:30:40]ADMIN: BartNixon/(Gilroy Rudah) modified Nuka-Cola's pixel_x to -3
+[02:30:45]ADMIN: BartNixon/(Gilroy Rudah) modified Nuka-Cola's pixel_x to -4
+[02:30:46]SAY: mouse/ : SQUEEK!
+[02:30:49]ADMIN: BartNixon/(Gilroy Rudah) modified Nuka-Cola's pixel_z to -1
+[02:30:52]ADMIN: BartNixon/(Gilroy Rudah) modified Nuka-Cola's pixel_z to 2
+[02:30:54]SAY: mouse/ : Squeek?
+[02:30:54]SAY: Runtime/ : Meow!
+[02:31:10]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/bottle/wine at (136,137,1)
+[02:31:18]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/drinkingglass at (135,137,1)
+[02:31:24]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/drinkingglass at (135,136,1)
+[02:31:42]SAY: Runtime/ : Esp!
+[02:31:48]ADMIN: BartNixon/(Gilroy Rudah) modified Doublebeard Bearded Special Wine's pixel_y to 0
+[02:31:52]ADMIN: BartNixon/(Gilroy Rudah) modified Doublebeard Bearded Special Wine's pixel_z to 1
+[02:31:54]ADMIN: BartNixon/(Gilroy Rudah) modified Doublebeard Bearded Special Wine's pixel_z to 5
+[02:31:58]ADMIN: BartNixon/(Gilroy Rudah) modified Doublebeard Bearded Special Wine's pixel_z to 6
+[02:32:01]ADMIN: BartNixon/(Gilroy Rudah) modified Doublebeard Bearded Special Wine's pixel_z to 5
+[02:32:09]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[02:32:09]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[02:33:05]EMOTE: monkey (661)/ : <B>The monkey (661)</B> jumps!
+[02:33:14]ADMIN: BartNixon/(Gilroy Rudah) modified Gilroy Rudah's icon to blank.gif
+[02:33:29]SAY: Poly/ : Check the singlo, you chucklefucks!
+[02:34:05]EMOTE: monkey (144)/ : <B>The monkey (144)</B> jumps!
+[02:34:15]SAY: mouse/ : Squeek!
+[02:34:29]EMOTE: monkey (460)/ : <B>The monkey (460)</B> jumps!
+[02:34:54]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[02:35:29]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[02:35:32]SAY: mouse/ : Squeek?
+[02:35:47]SAY: mouse/ : Squeek!
+[02:35:55]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[02:36:15]SAY: mouse/ : SQUEEK!
+[02:36:31]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[02:36:49]SAY: mouse/ : Squeek?
+[02:38:00]SAY: mouse/ : Squeek!
+[02:38:46]SAY: Tom/ : Squeek!
+[02:39:05]SAY: mouse/ : Squeek?
+[02:39:09]SAY: mouse/ : Squeek!
+[02:39:25]SAY: mouse/ : SQUEEK!
+[02:40:16]SAY: mouse/ : Squeek!
+[02:40:51]SAY: grey baby slime (946)/ : Blorble...
+[02:41:01]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[02:41:09]SAY: mouse/ : Squeek?
+[02:41:15]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[02:41:25]SAY: mouse/ : SQUEEK!
+[02:41:27]SAY: mouse/ : Squeek!
+[02:41:35]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[02:41:43]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[02:42:09]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[02:42:19]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[02:42:50]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[02:43:18]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[02:43:24]SAY: mouse/ : Squeek!
+[02:44:23]EMOTE: monkey (460)/ : <B>The monkey (460)</B> jumps!
+[02:44:57]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[02:45:29]EMOTE: monkey (237)/ : <B>The monkey (237)</B> jumps!
+[02:45:41]SAY: Runtime/ : Purr!
+[02:46:29]SAY: mouse/ : Squeek?
+[02:47:10]EMOTE: monkey (814)/ : <B>The monkey (814)</B> jumps!
+[02:47:30]SAY: Pete/ : eh?
+[02:47:40]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[02:48:09]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[02:48:23]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[02:48:57]SAY: mouse/ : Squeek!
+[02:49:30]SAY: mouse/ : Squeek?
+[02:49:44]SAY: mouse/ : Squeek!
+[02:50:09]SAY: mouse/ : Squeek!
+[02:50:27]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[02:50:45]EMOTE: monkey (460)/ : <B>The monkey (460)</B> jumps!
+[02:51:01]SAY: Poly/ : Poly wanna cracker!
+[02:51:09]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[02:51:29]EMOTE: monkey (237)/ : <B>The monkey (237)</B> jumps!
+[02:51:47]SAY: mouse/ : SQUEEK!
+[02:51:49]EMOTE: monkey (814)/ : <B>The monkey (814)</B> jumps!
+[02:51:51]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[02:51:55]SAY: mouse/ : SQUEEK!
+[02:52:04]EMOTE: monkey (661)/ : <B>The monkey (661)</B> jumps!
+[02:53:22]SAY: Runtime/ : Meow!
+[02:53:51]EMOTE: monkey (460)/ : <B>The monkey (460)</B> jumps!
+[02:55:07]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[02:55:33]SAY: mouse/ : Squeek!
+[02:56:04]EMOTE: monkey (237)/ : <B>The monkey (237)</B> jumps!
+[02:56:38]SAY: mouse/ : Squeek!
+[02:56:50]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[02:56:54]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[02:57:18]SAY: mouse/ : SQUEEK!
+[02:57:20]SAY: mouse/ : SQUEEK!
+[02:57:26]SAY: mouse/ : Squeek!
+[02:57:30]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[02:58:07]SAY: mouse/ : Squeek!
+[02:58:45]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[02:58:45]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[02:59:39]SAY: Runtime/ : Purr!
+[02:59:58]SAY: mouse/ : Squeek!
+[03:00:18]SAY: mouse/ : SQUEEK!
+[03:00:20]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[03:01:04]SAY: Runtime/ : Purr!
+[03:02:03]SAY: mouse/ : Squeek!
+[03:02:25]SAY: mouse/ : Squeek!
+[03:02:35]SAY: Runtime/ : HSSSSS
+[03:03:26]SAY: mouse/ : SQUEEK!
+[03:03:28]SAY: grey baby slime (946)/ : Rawr...
+[03:03:35]SAY: mouse/ : SQUEEK!
+[03:03:37]SAY: Tom/ : Squeek?
+[03:04:17]EMOTE: monkey (814)/ : <B>The monkey (814)</B> jumps!
+[03:04:43]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[03:05:30]SAY: mouse/ : SQUEEK!
+[03:05:44]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[03:06:08]SAY: grey baby slime (946)/ : Blorble...
+[03:06:34]SAY: mouse/ : SQUEEK!
+[03:06:42]SAY: mouse/ : Squeek?
+[03:07:17]SAY: mouse/ : SQUEEK!
+[03:07:37]EMOTE: monkey (144)/ : <B>The monkey (144)</B> jumps!
+[03:08:28]EMOTE: monkey (237)/ : <B>The monkey (237)</B> jumps!
+[03:08:40]EMOTE: monkey (814)/ : <B>The monkey (814)</B> jumps!
+[03:08:50]SAY: mouse/ : SQUEEK!
+[03:09:06]SAY: Ian/ : Woof!
+[03:09:10]SAY: grey baby slime (647)/ : Rawr...
+[03:09:26]SAY: Pete/ : eh?
+[03:09:52]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[03:10:00]SAY: grey baby slime (647)/ : Where is the food?
+[03:10:00]SAY: mouse/ : SQUEEK!
+[03:10:08]SAY: Ian/ : AUUUUUU
+[03:12:37]SAY: mouse/ : Squeek!
+[03:14:14]SAY: mouse/ : Squeek?
+[03:14:46]SAY: mouse/ : Squeek!
+[03:15:51]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[03:16:23]EMOTE: monkey (237)/ : <B>The monkey (237)</B> jumps!
+[03:16:59]SAY: mouse/ : SQUEEK!
+[03:17:21]EMOTE: monkey (470)/ : <B>The monkey (470)</B> jumps!
+[03:18:15]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[03:18:15]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[03:18:44]SAY: mouse/ : SQUEEK!
+[03:18:56]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[03:19:02]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[03:19:24]SAY: mouse/ : SQUEEK!
+[03:20:20]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 15:20.29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[15:20:30]ADMIN: Loading Banlistjob
+[15:20:30]ADMIN: Loading jobban_rank
+[15:20:30]ADMIN: jobban_keylist was empty
+[15:20:30]ADMIN: Loading appearance_rank
+[15:20:30]ADMIN: appearance_keylist was empty
+[15:20:30]ADMIN: Updating jobbanfile!
+[15:20:30]ADMIN: Loading Banlist
+[15:52:38]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[15:53:10]ACCESS: Logout: *no key*/(BartNixon)
+[15:53:10]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[15:53:16]ADMIN: BartNixon has started the game.
+[15:53:24]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[15:53:24]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[15:53:26]ADMIN: BartNixon/(Gilroy Rudah) used secret whiteout
+[15:54:14]SAY: grey baby slime (951)/ : Lonely...
+[15:54:36]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[15:55:04]SAY: mouse/ : Squeek?
+[15:55:14]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[15:55:34]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[15:55:56]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[15:56:08]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[15:57:25]SAY: mouse/ : Squeek!
+[15:57:29]SAY: mouse/ : Squeek?
+[15:57:35]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[15:57:53]SAY: mouse/ : SQUEEK!
+[15:58:12]SAY: mouse/ : SQUEEK!
+[15:58:48]SAY: mouse/ : SQUEEK!
+[15:59:28]SAY: mouse/ : SQUEEK!
+[16:00:16]SAY: mouse/ : Squeek?
+[16:00:22]SAY: Runtime/ : Esp!
+[16:01:17]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[16:01:29]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[16:02:12]SAY: mouse/ : SQUEEK!
+[16:02:20]SAY: Poly/ : Poly wanna cracker!
+[16:02:34]SAY: grey baby slime (951)/ : Blop...
+[16:02:48]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[16:04:03]SAY: mouse/ : SQUEEK!
+[16:04:21]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[16:04:59]SAY: grey baby slime (6)/ : Blop...
+[16:05:59]SAY: Ian/ : AUUUUUU
+[16:07:34]SAY: Tom/ : SQUEEK!
+[16:07:58]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[16:08:04]SAY: Pete/ : EHEHEHEHEH
+[16:08:48]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[16:08:48]SAY: mouse/ : Squeek!
+[16:09:33]SAY: grey baby slime (6)/ : Blop...
+[16:09:39]SAY: mouse/ : Squeek?
+[16:09:45]SAY: Runtime/ : Esp!
+[16:09:57]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[16:09:57]SAY: mouse/ : SQUEEK!
+[16:10:03]SAY: Runtime/ : Esp!
+[16:10:05]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[16:10:05]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[16:10:43]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:10:47]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[16:11:32]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[16:13:04]SAY: mouse/ : Squeek?
+[16:13:30]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[16:13:42]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[16:14:19]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[16:14:21]SAY: mouse/ : Squeek!
+[16:14:45]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[16:14:47]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[16:15:07]SAY: mouse/ : SQUEEK!
+[16:15:46]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:15:58]SAY: mouse/ : Squeek?
+[16:16:12]SAY: mouse/ : Squeek!
+[16:17:06]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:17:29]SAY: Poly/ : Check the singlo, you chucklefucks!
+[16:17:41]SAY: mouse/ : SQUEEK!
+[16:17:47]SAY: mouse/ : Squeek?
+[16:18:05]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[16:18:23]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[16:18:25]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[16:19:19]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[16:19:50]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[16:19:54]SAY: mouse/ : SQUEEK!
+[16:20:10]SAY: mouse/ : SQUEEK!
+[16:20:26]SAY: mouse/ : Squeek!
+[16:20:48]SAY: mouse/ : Squeek?
+[16:20:56]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:22:29]SAY: mouse/ : Squeek!
+[16:22:35]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[16:23:04]SAY: grey baby slime (951)/ : Rawr...
+[16:23:28]SAY: mouse/ : Squeek!
+[16:23:44]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[16:24:06]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[16:24:40]SAY: Ian/ : Bark!
+[16:25:18]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[16:25:33]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[16:27:16]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[16:27:30]SAY: Runtime/ : HSSSSS
+[16:27:59]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:28:29]SAY: Runtime/ : Meow!
+[16:28:37]SAY: Pete/ : eh?
+[16:28:53]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[16:29:35]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[16:30:05]SAY: Tom/ : SQUEEK!
+[16:30:09]SAY: mouse/ : SQUEEK!
+[16:30:21]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[16:30:33]SAY: Runtime/ : Purr!
+[16:30:34]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[16:30:50]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[16:32:02]SAY: Pete/ : EHEHEHEHEH
+[16:32:16]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[16:32:16]SAY: Tom/ : Squeek?
+[16:32:41]SAY: mouse/ : SQUEEK!
+[16:33:01]SAY: mouse/ : Squeek?
+[16:33:25]SAY: mouse/ : SQUEEK!
+[16:34:35]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:34:53]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[16:35:03]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[16:35:09]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[16:35:19]SAY: Pete/ : eh?
+[16:35:58]SAY: mouse/ : Squeek?
+[16:36:12]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[16:37:04]SAY: grey baby slime (6)/ : I want to eat...
+[16:37:35]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:37:49]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[16:38:01]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[16:38:05]SAY: mouse/ : SQUEEK!
+[16:38:07]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[16:38:15]SAY: mouse/ : Squeek?
+[16:39:18]SAY: mouse/ : SQUEEK!
+[16:39:30]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[16:39:50]SAY: Tom/ : Squeek!
+[16:39:58]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[16:40:18]SAY: mouse/ : SQUEEK!
+[16:40:39]SAY: Runtime/ : Meow!
+[16:40:47]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[16:40:57]SAY: mouse/ : Squeek?
+[16:41:35]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[16:42:19]SAY: Poly/ : Poly wanna cracker!
+[16:42:34]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[16:43:04]SAY: mouse/ : SQUEEK!
+[16:43:38]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:45:16]SAY: mouse/ : Squeek!
+[16:46:19]SAY: grey baby slime (6)/ : Rawr...
+[16:46:33]SAY: Tom/ : SQUEEK!
+[16:46:39]SAY: grey baby slime (951)/ : Hungry...
+[16:46:51]SAY: mouse/ : Squeek!
+[16:47:41]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[16:48:22]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon to new_chairs.dmi
+[16:48:38]SAY: mouse/ : Squeek?
+[16:48:40]ADMIN: BartNixon/(Gilroy Rudah) mass modified table's icon to structures.dmi
+[16:48:50]SAY: Tom/ : Squeek?
+[16:49:12]SAY: mouse/ : SQUEEK!
+[16:49:56]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[16:51:22]ADMIN: BartNixon/(Gilroy Rudah) mass modified table's icon to structures.dmi
+[16:51:39]SAY: Tom/ : SQUEEK!
+[16:52:07]SAY: grey baby slime (6)/ : Hungry...
+[16:52:45]SAY: mouse/ : Squeek?
+[16:52:45]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[16:53:09]SAY: mouse/ : Squeek!
+[16:53:29]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[16:53:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Runtime at the floor (158,108,1)
+[16:53:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Runtime at the floor (158,107,1)
+[16:53:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Runtime at the floor (158,106,1)
+[16:53:35]SAY: grey baby slime (6)/ : Blop...
+[16:53:35]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[16:53:47]SAY: mouse/ : Squeek!
+[16:53:50]SAY: mouse/ : Squeek?
+[16:55:11]SAY: grey baby slime (6)/ : Blop...
+[16:55:53]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[16:56:39]SAY: grey baby slime (6)/ : Hungry...
+[16:56:39]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[16:57:05]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[16:57:44]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[16:57:44]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[16:57:50]SAY: Tom/ : SQUEEK!
+[16:58:37]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[16:58:39]SAY: mouse/ : Squeek!
+[16:59:51]SAY: mouse/ : Squeek?
+[16:59:59]SAY: mouse/ : SQUEEK!
+[17:00:07]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[17:00:09]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[17:00:55]SAY: grey baby slime (6)/ : Hungry...
+[17:01:04]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:01:44]SAY: Runtime/ : Meow!
+[17:01:56]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[17:02:24]SAY: grey baby slime (951)/ : Blop...
+[17:02:26]SAY: mouse/ : SQUEEK!
+[17:02:28]SAY: Runtime/ : Meow!
+[17:02:28]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[17:02:47]ADMIN: BartNixon/(Gilroy Rudah) mass modified Gilroy Rudah's icon to blank.gif
+[17:03:04]SAY: Pete/ : eh?
+[17:03:10]SAY: Runtime/ : Meow!
+[17:04:47]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[17:05:12]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:05:48]SAY: grey baby slime (951)/ : Hungry...
+[17:06:47]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:06:59]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:07:23]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[17:07:43]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[17:07:45]SAY: mouse/ : SQUEEK!
+[17:08:21]SAY: mouse/ : Squeek?
+[17:10:10]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to table11.gif
+[17:10:22]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[17:10:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified buildmode's name to derp
+[17:10:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified derp's name to derp
+[17:10:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[17:10:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (144,139,1)
+[17:10:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (144,138,1)
+[17:10:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (143,138,1)
+[17:10:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (141,138,1)
+[17:10:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (139,138,1)
+[17:10:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (136,138,1)
+[17:10:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (134,138,1)
+[17:10:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (134,139,1)
+[17:10:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the chair (134,138,1)
+[17:10:46]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[17:10:52]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[17:10:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the chair (134,138,1)
+[17:10:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the floor (134,139,1)
+[17:10:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Pun Pun at the chair (134,138,1)
+[17:11:00]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[17:11:42]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[17:12:16]SAY: mouse/ : SQUEEK!
+[17:12:30]SAY: Pete/ : EHEHEHEHEH
+[17:12:52]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[17:12:56]SAY: grey baby slime (951)/ : Hungry...
+[17:13:38]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:13:58]SAY: mouse/ : Squeek?
+[17:14:33]SAY: Runtime/ : Purr!
+[17:14:45]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:14:53]SAY: mouse/ : Squeek!
+[17:14:53]SAY: Pete/ : EHEHEHEHEH
+[17:15:16]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[17:16:10]SAY: mouse/ : Squeek!
+[17:16:30]SAY: mouse/ : SQUEEK!
+[17:16:36]SAY: Tom/ : SQUEEK!
+[17:16:57]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[17:17:01]SAY: mouse/ : Squeek!
+[17:17:39]SAY: grey baby slime (6)/ : Rawr...
+[17:18:50]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:18:52]SAY: grey baby slime (6)/ : Blop...
+[17:19:00]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[17:20:14]SAY: Ian/ : Woof!
+[17:20:18]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[17:20:57]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:21:11]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[17:21:21]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:21:51]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[17:22:23]SAY: mouse/ : Squeek!
+[17:22:27]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[17:22:38]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[17:22:43]SAY: grey baby slime (6)/ : Lonely...
+[17:22:52]SAY: Tom/ : Squeek?
+[17:23:10]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:23:26]SAY: grey baby slime (6)/ : Rawr...
+[17:23:41]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[17:23:41]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:23:41]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[17:23:57]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/stack/sheet/metal at (136,137,1)
+[17:24:17]SAY: mouse/ : Squeek!
+[17:25:20]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[17:25:24]SAY: mouse/ : SQUEEK!
+[17:25:30]SAY: Ian/ : Woof!
+[17:26:05]SAY: grey baby slime (6)/ : Where is the food?
+[17:26:09]SAY: Pete/ : eh?
+[17:26:51]SAY: grey baby slime (951)/ : Rawr...
+[17:27:17]SAY: mouse/ : Squeek?
+[17:27:21]SAY: mouse/ : Squeek?
+[17:27:27]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[17:28:25]SAY: mouse/ : SQUEEK!
+[17:28:37]SAY: grey baby slime (6)/ : I want to eat...
+[17:28:45]SAY: mouse/ : Squeek?
+[17:28:47]SAY: mouse/ : Squeek!
+[17:29:35]SAY: Tom/ : Squeek?
+[17:30:58]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[17:31:09]SAY: mouse/ : Squeek!
+[17:31:41]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[17:31:45]SAY: mouse/ : Squeek?
+[17:31:55]SAY: mouse/ : SQUEEK!
+[17:32:55]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[17:33:07]SAY: mouse/ : SQUEEK!
+[17:33:13]SAY: mouse/ : Squeek?
+[17:33:31]SAY: mouse/ : Squeek!
+[17:33:56]SAY: Tom/ : Squeek?
+[17:34:06]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[17:34:20]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[17:35:30]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[17:35:32]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[17:36:16]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/stack/sheet/glass at (136,137,1)
+[17:36:27]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:37:11]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[17:38:22]SAY: Runtime/ : HSSSSS
+[17:38:46]SAY: grey baby slime (951)/ : Rawr...
+[17:38:52]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[17:39:08]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[17:39:14]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[17:40:09]SAY: mouse/ : SQUEEK!
+[17:40:34]SAY: Ian/ : Woof!
+[17:40:54]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[17:41:02]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:41:14]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[17:42:09]SAY: Pete/ : EHEHEHEHEH
+[17:42:15]SAY: Runtime/ : HSSSSS
+[17:42:23]SAY: mouse/ : SQUEEK!
+[17:42:51]SAY: mouse/ : Squeek?
+[17:43:01]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:43:01]SAY: Runtime/ : Purr!
+[17:43:13]SAY: grey baby slime (6)/ : Rawr...
+[17:43:19]SAY: mouse/ : Squeek!
+[17:43:33]SAY: mouse/ : Squeek?
+[17:43:58]SAY: Tom/ : Squeek!
+[17:44:10]SAY: grey baby slime (951)/ : Need... food...
+[17:44:36]SAY: mouse/ : SQUEEK!
+[17:44:58]SAY: mouse/ : Squeek?
+[17:45:06]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[17:46:01]SAY: mouse/ : Squeek?
+[17:46:25]SAY: mouse/ : Squeek?
+[17:47:09]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:47:27]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:48:10]SAY: mouse/ : SQUEEK!
+[17:49:02]SAY: mouse/ : Squeek?
+[17:49:12]SAY: Runtime/ : Purr!
+[17:50:08]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[17:50:12]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:50:30]SAY: Poly/ : Check the singlo, you chucklefucks!
+[17:50:34]SAY: grey baby slime (6)/ : So... hungry...
+[17:50:42]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:52:21]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:52:23]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[17:52:23]SAY: mouse/ : Squeek!
+[17:53:16]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:53:20]SAY: mouse/ : Squeek!
+[17:53:32]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[17:53:44]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[17:54:08]SAY: mouse/ : Squeek!
+[17:54:26]SAY: Ian/ : Bark!
+[17:54:26]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:54:44]SAY: mouse/ : Squeek?
+[17:55:12]SAY: grey baby slime (951)/ : Lonely...
+[17:55:20]SAY: Tom/ : Squeek?
+[17:55:22]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[17:55:34]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[17:55:36]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[17:55:38]SAY: mouse/ : Squeek!
+[17:56:07]SAY: Ian/ : AUUUUUU
+[17:56:25]SAY: Pete/ : EHEHEHEHEH
+[17:56:33]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[17:56:53]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[17:56:53]SAY: Runtime/ : HSSSSS
+[17:57:29]SAY: mouse/ : SQUEEK!
+[17:57:37]SAY: Ian/ : AUUUUUU
+[17:57:59]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[17:58:16]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[17:58:42]SAY: grey baby slime (6)/ : Very... hungry...
+[17:59:20]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:59:22]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:00:23]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[18:00:45]SAY: grey baby slime (6)/ : Must... eat...
+[18:00:53]SAY: Runtime/ : HSSSSS
+[18:00:55]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[18:00:57]SAY: mouse/ : SQUEEK!
+[18:01:09]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:01:17]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[18:01:19]SAY: Ian/ : YAP
+[18:01:21]SAY: mouse/ : SQUEEK!
+[18:01:35]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:02:56]SAY: Ian/ : Woof!
+[18:03:06]SAY: Pete/ : EHEHEHEHEH
+[18:03:22]SAY: grey baby slime (951)/ : Blop...
+[18:03:24]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[18:03:46]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[18:03:48]SAY: mouse/ : Squeek!
+[18:03:50]SAY: grey baby slime (951)/ : Very... hungry...
+[18:03:59]SAY: mouse/ : Squeek!
+[18:04:09]SAY: grey baby slime (6)/ : Blorble...
+[18:04:17]SAY: mouse/ : Squeek?
+[18:05:03]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[18:05:07]SAY: mouse/ : Squeek!
+[18:05:19]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[18:05:25]SAY: mouse/ : Squeek?
+[18:05:31]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:05:35]SAY: mouse/ : Squeek?
+[18:05:49]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[18:05:59]SAY: mouse/ : Squeek!
+[18:06:28]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[18:07:56]SAY: grey baby slime (6)/ : Rawr...
+[18:08:06]SAY: mouse/ : Squeek!
+[18:09:33]SAY: mouse/ : Squeek?
+[18:09:57]SAY: mouse/ : Squeek?
+[18:10:09]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:10:32]SAY: grey baby slime (951)/ : Blorble...
+[18:10:34]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[18:10:48]SAY: grey baby slime (951)/ : Must... eat...
+[18:10:58]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[18:11:16]SAY: Runtime/ : Meow!
+[18:11:32]SAY: Runtime/ : Meow!
+[18:11:53]SAY: grey baby slime (6)/ : Very... hungry...
+[18:12:03]SAY: mouse/ : Squeek!
+[18:12:05]SAY: Ian/ : YAP
+[18:13:24]SAY: grey baby slime (951)/ : Very... hungry...
+[18:13:28]SAY: Pete/ : EHEHEHEHEH
+[18:13:37]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:14:20]SAY: Poly/ : Poly wanna cracker!
+[18:14:30]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:14:38]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:14:54]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[18:14:56]SAY: mouse/ : Squeek?
+[18:15:02]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[18:15:16]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[18:15:29]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[18:15:39]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:16:07]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[18:16:21]SAY: mouse/ : SQUEEK!
+[18:16:29]SAY: mouse/ : Squeek!
+[18:16:31]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[18:16:33]SAY: grey baby slime (951)/ : Lonely...
+[18:16:37]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:17:54]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:19:13]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:20:06]SAY: mouse/ : Squeek?
+[18:20:48]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:21:02]SAY: mouse/ : Squeek!
+[18:21:04]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[18:21:26]SAY: mouse/ : Squeek!
+[18:22:05]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[18:22:33]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:23:23]SAY: grey baby slime (951)/ : Very... hungry...
+[18:24:13]SAY: mouse/ : SQUEEK!
+[18:24:32]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[18:24:37]SAY: mouse/ : Squeek!
+[18:25:10]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[18:25:12]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[18:25:36]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:25:48]SAY: mouse/ : Squeek!
+[18:26:02]SAY: Runtime/ : HSSSSS
+[18:26:06]SAY: mouse/ : Squeek?
+[18:26:08]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[18:26:22]SAY: Runtime/ : HSSSSS
+[18:26:38]SAY: Runtime/ : Esp!
+[18:28:03]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[18:28:38]SAY: mouse/ : Squeek?
+[18:29:06]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[18:29:12]SAY: Runtime/ : HSSSSS
+[18:29:14]SAY: grey baby slime (951)/ : Very... hungry...
+[18:29:40]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[18:30:59]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[18:31:07]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:31:51]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[18:31:56]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Holodeck - Wildlife Simulation
+[18:32:00]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:32:00]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:32:15]SAY: mouse/ : SQUEEK!
+[18:32:33]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:32:57]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[18:33:10]SAY: Pete/ : EHEHEHEHEH
+[18:33:14]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:33:16]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[18:33:24]SAY: mouse/ : SQUEEK!
+[18:33:59]SAY: mouse/ : Squeek!
+[18:34:21]SAY: Tom/ : Squeek?
+[18:34:37]SAY: Tom/ : SQUEEK!
+[18:35:15]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[18:35:50]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[18:36:08]SAY: mouse/ : Squeek?
+[18:39:35]SAY: mouse/ : Squeek!
+[18:39:37]SAY: mouse/ : SQUEEK!
+[18:40:40]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[18:40:52]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[18:42:13]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[18:42:22]SAY: Tom/ : Squeek?
+[18:42:38]SAY: mouse/ : SQUEEK!
+[18:44:00]SAY: mouse/ : SQUEEK!
+[18:44:08]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[18:44:32]SAY: mouse/ : Squeek!
+[18:44:38]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[18:44:42]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[18:44:46]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[18:44:48]SAY: mouse/ : SQUEEK!
+[18:44:54]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[18:44:54]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[18:44:56]SAY: mouse/ : Squeek?
+[18:45:22]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[18:46:01]SAY: mouse/ : Squeek!
+[18:46:13]SAY: mouse/ : SQUEEK!
+[18:47:55]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[18:48:00]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:48:00]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:48:07]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Library
+[18:48:40]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[18:48:42]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:48:42]SAY: mouse/ : Squeek?
+[18:48:48]SAY: mouse/ : SQUEEK!
+[18:49:06]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:49:30]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:49:30]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:50:17]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:51:07]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[18:51:56]SAY: mouse/ : SQUEEK!
+[18:52:00]SAY: mouse/ : SQUEEK!
+[18:52:18]SAY: mouse/ : Squeek!
+[18:52:43]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[18:52:47]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[18:52:51]SAY: mouse/ : Squeek?
+[18:53:23]SAY: Ian/ : YAP
+[18:53:37]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:55:29]SAY: mouse/ : SQUEEK!
+[18:55:54]SAY: mouse/ : Squeek!
+[18:56:10]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[18:56:58]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[18:57:04]SAY: mouse/ : Squeek!
+[18:57:33]SAY: mouse/ : Squeek!
+[18:57:33]SAY: Tom/ : SQUEEK!
+[18:57:39]SAY: Ian/ : Bark!
+[18:57:53]SAY: mouse/ : Squeek?
+[18:57:54]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[18:58:16]SAY: mouse/ : SQUEEK!
+[18:59:14]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[18:59:18]SAY: mouse/ : Squeek?
+[19:00:02]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[19:00:30]SAY: mouse/ : SQUEEK!
+[19:00:38]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[19:01:38]SAY: mouse/ : Squeek?
+[19:01:56]SAY: Ian/ : AUUUUUU
+[19:01:56]SAY: mouse/ : Squeek!
+[19:02:00]SAY: mouse/ : Squeek!
+[19:02:12]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[19:02:48]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[19:03:56]SAY: mouse/ : Squeek!
+[19:04:43]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[19:05:01]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:06:01]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[19:06:07]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[19:06:11]SAY: mouse/ : Squeek?
+[19:06:21]SAY: mouse/ : Squeek!
+[19:06:25]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[19:06:59]SAY: mouse/ : Squeek?
+[19:08:15]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[19:08:29]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[19:09:13]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[19:10:03]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:10:53]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[19:11:29]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[19:11:35]SAY: mouse/ : Squeek!
+[19:12:19]SAY: mouse/ : SQUEEK!
+[19:12:59]SAY: mouse/ : Squeek?
+[19:13:09]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[19:13:11]SAY: Tom/ : Squeek!
+[19:13:41]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:13:57]SAY: Ian/ : Bark!
+[19:13:59]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[19:15:03]SAY: mouse/ : Squeek?
+[19:17:32]SAY: mouse/ : Squeek!
+[19:18:36]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[19:19:04]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[19:19:04]SAY: mouse/ : SQUEEK!
+[19:19:06]SAY: mouse/ : SQUEEK!
+[19:19:38]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[19:21:29]SAY: mouse/ : Squeek!
+[19:22:15]SAY: mouse/ : Squeek!
+[19:22:23]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[19:22:35]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[19:22:53]SAY: mouse/ : Squeek?
+[19:23:07]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[19:23:43]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[19:23:44]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[19:25:06]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[19:27:06]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[19:27:16]SAY: mouse/ : Squeek!
+[19:27:16]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[19:27:31]SAY: Ian/ : Bark!
+[19:28:15]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[19:28:17]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[19:28:41]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[19:29:46]SAY: Tom/ : SQUEEK!
+[19:29:59]SAY: Runtime/ : Esp!
+[19:30:12]SAY: mouse/ : Squeek!
+[19:30:12]SAY: mouse/ : SQUEEK!
+[19:30:52]SAY: mouse/ : Squeek!
+[19:31:08]SAY: mouse/ : Squeek!
+[19:31:18]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[19:31:28]SAY: mouse/ : Squeek?
+[19:31:40]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[19:32:20]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[19:32:42]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:33:32]SAY: mouse/ : SQUEEK!
+[19:33:38]SAY: mouse/ : SQUEEK!
+[19:33:52]SAY: Ian/ : YAP
+[19:33:58]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[19:34:35]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[19:34:55]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[19:35:53]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[19:36:01]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[19:36:25]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[19:36:37]SAY: mouse/ : SQUEEK!
+[19:37:03]SAY: mouse/ : Squeek!
+[19:37:29]SAY: Tom/ : Squeek!
+[19:37:35]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[19:38:27]SAY: mouse/ : Squeek!
+[19:39:00]SAY: mouse/ : Squeek?
+[19:39:08]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:39:36]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:41:01]SAY: Runtime/ : Meow!
+[19:41:03]SAY: mouse/ : SQUEEK!
+[19:41:13]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[19:42:22]SAY: mouse/ : Squeek?
+[19:42:28]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/snacks/slimesoup at (138,133,1)
+[19:42:38]SAY: mouse/ : Squeek?
+[19:42:44]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/decal/cleanable/blood/tracks at (134,133,1)
+[19:43:27]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[19:43:29]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:43:30]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/snacks/wishsoup at (139,137,1)
+[19:43:47]SAY: mouse/ : SQUEEK!
+[19:43:51]SAY: mouse/ : SQUEEK!
+[19:44:13]SAY: mouse/ : Squeek!
+[19:44:25]SAY: mouse/ : Squeek!
+[19:44:45]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[19:45:11]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[19:45:20]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[19:45:26]SAY: Tom/ : Squeek?
+[19:46:38]SAY: mouse/ : Squeek?
+[19:46:40]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[19:47:51]SAY: mouse/ : Squeek?
+[19:48:13]SAY: Pete/ : eh?
+[19:49:12]SAY: mouse/ : SQUEEK!
+[19:49:26]SAY: mouse/ : SQUEEK!
+[19:49:40]SAY: mouse/ : Squeek!
+[19:50:11]SAY: mouse/ : Squeek!
+[19:50:21]SAY: mouse/ : SQUEEK!
+[19:50:25]SAY: mouse/ : Squeek?
+[19:50:35]SAY: mouse/ : Squeek!
+[19:50:39]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[19:50:43]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[19:51:17]SAY: mouse/ : Squeek!
+[19:52:02]SAY: Ian/ : Bark!
+[19:55:03]SAY: mouse/ : SQUEEK!
+[19:55:25]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[19:55:39]SAY: mouse/ : Squeek?
+[19:56:57]SAY: mouse/ : Squeek!
+[19:57:07]SAY: mouse/ : SQUEEK!
+[19:57:57]SAY: Ian/ : Bark!
+[19:58:05]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[19:59:38]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[19:59:50]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[20:00:32]SAY: mouse/ : SQUEEK!
+[20:00:34]SAY: mouse/ : Squeek!
+[20:00:56]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[20:00:56]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[20:01:31]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[20:02:13]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[20:02:29]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[20:02:31]SAY: Tom/ : SQUEEK!
+[20:03:04]SAY: mouse/ : Squeek?
+[20:03:14]SAY: mouse/ : SQUEEK!
+[20:03:20]SAY: mouse/ : Squeek!
+[20:03:34]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[20:03:44]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[20:04:06]SAY: mouse/ : SQUEEK!
+[20:04:16]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[20:05:35]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[20:06:23]SAY: mouse/ : Squeek?
+[20:08:49]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[20:09:32]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[20:09:32]SAY: mouse/ : SQUEEK!
+[20:09:56]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[20:10:14]SAY: Tom/ : Squeek!
+[20:10:26]SAY: mouse/ : Squeek?
+[20:11:11]SAY: Tom/ : Squeek?
+[20:11:46]SAY: Runtime/ : Meow!
+[20:11:48]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[20:12:02]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[20:12:15]SAY: mouse/ : Squeek?
+[20:12:19]SAY: mouse/ : Squeek?
+[20:13:01]SAY: mouse/ : SQUEEK!
+[20:13:23]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[20:14:58]SAY: mouse/ : SQUEEK!
+[20:15:38]SAY: mouse/ : Squeek?
+[20:15:59]SAY: mouse/ : Squeek!
+[20:17:09]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[20:17:11]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[20:17:35]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[20:17:35]SAY: mouse/ : Squeek!
+[20:17:42]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[20:17:52]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[20:18:35]SAY: mouse/ : SQUEEK!
+[20:18:56]SAY: mouse/ : Squeek!
+[20:20:17]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[20:20:21]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[20:20:31]SAY: mouse/ : SQUEEK!
+[20:20:33]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[20:20:56]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+[01:55:37]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[01:55:58]SAY: mouse/ : SQUEEK!
+[01:55:58]SAY: mouse/ : Squeek?
+[01:56:53]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[01:57:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table at (79,120,1)
+[01:57:53]SAY: mouse/ : Squeek?
+[01:58:47]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[01:58:55]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to watler.dmi
+[01:58:57]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to watler
+[01:59:01]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[01:59:03]ADMIN: BartNixon/(Gilroy Rudah) has possessed the table (/obj/structure/table) at (79, 120, 1)
+[01:59:55]SAY: mouse/ : Squeek?
+[02:00:32]SAY: mouse/ : Squeek!
+[02:00:40]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[02:01:16]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[02:01:32]SAY: mouse/ : Squeek?
+[02:02:11]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Thunderdome
+[02:02:18]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[02:02:34]ADMIN: BartNixon/(Gilroy Rudah) deleted all objects of type or subtype of /obj/structure/stool/bed/chair (393 objects deleted) 
+[02:02:38]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:02:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the Telescreen at (132,83,2)
+[02:02:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the Telescreen at (124,83,2)
+[02:02:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Thunderdome Flash at (128,77,2)
+[02:02:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the security camera at (128,76,2)
+[02:02:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the igniter at (121,80,2)
+[02:02:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the igniter at (121,73,2)
+[02:02:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the igniter at (135,73,2)
+[02:02:45]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[02:02:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the igniter at (135,80,2)
+[02:02:47]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:02:51]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[02:02:55]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[02:02:55]ADMIN: BartNixon/(Gilroy Rudah) deleted all objects of type or subtype of /obj/effect/decal/cleanable/dirt (963 objects deleted) 
+[02:03:07]SAY: mouse/ : Squeek!
+[02:03:09]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[02:03:17]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[02:03:17]ADMIN: BartNixon/(Gilroy Rudah) spawned /turf/simulated/floor/plating/wasteland at (128,79,2)
+[02:03:27]SAY: Poly/ : Check the singlo, you chucklefucks!
+[02:03:30]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:03:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,80,2) to /turf/simulated/floor/plating/wasteland
+[02:03:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (121,81,2) to /turf/simulated/floor/plating/wasteland
+[02:03:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (122,81,2) to /turf/simulated/floor/plating/wasteland
+[02:03:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,82,2) to /turf/simulated/floor/plating/wasteland
+[02:03:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (122,82,2) to /turf/simulated/floor/plating/wasteland
+[02:03:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,82,2) to /turf/simulated/floor/plating/wasteland
+[02:03:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,83,2) to /turf/simulated/floor/plating/wasteland
+[02:03:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,83,2) to /turf/simulated/floor/plating/wasteland
+[02:03:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,79,2) to /turf/simulated/floor/plating/wasteland
+[02:03:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,78,2) to /turf/simulated/floor/plating/wasteland
+[02:03:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,76,2) to /turf/simulated/floor/plating/wasteland
+[02:03:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,75,2) to /turf/simulated/floor/plating/wasteland
+[02:03:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,77,2) to /turf/simulated/floor/plating/wasteland
+[02:03:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,74,2) to /turf/simulated/floor/plating/wasteland
+[02:03:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,73,2) to /turf/simulated/floor/plating/wasteland
+[02:03:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (121,72,2) to /turf/simulated/floor/plating/wasteland
+[02:03:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,71,2) to /turf/simulated/floor/plating/wasteland
+[02:03:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,71,2) to /turf/simulated/floor/plating/wasteland
+[02:03:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (122,72,2) to /turf/simulated/floor/plating/wasteland
+[02:03:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,73,2) to /turf/simulated/floor/plating/wasteland
+[02:03:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (122,73,2) to /turf/simulated/floor/plating/wasteland
+[02:03:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,74,2) to /turf/simulated/floor/plating/wasteland
+[02:03:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (122,74,2) to /turf/simulated/floor/plating/wasteland
+[02:03:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,75,2) to /turf/simulated/floor/plating/wasteland
+[02:03:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (122,75,2) to /turf/simulated/floor/plating/wasteland
+[02:03:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,76,2) to /turf/simulated/floor/plating/wasteland
+[02:03:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,77,2) to /turf/simulated/floor/plating/wasteland
+[02:03:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (122,77,2) to /turf/simulated/floor/plating/wasteland
+[02:03:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,78,2) to /turf/simulated/floor/plating/wasteland
+[02:03:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (122,78,2) to /turf/simulated/floor/plating/wasteland
+[02:03:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (123,81,2) to /turf/simulated/floor/plating/wasteland
+[02:03:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,82,2) to /turf/simulated/floor/plating/wasteland
+[02:03:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,83,2) to /turf/simulated/floor/plating/wasteland
+[02:03:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (123,83,2) to /turf/simulated/floor/plating/wasteland
+[02:03:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (123,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (124,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,83,2) to /turf/simulated/floor/plating/wasteland
+[02:03:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,82,2) to /turf/simulated/floor/plating/wasteland
+[02:03:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (124,81,2) to /turf/simulated/floor/plating/wasteland
+[02:03:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,82,2) to /turf/simulated/floor/plating/wasteland
+[02:03:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (125,81,2) to /turf/simulated/floor/plating/wasteland
+[02:03:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,84,2) to /turf/simulated/floor/plating/wasteland
+[02:03:59]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[02:03:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (126,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (129,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (131,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (131,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (133,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (135,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,84,2) to /turf/simulated/floor/plating/wasteland
+[02:04:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (125,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (128,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (133,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (135,83,2) to /turf/simulated/floor/plating/wasteland
+[02:04:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (129,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,82,2) to /turf/simulated/floor/plating/wasteland
+[02:04:14]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[02:04:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (126,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (127,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (128,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (129,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (131,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (131,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (130,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (133,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (132,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (134,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (135,81,2) to /turf/simulated/floor/plating/wasteland
+[02:04:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,78,2) to /turf/simulated/floor/plating/wasteland
+[02:04:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,77,2) to /turf/simulated/floor/plating/wasteland
+[02:04:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,76,2) to /turf/simulated/floor/plating/wasteland
+[02:04:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,75,2) to /turf/simulated/floor/plating/wasteland
+[02:04:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:23]SAY: mouse/ : Squeek!
+[02:04:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (135,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (134,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (133,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (121,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (122,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (124,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (123,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (124,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (125,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,69,2) to /turf/simulated/floor/plating/wasteland
+[02:04:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (127,69,2)
+[02:04:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Heavy Supply Control at (127,69,2)
+[02:04:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Main Blast Doors Control at (128,68,2)
+[02:04:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (128,68,2)
+[02:04:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted General Supply Control at (129,69,2)
+[02:04:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (129,69,2)
+[02:04:33]SAY: mouse/ : Squeek!
+[02:04:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,69,2) to /turf/simulated/floor/plating/wasteland
+[02:04:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,69,2) to /turf/simulated/floor/plating/wasteland
+[02:04:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,68,2) to /turf/simulated/floor/plating/wasteland
+[02:04:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (126,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (125,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (126,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (126,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (127,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (127,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (129,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (129,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (129,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (130,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (131,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (132,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:41]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[02:04:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the window (128,72,2) to /turf/simulated/floor/plating/wasteland
+[02:04:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (132,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (129,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,70,2) to /turf/simulated/floor/plating/wasteland
+[02:04:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (135,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (135,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (135,71,2) to /turf/simulated/floor/plating/wasteland
+[02:04:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,75,2) to /turf/simulated/floor/plating/wasteland
+[02:04:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,76,2) to /turf/simulated/floor/plating/wasteland
+[02:04:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,76,2) to /turf/simulated/floor/plating/wasteland
+[02:04:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,77,2) to /turf/simulated/floor/plating/wasteland
+[02:04:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (134,77,2) to /turf/simulated/floor/plating/wasteland
+[02:04:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (134,78,2) to /turf/simulated/floor/plating/wasteland
+[02:04:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (123,73,2) to /turf/simulated/floor/plating/wasteland
+[02:04:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (125,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (125,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (126,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (127,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (128,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (130,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (131,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (133,74,2) to /turf/simulated/floor/plating/wasteland
+[02:04:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,75,2) to /turf/simulated/floor/plating/wasteland
+[02:04:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (133,75,2) to /turf/simulated/floor/plating/wasteland
+[02:04:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,76,2) to /turf/simulated/floor/plating/wasteland
+[02:04:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,77,2) to /turf/simulated/floor/plating/wasteland
+[02:04:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (133,78,2) to /turf/simulated/floor/plating/wasteland
+[02:04:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (133,78,2) to /turf/simulated/floor/plating/wasteland
+[02:04:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,78,2) to /turf/simulated/floor/plating/wasteland
+[02:04:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,77,2) to /turf/simulated/floor/plating/wasteland
+[02:04:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,76,2) to /turf/simulated/floor/plating/wasteland
+[02:04:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (132,76,2) to /turf/simulated/floor/plating/wasteland
+[02:04:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,75,2) to /turf/simulated/floor/plating/wasteland
+[02:04:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (131,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:01]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (125,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (125,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (125,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (124,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (123,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (124,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (124,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (124,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (123,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (126,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (127,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (125,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (126,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (128,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (129,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,76,2) to /turf/simulated/floor/plating/wasteland
+[02:05:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (130,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,78,2) to /turf/simulated/floor/plating/wasteland
+[02:05:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Wasteland (129,77,2) to /turf/simulated/floor/plating/wasteland
+[02:05:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,75,2) to /turf/simulated/floor/plating/wasteland
+[02:05:19]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:05:44]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table at (128,77,2)
+[02:05:48]SAY: mouse/ : Squeek!
+[02:05:54]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to watler.dmi
+[02:05:56]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to watler
+[02:05:58]SAY: mouse/ : SQUEEK!
+[02:06:01]ADMIN: BartNixon/(Gilroy Rudah) has possessed the table (/obj/structure/table) at (128, 77, 2)
+[02:06:09]ADMIN: BartNixon/(Gilroy Rudah) has possessed the table (/obj/structure/table) at (122, 77, 2)
+[02:06:30]SAY: mouse/ : Squeek?
+[02:06:32]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table/woodentable at (123,81,2)
+[02:06:38]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table/woodentable at (132,83,2)
+[02:06:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table/woodentable at (128,70,2)
+[02:06:59]ADMIN: BartNixon/(Gilroy Rudah) mass modified wooden table's icon to fall64.dmi
+[02:07:04]ADMIN: BartNixon/(Gilroy Rudah) mass modified wooden table's icon_state to tree_1
+[02:07:14]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon_state to tree_2
+[02:07:18]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon_state to tree_3
+[02:07:21]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon_state to tree_4
+[02:07:36]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon_state to tree_5
+[02:07:48]SAY: Ian/ : YAP
+[02:07:50]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/decal/remains/human at (132,73,2)
+[02:07:58]ADMIN: BartNixon/(Gilroy Rudah) has possessed the wooden table (/obj/structure/table/woodentable) at (128, 70, 2)
+[02:08:16]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/landmark/mobcorpse/russian at (128,74,2)
+[02:08:22]ADMIN: BartNixon/(Gilroy Rudah) deleted Russian at (128,74,2)
+[02:08:35]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/landmark/mobcorpse/russian/ranged at (128,74,2)
+[02:08:36]SAY: mouse/ : SQUEEK!
+[02:08:48]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/landmark/mobcorpse/russian/ranged at (127,74,2)
+[02:08:58]ADMIN: BartNixon/(Gilroy Rudah) deleted Russian at (127,74,2)
+[02:09:16]ADMIN: BartNixon/(Gilroy Rudah) deleted Russian at (128,74,2)
+[02:09:22]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/russian/ranged at (128,74,2)
+[02:09:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/russian/ranged at (125,80,2)
+[02:09:40]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[02:10:10]ADMIN: BartNixon/(Gilroy Rudah) modified Gilroy Rudah's icon to blank.gif
+[02:10:16]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:10:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[02:10:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (131,74,2)
+[02:10:20]SAY: mouse/ : Squeek?
+[02:10:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (131,73,2)
+[02:10:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (129,74,2)
+[02:10:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,74,2)
+[02:10:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,73,2)
+[02:10:25]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:10:32]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/landmark/mobcorpse/russian/ranged at (128,83,2)
+[02:10:39]ADMIN: BartNixon/(Gilroy Rudah) deleted Russian at (128,83,2)
+[02:10:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/russian/ranged at (128,83,2)
+[02:10:49]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:10:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[02:10:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,74,2)
+[02:10:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,73,2)
+[02:11:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,83,2)
+[02:11:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,83,2)
+[02:11:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,83,2)
+[02:11:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,83,2)
+[02:11:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,82,2)
+[02:11:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,83,2)
+[02:11:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,84,2)
+[02:11:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,82,2)
+[02:11:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,73,2)
+[02:11:08]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:11:21]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[02:11:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[02:11:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,73,2)
+[02:11:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,74,2)
+[02:11:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (130,73,2)
+[02:11:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (123,81,2)
+[02:11:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (123,81,2)
+[02:11:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (123,81,2)
+[02:11:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (123,79,2)
+[02:11:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (123,81,2)
+[02:11:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (129,83,2)
+[02:11:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Russian at Wasteland (128,82,2)
+[02:11:33]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[02:11:35]SAY: mouse/ : Squeek!
+[02:11:43]SAY: mouse/ : Squeek!
+[02:11:53]SAY: mouse/ : Squeek!
+[02:12:26]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[02:12:45]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[02:13:15]SAY: mouse/ : SQUEEK!
+[02:13:25]SAY: mouse/ : Squeek?
+[02:14:14]SAY: mouse/ : Squeek!
+[02:15:16]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[02:15:18]SAY: Runtime/ : HSSSSS
+[02:17:02]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[02:17:13]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[02:17:45]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[02:17:49]SAY: Pete/ : EHEHEHEHEH
+[02:17:59]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[02:18:35]SAY: mouse/ : SQUEEK!
+[02:19:23]SAY: Poly/ : Poly wanna cracker!
+[02:19:47]SAY: mouse/ : Squeek?
+[02:19:56]SAY: mouse/ : Squeek!
+[02:20:48]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[02:21:30]SAY: mouse/ : Squeek!
+[02:21:34]SAY: mouse/ : SQUEEK!
+[02:22:58]SAY: Tom/ : Squeek?
+[02:23:13]SAY: mouse/ : Squeek?
+[02:23:23]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[02:23:29]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[02:24:11]SAY: mouse/ : Squeek!
+[02:24:53]SAY: mouse/ : Squeek!
+[02:26:27]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+[23:50:54]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[23:51:16]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[23:51:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (121,75,2)
+[23:51:21]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[23:51:25]ADMIN: BartNixon/(Gilroy Rudah) deleted Russian at (123,82,2)
+[23:52:54]SAY: mouse/ : SQUEEK!
+[23:53:18]SAY: mouse/ : Squeek!
+[23:54:18]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[23:54:18]ADMIN: BartNixon/(Gilroy Rudah) deleted Russian at (134,71,2)
+[23:54:22]ADMIN: BartNixon/(Gilroy Rudah) deleted Russian at (126,82,2)
+[23:54:38]SAY: mouse/ : SQUEEK!
+[23:54:57]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/mimic at (128,77,2)
+[23:55:14]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/mimic at (126,75,2)
+[23:55:25]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/mimic/crate at (128,77,2)
+[23:55:31]ADMIN: BartNixon/(Gilroy Rudah) deleted the crate at (128,77,2)
+[23:55:35]SAY: mouse/ : SQUEEK!
+[23:55:39]ADMIN: BartNixon/(Gilroy Rudah) deleted the crate at (123,77,2)
+[23:55:43]ADMIN: BartNixon/(Gilroy Rudah) deleted the crate at (126,82,2)
+[23:55:51]SAY: mouse/ : SQUEEK!
+[23:55:55]SAY: Tom/ : Squeek!
+[23:56:07]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[23:56:41]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/viscerator at (128,77,2)
+[23:56:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/viscerator at (128,77,2)
+[23:56:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/viscerator at (128,77,2)
+[23:57:18]SAY: Runtime/ : HSSSSS
+[23:57:25]SAY: mouse/ : SQUEEK!
+[23:57:27]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[23:57:33]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[23:57:52]ADMIN: BartNixon/(Gilroy Rudah) mass modified viscerator's icon to cazador2.dmi
+[23:57:57]ADMIN: BartNixon/(Gilroy Rudah) mass modified viscerator's icon_living to cazador
+[23:58:03]ADMIN: BartNixon/(Gilroy Rudah) mass modified viscerator's icon_state to cazador
+[23:58:04]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[23:58:10]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[23:58:25]ADMIN: BartNixon/(Gilroy Rudah) mass modified viscerator's icon to cazador2.dmi
+[23:58:48]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[23:58:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[23:58:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (127,76,2)
+[23:58:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (127,76,2)
+[23:58:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (132,79,2)
+[23:58:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (132,76,2)
+[23:58:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (125,78,2)
+[23:58:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (128,80,2)
+[23:59:00]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[23:59:10]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[23:59:28]SAY: mouse/ : Squeek?
+[23:59:36]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[23:59:53]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[00:00:13]SAY: mouse/ : SQUEEK!
+[00:00:28]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/monkey at (128,77,2)
+[00:00:41]EMOTE: monkey (162)/ : <B>The monkey (162)</B> gasps!
+[00:00:45]EMOTE: monkey (162)/ : <B>The monkey (162)</B> gasps!
+[00:00:49]EMOTE: monkey (162)/ : <B>The monkey (162)</B> gasps!
+[00:00:56]EMOTE: monkey (162)/ : <B>The monkey (162)</B> gasps!
+[00:01:04]EMOTE: monkey (162)/ : <B>The monkey (162)</B> gasps!
+[00:01:06]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:01:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the wooden table parts at (128,71,2)
+[00:01:08]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:01:12]EMOTE: monkey (162)/ : <B>The monkey (162)</B> gasps!
+[00:01:20]EMOTE: monkey (162)/ : <B>The monkey (162)</B> gasps!
+[00:01:22]SAY: mouse/ : Squeek!
+[00:01:48]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[00:01:50]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:02:04]SAY: mouse/ : SQUEEK!
+[00:02:14]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[00:02:14]SAY: Tom/ : Squeek!
+[00:02:34]SAY: mouse/ : Squeek!
+[00:02:39]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk01 at (130,73,2)
+[00:02:45]ADMIN: BartNixon/(Gilroy Rudah) deleted the monkey (162) at (128,76,2)
+[00:02:47]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:02:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[00:02:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the holodisk at Wasteland (131,74,2)
+[00:02:51]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:03:16]ADMIN: BartNixon/(Gilroy Rudah) modified holodisk's icon_state to holodiskanim
+[00:04:32]SAY: Ian/ : Woof!
+[00:04:49]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/closet/body_bag at (128,77,2)
+[00:05:23]SAY: mouse/ : Squeek?
+[00:05:23]ADMIN: BartNixon/(Gilroy Rudah) made *no key*/(viscerator) drop everything!
+[00:05:27]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[00:05:53]ADMIN: BartNixon/(Gilroy Rudah) has deleted all (3) instances of /mob/living/simple_animal/hostile/viscerator.
+[00:06:00]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[00:06:00]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:06:00]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:06:03]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:06:03]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:06:11]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/hand_labeler at (128,78,2)
+[00:06:24]SAY: mouse/ : SQUEEK!
+[00:06:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/closet/bodybag at (129,78,2)
+[00:06:46]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[00:06:50]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[00:06:53]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/box/bodybags at (128,76,2)
+[00:07:12]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[00:07:22]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[00:07:24]SAY: mouse/ : Squeek?
+[00:07:28]SAY: mouse/ : Squeek?
+[00:07:31]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/paper at (128,78,2)
+[00:07:32]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[00:07:38]SAY: Poly/ : Wire the solars, you lazy bums!
+[00:08:03]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:08:40]SAY: mouse/ : Squeek?
+[00:08:40]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:08:40]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:08:55]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Brig
+[00:08:57]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[00:09:11]SAY: mouse/ : Squeek!
+[00:09:15]SAY: mouse/ : SQUEEK!
+[00:09:17]SAY: mouse/ : SQUEEK!
+[00:09:31]GAME: Explosion with size (1, 2, 3, 0) in area Prison Wing (103,186,1)
+[00:09:44]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[00:09:46]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:10:00]SAY: mouse/ : Squeek?
+[00:10:31]ADMIN: BartNixon/(Gilroy Rudah) modified Gilroy Rudah's icon to blank.gif
+[00:11:01]SAY: mouse/ : Squeek?
+[00:11:33]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:11:37]SAY: mouse/ : SQUEEK!
+[00:12:02]SAY: mouse/ : Squeek!
+[00:12:22]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:12:53]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:13:22]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[00:14:07]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:14:28]SAY: mouse/ : Squeek!
+[00:14:36]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[00:15:31]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (103,177,1)
+[00:15:44]GAME: Explosion with size (3, 5, 7, 0) in area Chapel (182,135,1)
+[00:15:57]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (169,129,1)
+[00:16:03]SAY: Ian/ : AUUUUUU
+[00:16:06]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:16:21]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[00:16:29]SAY: mouse/ : Squeek!
+[00:16:39]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:17:46]SAY: mouse/ : SQUEEK!
+[00:17:56]SAY: Pete/ : EHEHEHEHEH
+[00:18:02]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:18:08]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:18:10]SAY: mouse/ : Squeek?
+[00:18:16]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:18:24]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:18:40]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:18:48]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:18:56]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:19:02]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[00:19:04]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:19:33]SAY: mouse/ : Squeek?
+[00:19:41]SAY: mouse/ : Squeek?
+[00:20:57]SAY: mouse/ : SQUEEK!
+[00:21:23]SAY: Runtime/ : Purr!
+[00:21:53]SAY: Runtime/ : HSSSSS
+[00:22:19]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:23:27]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:23:31]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[00:24:09]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[00:24:21]SAY: mouse/ : Squeek?
+[00:24:43]SAY: mouse/ : Squeek?
+[00:24:50]SAY: Poly/ : Poly wanna cracker!
+[00:25:05]SAY: mouse/ : Squeek!
+[00:25:25]SAY: mouse/ : Squeek?
+[00:25:43]SAY: mouse/ : SQUEEK!
+[00:26:05]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[00:26:05]SAY: mouse/ : SQUEEK!
+[00:26:21]SAY: mouse/ : Squeek?
+[00:26:23]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:26:37]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[00:26:57]SAY: Ian/ : Woof!
+[00:27:13]SAY: mouse/ : Squeek?
+[00:27:46]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[00:28:03]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[00:28:03]SAY: Runtime/ : HSSSSS
+[00:28:03]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:28:05]SAY: mouse/ : Squeek!
+[00:28:07]SAY: mouse/ : Squeek?
+[00:28:07]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:28:19]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Derelict Chapel
+[00:28:31]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:28:31]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:28:44]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/vending/nukacolavend at (138,156,4)
+[00:28:47]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[00:28:49]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:28:55]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[00:28:57]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:29:02]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/nukacola at (138,154,4)
+[00:29:03]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:29:03]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:29:25]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:29:51]ADMIN: BartNixon/(Gilroy Rudah) mass modified power cell's charge to 3000
+[00:30:03]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:30:51]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[00:31:04]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:31:12]SAY: mouse/ : Squeek!
+[00:31:14]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:31:22]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[00:31:24]SAY: mouse/ : Squeek!
+[00:31:26]ADMIN: BartNixon/(Gilroy Rudah) mass modified bruise pack's icon to radio.dmi
+[00:31:30]ADMIN: BartNixon/(Gilroy Rudah) modified bruise pack's icon_state to radio-on
+[00:31:34]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:31:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (140,156,4)
+[00:31:38]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:31:53]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to woodentable
+[00:31:57]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to wooden-table
+[00:32:00]SAY: mouse/ : Squeek?
+[00:32:00]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:32:06]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:32:31]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:32:33]SAY: mouse/ : SQUEEK!
+[00:32:33]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:32:39]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to woodtable
+[00:32:47]SAY: mouse/ : SQUEEK!
+[00:33:02]ADMIN: BartNixon/(Gilroy Rudah) mass modified table's icon to icons/obj/structures.dmi
+[00:33:07]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:33:07]SAY: mouse/ : Squeek?
+[00:33:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[00:33:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bruise pack at the table (140,156,4)
+[00:33:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bruise pack at the table (140,156,4)
+[00:33:18]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:33:20]ADMIN: BartNixon/(Gilroy Rudah) has possessed the bruise pack (/obj/item/stack/medical/bruise_pack) at (140, 159, 4)
+[00:33:27]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[00:33:31]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:33:31]SAY: mouse/ : Squeek!
+[00:33:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the bruise pack at (142,155,4)
+[00:33:33]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> gasps!
+[00:33:33]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:33:59]EMOTE: Gilroy Rudah/ : <B>Gilroy Rudah</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:34:48]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[00:34:52]SAY: mouse/ : SQUEEK!
+[00:35:12]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[00:35:20]SAY: mouse/ : SQUEEK!
+[00:35:45]SAY: mouse/ : SQUEEK!
+[00:36:03]SAY: mouse/ : Squeek!
+[00:36:25]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:36:46]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:36:58]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:37:10]SAY: mouse/ : Squeek?
+[00:37:52]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[00:38:01]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:38:03]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:38:15]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[00:38:15]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:39:24]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:39:26]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[00:40:30]ADMIN: BartNixon/(Gilroy Rudah) jumped to Engineering
+[00:40:57]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[00:40:58]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[00:41:27]SAY: mouse/ : Squeek!
+[00:41:43]SAY: mouse/ : Squeek!
+[00:42:05]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[00:42:05]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:42:05]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:42:09]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:42:10]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:42:10]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:42:14]SAY: mouse/ : SQUEEK!
+[00:42:33]EMOTE: monkey (696)/ : <B>The monkey (696)</B> jumps!
+[00:42:39]SAY: mouse/ : Squeek?
+[00:43:15]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:44:00]SAY: mouse/ : Squeek?
+[00:44:18]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[00:44:22]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:44:45]SAY: mouse/ : SQUEEK!
+[00:45:17]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:45:17]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:46:30]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:47:04]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:47:10]SAY: mouse/ : Squeek!
+[00:47:16]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:48:43]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[00:48:51]SAY: mouse/ : Squeek?
+[00:49:14]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:49:24]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:49:30]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:49:38]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:50:11]SAY: mouse/ : Squeek?
+[00:50:25]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:50:57]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[00:51:33]SAY: mouse/ : Squeek?
+[00:52:16]SAY: mouse/ : SQUEEK!
+[00:53:01]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Thunderdome
+[00:53:04]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[00:53:06]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:53:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (129,78,2)
+[00:53:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the body bag (Radioactive) at (128,77,2)
+[00:53:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the body bags at (128,76,2)
+[00:53:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the body bag (Radioactive) at (127,78,2)
+[00:53:15]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:53:19]ADMIN: BartNixon/(Gilroy Rudah) deleted Gilroy Rudah at (128,78,2)
+[00:53:28]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table/woodentable at (128,75,2)
+[00:53:38]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[00:53:56]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:53:58]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon to fall64.dmi
+[00:54:03]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon_state to tree_5
+[00:54:10]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon_state to tree_4
+[00:54:15]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:54:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[00:54:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the wooden table at Wasteland (133,82,2)
+[00:54:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the wooden table at Wasteland (133,82,2)
+[00:54:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the wooden table at Wasteland (132,82,2)
+[00:54:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the wooden table at Wasteland (128,71,2)
+[00:54:24]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:54:30]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/viscerator at (128,77,2)
+[00:54:30]SAY: mouse/ : SQUEEK!
+[00:54:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/viscerator at (128,77,2)
+[00:54:39]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/viscerator at (128,76,2)
+[00:55:02]ADMIN: BartNixon/(Gilroy Rudah) modified Gilroy Rudah's icon to blank.gif
+[00:55:35]ADMIN: BartNixon/(Gilroy Rudah) mass modified viscerator's icon to cazador2.dmi
+[00:57:08]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[00:57:18]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[00:57:50]SAY: mouse/ : Squeek?
+[00:57:52]ADMIN: BartNixon/(Gilroy Rudah) mass modified viscerator's icon_living to cazador
+[00:57:58]ADMIN: BartNixon/(Gilroy Rudah) mass modified viscerator's icon_state to cazador
+[00:58:00]SAY: Ian/ : YAP
+[00:58:02]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:58:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[00:58:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (128,75,2)
+[00:58:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (128,77,2)
+[00:58:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (134,81,2)
+[00:58:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (134,80,2)
+[00:58:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (128,81,2)
+[00:58:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (130,77,2)
+[00:58:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (130,76,2)
+[00:58:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (127,76,2)
+[00:58:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (129,80,2)
+[00:58:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (129,78,2)
+[00:58:15]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:58:39]EMOTE: monkey (865)/ : <B>The monkey (865)</B> jumps!
+[00:59:07]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[01:00:28]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[01:00:47]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[01:02:20]EMOTE: monkey (502)/ : <B>The monkey (502)</B> jumps!
+[01:02:38]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[01:02:44]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[01:02:47]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[01:02:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[01:02:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (127,79,2)
+[01:02:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (129,78,2)
+[01:02:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (129,75,2)
+[01:02:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (127,83,2)
+[01:02:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (130,82,2)
+[01:02:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (128,78,2)
+[01:02:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (130,77,2)
+[01:02:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (123,78,2)
+[01:02:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (125,77,2)
+[01:02:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the viscerator at Wasteland (130,77,2)
+[01:02:58]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[01:03:00]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[01:03:02]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[01:03:20]EMOTE: monkey (942)/ : <B>The monkey (942)</B> jumps!
+[01:03:48]SAY: mouse/ : Squeek?
+[01:07:35]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[01:08:40]SAY: mouse/ : Squeek!
+[01:08:42]SAY: mouse/ : Squeek!
+[01:08:53]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

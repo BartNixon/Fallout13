@@ -1,0 +1,1059 @@
+
+
+Starting up. 01:43.54
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[01:43:55]ADMIN: Loading Banlistjob
+[01:43:55]ADMIN: Loading jobban_rank
+[01:43:55]ADMIN: jobban_keylist was empty
+[01:43:55]ADMIN: Loading appearance_rank
+[01:43:55]ADMIN: appearance_keylist was empty
+[01:43:55]ADMIN: Updating jobbanfile!
+[01:43:55]ADMIN: Loading Banlist
+[01:45:00]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[01:47:14]SAY: Ian/ : YAP
+[01:48:59]SAY: mouse/ : SQUEEK!
+[01:49:05]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[01:50:01]SAY: Ian/ : Bark!
+[01:50:46]SAY: grey baby slime (480)/ : Lonely...
+[01:50:46]EMOTE: monkey (752)/ : <B>The monkey (752)</B> jumps!
+[01:50:52]EMOTE: monkey (124)/ : <B>The monkey (124)</B> jumps!
+[01:51:16]SAY: mouse/ : Squeek?
+[01:51:26]SAY: mouse/ : Squeek?
+[01:52:44]SAY: Runtime/ : Esp!
+[01:53:26]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[01:53:45]SAY: mouse/ : Squeek!
+[01:53:49]SAY: grey baby slime (480)/ : Blop...
+[01:54:11]EMOTE: monkey (949)/ : <B>The monkey (949)</B> jumps!
+[01:54:15]SAY: mouse/ : Squeek!
+[01:55:24]SAY: mouse/ : Squeek!
+[01:55:42]EMOTE: monkey (752)/ : <B>The monkey (752)</B> jumps!
+[01:56:24]SAY: mouse/ : Squeek?
+[01:56:58]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[01:56:58]SAY: mouse/ : Squeek?
+[01:57:26]EMOTE: monkey (124)/ : <B>The monkey (124)</B> jumps!
+[01:57:37]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[01:57:58]EMOTE: monkey (949)/ : <B>The monkey (949)</B> jumps!
+[01:57:58]EMOTE: monkey (196)/ : <B>The monkey (196)</B> jumps!
+[01:58:13]EMOTE: monkey (461)/ : <B>The monkey (461)</B> jumps!
+[01:58:45]EMOTE: monkey (461)/ : <B>The monkey (461)</B> jumps!
+[01:58:45]SAY: mouse/ : Squeek!
+[01:58:47]SAY: mouse/ : Squeek!
+[01:58:59]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[01:59:01]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[01:59:01]EMOTE: monkey (949)/ : <B>The monkey (949)</B> jumps!
+[01:59:11]EMOTE: monkey (733)/ : <B>The monkey (733)</B> jumps!
+[01:59:19]EMOTE: monkey (963)/ : <B>The monkey (963)</B> jumps!
+[01:59:41]SAY: mouse/ : Squeek!
+[01:59:54]EMOTE: monkey (124)/ : <B>The monkey (124)</B> jumps!
+[01:59:56]SAY: mouse/ : Squeek?
+[01:59:56]SAY: mouse/ : Squeek?
+[02:01:02]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[02:01:12]SAY: mouse/ : Squeek!
+[02:01:37]SAY: Pete/ : eh?
+[02:02:09]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[02:02:17]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[02:02:39]SAY: Runtime/ : Esp!
+[02:02:49]EMOTE: monkey (655)/ : <B>The monkey (655)</B> jumps!
+[02:02:49]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[02:03:09]SAY: grey baby slime (480)/ : Blorble...
+[02:03:33]EMOTE: monkey (963)/ : <B>The monkey (963)</B> jumps!
+[02:03:59]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[02:04:17]EMOTE: monkey (733)/ : <B>The monkey (733)</B> jumps!
+[02:04:51]EMOTE: monkey (949)/ : <B>The monkey (949)</B> jumps!
+[02:06:02]SAY: mouse/ : Squeek!
+[02:06:20]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[02:07:11]SAY: mouse/ : SQUEEK!
+[02:07:23]SAY: mouse/ : SQUEEK!
+[02:07:39]SAY: mouse/ : SQUEEK!
+[02:07:39]SAY: grey baby slime (50)/ : Lonely...
+[02:07:41]EMOTE: monkey (752)/ : <B>The monkey (752)</B> jumps!
+[02:07:43]SAY: Ian/ : AUUUUUU
+[02:07:47]EMOTE: monkey (963)/ : <B>The monkey (963)</B> jumps!
+[02:08:15]EMOTE: monkey (115)/ : <B>The monkey (115)</B> jumps!
+[02:08:40]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+[02:10:42]ACCESS: Login: IDeee/(IDeee) from 7.84.93.29-517297346 || BYOND v501
+[02:10:49]EMOTE: monkey (655)/ : <B>The monkey (655)</B> jumps!
+[02:10:50]EMOTE: monkey (996)/ : <B>The monkey (996)</B> jumps!
+[02:11:12]EMOTE: monkey (115)/ : <B>The monkey (115)</B> jumps!
+[02:11:16]EMOTE: monkey (196)/ : <B>The monkey (196)</B> jumps!
+[02:11:22]SAY: mouse/ : Squeek?
+[02:11:22]EMOTE: monkey (752)/ : <B>The monkey (752)</B> jumps!
+[02:11:34]SAY: mouse/ : SQUEEK!
+[02:11:48]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[02:13:29]EMOTE: monkey (461)/ : <B>The monkey (461)</B> jumps!
+[02:13:43]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[02:14:01]SAY: mouse/ : SQUEEK!
+[02:14:19]EMOTE: monkey (963)/ : <B>The monkey (963)</B> jumps!
+[02:14:29]EMOTE: monkey (963)/ : <B>The monkey (963)</B> jumps!
+[02:15:03]EMOTE: monkey (115)/ : <B>The monkey (115)</B> jumps!
+[02:15:09]SAY: Tom/ : Squeek?
+[02:15:37]SAY: mouse/ : Squeek?
+[02:15:55]SAY: Poly/ : Wire the solars, you lazy bums!
+[02:15:59]SAY: grey baby slime (480)/ : Rawr...
+[02:16:15]SAY: mouse/ : Squeek!
+[02:16:29]EMOTE: monkey (733)/ : <B>The monkey (733)</B> jumps!
+[02:16:35]SAY: mouse/ : Squeek?
+[02:16:51]SAY: Runtime/ : Esp!
+[02:16:54]ACCESS: Logout: IDeee[DC]/(IDeee)
+
+
+Starting up. 05:22.10
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[05:22:10]ADMIN: Loading Banlistjob
+[05:22:10]ADMIN: Loading jobban_rank
+[05:22:10]ADMIN: jobban_keylist was empty
+[05:22:10]ADMIN: Loading appearance_rank
+[05:22:10]ADMIN: appearance_keylist was empty
+[05:22:10]ADMIN: Updating jobbanfile!
+[05:22:10]ADMIN: Loading Banlist
+[05:23:27]ACCESS: Login: Login/(Login) from 127.0.0.1-3529772718 || BYOND v506
+[05:24:21]ACCESS: Logout: Login[DC]/(Login)
+[05:24:41]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[05:24:52]ADMIN: BartNixon/(BartNixon) delayed the game.
+[05:28:55]ACCESS: Login: HITHISISFRONK/(HITHISISFRONK) from 7.89.163.2-2325808999 || BYOND v506
+[05:29:17]ADMIN: BartNixon/(BartNixon) removed the delay.
+[05:29:19]OOC: BartNixon/BartNixon : There is one feature, that even TG would enjoy in its full beauty!
+[05:30:00]OOC: BartNixon/BartNixon : Oh yeah... The font is different, changed it in sake of originality.
+[05:30:05]ACCESS: Logout: *no key*/(HITHISISFRONK)
+[05:30:05]ACCESS: Login: HITHISISFRONK/(Willy Raiden) from 7.89.163.2-2325808999 || BYOND v506
+[05:30:10]ACCESS: Logout: *no key*/(BartNixon)
+[05:30:10]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:30:14]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[05:30:24]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[05:30:35]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[05:30:39]SAY: Chuckles/HITHISISFRONK : Oh hey
+[05:30:40]SAY: Runtime/ : Esp!
+[05:30:40]SAY: Chuckles/HITHISISFRONK : Sweet.
+[05:30:56]OOC: Gilroy Rudah/BartNixon : Classic Nuka-Cola from F3
+[05:31:22]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[05:31:30]ADMIN: BartNixon/(Gilroy Rudah) jumped to HITHISISFRONK/(Chuckles)
+[05:31:34]SAY: Tom/ : Squeek!
+[05:31:39]ADMIN: BartNixon/(Gilroy Rudah) jumped to 92,127,1 in the Cargo Office
+[05:31:43]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[05:31:49]EMOTE: monkey (990)/ : <B>The monkey (990)</B> jumps!
+[05:31:50]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (91,125,1)
+[05:31:55]SAY: Chuckles/HITHISISFRONK : Honk.
+[05:31:57]OOC: Gilroy Rudah/BartNixon : Test dem gun sounds.
+[05:32:00]SAY: mouse/ : Squeek?
+[05:32:07]SAY: Chuckles/HITHISISFRONK : Oh
+[05:32:08]SAY: mouse/ : SQUEEK!
+[05:32:09]SAY: Chuckles/HITHISISFRONK : I shot myself
+[05:32:12]SAY: grey baby slime (672)/ : Lonely...
+[05:32:20]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (92,125,1)
+[05:32:22]EMOTE: monkey (585)/ : <B>The monkey (585)</B> jumps!
+[05:32:26]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[05:32:26]SAY: Tom/ : Squeek?
+[05:32:29]SAY: Chuckles/HITHISISFRONK : Oh
+[05:32:30]SAY: Chuckles/HITHISISFRONK : Ow.
+[05:32:34]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived HITHISISFRONK/(Chuckles)
+[05:32:46]SAY: mouse/ : SQUEEK!
+[05:32:59]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flushing to 1
+[05:33:02]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flush to 1
+[05:33:31]OOC: Gilroy Rudah/BartNixon : Now for the awesome thing. Ghost yourself.
+[05:33:34]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[05:33:34]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:33:36]ACCESS: Logout: *no key*/(Chuckles)
+[05:33:36]ACCESS: Login: HITHISISFRONK/(Chuckles) from 7.89.163.2-2325808999 || BYOND v506
+[05:33:51]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[05:33:56]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Test Area (228,106,1)
+[05:34:00]SAY: Ghost/HITHISISFRONK : Oh cool
+[05:34:01]GAME: Explosion with size (3, 5, 7, 0) in area Toxins Test Area (228,103,1)
+[05:34:08]GAME: Explosion with size (3, 5, 7, 0) in area Space (222,105,1)
+[05:34:09]EMOTE: monkey (585)/ : <B>The monkey (585)</B> jumps!
+[05:34:34]GAME: Explosion with size (3, 5, 7, 0) in area Space (216,104,1)
+[05:34:50]SAY: mouse/ : SQUEEK!
+[05:35:29]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/mechanical at (94,118,1)
+[05:35:36]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/emergency at (93,118,1)
+[05:35:44]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/electrical at (92,118,1)
+[05:35:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/syndicate at (93,117,1)
+[05:35:56]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[05:36:06]SAY: grey baby slime (672)/ : Blop...
+[05:36:10]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[05:36:14]EMOTE: monkey (654)/ : <B>The monkey (654)</B> jumps!
+[05:36:41]ADMIN: HELP: BartNixon/(Gilroy Rudah): This is epic adminhelp. The non Irritating ones. - heard by 1 non-AFK admins who have +BAN.
+[05:37:04]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[05:37:19]SAY: mouse/ : SQUEEK!
+[05:37:35]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[05:38:05]EMOTE: monkey (743)/ : <B>The monkey (743)</B> jumps!
+[05:38:33]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[05:38:39]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[05:38:47]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[05:39:05]SAY: Ian/ : YAP
+[05:39:05]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[05:39:16]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[05:39:17]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[05:39:25]ADMIN: BartNixon/(Gilroy Rudah) teleported *no key*/(Chuckles)
+[05:39:27]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[05:39:41]ADMIN: BartNixon/(Gilroy Rudah) modified Chuckles's ckey to honkthisfronk
+[05:39:45]SAY: mouse/ : Squeek?
+[05:39:48]ADMIN: BartNixon/(Gilroy Rudah) modified Chuckles's ckey to hitthisfronk
+[05:40:09]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[05:40:16]ACCESS: Logout: *no key*/(Chuckles)
+[05:40:16]ACCESS: Login: HITHISISFRONK/(Chuckles) from 7.89.163.2-2325808999 || BYOND v506
+[05:40:16]ADMIN: BartNixon/(Gilroy Rudah) modified Chuckles's ckey to hithisisfronk
+[05:40:21]ADMIN: BartNixon/(Gilroy Rudah) : Stupid me.
+[05:40:30]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived HITHISISFRONK/(Chuckles)
+[05:40:40]SAY: mouse/ : Squeek?
+[05:40:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/card/id/captains_spare at (112,76,1)
+[05:40:58]SAY: mouse/ : Squeek!
+[05:41:09]OOC: Gilroy Rudah/BartNixon : Get the accelerator ready.
+[05:41:25]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[05:41:26]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[05:41:26]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:41:28]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[05:41:28]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:41:35]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of BartNixon/(Gilroy Rudah) to standard space gear.
+[05:41:46]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/card/id/captains_spare at (104,69,1)
+[05:41:46]SAY: grey baby slime (80)/ : Rawr...
+[05:42:08]EMOTE: monkey (743)/ : <B>The monkey (743)</B> jumps!
+[05:42:16]GAME: PA Control Computer increased to 1 by hithisisfronk(Chuckles) in (112,71,1)
+[05:42:16]GAME: PA Control Computer increased to 2 by hithisisfronk(Chuckles) in (112,71,1)
+[05:42:18]GAME: PA Control Computer turned ON by hithisisfronk(Chuckles) in (112,71,1)
+[05:42:20]SAY: mouse/ : Squeek!
+[05:42:38]SAY: Ian/ : Woof!
+[05:43:04]EMOTE: monkey (585)/ : <B>The monkey (585)</B> jumps!
+[05:43:36]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[05:43:53]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[05:44:39]ACCESS: Login: Spocklan116/(Spocklan116) from 7.90.241.234-781613774 || BYOND v506
+[05:45:04]OOC: Gilroy Rudah (as Captain)/BartNixon : So they have really cool charge indicators.
+[05:45:33]OOC: Gilroy Rudah (as Captain)/BartNixon : You will see it soon.
+[05:45:51]OOC: Gilroy Rudah (as Captain)/BartNixon : It&#39;s gonna be clear enough when the indicator shows up.
+[05:45:52]SAY: Runtime/ : Meow!
+[05:45:56]EMOTE: monkey (990)/ : <B>The monkey (990)</B> jumps!
+[05:46:02]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[05:46:07]OOC: Gilroy Rudah (as Captain)/BartNixon : Hey Spock.
+[05:46:11]ACCESS: Logout: *no key*/(Spocklan116)
+[05:46:11]ACCESS: Login: Spocklan116/(Lachlan Hoffmann) from 7.90.241.234-781613774 || BYOND v506
+[05:46:12]SAY: grey baby slime (672)/ : Lonely...
+[05:46:12]SAY: mouse/ : SQUEEK!
+[05:46:25]ADMIN: BartNixon/(Gilroy Rudah) teleported Spocklan116/(Lachlan Hoffmann)
+[05:46:37]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (90,73,1)
+[05:46:47]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (90,72,1)
+[05:46:55]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived Spocklan116/(Lachlan Hoffmann)
+[05:47:18]OOC: Gilroy Rudah (as Captain)/BartNixon : Btw, this thing is a powercell...
+[05:47:34]EMOTE: Chuckles/HITHISISFRONK : <B>Chuckles</B> collapses!
+[05:47:34]OOC: Gilroy Rudah (as Captain)/BartNixon : Vault door it is.
+[05:47:41]SAY: Ian/ : YAP
+[05:47:50]SAY: Chuckles/HITHISISFRONK : HONK!
+[05:47:58]SAY: Chuckles/HITHISISFRONK : I wasn&#39;t actually dead!
+[05:47:59]SAY: Tom/ : Squeek?
+[05:48:01]SAY: Chuckles/HITHISISFRONK : I was just pretending!
+[05:48:05]OOC: Gilroy Rudah (as Captain)/BartNixon : There are also random wasteland ambients. Let&#39;s go to the cargo - there will be chance to hear some of the ambience
+[05:48:11]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:12]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived HITHISISFRONK/(Chuckles)
+[05:48:13]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:15]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:17]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:19]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:21]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:23]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:25]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:27]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:27]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on Spocklan116/(Lachlan Hoffmann). Transforming to human; deletemob=0
+[05:48:27]ACCESS: Logout: *no key*/(Lachlan Hoffmann)
+[05:48:27]ACCESS: Login: Spocklan116/(Lachlan Hoffmann) from 7.90.241.234-781613774 || BYOND v506
+[05:48:28]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived *no key*/(Lachlan Hoffmann)
+[05:48:31]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:33]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:35]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:35]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:37]SAY: mouse/ : SQUEEK!
+[05:48:37]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:37]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:39]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:39]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:41]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:41]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:43]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:43]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:45]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:45]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:47]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:47]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:49]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:49]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:50]ACCESS: Logout: *no key*/(Lachlan Hoffmann)
+[05:48:50]ACCESS: Login: Spocklan116/(Lachlan Hoffmann) from 7.90.241.234-781613774 || BYOND v506
+[05:48:50]ADMIN: BartNixon/(Gilroy Rudah) modified Lachlan Hoffmann's ckey to spocklan116
+[05:48:51]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:51]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:52]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:53]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:54]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:54]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:55]ADMIN: BartNixon/(Gilroy Rudah) teleported Spocklan116/(Lachlan Hoffmann)
+[05:48:56]EMOTE: Lachlan Hoffmann/Spocklan116 : <B>Lachlan Hoffmann</B> collapses!
+[05:48:56]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:48:58]SAY: mouse/ : Squeek?
+[05:48:58]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:00]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:01]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived Spocklan116/(Lachlan Hoffmann)
+[05:49:02]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:04]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:06]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:07]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived BartNixon/(Gilroy Rudah)
+[05:49:08]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:10]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:12]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:14]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:16]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:18]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:20]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:22]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:24]SAY: Runtime/ : Purr!
+[05:49:24]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:26]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:28]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:30]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:32]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:34]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:36]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:38]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:40]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:42]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:44]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:46]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:48]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:50]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:52]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:54]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:56]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:49:56]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> gasps!
+[05:49:58]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:00]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:02]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:04]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:06]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:06]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> gasps!
+[05:50:08]EMOTE: monkey (743)/ : <B>The monkey (743)</B> jumps!
+[05:50:08]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:10]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:10]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> gasps!
+[05:50:12]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:14]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:15]ADMIN: BartNixon/(Gilroy Rudah) jumped to Spocklan116/(Lachlan Hoffmann)
+[05:50:16]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:18]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:19]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:21]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Cargo Bay
+[05:50:21]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:23]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:25]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:27]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:29]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> collapses!
+[05:50:31]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[05:50:31]EMOTE: Lachlan Hoffmann/ : <B>Lachlan Hoffmann</B> seizes up and falls limp, his eyes dead and lifeless...
+[05:50:36]GAME: Emitter deleted at (107,63,1)
+[05:50:36]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering (107,68,1)
+[05:50:36]OOC: Gilroy Rudah (as Captain)/BartNixon : BTW! Another thing based of Fallout... http://i.gyazo.com/758685f30aeb7fae60cc93c44e17afeb.png
+[05:50:40]GAME: Emitter deleted at (109,62,1)
+[05:50:44]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering (101,68,1)
+[05:50:45]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[05:50:45]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:50:48]GAME: Emitter lost power in (116,63,1)
+[05:50:49]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[05:50:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the gravitational singularity at (105,65,1)
+[05:50:51]GAME: Emitter lost power in (118,64,1)
+[05:50:57]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[05:51:04]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[05:51:09]SAY: Chuckles/HITHISISFRONK : Hunkwe
+[05:51:18]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[05:51:18]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[05:51:19]EMOTE: monkey (654)/ : <B>The monkey (654)</B> jumps!
+[05:51:29]SAY: Runtime/ : Purr!
+[05:51:56]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[05:51:56]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:52:07]ADMIN: BartNixon/(Gilroy Rudah) teleported Spocklan116/(Lachlan Hoffmann)
+[05:52:11]SAY: Gilroy Rudah (as Captain)/BartNixon : Wait here.
+[05:52:18]EMOTE: monkey (990)/ : <B>The monkey (990)</B> jumps!
+[05:52:26]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[05:52:30]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[05:52:41]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flushing to 1
+[05:52:44]EMOTE: monkey (191)/ : <B>The monkey (191)</B> jumps!
+[05:52:44]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flush to 1
+[05:52:58]OOC: Gilroy Rudah (as Captain)/BartNixon : Gun sounds were taken from Fallout as well.
+[05:53:00]EMOTE: Gilroy Rudah (as Captain)/BartNixon : <B>Gilroy Rudah (as Captain)</B> seizes up and falls limp, his eyes dead and lifeless...
+[05:53:01]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[05:53:01]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:53:13]ADMIN: BartNixon/(Gilroy Rudah) deleted Lachlan Hoffmann at (91,130,1)
+[05:53:13]ACCESS: Logout: *no key*/(Lachlan Hoffmann)
+[05:53:13]ACCESS: Login: Spocklan116/(Lachlan Hoffmann) from 7.90.241.234-781613774 || BYOND v506
+[05:53:20]OOC: Gilroy Rudah/BartNixon : Hey Spock. Gonna show you something.
+[05:53:28]ADMIN: BartNixon/(Gilroy Rudah) teleported Spocklan116/(Lachlan Hoffmann)
+[05:53:32]GAME: Explosion with size (1, 2, 3, 0) in area Prison Wing (100,187,1)
+[05:53:36]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (105,187,1)
+[05:53:41]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (108,186,1)
+[05:53:46]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (106,181,1)
+[05:53:58]OOC: Gilroy Rudah/BartNixon : Oh oh oh! Fronk! Another thing here!
+[05:54:04]OOC: Chuckles/HITHISISFRONK : Hm?
+[05:54:10]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (114,170,1)
+[05:54:11]EMOTE: Chuckles/HITHISISFRONK : <B>Chuckles</B> gasps!
+[05:54:16]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[05:54:22]GAME: HITHISISFRONK/(Chuckles) has primed a syndicate bomb (the bomb payload) for detonation at Brig(114,170,1)
+[05:54:22]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's active to 1
+[05:54:33]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 5
+[05:54:41]GAME: The syndicate bomb that HITHISISFRONK/(Chuckles) had primed detonated!
+[05:54:41]GAME: Explosion with size (2, 5, 11, 11) in area Brig (114,170,1)
+[05:54:44]ACCESS: Logout: *no key*/(Chuckles)
+[05:54:44]ACCESS: Login: HITHISISFRONK/(Chuckles) from 7.89.163.2-2325808999 || BYOND v506
+[05:54:47]OOC: Gilroy Rudah/BartNixon : Counter-Strike Tick sound
+[05:54:52]EMOTE: monkey (203)/ : <B>The monkey (203)</B> jumps!
+[05:54:52]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[05:54:52]EMOTE: monkey (990)/ : <B>The monkey (990)</B> jumps!
+[05:54:58]SAY: Ghost/HITHISISFRONK : Hunkwe
+[05:55:01]OOC: Gilroy Rudah/BartNixon : Dat explosions - super epic.
+[05:55:06]OOC: Gilroy Rudah/BartNixon : Coded myself.
+[05:55:26]OOC: Gilroy Rudah/BartNixon : Toolboxes...
+[05:55:39]OOC: Gilroy Rudah/BartNixon : I&#39;m currently working on Vault jumpsuit.
+[05:55:54]OOC: Gilroy Rudah/BartNixon : You didn&#39;t hear the ambients, so I will play them with Global Sound.
+[05:56:02]EMOTE: monkey (585)/ : <B>The monkey (585)</B> jumps!
+[05:56:20]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen1.ogg
+[05:56:21]EMOTE: monkey (203)/ : <B>The monkey (203)</B> jumps!
+[05:56:27]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen2.ogg
+[05:56:31]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen3.ogg
+[05:56:38]OOC: Lachlan Hoffmann/Spocklan116 : Nice
+[05:56:38]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen4.ogg
+[05:56:43]SAY: mouse/ : Squeek?
+[05:56:48]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen5.ogg
+[05:56:55]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen6.ogg
+[05:56:59]SAY: mouse/ : Squeek?
+[05:57:02]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen7.ogg
+[05:57:06]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen8.ogg
+[05:57:11]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen9.ogg
+[05:57:16]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen10.ogg
+[05:57:32]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen11.ogg
+[05:57:38]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen12.ogg
+[05:57:44]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen13.ogg
+[05:57:54]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen14.ogg
+[05:57:56]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[05:58:20]ADMIN: BartNixon/(Gilroy Rudah) played sound battleloop1.ogg
+[05:58:40]EMOTE: monkey (743)/ : <B>The monkey (743)</B> jumps!
+[05:58:45]ADMIN: BartNixon/(Gilroy Rudah) played sound dogbark1.ogg
+[05:58:47]ADMIN: BartNixon/(Gilroy Rudah) played sound dogbark2.ogg
+[05:59:33]OOC: Gilroy Rudah/BartNixon : Next thing to do - finish the Vertibird, and the other - Fallout themed player HUD, with vault boy and stuff.
+[06:00:06]OOC: Gilroy Rudah/BartNixon : Lemme show you one of vertibird animations
+[06:00:12]OOC: Chuckles/HITHISISFRONK : Oh man
+[06:00:17]SAY: Ian/ : Woof!
+[06:00:19]EMOTE: monkey (990)/ : <B>The monkey (990)</B> jumps!
+[06:00:21]OOC: Chuckles/HITHISISFRONK : That means you can use the pip-boy handheld one
+[06:00:28]OOC: Chuckles/HITHISISFRONK : I think that&#39;s the 3000, right?
+[06:00:34]OOC: Lachlan Hoffmann/Spocklan116 : 2000
+[06:00:48]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Cargo Office
+[06:00:51]OOC: Lachlan Hoffmann/Spocklan116 : 3000 in on your arm
+[06:00:57]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Centcom Docks
+[06:00:58]OOC: Lachlan Hoffmann/Spocklan116 : is on
+[06:01:07]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:01:23]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table at (128,73,2)
+[06:01:33]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table/woodentable at (128,73,2)
+[06:01:34]SAY: mouse/ : Squeek?
+[06:01:42]SAY: Ian/ : YAP
+[06:01:46]SAY: Ian/ : Woof!
+[06:01:47]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool at (128,73,2)
+[06:01:57]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[06:01:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the stool at (128,73,2)
+[06:01:59]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[06:02:09]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool/bed/chair at (128,73,2)
+[06:02:24]EMOTE: monkey (654)/ : <B>The monkey (654)</B> jumps!
+[06:02:30]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon to vb-hull.dmi
+[06:02:34]ADMIN: BartNixon/(Gilroy Rudah) modified wooden table's icon_state to vb-flight
+[06:03:02]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[06:03:03]ADMIN: BartNixon/(Gilroy Rudah) modified chair's icon to vb-rotors.dmi
+[06:03:13]OOC: Lachlan Hoffmann/Spocklan116 : Vertibird &gt; wooden table
+[06:03:28]SAY: mouse/ : SQUEEK!
+[06:03:40]EMOTE: monkey (585)/ : <B>The monkey (585)</B> jumps!
+[06:04:00]OOC: Gilroy Rudah/BartNixon : My Dream Maker could crash because of animation. Wait a sec.
+[06:04:19]ADMIN: BartNixon/(Gilroy Rudah) modified chair's icon_state to start
+[06:04:25]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[06:04:27]ADMIN: BartNixon/(Gilroy Rudah) has possessed the wooden table (/obj/structure/table/woodentable) at (128, 73, 2)
+[06:04:27]OOC: Lachlan Hoffmann/Spocklan116 : YES
+[06:04:29]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:04:33]ADMIN: BartNixon/(wooden table) has possessed the chair (/obj/structure/stool/bed/chair) at (128, 73, 2)
+[06:04:44]ADMIN: BartNixon/(Gilroy Rudah) teleported HITHISISFRONK/(Chuckles)
+[06:04:51]ADMIN: BartNixon/(Gilroy Rudah) played sound vb-on.ogg
+[06:05:01]OOC: Gilroy Rudah/BartNixon : This is just a part of start sequence.
+[06:05:07]EMOTE: monkey (585)/ : <B>The monkey (585)</B> jumps!
+[06:05:11]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[06:05:23]SAY: mouse/ : SQUEEK!
+[06:05:30]OOC: Lachlan Hoffmann/Spocklan116 : Muh Enclave autisms are starting up
+[06:05:37]SAY: mouse/ : SQUEEK!
+[06:05:57]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[06:06:27]EMOTE: monkey (654)/ : <B>The monkey (654)</B> jumps!
+[06:06:37]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[06:06:41]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[06:06:49]EMOTE: monkey (654)/ : <B>The monkey (654)</B> jumps!
+[06:06:56]ACCESS: Logout: HITHISISFRONK[DC]/(Chuckles)
+[06:07:15]SAY: mouse/ : SQUEEK!
+[06:07:18]SAY: mouse/ : Squeek!
+[06:07:36]SAY: mouse/ : SQUEEK!
+[06:07:42]EMOTE: monkey (654)/ : <B>The monkey (654)</B> jumps!
+[06:08:20]OOC: Gilroy Rudah/BartNixon : Ok, there is not much left here, so I can make you admins, and you explode the whole station for fun with explosions.
+[06:08:26]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Bridge
+[06:08:32]OOC: Lachlan Hoffmann/Spocklan116 : Ok
+[06:08:45]ADMIN: BartNixon/(Gilroy Rudah) edited the admin rank of spocklan116 to Sentinel
+[06:09:00]OOC: Gilroy Rudah/BartNixon : Special verbs - Drop bomb
+[06:09:05]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[06:09:11]ADMIN: Spocklan116/(Lachlan Hoffmann) has triggered an event. (Spider Infestation)
+[06:09:26]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (126,140,1)
+[06:09:27]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/radio/newvegasshow1.ogg
+[06:09:27]SAY: mouse/ : SQUEEK!
+[06:09:53]GAME: Explosion with size (1, 2, 3, 0) in area Gravity Generator Room (113,124,1)
+[06:10:01]SAY: mouse/ : Squeek!
+[06:10:02]GAME: Explosion with size (3, 7, 14, 0) in area Central Primary Hallway (129,123,1)
+[06:10:03]GAME: The nuclear authentication disk has been destroyed.  Moving it to (193, 85, 1).
+[06:10:04]GAME: Explosion with size (3, 5, 7, 0) in area Cargo Office (91,125,1)
+[06:10:19]SAY: mouse/ : Squeek!
+[06:10:25]OOC: Gilroy Rudah/BartNixon : Oh yeah! Also I have coded the sounds for distant explosions.
+[06:10:38]ADMIN: Spocklan116/(Lachlan Hoffmann) has triggered an event. (Alien Infestation)
+[06:10:40]ADMIN: BartNixon/(Gilroy Rudah) assumed direct control of Gilroy Rudah.
+[06:10:40]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[06:10:40]ACCESS: Login: bartnixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[06:11:04]SAY: grey baby slime (672)/ : Blorble...
+[06:11:06]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[06:11:40]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[06:11:40]ACCESS: Login: bartnixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[06:12:17]ADMIN: Spocklan116/(Lachlan Hoffmann) toggled respawn to On.
+[06:12:21]OOC: Gilroy Rudah/BartNixon : Oh well. I&#39;m shutting down the server, as I&#39;m going for sleep. So much done for today. I&#39;m now making a team to work on this thing.
+[06:12:23]GAME: Lachlan Hoffmann/Spocklan116 used abandon mob.
+[06:12:23]ACCESS: Logout: *no key*/(Lachlan Hoffmann)
+[06:12:23]ACCESS: Login: Spocklan116/(new player) from 7.90.241.234-781613774 || BYOND v506
+[06:12:31]ACCESS: Logout: *no key*/(new player)
+[06:12:31]ACCESS: Login: Spocklan116/(Lachlan Hoffmann) from 7.90.241.234-781613774 || BYOND v506
+[06:12:32]OOC: Gilroy Rudah/BartNixon : Ok then.
+[06:12:35]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[06:12:39]ACCESS: Logout: bartnixon[DC]/(Gilroy Rudah)
+[06:12:39]ACCESS: Logout: Spocklan116[DC]/(Lachlan Hoffmann)
+
+
+Starting up. 08:44.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[08:44:08]ADMIN: Loading Banlistjob
+[08:44:08]ADMIN: Loading jobban_rank
+[08:44:08]ADMIN: jobban_keylist was empty
+[08:44:08]ADMIN: Loading appearance_rank
+[08:44:08]ADMIN: appearance_keylist was empty
+[08:44:08]ADMIN: Updating jobbanfile!
+[08:44:08]ADMIN: Loading Banlist
+[08:52:32]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[08:54:38]ACCESS: Logout: *no key*/(BartNixon)
+[08:54:38]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[08:55:09]SAY: mouse/ : Squeek?
+[08:55:17]SAY: Tom/ : Squeek!
+[08:55:23]SAY: grey baby slime (570)/ : Blop...
+[08:55:30]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/emergency at (70,146,1)
+[08:55:49]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/syndicate at (72,146,1)
+[08:56:30]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (82,141,1)
+[08:56:49]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (82,141,1)
+[08:57:17]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/card/id/captains_spare at (91,119,1)
+[08:57:47]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flush to 1
+[08:57:50]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flushing to 1
+[08:58:18]SAY: mouse/ : SQUEEK!
+[08:58:28]SAY: mouse/ : SQUEEK!
+[08:58:34]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[08:58:46]SAY: mouse/ : Squeek?
+[08:58:52]EMOTE: monkey (143)/ : <B>The monkey (143)</B> jumps!
+[08:59:29]SAY: mouse/ : Squeek!
+[08:59:40]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[08:59:40]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[09:01:15]EMOTE: monkey (914)/ : <B>The monkey (914)</B> jumps!
+[09:01:17]SAY: mouse/ : Squeek?
+[09:01:27]EMOTE: monkey (350)/ : <B>The monkey (350)</B> jumps!
+[09:01:53]SAY: mouse/ : Squeek?
+[09:01:53]EMOTE: monkey (14)/ : <B>The monkey (14)</B> jumps!
+[09:02:57]ADMIN: BartNixon/(Gilroy Rudah) modified power cell's charge to 2500
+[09:03:00]SAY: mouse/ : Squeek!
+[09:03:08]SAY: mouse/ : Squeek!
+[09:03:33]EMOTE: monkey (797)/ : <B>The monkey (797)</B> jumps!
+[09:03:43]SAY: mouse/ : Squeek?
+[09:03:47]EMOTE: monkey (260)/ : <B>The monkey (260)</B> jumps!
+[09:03:55]SAY: grey baby slime (739)/ : Blop...
+[09:04:04]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/card/emag at (118,82,1)
+[09:04:29]EMOTE: monkey (260)/ : <B>The monkey (260)</B> jumps!
+[09:04:59]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[09:04:59]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[09:05:04]SAY: Ian/ : Bark!
+[09:05:12]GAME: Explosion with size (1, 2, 3, 0) in area Bar (134,138,1)
+[09:05:14]EMOTE: monkey (797)/ : <B>The monkey (797)</B> jumps!
+[09:05:17]GAME: Explosion with size (3, 5, 7, 0) in area Bar (140,138,1)
+[09:05:22]GAME: Explosion with size (2, 3, 4, 0) in area Bar (136,133,1)
+[09:05:37]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (112,170,1)
+[09:05:43]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's active to 1
+[09:05:50]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 5
+[09:05:54]SAY: mouse/ : Squeek?
+[09:05:59]GAME: Explosion with size (2, 5, 11, 11) in area Brig (112,170,1)
+[09:06:16]GAME: Explosion with size (3, 5, 7, 0) in area Security Office (126,178,1)
+[09:06:23]GAME: Explosion with size (2, 3, 4, 0) in area Security Office (120,179,1)
+[09:06:27]GAME: Explosion with size (3, 5, 7, 0) in area Armory (115,179,1)
+[09:06:34]GAME: Explosion with size (2, 3, 4, 0) in area Security Office (122,183,1)
+[09:06:34]EMOTE: monkey (143)/ : <B>The monkey (143)</B> jumps!
+[09:07:22]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (1,3,5,4) at (126,153,1)
+[09:07:22]GAME: Explosion with size (1, 3, 5, 4) in area Dormitories (126,153,1)
+[09:07:24]EMOTE: monkey (914)/ : <B>The monkey (914)</B> jumps!
+[09:07:37]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (10,10,123,23) at (0,0,0)
+[09:07:41]SAY: mouse/ : Squeek?
+[09:07:43]SAY: Pete/ : EHEHEHEHEH
+[09:07:59]SAY: mouse/ : SQUEEK!
+[09:08:01]SAY: mouse/ : SQUEEK!
+[09:08:03]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (10,10,10,10) at (128,151,1)
+[09:08:03]GAME: Explosion with size (3, 7, 10, 10) in area Dormitories (128,151,1)
+[09:08:23]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (10,10,10,10) at (122,149,1)
+[09:08:23]GAME: Explosion with size (3, 7, 10, 10) in area Dormitories (122,149,1)
+[09:08:24]EMOTE: monkey (14)/ : <B>The monkey (14)</B> jumps!
+[09:08:34]SAY: Pete/ : EHEHEHEHEH
+[09:08:38]SAY: mouse/ : Squeek?
+[09:09:00]EMOTE: monkey (976)/ : <B>The monkey (976)</B> jumps!
+[09:09:15]EMOTE: monkey (640)/ : <B>The monkey (640)</B> jumps!
+[09:09:54]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[09:09:54]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[09:10:19]EMOTE: monkey (14)/ : <B>The monkey (14)</B> jumps!
+[09:10:37]SAY: Runtime/ : Meow!
+[09:10:43]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (122,86,1)
+[09:10:48]GAME: BartNixon/(Gilroy Rudah) has primed a syndicate bomb (the bomb payload) for detonation at Engineering Foyer(122,86,1)
+[09:10:59]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 5
+[09:11:08]GAME: The syndicate bomb that BartNixon/(Gilroy Rudah) had primed detonated!
+[09:11:08]GAME: Explosion with size (2, 5, 11, 11) in area Engineering Foyer (122,86,1)
+[09:11:25]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[09:11:29]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[09:11:33]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[09:11:35]EMOTE: monkey (143)/ : <B>The monkey (143)</B> jumps!
+[09:11:35]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[09:11:43]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[09:11:44]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[09:11:44]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[09:11:47]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[09:11:51]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[09:11:59]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> seizes up and falls limp, his eyes dead and lifeless...
+[09:12:40]SAY: Runtime/ : HSSSSS
+[09:12:48]SAY: mouse/ : SQUEEK!
+[09:13:14]SAY: mouse/ : Squeek!
+[09:13:16]SAY: Pete/ : eh?
+[09:13:22]SAY: mouse/ : Squeek!
+[09:14:08]SAY: mouse/ : Squeek?
+[09:14:18]EMOTE: monkey (350)/ : <B>The monkey (350)</B> jumps!
+[09:14:29]SAY: mouse/ : SQUEEK!
+[09:14:53]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 09:49.13
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[09:49:13]ADMIN: Loading Banlistjob
+[09:49:13]ADMIN: Loading jobban_rank
+[09:49:13]ADMIN: jobban_keylist was empty
+[09:49:13]ADMIN: Loading appearance_rank
+[09:49:13]ADMIN: appearance_keylist was empty
+[09:49:13]ADMIN: Updating jobbanfile!
+[09:49:13]ADMIN: Loading Banlist
+[09:50:41]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[09:51:13]ACCESS: Logout: *no key*/(BartNixon)
+[09:51:13]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[09:51:22]ADMIN: BartNixon has started the game.
+[09:51:47]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Mixing Room (185,102,1)
+[09:52:03]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Mixing Room (184,108,1)
+[09:52:10]GAME: Explosion with size (3, 5, 7, 0) in area Toxins Storage (176,107,1)
+[09:52:17]GAME: Explosion with size (1, 2, 3, 0) in area Xenobiology Lab (168,108,1)
+[09:52:20]SAY: mouse/ : Squeek?
+[09:52:21]GAME: Explosion with size (1, 2, 3, 0) in area Xenobiology Lab (168,100,1)
+[09:52:25]GAME: Explosion with size (1, 2, 3, 0) in area Xenobiology Lab (169,93,1)
+[09:52:29]GAME: Explosion with size (1, 2, 3, 0) in area Xenobiology Lab (167,93,1)
+[09:52:37]SAY: grey baby slime (30)/ : Blorble...
+[09:52:55]GAME: Explosion with size (1, 2, 3, 0) in area Virology (157,93,1)
+[09:53:00]GAME: Explosion with size (1, 2, 3, 0) in area Virology (157,89,1)
+[09:53:06]GAME: Explosion with size (1, 2, 3, 0) in area Atmospherics (131,98,1)
+[09:53:11]GAME: Explosion with size (1, 2, 3, 0) in area Atmospherics (118,95,1)
+[09:53:13]EMOTE: monkey (374)/ : <B>The monkey (374)</B> jumps!
+[09:53:15]SAY: mouse/ : Squeek?
+[09:53:16]GAME: Explosion with size (3, 5, 7, 0) in area Telecoms Control Room (107,87,1)
+[09:53:22]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 10:06.19
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[10:06:19]ADMIN: Loading Banlistjob
+[10:06:19]ADMIN: Loading jobban_rank
+[10:06:19]ADMIN: jobban_keylist was empty
+[10:06:19]ADMIN: Loading appearance_rank
+[10:06:19]ADMIN: appearance_keylist was empty
+[10:06:19]ADMIN: Updating jobbanfile!
+[10:06:20]ADMIN: Loading Banlist
+[10:07:26]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[10:07:46]ADMIN: BartNixon has started the game.
+[10:07:52]ACCESS: Logout: *no key*/(BartNixon)
+[10:07:52]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[10:08:11]VOTE: Gamemode vote started by BartNixon.
+[10:08:31]GAME: Explosion with size (1, 2, 3, 0) in area Research Division (179,122,1)
+[10:08:33]SAY: mouse/ : SQUEEK!
+[10:08:40]GAME: Explosion with size (1, 2, 3, 0) in area Xenobiology Lab (168,104,1)
+[10:08:41]EMOTE: monkey (585)/ : <B>The monkey (585)</B> jumps!
+[10:08:44]GAME: Explosion with size (1, 2, 3, 0) in area Xenobiology Lab (168,93,1)
+[10:08:53]SAY: mouse/ : Squeek?
+[10:08:53]EMOTE: monkey (892)/ : <B>The monkey (892)</B> jumps!
+[10:08:55]SAY: grey baby slime (999)/ : Lonely...
+[10:08:57]SAY: grey baby slime (705)/ : Blop...
+[10:09:31]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 12:29.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[12:29:02]ADMIN: Loading Banlistjob
+[12:29:02]ADMIN: Loading jobban_rank
+[12:29:02]ADMIN: jobban_keylist was empty
+[12:29:02]ADMIN: Loading appearance_rank
+[12:29:02]ADMIN: appearance_keylist was empty
+[12:29:02]ADMIN: Updating jobbanfile!
+[12:29:02]ADMIN: Loading Banlist
+[12:29:45]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[12:30:40]ADMIN: BartNixon has started the game.
+[12:30:45]ACCESS: Logout: *no key*/(BartNixon)
+[12:30:45]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[12:31:08]SAY: Ian/ : AUUUUUU
+[12:31:19]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13ut at (66,140,1)
+[12:31:27]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13 at (65,140,1)
+[12:31:29]SAY: mouse/ : Squeek?
+[12:31:56]SAY: mouse/ : Squeek?
+[12:32:21]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/shoes/jackboots at (73,135,1)
+[12:32:48]SAY: mouse/ : SQUEEK!
+[12:33:10]ADMIN: BartNixon/(Gilroy Rudah) mass modified floor's icon to sand1.png
+[12:33:21]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Thunderdome
+[12:33:25]ADMIN: BartNixon/(Gilroy Rudah) jumped to 130,79,2 in the Thunderdome
+[12:33:30]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:33:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Thunderdome Flash at (128,77,2)
+[12:33:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the security camera at (128,76,2)
+[12:33:35]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:33:40]SAY: mouse/ : Squeek?
+[12:33:47]ADMIN: BartNixon/(Gilroy Rudah) mass modified floor's icon to sand1.png
+[12:34:05]ADMIN: BartNixon/(Gilroy Rudah) spawned /turf/simulated/floor/bluegrid at (128,80,2)
+[12:34:08]SAY: mouse/ : Squeek?
+[12:34:10]ADMIN: BartNixon/(Gilroy Rudah) spawned /turf/simulated/floor/greengrid at (129,80,2)
+[12:34:23]ADMIN: BartNixon/(Gilroy Rudah) has deleted all (1175) instances of /obj/effect/decal/cleanable.
+[12:34:30]SAY: mouse/ : Squeek!
+[12:34:42]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:34:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,79,2) to /turf/simulated/floor/bluegrid
+[12:34:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,78,2) to /turf/simulated/floor/bluegrid
+[12:34:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,77,2) to /turf/simulated/floor/bluegrid
+[12:34:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,76,2) to /turf/simulated/floor/bluegrid
+[12:34:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,77,2) to /turf/simulated/floor/bluegrid
+[12:34:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,73,2) to /turf/simulated/floor/bluegrid
+[12:34:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,74,2) to /turf/simulated/floor/bluegrid
+[12:34:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,75,2) to /turf/simulated/floor/bluegrid
+[12:34:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,76,2) to /turf/simulated/floor/bluegrid
+[12:34:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,77,2) to /turf/simulated/floor/bluegrid
+[12:34:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,77,2) to /turf/simulated/floor/bluegrid
+[12:34:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,76,2) to /turf/simulated/floor/bluegrid
+[12:34:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,77,2) to /turf/simulated/floor/bluegrid
+[12:34:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,76,2) to /turf/simulated/floor/bluegrid
+[12:34:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (128,77,2) to /turf/simulated/floor/bluegrid
+[12:34:59]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:35:08]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:35:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,79,2) to /turf/simulated/floor/greengrid
+[12:35:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,78,2) to /turf/simulated/floor/greengrid
+[12:35:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,77,2) to /turf/simulated/floor/greengrid
+[12:35:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,76,2) to /turf/simulated/floor/greengrid
+[12:35:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,75,2) to /turf/simulated/floor/greengrid
+[12:35:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,74,2) to /turf/simulated/floor/greengrid
+[12:35:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (129,73,2) to /turf/simulated/floor/greengrid
+[12:35:15]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:35:25]SAY: mouse/ : Squeek!
+[12:35:28]ADMIN: BartNixon/(Gilroy Rudah) spawned /turf/simulated/floor/grass at (130,77,2)
+[12:35:33]SAY: mouse/ : Squeek?
+[12:35:37]SAY: mouse/ : Squeek?
+[12:35:39]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:35:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,76,2) to /turf/simulated/floor/greengrid
+[12:35:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,75,2) to /turf/simulated/floor/greengrid
+[12:35:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,74,2) to /turf/simulated/floor/greengrid
+[12:35:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,76,2) to /turf/simulated/floor/greengrid
+[12:35:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,76,2) to /turf/simulated/floor/greengrid
+[12:35:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,75,2) to /turf/simulated/floor/greengrid
+[12:35:47]SAY: mouse/ : Squeek?
+[12:35:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,76,2) to /turf/simulated/floor/grass
+[12:35:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,75,2) to /turf/simulated/floor/grass
+[12:35:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,74,2) to /turf/simulated/floor/grass
+[12:35:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,73,2) to /turf/simulated/floor/grass
+[12:35:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,78,2) to /turf/simulated/floor/grass
+[12:35:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,79,2) to /turf/simulated/floor/grass
+[12:35:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (130,80,2) to /turf/simulated/floor/grass
+[12:35:53]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:36:01]EMOTE: monkey (925)/ : <B>The monkey (925)</B> jumps!
+[12:36:11]SAY: mouse/ : SQUEEK!
+[12:36:21]ADMIN: BartNixon/(Gilroy Rudah) mass modified floor's icon to roadcorner4.png
+[12:36:36]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:36:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,76,2) to /turf/simulated/floor
+[12:36:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (127,77,2) to /turf/simulated/floor
+[12:36:40]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:36:53]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[12:36:58]ADMIN: BartNixon/(Gilroy Rudah) mass modified Grass patch's icon to roadcorner5.png
+[12:36:59]SAY: mouse/ : SQUEEK!
+[12:37:03]EMOTE: monkey (313)/ : <B>The monkey (313)</B> jumps!
+[12:37:29]EMOTE: monkey (947)/ : <B>The monkey (947)</B> jumps!
+[12:37:54]ADMIN: BartNixon/(Gilroy Rudah) created a /turf/simulated/floor/plating/ironsand
+[12:38:09]SAY: mouse/ : SQUEEK!
+[12:38:09]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:38:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Grass patch (130,74,2) to /turf/simulated/floor/plating/ironsand
+[12:38:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Grass patch (130,73,2) to /turf/simulated/floor/plating/ironsand
+[12:38:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Grass patch (130,76,2) to /turf/simulated/floor/plating/ironsand
+[12:38:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Grass patch (130,77,2) to /turf/simulated/floor/plating/ironsand
+[12:38:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Grass patch (130,78,2) to /turf/simulated/floor/plating/ironsand
+[12:38:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Grass patch (130,79,2) to /turf/simulated/floor/plating/ironsand
+[12:38:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Grass patch (130,80,2) to /turf/simulated/floor/plating/ironsand
+[12:38:16]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:38:26]EMOTE: monkey (113)/ : <B>The monkey (113)</B> jumps!
+[12:38:40]EMOTE: monkey (111)/ : <B>The monkey (111)</B> jumps!
+[12:38:58]SAY: Tom/ : SQUEEK!
+[12:39:14]EMOTE: monkey (925)/ : <B>The monkey (925)</B> jumps!
+[12:41:03]SAY: Ian/ : AUUUUUU
+[12:41:58]EMOTE: monkey (952)/ : <B>The monkey (952)</B> jumps!
+[12:42:06]EMOTE: monkey (229)/ : <B>The monkey (229)</B> jumps!
+[12:42:14]SAY: mouse/ : Squeek!
+[12:42:24]SAY: grey baby slime (94)/ : Blop...
+[12:43:08]SAY: Runtime/ : Esp!
+[12:43:39]ADMIN: BartNixon/(Gilroy Rudah) mass modified Iron Sand's icon to roadcorner5.png
+[12:43:58]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:44:07]SAY: mouse/ : Squeek!
+[12:44:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,73,2) to /turf/simulated/floor/plating/ironsand
+[12:44:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,73,2) to /turf/simulated/floor/plating/ironsand
+[12:44:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,74,2) to /turf/simulated/floor/plating/ironsand
+[12:44:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,75,2) to /turf/simulated/floor/plating/ironsand
+[12:44:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,76,2) to /turf/simulated/floor/plating/ironsand
+[12:44:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,77,2) to /turf/simulated/floor/plating/ironsand
+[12:44:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,78,2) to /turf/simulated/floor/plating/ironsand
+[12:44:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,79,2) to /turf/simulated/floor/plating/ironsand
+[12:44:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (132,80,2) to /turf/simulated/floor/plating/ironsand
+[12:44:16]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:44:33]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:44:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (131,73,2) to /turf/simulated/floor/greengrid
+[12:44:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,74,2) to /turf/simulated/floor/greengrid
+[12:44:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,75,2) to /turf/simulated/floor/greengrid
+[12:44:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,76,2) to /turf/simulated/floor/greengrid
+[12:44:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,77,2) to /turf/simulated/floor/greengrid
+[12:44:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,78,2) to /turf/simulated/floor/greengrid
+[12:44:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,79,2) to /turf/simulated/floor/greengrid
+[12:44:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (131,80,2) to /turf/simulated/floor/greengrid
+[12:44:39]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:44:52]ADMIN: BartNixon/(Gilroy Rudah) created a /turf/simulated/floor/mineral/silver
+[12:44:55]EMOTE: monkey (23)/ : <B>The monkey (23)</B> jumps!
+[12:45:08]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:45:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (130,73,2) to /turf/simulated/floor/mineral/silver
+[12:45:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (130,74,2) to /turf/simulated/floor/mineral/silver
+[12:45:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (130,75,2) to /turf/simulated/floor/mineral/silver
+[12:45:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (130,77,2) to /turf/simulated/floor/mineral/silver
+[12:45:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (130,78,2) to /turf/simulated/floor/mineral/silver
+[12:45:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (130,79,2) to /turf/simulated/floor/mineral/silver
+[12:45:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (130,80,2) to /turf/simulated/floor/mineral/silver
+[12:45:16]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:45:30]ADMIN: BartNixon/(Gilroy Rudah) mass modified floor's icon to asphalt1.png
+[12:45:31]SAY: Tom/ : Squeek!
+[12:45:35]EMOTE: monkey (113)/ : <B>The monkey (113)</B> jumps!
+[12:45:35]SAY: mouse/ : Squeek?
+[12:45:43]ADMIN: BartNixon/(Gilroy Rudah) mass modified Iron Sand's icon to asphalt2.png
+[12:45:45]SAY: Runtime/ : HSSSSS
+[12:46:09]SAY: mouse/ : Squeek?
+[12:46:13]EMOTE: monkey (925)/ : <B>The monkey (925)</B> jumps!
+[12:46:17]ADMIN: BartNixon/(Gilroy Rudah) mass modified Iron Sand's icon to roadcorner5.png
+[12:46:31]ADMIN: BartNixon/(Gilroy Rudah) mass modified silver floor's icon to asphalt2.png
+[12:46:42]ADMIN: BartNixon/(Gilroy Rudah) mass modified floor's icon to sand1.png
+[12:46:53]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table at (126,77,2)
+[12:47:15]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table at (133,78,2)
+[12:47:39]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to fall64.dmi
+[12:47:47]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to tree_1
+[12:47:50]SAY: mouse/ : Squeek!
+[12:47:58]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to fall64.dmi
+[12:48:06]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to tree_4
+[12:48:10]SAY: Tom/ : Squeek?
+[12:48:24]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13 at (129,76,2)
+[12:48:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13ut at (131,76,2)
+[12:48:38]SAY: mouse/ : Squeek!
+[12:48:49]ADMIN: BartNixon/(Gilroy Rudah) has possessed the table (/obj/structure/table) at (126, 77, 2)
+[12:49:02]SAY: mouse/ : SQUEEK!
+[12:49:20]EMOTE: monkey (932)/ : <B>The monkey (932)</B> jumps!
+[12:49:24]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:49:25]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:49:36]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[12:49:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the igniter at (135,80,2)
+[12:49:38]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[12:51:17]EMOTE: monkey (932)/ : <B>The monkey (932)</B> jumps!
+[12:51:27]SAY: mouse/ : Squeek!
+[12:51:43]EMOTE: monkey (313)/ : <B>The monkey (313)</B> jumps!
+[12:52:05]EMOTE: monkey (270)/ : <B>The monkey (270)</B> jumps!
+[12:52:11]SAY: mouse/ : Squeek!
+[12:52:27]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 19:38.13
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[19:38:13]ADMIN: Loading Banlistjob
+[19:38:13]ADMIN: Loading jobban_rank
+[19:38:13]ADMIN: jobban_keylist was empty
+[19:38:13]ADMIN: Loading appearance_rank
+[19:38:13]ADMIN: appearance_keylist was empty
+[19:38:13]ADMIN: Updating jobbanfile!
+[19:38:13]ADMIN: Loading Banlist
+[19:51:28]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[19:52:22]ADMIN: BartNixon has started the game.
+[19:52:26]ACCESS: Logout: *no key*/(BartNixon)
+[19:52:26]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[19:52:34]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[19:52:34]EMOTE: monkey (650)/ : <B>The monkey (650)</B> jumps!
+[19:52:52]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13 at (96,135,1)
+[19:52:58]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13ut at (97,135,1)
+[19:53:06]SAY: mouse/ : SQUEEK!
+[19:53:22]EMOTE: monkey (650)/ : <B>The monkey (650)</B> jumps!
+[19:53:24]SAY: Poly/ : Check the singlo, you chucklefucks!
+[19:53:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/metalarmor at (96,135,1)
+[19:54:18]SAY: mouse/ : Squeek!
+[19:54:33]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/metalarmor at (97,129,1)
+[19:54:53]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[19:55:05]SAY: mouse/ : SQUEEK!
+[19:55:09]EMOTE: monkey (984)/ : <B>The monkey (984)</B> jumps!
+[19:55:11]SAY: Poly/ : Poly wanna cracker!
+[19:56:25]SAY: grey baby slime (944)/ : Blorble...
+[19:56:29]SAY: Poly/ : Check the singlo, you chucklefucks!
+[19:56:43]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[19:57:23]SAY: mouse/ : Squeek?
+[19:57:49]SAY: mouse/ : SQUEEK!
+[19:57:55]EMOTE: monkey (352)/ : <B>The monkey (352)</B> jumps!
+[19:58:36]EMOTE: monkey (994)/ : <B>The monkey (994)</B> jumps!
+[19:58:42]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 20:04.24
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[20:04:25]ADMIN: Loading Banlistjob
+[20:04:25]ADMIN: Loading jobban_rank
+[20:04:25]ADMIN: jobban_keylist was empty
+[20:04:25]ADMIN: Loading appearance_rank
+[20:04:25]ADMIN: appearance_keylist was empty
+[20:04:25]ADMIN: Updating jobbanfile!
+[20:04:25]ADMIN: Loading Banlist
+[20:06:02]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[20:06:12]ACCESS: Logout: *no key*/(BartNixon)
+[20:06:12]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[20:06:25]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/blackmetalarmor at (56,143,1)
+[20:06:30]ADMIN: BartNixon has started the game.
+[20:06:36]SAY: grey baby slime (815)/ : Blorble...
+[20:06:40]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=0
+[20:06:40]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[20:06:40]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[20:07:04]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13 at (72,137,1)
+[20:07:09]EMOTE: monkey (726)/ : <B>The monkey (726)</B> jumps!
+[20:07:39]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/shoes/jackboots at (80,141,1)
+[20:07:45]SAY: mouse/ : Squeek?
+[20:07:51]SAY: mouse/ : Squeek?
+[20:08:02]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

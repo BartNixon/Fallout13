@@ -1,0 +1,327 @@
+
+
+Starting up. 21:24.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[21:24:09]ADMIN: Loading Banlistjob
+[21:24:09]ADMIN: Loading jobban_rank
+[21:24:09]ADMIN: jobban_keylist was empty
+[21:24:09]ADMIN: Loading appearance_rank
+[21:24:09]ADMIN: appearance_keylist was empty
+[21:24:09]ADMIN: Updating jobbanfile!
+[21:24:09]ADMIN: Loading Banlist
+[21:26:46]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[21:27:37]ACCESS: Logout: *no key*/(BartNixon)
+[21:27:37]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:27:55]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:27:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the crusty dried vomit at (141,132,1)
+[21:27:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the crusty dried vomit at (132,133,1)
+[21:28:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the crusty dried vomit at (134,138,1)
+[21:28:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the crusty dried vomit at (141,138,1)
+[21:28:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (140,140,1)
+[21:28:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (140,140,1)
+[21:28:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the crusty dried vomit at (140,140,1)
+[21:28:10]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:28:35]ADMIN: BartNixon/(Gilroy Rudah) modified floor's icon_state to bar
+[21:28:46]EMOTE: monkey (322)/ : <B>The monkey (322)</B> jumps!
+[21:29:13]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon to new_chairs.dmi
+[21:29:33]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool at (134,136,1)
+[21:29:38]SAY: mouse/ : Squeek?
+[21:29:39]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool at (138,136,1)
+[21:29:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool at (138,133,1)
+[21:29:52]SAY: Runtime/ : Purr!
+[21:29:52]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool at (134,133,1)
+[21:29:58]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[21:30:12]ADMIN: BartNixon/(Gilroy Rudah) mass modified stool's icon to new_chairs.dmi
+[21:30:21]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[21:30:22]ADMIN: BartNixon/(Gilroy Rudah) mass modified stool's icon_state to chair_over
+[21:30:32]SAY: mouse/ : SQUEEK!
+[21:30:38]ADMIN: BartNixon/(Gilroy Rudah) deleted all objects of type /obj/structure/stool (126 objects deleted) 
+[21:30:47]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool/bed/chair/office/light at (136,133,1)
+[21:31:01]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:31:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (138,133,1) dir to 1
+[21:31:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (138,136,1) dir to 1
+[21:31:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (134,136,1) dir to 1
+[21:31:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the chair's (134,133,1) dir to 1
+[21:31:09]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:32:09]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[21:32:36]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon to new_chairs.dmi
+[21:32:55]SAY: grey baby slime (998)/ : Blorble...
+[21:33:04]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon to new_chairs.dmi
+[21:33:11]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's icon_state to chair_over
+[21:33:26]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's name to chair overlay
+[21:33:39]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair overlay's desc to Yeah yeah. Actually this is office chair.
+[21:33:47]EMOTE: monkey (352)/ : <B>The monkey (352)</B> jumps!
+[21:33:49]SAY: mouse/ : SQUEEK!
+[21:33:55]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[21:34:12]SAY: mouse/ : Squeek?
+[21:35:16]SAY: mouse/ : Squeek?
+[21:35:52]ADMIN: BartNixon/(Gilroy Rudah) edited the admin rank of neinhaus2 to Elder
+[21:35:58]SAY: mouse/ : Squeek?
+[21:36:12]SAY: mouse/ : Squeek!
+[21:36:30]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[21:36:36]SAY: mouse/ : Squeek?
+[21:36:57]SAY: mouse/ : Squeek!
+[21:37:09]SAY: mouse/ : Squeek!
+[21:37:17]SAY: mouse/ : Squeek?
+[21:37:33]SAY: mouse/ : SQUEEK!
+[21:38:17]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[21:39:01]SAY: mouse/ : SQUEEK!
+[21:39:29]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[21:39:53]SAY: mouse/ : SQUEEK!
+[21:39:59]EMOTE: monkey (176)/ : <B>The monkey (176)</B> jumps!
+[21:40:39]SAY: mouse/ : Squeek?
+[21:40:46]SAY: mouse/ : SQUEEK!
+[21:40:54]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[21:40:58]EMOTE: monkey (505)/ : <B>The monkey (505)</B> jumps!
+[21:41:44]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[21:41:48]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[21:41:50]SAY: mouse/ : Squeek!
+[21:42:38]EMOTE: monkey (909)/ : <B>The monkey (909)</B> jumps!
+[21:42:54]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[21:43:13]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,137,1)
+[21:43:18]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,136,1)
+[21:43:20]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[21:43:30]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,135,1)
+[21:43:36]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,134,1)
+[21:43:43]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,133,1)
+[21:43:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (137,133,1)
+[21:43:58]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/alien/humanoid at (137,134,1)
+[21:44:04]ADMIN: BartNixon/(Gilroy Rudah) deleted the alien (586) at (137,134,1)
+[21:44:11]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (137,135,1)
+[21:44:20]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[21:44:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (137,134,1)
+[21:44:42]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (137,136,1)
+[21:44:46]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[21:45:22]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[21:45:38]SAY: mouse/ : SQUEEK!
+[21:46:20]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (137,137,1)
+[21:46:30]ADMIN: BartNixon/(Gilroy Rudah) deleted Lucian Snyder at (136,133,1)
+[21:46:34]ADMIN: BartNixon/(Gilroy Rudah) deleted Alexa Mildred at (137,133,1)
+[21:46:49]SAY: mouse/ : SQUEEK!
+[21:47:08]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[21:47:24]ADMIN: BartNixon/(Gilroy Rudah) deleted Rylee Robinson at (136,135,1)
+[21:47:28]ADMIN: BartNixon/(Gilroy Rudah) deleted Carly James at (137,134,1)
+[21:47:31]ADMIN: BartNixon/(Gilroy Rudah) deleted Norah Levett at (136,136,1)
+[21:47:34]ADMIN: BartNixon/(Gilroy Rudah) deleted Juliana Burris at (136,137,1)
+[21:47:43]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[21:47:46]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Jesse McDonald) to Scientist.
+[21:47:49]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:47:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[21:47:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jesse McDonald at the AI holopad (136,135,1)
+[21:47:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jesse McDonald at the floor (136,137,1)
+[21:47:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jesse McDonald at the floor (136,138,1)
+[21:47:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jesse McDonald at the chair (134,138,1)
+[21:47:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Jesse McDonald at the table (134,137,1)
+[21:48:00]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:48:03]SAY: Pete/ : eh?
+[21:48:09]EMOTE: monkey (909)/ : <B>The monkey (909)</B> jumps!
+[21:48:16]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Han Harding) to Station Engineer.
+[21:48:18]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:48:19]SAY: mouse/ : SQUEEK!
+[21:48:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[21:48:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Han Harding at the floor (136,137,1)
+[21:48:21]SAY: grey baby slime (998)/ : Rawr...
+[21:48:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Han Harding at the chair (137,137,1)
+[21:48:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Han Harding at the floor (137,138,1)
+[21:48:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Han Harding at the chair (138,138,1)
+[21:48:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Han Harding at the floor (139,138,1)
+[21:48:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Han Harding at the chair (139,137,1)
+[21:48:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Han Harding at the floor (137,137,1)
+[21:48:30]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:48:40]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (124,104,1)
+[21:48:42]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Sydney Jesse) to Botanist.
+[21:48:44]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:48:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[21:48:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (136,136,1)
+[21:48:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (133,136,1)
+[21:48:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (133,136,1)
+[21:48:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (133,135,1)
+[21:48:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the chair (133,134,1)
+[21:48:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the table (134,134,1)
+[21:48:50]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:48:58]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Bryce Thorley) to Assistant.
+[21:49:02]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:49:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the AI holopad (136,135,1)
+[21:49:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the floor (134,135,1)
+[21:49:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the table (134,134,1)
+[21:49:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the floor (135,134,1)
+[21:49:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (133,135,1)
+[21:49:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (135,135,1)
+[21:49:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at Bryce Thorley's ID Card (Assistant) (137,135,1)
+[21:49:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (137,133,1)
+[21:49:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (137,132,1)
+[21:49:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (138,133,1)
+[21:49:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (138,133,1)
+[21:49:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (137,133,1)
+[21:49:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the chair overlay (138,133,1)
+[21:49:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the table (138,134,1)
+[21:49:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (137,133,1)
+[21:49:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the floor (138,133,1)
+[21:49:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Sydney Jesse at the table (138,134,1)
+[21:49:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the floor (135,134,1)
+[21:49:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the chair (134,135,1)
+[21:49:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the floor (135,135,1)
+[21:49:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the chair (134,135,1)
+[21:49:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Bryce Thorley at the floor (133,135,1)
+[21:49:28]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:49:30]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:49:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted PDA-Bryce Thorley (Assistant) at (137,135,1)
+[21:49:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Bryce Thorley's ID Card (Assistant) at (137,135,1)
+[21:49:32]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:49:43]SAY: grey baby slime (763)/ : Blorble...
+[21:50:39]SAY: Runtime/ : HSSSSS
+[21:50:45]SAY: mouse/ : Squeek!
+[21:51:33]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[21:52:15]EMOTE: monkey (909)/ : <B>The monkey (909)</B> jumps!
+[21:52:28]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[21:52:52]SAY: mouse/ : Squeek!
+[21:53:42]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (132,134,1)
+[21:53:53]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Clara James) to tunnel clown.
+[21:54:05]ADMIN: BartNixon/(Gilroy Rudah) modified chair's layer to 2
+[21:54:06]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[21:54:12]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[21:54:21]ADMIN: BartNixon/(Gilroy Rudah) mass modified chair's layer to 2
+[21:54:42]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[21:54:42]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[21:54:42]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:54:45]SAY: mouse/ : Squeek!
+[21:54:57]ADMIN: BartNixon/(Gilroy Rudah) deleted Bryce Thorley at (133,135,1)
+[21:55:03]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[21:55:03]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[21:55:41]SAY: mouse/ : SQUEEK!
+[21:56:29]EMOTE: monkey (176)/ : <B>The monkey (176)</B> jumps!
+[21:56:50]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[21:56:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clara James at the floor (133,134,1)
+[21:56:54]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[21:57:14]SAY: Pete/ : EHEHEHEHEH
+[21:57:24]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/snacks/vegetablesoup at (136,135,1)
+[21:57:32]SAY: mouse/ : SQUEEK!
+[21:57:32]SAY: mouse/ : Squeek!
+[21:57:33]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/bottle/wine at (137,135,1)
+[21:57:38]SAY: mouse/ : Squeek!
+[21:57:46]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/drinkingglass at (135,136,1)
+[21:58:14]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/drinkingglass at (136,136,1)
+[21:58:23]EMOTE: monkey (909)/ : <B>The monkey (909)</B> jumps!
+[21:58:27]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,136,1)
+[21:58:37]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (135,136,1)
+[21:58:44]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (135,135,1)
+[21:58:53]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,135,1)
+[21:59:01]ADMIN: BartNixon/(Gilroy Rudah) deleted Tristen Paynter at (135,135,1)
+[21:59:05]ADMIN: BartNixon/(Gilroy Rudah) deleted Alan Mason at (135,136,1)
+[21:59:09]ADMIN: BartNixon/(Gilroy Rudah) deleted Barbara Beck at (136,136,1)
+[21:59:14]ADMIN: BartNixon/(Gilroy Rudah) deleted Leah David at (136,135,1)
+[21:59:25]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,135,1)
+[21:59:32]ADMIN: BartNixon/(Gilroy Rudah) deleted Cristopher Fryer at (136,135,1)
+[21:59:38]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,134,1)
+[21:59:45]ADMIN: BartNixon/(Gilroy Rudah) deleted Ellie Sandford at (136,134,1)
+[21:59:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,134,1)
+[21:59:54]SAY: mouse/ : SQUEEK!
+[21:59:59]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (136,135,1)
+[22:00:24]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of *no key*/(Miriam Spock) to Medical Doctor.
+[22:00:38]SAY: mouse/ : SQUEEK!
+[22:01:23]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[22:01:56]ADMIN: BartNixon/(Gilroy Rudah) deleted Flint Riggle at (136,134,1)
+[22:02:01]ADMIN: BartNixon/(Gilroy Rudah) deleted the first-aid kit at (136,135,1)
+[22:02:03]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[22:02:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Miriam Spock at the floor (135,135,1)
+[22:02:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Miriam Spock at the chair (134,135,1)
+[22:02:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Miriam Spock at the chair overlay (134,136,1)
+[22:02:19]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[22:02:45]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[22:02:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/mask/cigarette at (136,136,1)
+[22:03:01]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/lighter/zippo at (140,136,1)
+[22:03:05]SAY: mouse/ : Squeek!
+[22:03:24]EMOTE: monkey (352)/ : <B>The monkey (352)</B> jumps!
+[22:03:28]SAY: mouse/ : Squeek!
+[22:03:34]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[22:03:34]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[22:03:46]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool at (141,135,1)
+[22:03:56]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[22:03:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the stool's (141,136,1) dir to 1
+[22:04:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the stool's (141,137,1) dir to 1
+[22:04:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the stool's (141,138,1) dir to 1
+[22:04:02]SAY: mouse/ : Squeek!
+[22:04:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the stool's (141,134,1) dir to 1
+[22:04:06]EMOTE: monkey (505)/ : <B>The monkey (505)</B> jumps!
+[22:04:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the stool's (132,138,1) dir to 1
+[22:04:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the stool's (133,139,1) dir to 1
+[22:04:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the stool's (142,133,1) dir to 1
+[22:04:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the stool at (142,133,1)
+[22:04:18]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[22:04:27]ADMIN: BartNixon/(Gilroy Rudah) used secret whiteout
+[22:04:36]SAY: grey baby slime (998)/ : Blorble...
+[22:04:42]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[22:04:53]SAY: mouse/ : SQUEEK!
+[22:04:55]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[22:04:55]SAY: mouse/ : Squeek!
+[22:05:19]SAY: grey baby slime (763)/ : Rawr...
+[22:05:27]EMOTE: monkey (909)/ : <B>The monkey (909)</B> jumps!
+[22:06:18]SAY: mouse/ : SQUEEK!
+[22:06:18]SAY: mouse/ : SQUEEK!
+[22:06:32]SAY: Ian/ : YAP
+[22:06:42]SAY: mouse/ : SQUEEK!
+[22:07:27]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[22:07:45]SAY: mouse/ : SQUEEK!
+[22:08:25]SAY: grey baby slime (998)/ : Blop...
+[22:08:29]SAY: mouse/ : Squeek?
+[22:08:31]SAY: Ian/ : YAP
+[22:09:06]SAY: mouse/ : Squeek!
+[22:09:16]SAY: grey baby slime (998)/ : Lonely...
+[22:09:40]SAY: mouse/ : Squeek!
+[22:10:23]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[22:10:29]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[22:10:49]EMOTE: monkey (467)/ : <B>The monkey (467)</B> jumps!
+[22:11:01]SAY: mouse/ : Squeek?
+[22:11:48]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[22:12:04]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[22:12:20]SAY: mouse/ : Squeek?
+[22:12:22]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[22:13:19]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[22:13:57]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[22:14:21]EMOTE: monkey (352)/ : <B>The monkey (352)</B> jumps!
+[22:14:25]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:14:27]EMOTE: monkey (979)/ : <B>The monkey (979)</B> jumps!
+[22:14:27]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:14:27]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:14:47]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:14:51]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:14:53]EMOTE: monkey (176)/ : <B>The monkey (176)</B> jumps!
+[22:14:53]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[22:14:57]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:14:57]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:14:59]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:14:59]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:01]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:13]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:15]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:16]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:15:16]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:22]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:24]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:38]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:15:52]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:15:54]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:16:16]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:16:20]SAY: mouse/ : SQUEEK!
+[22:16:20]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:16:40]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:16:41]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:16:43]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:17:19]EMOTE: Sydney Jesse/ : <B>Sydney Jesse</B> gasps!
+[22:17:25]EMOTE: Han Harding/ : <B>Han Harding</B> gasps!
+[22:17:30]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

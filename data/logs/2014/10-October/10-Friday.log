@@ -1,0 +1,625 @@
+
+
+Starting up. 15:57.28
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[15:57:28]ADMIN: Loading Banlistjob
+[15:57:28]ADMIN: Loading jobban_rank
+[15:57:28]ADMIN: jobban_keylist was empty
+[15:57:28]ADMIN: Loading appearance_rank
+[15:57:28]ADMIN: appearance_keylist was empty
+[15:57:28]ADMIN: Updating jobbanfile!
+[15:57:28]ADMIN: Loading Banlist
+[16:00:59]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[16:01:53]ADMIN: BartNixon has started the game.
+[16:01:57]ACCESS: Logout: *no key*/(BartNixon)
+[16:01:57]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[16:02:08]SAY: mouse/ : SQUEEK!
+[16:02:12]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[16:02:22]SAY: mouse/ : Squeek?
+[16:02:28]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/krotchy at (69,145,1)
+[16:03:34]EMOTE: monkey (189)/ : <B>The monkey (189)</B> jumps!
+[16:03:46]SAY: Runtime/ : Esp!
+[16:04:09]EMOTE: monkey (793)/ : <B>The monkey (793)</B> jumps!
+[16:04:10]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 16:21.38
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[16:21:38]ADMIN: Loading Banlistjob
+[16:21:38]ADMIN: Loading jobban_rank
+[16:21:38]ADMIN: jobban_keylist was empty
+[16:21:38]ADMIN: Loading appearance_rank
+[16:21:38]ADMIN: appearance_keylist was empty
+[16:21:38]ADMIN: Updating jobbanfile!
+[16:21:38]ADMIN: Loading Banlist
+[16:22:29]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[16:22:39]ACCESS: Logout: *no key*/(BartNixon)
+[16:22:39]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[16:22:47]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/fancy/krotchy_box at (41,145,1)
+[16:22:58]ADMIN: BartNixon/(Gilroy Rudah) modified krotchy doll box's icon_state to box1
+[16:23:01]ADMIN: BartNixon has started the game.
+[16:23:07]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[16:23:07]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[16:23:07]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[16:23:52]ADMIN: BartNixon/(Gilroy Rudah) modified krotchy doll box's icon_state to box0
+[16:24:10]EMOTE: monkey (287)/ : <B>The monkey (287)</B> jumps!
+[16:24:24]EMOTE: monkey (326)/ : <B>The monkey (326)</B> jumps!
+[16:24:31]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/fancy/krotchy_box at (43,145,1)
+[16:24:52]EMOTE: monkey (490)/ : <B>The monkey (490)</B> jumps!
+[16:25:10]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[16:25:38]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 16:31.13
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[16:31:13]ADMIN: Loading Banlistjob
+[16:31:13]ADMIN: Loading jobban_rank
+[16:31:13]ADMIN: jobban_keylist was empty
+[16:31:13]ADMIN: Loading appearance_rank
+[16:31:13]ADMIN: appearance_keylist was empty
+[16:31:13]ADMIN: Updating jobbanfile!
+[16:31:13]ADMIN: Loading Banlist
+[16:32:19]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[16:32:38]ADMIN: BartNixon has started the game.
+[16:32:41]ACCESS: Logout: *no key*/(BartNixon)
+[16:32:41]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[16:32:45]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[16:32:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/fancy/krotchy_box at (73,146,1)
+[16:33:09]SAY: mouse/ : Squeek!
+[16:33:25]EMOTE: monkey (579)/ : <B>The monkey (579)</B> jumps!
+[16:34:12]SAY: mouse/ : SQUEEK!
+[16:34:12]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[16:34:27]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 18:10.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[18:10:58]ADMIN: Loading Banlistjob
+[18:10:58]ADMIN: Loading jobban_rank
+[18:10:58]ADMIN: jobban_keylist was empty
+[18:10:58]ADMIN: Loading appearance_rank
+[18:10:58]ADMIN: appearance_keylist was empty
+[18:10:58]ADMIN: Updating jobbanfile!
+[18:10:58]ADMIN: Loading Banlist
+[18:13:22]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[18:15:00]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+[18:15:10]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[18:16:32]SAY: mouse/ : SQUEEK!
+[18:16:32]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:17:39]EMOTE: monkey (249)/ : <B>The monkey (249)</B> jumps!
+[18:18:21]EMOTE: monkey (673)/ : <B>The monkey (673)</B> jumps!
+[18:18:38]ACCESS: Logout: *no key*/(BartNixon)
+[18:18:38]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:19:05]SAY: Runtime/ : HSSSSS
+[18:19:11]SAY: mouse/ : Squeek!
+[18:19:19]ADMIN: BartNixon/(Gilroy Rudah) mass modified power cell's charge to 999999
+[18:19:28]EMOTE: monkey (732)/ : <B>The monkey (732)</B> jumps!
+[18:19:40]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:19:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the Getmore Chocolate Corp at (74,138,1)
+[18:19:42]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:19:48]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/vending/nukacolavend at (74,138,1)
+[18:19:50]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:19:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the cigarette machine at (75,138,1)
+[18:19:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (73,138,1)
+[18:19:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (73,138,1)
+[18:19:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (73,138,1)
+[18:19:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (73,138,1)
+[18:19:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (73,138,1)
+[18:19:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (73,138,1)
+[18:19:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the hot drinks machine at (73,138,1)
+[18:20:01]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:20:26]SAY: Tom/ : SQUEEK!
+[18:20:32]EMOTE: monkey (656)/ : <B>The monkey (656)</B> jumps!
+[18:20:46]SAY: mouse/ : Squeek!
+[18:20:56]SAY: mouse/ : Squeek!
+[18:21:02]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/bmetalarmor at (74,134,1)
+[18:21:13]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13ut at (75,134,1)
+[18:21:26]EMOTE: monkey (195)/ : <B>The monkey (195)</B> jumps!
+[18:21:42]SAY: mouse/ : Squeek?
+[18:21:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/head/welding at (74,134,1)
+[18:22:00]EMOTE: monkey (467)/ : <B>The monkey (467)</B> jumps!
+[18:22:08]SAY: mouse/ : SQUEEK!
+[18:22:19]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/shoes/jackboots at (74,134,1)
+[18:22:35]SAY: mouse/ : Squeek?
+[18:22:53]EMOTE: monkey (467)/ : <B>The monkey (467)</B> jumps!
+[18:23:09]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/leatherarmor at (75,135,1)
+[18:23:15]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk01 at (73,135,1)
+[18:23:19]SAY: mouse/ : Squeek!
+[18:23:23]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[18:23:25]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk02 at (73,134,1)
+[18:23:43]EMOTE: monkey (249)/ : <B>The monkey (249)</B> jumps!
+[18:23:43]ADMIN: BartNixon/(Gilroy Rudah) mass modified holodisk's icon_state to holodiskanim
+[18:23:48]ADMIN: BartNixon/(Gilroy Rudah) mass modified holodisk's icon_state to holodiskanim
+[18:24:02]ADMIN: BartNixon/(Gilroy Rudah) modified holodisk's icon_state to holodiskanim
+[18:24:50]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (73,133,1)
+[18:24:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (72,133,1)
+[18:25:03]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (72,134,1)
+[18:25:10]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (73,134,1)
+[18:25:26]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:25:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the space heater at (73,138,1)
+[18:25:29]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:25:41]EMOTE: monkey (195)/ : <B>The monkey (195)</B> jumps!
+[18:25:43]ACCESS: Login: WalterJe/(WalterJe) from 7.67.205.123-3629130621 || BYOND v506
+[18:25:54]OOC: Gilroy Rudah/BartNixon : Хэллоу.
+[18:26:05]OOC: Gilroy Rudah/BartNixon : Да, тут типа другой шрифт.
+[18:26:23]EMOTE: monkey (562)/ : <B>The monkey (562)</B> jumps!
+[18:26:38]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/emergency at (72,137,1)
+[18:26:52]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/toolbox/syndicate at (71,134,1)
+[18:27:13]OOC: Gilroy Rudah/BartNixon : Вручную команды вбивай наркоман.
+[18:27:31]OOC: Gilroy Rudah/BartNixon : Это ж ТГ.
+[18:27:37]SAY: mouse/ : Squeek!
+[18:27:40]OOC: Gilroy Rudah/BartNixon : Тут всё не как у людей.
+[18:27:41]SAY: mouse/ : Squeek!
+[18:27:51]OOC: Gilroy Rudah/BartNixon : И буква Я бракованаЯ понЯтное дело.
+[18:28:07]SAY: mouse/ : Squeek!
+[18:28:07]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/nukacola at (73,138,1)
+[18:28:09]EMOTE: monkey (249)/ : <B>The monkey (249)</B> jumps!
+[18:28:35]SAY: Ian/ : YAP
+[18:28:37]SAY: Ian/ : YAP
+[18:28:43]EMOTE: monkey (617)/ : <B>The monkey (617)</B> jumps!
+[18:28:58]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/target/syndicate at (76,138,1)
+[18:28:59]OOC: WalterJe/WalterJe : Ага вот где это
+[18:29:05]OOC: WalterJe/WalterJe : Ужасно
+[18:29:07]OOC: Gilroy Rudah/BartNixon : Лолка.
+[18:29:13]OOC: Gilroy Rudah/BartNixon : Сразу видно нуфаг.
+[18:29:20]OOC: Gilroy Rudah/BartNixon : У нас когда то тоже так было.
+[18:29:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/target_stake at (76,138,1)
+[18:29:48]SAY: mouse/ : Squeek!
+[18:30:04]SAY: mouse/ : Squeek?
+[18:30:18]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:30:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (72,139,1)
+[18:30:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Firelock North at (72,139,1)
+[18:30:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Firelock North at (71,139,1)
+[18:30:26]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:30:26]SAY: grey baby slime (646)/ : Rawr...
+[18:30:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/mineral_door/iron at (71,139,1)
+[18:30:44]EMOTE: monkey (617)/ : <B>The monkey (617)</B> jumps!
+[18:30:57]ADMIN: BartNixon/(Gilroy Rudah) modified metal door's icon to fdoors.dmi
+[18:31:18]ACCESS: Logout: *no key*/(WalterJe)
+[18:31:18]ACCESS: Login: WalterJe/(Boris Vest) from 7.67.205.123-3629130621 || BYOND v506
+[18:31:20]SAY: mouse/ : Squeek?
+[18:31:25]OOC: Gilroy Rudah/BartNixon : Персонажи кстати нормально сейвсесли что.
+[18:31:25]EMOTE: monkey (656)/ : <B>The monkey (656)</B> jumps!
+[18:31:29]EMOTE: monkey (562)/ : <B>The monkey (562)</B> jumps!
+[18:31:33]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:31:33]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:31:43]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:31:43]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:31:58]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/fancy/krotchy_box at (74,136,1)
+[18:32:03]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> coughs!
+[18:32:05]SAY: Boris Vest/WalterJe : Вам оружее
+[18:32:10]SAY: Boris Vest/WalterJe : Легальное, или не очень?
+[18:32:23]SAY: mouse/ : Squeek?
+[18:32:51]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13 at (75,135,1)
+[18:32:53]SAY: Boris Vest/WalterJe : Беззубый Макс
+[18:32:56]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13ut at (76,135,1)
+[18:33:15]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> coughs!
+[18:33:25]SAY: mouse/ : Squeek?
+[18:33:31]EMOTE: monkey (562)/ : <B>The monkey (562)</B> jumps!
+[18:33:45]SAY: Boris Vest/WalterJe : Большевата
+[18:35:13]EMOTE: monkey (716)/ : <B>The monkey (716)</B> jumps!
+[18:35:16]SAY: Boris Vest/WalterJe : Круто
+[18:35:44]GAME: Explosion with size (1, 2, 3, 0) in area Locker Room (67,138,1)
+[18:35:44]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room (69,138,1)
+[18:35:46]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:35:46]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:35:52]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:35:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (68,137,1)
+[18:35:55]SAY: Boris Vest/WalterJe : вот бль
+[18:35:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (66,138,1)
+[18:35:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (67,138,1)
+[18:35:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the wall at (66,138,1)
+[18:35:59]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:36:13]OOC: Gilroy Rudah/BartNixon : Взрыв видел, или всышкой слепнуло?
+[18:36:35]EMOTE: monkey (93)/ : <B>The monkey (93)</B> jumps!
+[18:36:35]OOC: Boris Vest/WalterJe : Видел
+[18:36:37]EMOTE: monkey (195)/ : <B>The monkey (195)</B> jumps!
+[18:36:39]OOC: Boris Vest/WalterJe : Красиво
+[18:36:47]EMOTE: monkey (562)/ : <B>The monkey (562)</B> jumps!
+[18:36:53]SAY: Boris Vest/WalterJe : Идем крочи
+[18:36:57]SAY: mouse/ : SQUEEK!
+[18:37:08]SAY: Boris Vest/WalterJe : Парень из мегатонны обещал мне 5 крышек за теб
+[18:37:14]OOC: Gilroy Rudah/BartNixon : Ну ты короче пон что да как с иконками.
+[18:37:18]SAY: Boris Vest/WalterJe : Но думаю Изго ты удешь подороже
+[18:37:23]SAY: mouse/ : SQUEEK!
+[18:37:37]EMOTE: monkey (673)/ : <B>The monkey (673)</B> jumps!
+[18:37:38]OOC: Gilroy Rudah/BartNixon : Думаю в пост-апокалипсисе, Кротчи будет просто идеально.
+[18:37:47]EMOTE: monkey (127)/ : <B>The monkey (127)</B> jumps!
+[18:37:54]OOC: Boris Vest/WalterJe : За ним охотьсизгои и анклав
+[18:38:07]SAY: grey baby slime (646)/ : Rawr...
+[18:38:08]OOC: Boris Vest/WalterJe : Надо вокруг него сюжет завЯзать
+[18:38:28]SAY: Boris Vest/WalterJe : С-с-ссс
+[18:38:31]SAY: Boris Vest/WalterJe : спэ
+[18:38:32]OOC: Gilroy Rudah/BartNixon : Ага лол. Уникальнадовоеннатехнологи А в чках зашиты коды запуска программы орбиатльной бомбардировки.
+[18:38:39]SAY: Boris Vest/WalterJe : Бль, все ранво не умею читать
+[18:38:50]SAY: mouse/ : Squeek?
+[18:39:10]SAY: mouse/ : Squeek!
+[18:39:14]SAY: mouse/ : Squeek?
+[18:40:28]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/stool/bed/chair/office/light at (101,133,1)
+[18:40:45]ADMIN: BartNixon/(Gilroy Rudah) modified chair's icon to BIKE_FO.dmi
+[18:40:50]ADMIN: BartNixon/(Gilroy Rudah) modified chair's icon_state to bike
+[18:40:53]ADMIN: BartNixon/(Gilroy Rudah) modified chair's name to bike
+[18:41:01]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_x to -32
+[18:41:05]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_y to -32
+[18:41:09]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_y to -15
+[18:41:16]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[18:41:16]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:41:16]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:41:19]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:41:19]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:41:26]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/vault13 at (99,133,1)
+[18:41:32]EMOTE: monkey (195)/ : <B>The monkey (195)</B> jumps!
+[18:41:43]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_x to -15
+[18:41:55]OOC: Boris Vest/WalterJe : Что можно положить в коробку?
+[18:42:02]OOC: Boris Vest/WalterJe : Помимо крочи
+[18:42:05]OOC: Gilroy Rudah/BartNixon : Пока что только Кротчи.
+[18:42:13]ADMIN: BartNixon/(Gilroy Rudah) made all SMESs powered
+[18:42:13]ADMIN: BartNixon/(Gilroy Rudah) used secret quickpower
+[18:42:16]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:42:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (100,133,1)
+[18:42:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,133,1)
+[18:42:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (97,133,1)
+[18:42:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,135,1)
+[18:42:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,137,1)
+[18:42:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,138,1)
+[18:42:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,139,1)
+[18:42:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,140,1)
+[18:42:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,141,1)
+[18:42:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,142,1)
+[18:42:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (102,140,1)
+[18:42:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (103,140,1)
+[18:42:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (104,141,1)
+[18:42:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (105,141,1)
+[18:42:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (106,141,1)
+[18:42:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (107,141,1)
+[18:42:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (108,141,1)
+[18:42:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (110,141,1)
+[18:42:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (110,141,1)
+[18:42:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (112,141,1)
+[18:42:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (112,141,1)
+[18:42:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (114,141,1)
+[18:42:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (110,141,1)
+[18:42:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (111,141,1)
+[18:42:28]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:42:38]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_z to 15
+[18:42:41]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_z to 12
+[18:42:45]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_z to 15
+[18:42:49]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_z to 32
+[18:42:51]EMOTE: monkey (210)/ : <B>The monkey (210)</B> jumps!
+[18:42:52]ADMIN: BartNixon/(Gilroy Rudah) modified bike's pixel_z to 5
+[18:42:59]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:43:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (109,141,1)
+[18:43:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (108,141,1)
+[18:43:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (106,141,1)
+[18:43:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (105,141,1)
+[18:43:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (104,141,1)
+[18:43:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (104,142,1)
+[18:43:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (104,142,1)
+[18:43:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (104,142,1)
+[18:43:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (107,142,1)
+[18:43:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (108,142,1)
+[18:43:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (109,142,1)
+[18:43:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (110,142,1)
+[18:43:05]EMOTE: monkey (562)/ : <B>The monkey (562)</B> jumps!
+[18:43:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (112,142,1)
+[18:43:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,142,1)
+[18:43:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (114,142,1)
+[18:43:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (115,142,1)
+[18:43:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (116,142,1)
+[18:43:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (117,142,1)
+[18:43:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (114,140,1)
+[18:43:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (114,140,1)
+[18:43:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the reinforced window (114,139,1)
+[18:43:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (116,140,1)
+[18:43:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (117,140,1)
+[18:43:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (117,141,1)
+[18:43:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (117,142,1)
+[18:43:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (117,142,1)
+[18:43:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (117,141,1)
+[18:43:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (115,141,1)
+[18:43:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (114,141,1)
+[18:43:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,141,1)
+[18:43:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (112,141,1)
+[18:43:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (111,141,1)
+[18:43:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (112,143,1)
+[18:43:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,144,1)
+[18:43:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the maintenance access (116,145,1)
+[18:43:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,144,1)
+[18:43:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,147,1)
+[18:43:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,147,1)
+[18:43:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,147,1)
+[18:43:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,147,1)
+[18:43:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,147,1)
+[18:43:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,148,1)
+[18:43:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,151,1)
+[18:43:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,152,1)
+[18:43:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,154,1)
+[18:43:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,155,1)
+[18:43:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,156,1)
+[18:43:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,157,1)
+[18:43:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,158,1)
+[18:43:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,159,1)
+[18:43:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,160,1)
+[18:43:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,161,1)
+[18:43:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,162,1)
+[18:43:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,163,1)
+[18:43:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,164,1)
+[18:43:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the grille (113,165,1)
+[18:43:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the reinforced window (113,165,1)
+[18:43:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,167,1)
+[18:43:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the reinforced window (113,168,1)
+[18:43:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,169,1)
+[18:43:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (108,163,1)
+[18:43:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (107,163,1)
+[18:43:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (106,163,1)
+[18:43:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (105,163,1)
+[18:43:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (104,163,1)
+[18:43:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (112,163,1)
+[18:43:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the AI holopad (113,163,1)
+[18:43:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (114,163,1)
+[18:43:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (115,163,1)
+[18:43:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (115,163,1)
+[18:43:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,158,1)
+[18:43:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,157,1)
+[18:43:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,156,1)
+[18:43:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,155,1)
+[18:43:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,154,1)
+[18:43:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,154,1)
+[18:43:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,152,1)
+[18:43:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,152,1)
+[18:43:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,150,1)
+[18:43:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,149,1)
+[18:43:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,148,1)
+[18:43:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,147,1)
+[18:43:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,147,1)
+[18:43:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,145,1)
+[18:43:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,144,1)
+[18:43:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,143,1)
+[18:43:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,142,1)
+[18:43:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,141,1)
+[18:43:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (113,140,1)
+[18:43:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the reinforced window (113,139,1)
+[18:43:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (108,141,1)
+[18:43:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (110,141,1)
+[18:43:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (110,141,1)
+[18:43:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (110,140,1)
+[18:43:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (107,140,1)
+[18:43:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (106,141,1)
+[18:43:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (104,141,1)
+[18:43:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (103,141,1)
+[18:43:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (101,141,1)
+[18:43:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (100,141,1)
+[18:43:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (100,141,1)
+[18:43:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,141,1)
+[18:43:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (98,141,1)
+[18:43:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (97,141,1)
+[18:43:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (96,141,1)
+[18:43:39]EMOTE: monkey (732)/ : <B>The monkey (732)</B> jumps!
+[18:43:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (94,141,1)
+[18:43:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (94,141,1)
+[18:43:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (93,141,1)
+[18:43:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (92,141,1)
+[18:43:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (90,141,1)
+[18:43:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (90,141,1)
+[18:43:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (90,141,1)
+[18:43:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (90,141,1)
+[18:43:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (90,141,1)
+[18:43:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (90,141,1)
+[18:43:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (90,141,1)
+[18:43:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (88,141,1)
+[18:43:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (88,141,1)
+[18:43:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (87,141,1)
+[18:43:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (86,141,1)
+[18:43:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (85,141,1)
+[18:43:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (84,141,1)
+[18:43:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (83,141,1)
+[18:43:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (82,141,1)
+[18:43:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (81,141,1)
+[18:43:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (80,141,1)
+[18:43:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (79,141,1)
+[18:43:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (77,141,1)
+[18:43:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (77,141,1)
+[18:43:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,141,1)
+[18:43:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,141,1)
+[18:43:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,141,1)
+[18:43:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,141,1)
+[18:43:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,141,1)
+[18:43:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (70,141,1)
+[18:43:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (70,141,1)
+[18:43:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (69,141,1)
+[18:43:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,141,1)
+[18:43:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (66,141,1)
+[18:43:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (66,141,1)
+[18:43:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (65,141,1)
+[18:43:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (64,141,1)
+[18:43:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (63,141,1)
+[18:43:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at Firelock West (62,141,1)
+[18:43:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (61,141,1)
+[18:43:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (59,141,1)
+[18:43:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (59,141,1)
+[18:43:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the wall (57,141,1)
+[18:43:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the wall (57,141,1)
+[18:43:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (59,143,1)
+[18:43:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (59,143,1)
+[18:43:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the wall (59,145,1)
+[18:43:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (57,143,1)
+[18:43:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (56,143,1)
+[18:43:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (55,143,1)
+[18:43:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (54,143,1)
+[18:43:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (53,143,1)
+[18:43:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (52,143,1)
+[18:43:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (56,143,1)
+[18:43:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (57,143,1)
+[18:43:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (58,143,1)
+[18:43:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (59,143,1)
+[18:43:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (60,143,1)
+[18:43:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the wall (61,143,1)
+[18:43:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (61,140,1)
+[18:43:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the wall (61,139,1)
+[18:43:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (65,140,1)
+[18:43:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (66,141,1)
+[18:43:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,141,1)
+[18:43:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,141,1)
+[18:43:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (69,141,1)
+[18:43:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (69,141,1)
+[18:43:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,141,1)
+[18:43:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,141,1)
+[18:43:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,141,1)
+[18:43:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,141,1)
+[18:43:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,141,1)
+[18:43:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,137,1)
+[18:43:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,137,1)
+[18:43:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the table (71,136,1)
+[18:43:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the electrical toolbox (71,136,1)
+[18:44:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,138,1)
+[18:44:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,135,1)
+[18:44:01]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,135,1)
+[18:44:01]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,134,1)
+[18:44:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,133,1)
+[18:44:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,133,1)
+[18:44:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,133,1)
+[18:44:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,133,1)
+[18:44:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,134,1)
+[18:44:05]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:44:35]EMOTE: monkey (210)/ : <B>The monkey (210)</B> jumps!
+[18:44:45]OOC: Gilroy Rudah/BartNixon : Новаигрушка да? Лол
+[18:45:06]OOC: Gilroy Rudah/BartNixon : Короче иконки малость подправить, и всё. Могу кинуть код готовый, и хоть куда его.
+[18:45:14]EMOTE: monkey (467)/ : <B>The monkey (467)</B> jumps!
+[18:45:27]SAY: Boris Vest/WalterJe : самое времсъебывать
+[18:45:34]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:45:38]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:45:44]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:45:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the vomit (73,134,1)
+[18:45:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,136,1)
+[18:45:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,137,1)
+[18:45:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,137,1)
+[18:45:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (76,136,1)
+[18:45:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,135,1)
+[18:45:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,134,1)
+[18:45:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the bullet casing (76,133,1)
+[18:45:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (76,135,1)
+[18:45:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,135,1)
+[18:45:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the stool (73,135,1)
+[18:45:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the holodisk (72,135,1)
+[18:45:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,137,1)
+[18:45:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,138,1)
+[18:45:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,137,1)
+[18:45:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the krotchy doll box (76,137,1)
+[18:45:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (76,136,1)
+[18:45:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (76,135,1)
+[18:45:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,135,1)
+[18:45:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,135,1)
+[18:45:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,134,1)
+[18:46:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,134,1)
+[18:46:01]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,133,1)
+[18:46:01]ACCESS: Logout: WalterJe[DC]/(Boris Vest)
+[18:46:01]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (70,134,1)
+[18:46:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (69,134,1)
+[18:46:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,134,1)
+[18:46:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,134,1)
+[18:46:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,134,1)
+[18:46:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,136,1)
+[18:46:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,137,1)
+[18:46:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the metal (67,138,1)
+[18:46:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the plating (67,139,1)
+[18:46:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (70,138,1)
+[18:46:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,138,1)
+[18:46:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,137,1)
+[18:46:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,137,1)
+[18:46:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,137,1)
+[18:46:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,137,1)
+[18:46:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,137,1)
+[18:46:08]SAY: mouse/ : SQUEEK!
+[18:46:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,138,1)
+[18:46:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,138,1)
+[18:46:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,138,1)
+[18:46:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the Stechkin pistol (71,137,1)
+[18:46:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (70,137,1)
+[18:46:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (69,137,1)
+[18:46:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,137,1)
+[18:46:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,137,1)
+[18:46:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,140,1)
+[18:46:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,141,1)
+[18:46:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (67,142,1)
+[18:46:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the reinforced window (67,143,1)
+[18:46:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (68,142,1)
+[18:46:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,141,1)
+[18:46:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,141,1)
+[18:46:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,141,1)
+[18:46:18]SAY: Runtime/ : HSSSSS
+[18:46:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,138,1)
+[18:46:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,137,1)
+[18:46:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the table (71,136,1)
+[18:46:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the table (71,136,1)
+[18:46:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (73,138,1)
+[18:46:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (74,138,1)
+[18:46:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,137,1)
+[18:46:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (76,135,1)
+[18:46:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,134,1)
+[18:46:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,133,1)
+[18:46:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (75,133,1)
+[18:46:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (72,134,1)
+[18:46:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (71,134,1)
+[18:46:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the bike at the floor (70,134,1)
+[18:46:27]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:46:37]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

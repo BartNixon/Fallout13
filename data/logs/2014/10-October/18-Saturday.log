@@ -1,0 +1,75 @@
+
+
+Starting up. 03:44.37
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[03:44:38]ADMIN: Loading Banlistjob
+[03:44:38]ADMIN: Loading jobban_rank
+[03:44:38]ADMIN: jobban_keylist was empty
+[03:44:38]ADMIN: Loading appearance_rank
+[03:44:38]ADMIN: appearance_keylist was empty
+[03:44:38]ADMIN: Updating jobbanfile!
+[03:44:38]ADMIN: Loading Banlist
+[03:53:45]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[03:54:34]ADMIN: BartNixon has started the game.
+[03:54:42]EMOTE: monkey (728)/ : <B>The monkey (728)</B> jumps!
+[03:55:17]SAY: Ian/ : Bark!
+[03:56:02]SAY: Ian/ : Bark!
+[03:56:17]SAY: Pete/ : eh?
+[03:56:17]ACCESS: Logout: *no key*/(BartNixon)
+[03:56:17]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[03:56:29]EMOTE: monkey (103)/ : <B>The monkey (103)</B> jumps!
+[03:56:36]SAY: mouse/ : SQUEEK!
+[03:56:56]EMOTE: monkey (882)/ : <B>The monkey (882)</B> jumps!
+[03:57:06]SAY: mouse/ : Squeek!
+[03:57:22]SAY: mouse/ : SQUEEK!
+[03:57:40]EMOTE: monkey (882)/ : <B>The monkey (882)</B> jumps!
+[03:58:20]SAY: mouse/ : Squeek!
+[03:59:00]SAY: Ian/ : Bark!
+[03:59:29]SAY: mouse/ : Squeek?
+[03:59:49]EMOTE: monkey (404)/ : <B>The monkey (404)</B> jumps!
+[03:59:59]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[03:59:59]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[04:00:05]SAY: grey baby slime (490)/ : Rawr...
+[04:00:13]EMOTE: monkey (57)/ : <B>The monkey (57)</B> jumps!
+[04:00:31]EMOTE: monkey (157)/ : <B>The monkey (157)</B> jumps!
+[04:00:51]EMOTE: monkey (87)/ : <B>The monkey (87)</B> jumps!
+[04:01:31]SAY: grey baby slime (272)/ : Lonely...
+[04:01:41]SAY: mouse/ : SQUEEK!
+[04:01:43]SAY: mouse/ : SQUEEK!
+[04:01:49]EMOTE: monkey (755)/ : <B>The monkey (755)</B> jumps!
+[04:02:03]SAY: mouse/ : Squeek?
+[04:02:07]SAY: mouse/ : Squeek?
+[04:02:13]EMOTE: monkey (844)/ : <B>The monkey (844)</B> jumps!
+[04:02:15]SAY: Runtime/ : Purr!
+[04:02:19]SAY: mouse/ : Squeek?
+[04:03:21]SAY: mouse/ : SQUEEK!
+[04:03:35]EMOTE: monkey (755)/ : <B>The monkey (755)</B> jumps!
+[04:03:37]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[04:04:07]SAY: mouse/ : Squeek!
+[04:04:56]SAY: mouse/ : Squeek?
+[04:05:00]EMOTE: monkey (882)/ : <B>The monkey (882)</B> jumps!
+[04:05:04]EMOTE: monkey (87)/ : <B>The monkey (87)</B> jumps!
+[04:05:48]EMOTE: monkey (322)/ : <B>The monkey (322)</B> jumps!
+[04:05:56]EMOTE: monkey (57)/ : <B>The monkey (57)</B> jumps!
+[04:06:13]EMOTE: monkey (87)/ : <B>The monkey (87)</B> jumps!
+[04:06:31]SAY: mouse/ : SQUEEK!
+[04:06:33]SAY: mouse/ : Squeek!
+[04:08:22]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[04:08:32]EMOTE: monkey (844)/ : <B>The monkey (844)</B> jumps!
+[04:08:48]EMOTE: monkey (740)/ : <B>The monkey (740)</B> jumps!
+[04:08:59]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

@@ -1,0 +1,1640 @@
+
+
+Starting up. 05:15.06
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[05:15:08]ADMIN: Loading Banlistjob
+[05:15:08]ADMIN: Loading jobban_rank
+[05:15:08]ADMIN: jobban_keylist was empty
+[05:15:08]ADMIN: Loading appearance_rank
+[05:15:08]ADMIN: appearance_keylist was empty
+[05:15:08]ADMIN: Updating jobbanfile!
+[05:15:08]ADMIN: Loading Banlist
+[05:16:29]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[05:17:56]ADMIN: BartNixon/(BartNixon) delayed the game.
+[05:19:43]ADMIN: BartNixon/(BartNixon) removed the delay.
+[05:20:17]ACCESS: Logout: *no key*/(BartNixon)
+[05:20:17]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:20:23]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[05:20:37]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (75,141,1)
+[05:20:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (84,142,1)
+[05:21:00]SAY: Pete/ : eh?
+[05:21:17]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/mini_uzi at (81,141,1)
+[05:21:27]SAY: mouse/ : Squeek?
+[05:21:29]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[05:21:32]EMOTE: monkey (226)/ : <B>The monkey (226)</B> jumps!
+[05:22:02]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/vending/cola at (73,147,1)
+[05:22:03]SAY: Pete/ : EHEHEHEHEH
+[05:22:10]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/vending_refill/cola at (72,147,1)
+[05:22:31]ADMIN: BartNixon/(Gilroy Rudah) deleted the Robust Softdrinks at (73,147,1)
+[05:22:32]SAY: mouse/ : Squeek?
+[05:22:32]EMOTE: monkey (82)/ : <B>The monkey (82)</B> jumps!
+[05:22:41]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/soda_cans/cola at (74,146,1)
+[05:22:55]SAY: Poly/ : Wire the solars, you lazy bums!
+[05:23:08]GAME: BartNixon/(Gilroy Rudah) has primed a improvised firebomb for detonation at Locker Room (72,137,1).
+[05:23:18]EMOTE: monkey (201)/ : <B>The monkey (201)</B> jumps!
+[05:23:20]GAME: Explosion with size (-1, -1, -1, 4) in area Locker Room (69,137,1)
+[05:23:36]GAME: BartNixon/(Gilroy Rudah) triggered a fueltank explosion.
+[05:23:36]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room (69,138,1)
+[05:23:59]GAME: BartNixon/(Gilroy Rudah) triggered a fueltank explosion.
+[05:23:59]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (73,144,1)
+[05:24:03]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[05:24:03]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:24:05]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[05:24:07]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[05:24:13]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[05:24:20]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (72,146,1)
+[05:24:24]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> seizes up and falls limp, his eyes dead and lifeless...
+[05:24:26]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's active to 1
+[05:24:34]SAY: mouse/ : Squeek!
+[05:24:35]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 3
+[05:24:40]GAME: Explosion with size (2, 5, 11, 11) in area Primary Tool Storage (72,146,1)
+[05:25:03]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (92,146,1)
+[05:25:10]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's active to 1
+[05:25:14]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 3
+[05:25:19]GAME: Explosion with size (2, 5, 11, 11) in area Gateway (92,146,1)
+[05:25:21]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Maintenance (97,146,1)
+[05:25:35]EMOTE: monkey (82)/ : <B>The monkey (82)</B> jumps!
+[05:25:37]EMOTE: monkey (201)/ : <B>The monkey (201)</B> jumps!
+[05:25:48]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/explosion at (86,141,1)
+[05:25:51]SAY: mouse/ : SQUEEK!
+[05:25:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/explosion at (86,141,1)
+[05:26:04]EMOTE: monkey (740)/ : <B>The monkey (740)</B> jumps!
+[05:26:12]SAY: Pete/ : EHEHEHEHEH
+[05:26:13]ADMIN: HELP: BartNixon/(Gilroy Rudah): Test - heard by 1 non-AFK admins who have +BAN.
+[05:26:14]EMOTE: monkey (346)/ : <B>The monkey (346)</B> jumps!
+[05:26:33]SAY: grey baby slime (826)/ : Blop...
+[05:26:44]ADMIN: BartNixon/(Gilroy Rudah) changed their view range to 1.
+[05:26:46]ADMIN: BartNixon/(Gilroy Rudah) changed their view range to 7.
+[05:26:52]ADMIN: BartNixon/(Gilroy Rudah) has created a command report: Test
+[05:26:54]SAY: Poly/ : Wire the solars, you lazy bums!
+[05:27:00]EMOTE: monkey (699)/ : <B>The monkey (699)</B> jumps!
+[05:27:02]SAY: mouse/ : Squeek!
+[05:27:08]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 05:39.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[05:39:02]ADMIN: Loading Banlistjob
+[05:39:02]ADMIN: Loading jobban_rank
+[05:39:02]ADMIN: jobban_keylist was empty
+[05:39:02]ADMIN: Loading appearance_rank
+[05:39:02]ADMIN: appearance_keylist was empty
+[05:39:02]ADMIN: Updating jobbanfile!
+[05:39:02]ADMIN: Loading Banlist
+[05:41:01]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[05:42:09]ACCESS: Logout: *no key*/(BartNixon)
+[05:42:09]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[05:42:14]ADMIN: BartNixon has started the game.
+[05:42:18]SAY: Runtime/ : HSSSSS
+[05:42:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (113,142,1)
+[05:42:39]SAY: mouse/ : Squeek!
+[05:42:42]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's active to 1
+[05:42:45]SAY: mouse/ : Squeek?
+[05:42:47]SAY: grey baby slime (447)/ : Rawr...
+[05:42:47]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 1
+[05:42:47]GAME: Explosion with size (2, 5, 11, 11) in area Central Primary Hallway (113,142,1)
+[05:42:49]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Storage (105,145,1)
+[05:42:52]EMOTE: monkey (571)/ : <B>The monkey (571)</B> jumps!
+[05:42:56]SAY: mouse/ : Squeek?
+[05:43:02]SAY: grey baby slime (447)/ : Blorble...
+[05:43:05]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (136,135,1)
+[05:43:14]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/explosion at (135,136,1)
+[05:43:32]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's active to 1
+[05:43:36]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 3
+[05:43:41]GAME: Explosion with size (2, 5, 11, 11) in area Bar (136,135,1)
+[05:43:45]EMOTE: monkey (904)/ : <B>The monkey (904)</B> jumps!
+[05:43:51]SAY: grey baby slime (447)/ : Lonely...
+[05:44:10]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[05:44:14]SAY: mouse/ : Squeek?
+[05:44:18]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[05:44:20]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (1,1,3,2) at (90,134,1)
+[05:44:20]GAME: Explosion with size (1, 1, 3, 2) in area Auxiliary Tool Storage (90,134,1)
+[05:44:20]GAME: Explosion with size (-1, 0, 2, 2) in area Auxiliary Tool Storage (91,134,1)
+[05:45:07]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table at (147,118,1)
+[05:45:15]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/table at (143,118,1)
+[05:45:36]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to icons/effects/96x96.dmi
+[05:45:39]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to explosion
+[05:45:49]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_x to -32
+[05:45:52]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_y to -32
+[05:46:01]SAY: mouse/ : SQUEEK!
+[05:46:19]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to 2.png
+[05:46:26]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_x to 64
+[05:46:29]EMOTE: monkey (571)/ : <B>The monkey (571)</B> jumps!
+[05:46:29]SAY: mouse/ : Squeek!
+[05:46:31]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_x to -64
+[05:46:37]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_y to -32
+[05:46:46]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_y to -64
+[05:46:51]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_y to -32
+[05:47:35]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_x to -32
+[05:47:43]ADMIN: BartNixon/(Gilroy Rudah) modified table's pixel_x to -64
+[05:47:45]SAY: mouse/ : Squeek?
+[05:48:00]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to null
+[05:48:03]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to explosion
+[05:48:08]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to explosion
+[05:48:41]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon to icons/effects/160x160.dmi
+[05:48:46]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to epicexplosion
+[05:48:47]SAY: grey baby slime (447)/ : Lonely...
+[05:48:51]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to null
+[05:48:57]ADMIN: BartNixon/(Gilroy Rudah) modified table's icon_state to epicexplosion
+[05:49:19]GAME: Explosion with size (1, 2, 3, 0) in area Primary Tool Storage (71,145,1)
+[05:49:19]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (73,144,1)
+[05:49:26]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (73,141,1)
+[05:49:28]SAY: grey baby slime (420)/ : Blorble...
+[05:49:31]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (80,141,1)
+[05:49:36]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (83,141,1)
+[05:49:42]GAME: Explosion with size (1, 2, 3, 0) in area Gateway (92,145,1)
+[05:49:47]GAME: Explosion with size (1, 2, 3, 0) in area EVA Storage (102,145,1)
+[05:49:50]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (97,140,1)
+[05:49:56]GAME: Explosion with size (1, 2, 3, 0) in area Locker Room (74,137,1)
+[05:50:00]GAME: Explosion with size (1, 2, 3, 0) in area Locker Room (68,136,1)
+[05:50:00]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room (69,138,1)
+[05:50:02]SAY: mouse/ : Squeek!
+[05:50:04]GAME: Explosion with size (1, 2, 3, 0) in area Locker Room (73,135,1)
+[05:50:08]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (67,141,1)
+[05:50:11]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (62,141,1)
+[05:50:15]GAME: Explosion with size (1, 2, 3, 0) in area Arrival Shuttle Hallway (57,144,1)
+[05:50:17]GAME: Explosion with size (1, 2, 3, 0) in area Arrival Shuttle Hallway (52,144,1)
+[05:50:34]GAME: Explosion with size (1, 2, 3, 0) in area Heads of Staff Meeting Room (102,132,1)
+[05:50:39]GAME: Explosion with size (1, 2, 3, 0) in area Heads of Staff Meeting Room (99,128,1)
+[05:50:42]GAME: Explosion with size (1, 2, 3, 0) in area Cargo Office (91,126,1)
+[05:50:46]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (96,117,1)
+[05:50:49]EMOTE: monkey (638)/ : <B>The monkey (638)</B> jumps!
+[05:50:49]GAME: Explosion with size (1, 2, 3, 0) in area Cargo Office (90,117,1)
+[05:51:22]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (10,10,10,1) at (135,139,1)
+[05:51:22]GAME: Explosion with size (3, 7, 10, 1) in area Bar (135,139,1)
+[05:51:28]SAY: mouse/ : SQUEEK!
+[05:51:52]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (19,10,10,10) at (142,136,1)
+[05:51:52]GAME: Explosion with size (3, 7, 10, 10) in area Bar (142,136,1)
+[05:52:07]SAY: Runtime/ : Esp!
+[05:52:07]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 06:35.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[06:35:44]ADMIN: Loading Banlistjob
+[06:35:44]ADMIN: Loading jobban_rank
+[06:35:44]ADMIN: jobban_keylist was empty
+[06:35:44]ADMIN: Loading appearance_rank
+[06:35:44]ADMIN: appearance_keylist was empty
+[06:35:44]ADMIN: Updating jobbanfile!
+[06:35:44]ADMIN: Loading Banlist
+[06:39:38]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[06:40:11]ADMIN: BartNixon has started the game.
+[06:40:26]SAY: mouse/ : SQUEEK!
+[06:40:33]ACCESS: Logout: *no key*/(BartNixon)
+[06:40:33]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[06:40:39]SAY: Ian/ : Woof!
+[06:40:41]SAY: mouse/ : SQUEEK!
+[06:40:42]SAY: mouse/ : Squeek?
+[06:40:43]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Cargo Bay
+[06:41:04]SAY: mouse/ : Squeek?
+[06:41:36]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flushing to 1
+[06:41:40]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flush to 1
+[06:42:13]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[06:42:13]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[06:42:19]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[06:42:19]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[06:42:27]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (91,124,1)
+[06:42:45]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[06:42:45]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[06:42:56]GAME: Explosion with size (1, 2, 3, 0) in area Captain's Office (123,129,1)
+[06:43:04]GAME: Explosion with size (1, 2, 3, 0) in area Bridge (113,136,1)
+[06:43:07]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (113,142,1)
+[06:43:12]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (94,142,1)
+[06:43:16]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (81,141,1)
+[06:43:20]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway (73,141,1)
+[06:43:24]GAME: Explosion with size (1, 2, 3, 0) in area Locker Room (71,137,1)
+[06:43:24]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room (69,138,1)
+[06:43:30]GAME: Explosion with size (3, 5, 7, 0) in area Locker Room (75,136,1)
+[06:43:36]GAME: Explosion with size (2, 3, 4, 0) in area Port Primary Hallway (66,141,1)
+[06:43:37]SAY: grey baby slime (352)/ : Blop...
+[06:43:40]GAME: Explosion with size (1, 2, 3, 0) in area Arrival Shuttle Hallway (59,141,1)
+[06:43:45]GAME: Explosion with size (3, 5, 7, 0) in area Arrival Shuttle Hallway (52,143,1)
+[06:43:50]SAY: mouse/ : Squeek!
+[06:43:54]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (99,140,1)
+[06:43:58]EMOTE: monkey (455)/ : <B>The monkey (455)</B> jumps!
+[06:43:58]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (110,140,1)
+[06:44:04]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (126,140,1)
+[06:44:08]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (122,140,1)
+[06:44:13]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (128,131,1)
+[06:44:18]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (135,129,1)
+[06:44:22]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (144,129,1)
+[06:44:25]SAY: mouse/ : Squeek!
+[06:44:26]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (155,129,1)
+[06:44:30]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (161,129,1)
+[06:44:33]SAY: mouse/ : Squeek!
+[06:44:34]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (167,129,1)
+[06:44:35]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[06:44:37]SAY: grey baby slime (939)/ : Blorble...
+[06:44:38]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (174,129,1)
+[06:44:42]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (180,129,1)
+[06:44:44]EMOTE: monkey (3)/ : <B>The monkey (3)</B> jumps!
+[06:44:45]GAME: Explosion with size (1, 2, 3, 0) in area Starboard Primary Hallway (183,129,1)
+[06:44:48]GAME: Explosion with size (1, 2, 3, 0) in area Escape Shuttle Hallway (189,129,1)
+[06:44:55]GAME: Explosion with size (1, 2, 3, 0) in area Chapel (183,135,1)
+[06:44:59]GAME: Explosion with size (3, 5, 7, 0) in area Library (170,135,1)
+[06:45:04]SAY: mouse/ : SQUEEK!
+[06:45:05]GAME: Explosion with size (3, 5, 7, 0) in area Kitchen (152,135,1)
+[06:45:09]GAME: Explosion with size (1, 2, 3, 0) in area Bar (141,135,1)
+[06:45:12]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[06:45:12]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[06:45:14]GAME: Explosion with size (1, 2, 3, 0) in area Bar (137,134,1)
+[06:45:16]EMOTE: monkey (904)/ : <B>The monkey (904)</B> jumps!
+[06:45:17]GAME: Explosion with size (1, 2, 3, 0) in area Bar (133,135,1)
+[06:45:20]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[06:45:28]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[06:45:37]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/syndicatebomb at (121,174,1)
+[06:45:43]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's active to 1
+[06:45:48]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 3
+[06:45:53]GAME: Explosion with size (2, 5, 11, 11) in area Security Office (121,174,1)
+[06:45:59]SAY: Runtime/ : Meow!
+[06:46:06]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 17:56.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[17:56:54]ADMIN: Loading Banlistjob
+[17:56:54]ADMIN: Loading jobban_rank
+[17:56:54]ADMIN: jobban_keylist was empty
+[17:56:54]ADMIN: Loading appearance_rank
+[17:56:54]ADMIN: appearance_keylist was empty
+[17:56:54]ADMIN: Updating jobbanfile!
+[17:56:54]ADMIN: Loading Banlist
+[17:58:43]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[17:59:01]ADMIN: BartNixon/(BartNixon) delayed the game.
+[17:59:15]ACCESS: Login: IDeee/(IDeee) from 7.84.93.29-517297346 || BYOND v501
+[18:00:43]ACCESS: Logout: *no key*/(IDeee)
+[18:00:43]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:00:50]ADMIN: IDeee has started the game.
+[18:00:57]EMOTE: monkey (484)/ : <B>The monkey (484)</B> jumps!
+[18:00:57]ACCESS: Logout: *no key*/(BartNixon)
+[18:00:57]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:01:03]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:01:07]SAY: Runtime/ : HSSSSS
+[18:01:16]EMOTE: monkey (526)/ : <B>The monkey (526)</B> jumps!
+[18:01:20]SAY: Tom/ : SQUEEK!
+[18:01:22]ADMIN: BartNixon/(Gilroy Rudah) has modified world.tick_lag to 0.6
+[18:02:04]SAY: mouse/ : Squeek?
+[18:02:06]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[18:02:06]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:02:06]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:02:13]ADMIN: BartNixon/(Gilroy Rudah) teleported IDeee/(Jason Nud)
+[18:02:16]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[18:02:16]EMOTE: monkey (917)/ : <B>The monkey (917)</B> jumps!
+[18:02:32]SAY: mouse/ : Squeek?
+[18:02:39]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of BartNixon/(Gilroy Rudah) to Quartermaster.
+[18:02:43]ADMIN: IDeee/(Jason Nud) has used rudimentary transformation on IDeee/(Jason Nud). Transforming to human; deletemob=1
+[18:02:43]ACCESS: Logout: *no key*/(Jason Nud)
+[18:02:43]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:02:54]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of IDeee/(Jason Nud) to Cargo Technician.
+[18:02:54]SAY: mouse/ : SQUEEK!
+[18:02:54]SAY: mouse/ : SQUEEK!
+[18:03:04]SAY: mouse/ : Squeek!
+[18:03:24]SAY: mouse/ : SQUEEK!
+[18:03:36]SAY: Poly/ : Wire the solars, you lazy bums!
+[18:03:46]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (91,125,1)
+[18:03:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (92,125,1)
+[18:03:58]SAY: mouse/ : Squeek?
+[18:04:04]SAY: mouse/ : Squeek?
+[18:04:17]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (92,124,1)
+[18:04:27]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (91,124,1)
+[18:05:08]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flushing to 1
+[18:05:11]ADMIN: BartNixon/(Gilroy Rudah) mass modified disposal unit's flush to 1
+[18:05:45]GAME: Explosion with size (1, 2, 3, 0) in area Cargo Office (92,128,1)
+[18:05:46]SAY: mouse/ : Squeek!
+[18:05:54]SAY: mouse/ : Squeek?
+[18:05:54]SAY: Tom/ : SQUEEK!
+[18:05:57]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[18:06:02]ADMIN: IDeee/(Jason Nud) jumped to 97,126,1 in the Central Primary Hallway
+[18:06:06]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:06:06]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:06:13]ADMIN: IDeee/(Jason Nud) deleted Jason Nud at (92,119,1)
+[18:06:13]ACCESS: Logout: *no key*/(Jason Nud)
+[18:06:13]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:06:17]ADMIN: IDeee/(Jason Nud) deleted Jason Nud's ID Card (Cargo Technician) at (92,119,1)
+[18:06:24]GAME: Explosion with size (1, 2, 3, 0) in area Cargo Office (87,121,1)
+[18:06:28]GAME: Explosion with size (1, 2, 3, 0) in area Cargo Office (88,117,1)
+[18:06:32]GAME: Explosion with size (1, 2, 3, 0) in area Cargo Office (92,118,1)
+[18:06:33]EMOTE: monkey (595)/ : <B>The monkey (595)</B> jumps!
+[18:06:38]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (97,119,1)
+[18:06:41]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (97,126,1)
+[18:06:48]GAME: Explosion with size (1, 2, 3, 0) in area Central Primary Hallway (97,125,1)
+[18:06:53]EMOTE: monkey (800)/ : <B>The monkey (800)</B> jumps!
+[18:06:57]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (97,138,1)
+[18:06:59]GAME: Explosion with size (3, 7, 14, 0) in area Central Primary Hallway (97,138,1)
+[18:07:00]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room Maintenance (86,134,1)
+[18:07:00]GAME: Explosion with size (-1, 0, 2, 2) in area Auxiliary Tool Storage (91,134,1)
+[18:07:00]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Storage (105,145,1)
+[18:07:00]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Maintenance (97,146,1)
+[18:07:07]SAY: Tom/ : Squeek!
+[18:07:11]SAY: mouse/ : Squeek!
+[18:07:16]GAME: Explosion with size (3, 7, 14, 0) in area Central Primary Hallway (113,141,1)
+[18:07:21]ADMIN: HELP: BartNixon/(Gilroy Rudah): Test help. - heard by 2 non-AFK admins who have +BAN.
+[18:07:32]ADMIN: HELP: IDeee/(Jason Nud): Pshh. - heard by 2 non-AFK admins who have +BAN.
+[18:07:41]GAME: Explosion with size (3, 5, 7, 0) in area Fore Primary Hallway (113,154,1)
+[18:07:57]ADMIN: BartNixon/(Gilroy Rudah) initiated a reboot.
+[18:08:03]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+[18:08:03]ACCESS: Logout: IDeee[DC]/(Jason Nud)
+
+
+Starting up. 18:09.30
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[18:09:30]ADMIN: Loading Banlistjob
+[18:09:30]ADMIN: Loading jobban_rank
+[18:09:30]ADMIN: jobban_keylist was empty
+[18:09:31]ADMIN: Loading appearance_rank
+[18:09:31]ADMIN: appearance_keylist was empty
+[18:09:31]ADMIN: Updating jobbanfile!
+[18:09:31]ADMIN: Loading Banlist
+[18:10:06]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[18:10:21]ADMIN: BartNixon/(BartNixon) delayed the game.
+[18:10:53]ACCESS: Login: IDeee/(IDeee) from 7.84.93.29-517297346 || BYOND v501
+[18:11:13]ACCESS: Logout: *no key*/(IDeee)
+[18:11:13]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:12:11]ADMIN: IDeee/(Jason Nud) has used rudimentary transformation on IDeee/(Jason Nud). Transforming to human; deletemob=1
+[18:12:11]ACCESS: Logout: *no key*/(Jason Nud)
+[18:12:11]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:12:16]ADMIN: BartNixon/(BartNixon) has modified world.tick_lag to 0.6
+[18:12:38]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to Detective.
+[18:14:29]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/storage/backpack/satchel at (100,158,1)
+[18:15:37]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/head/fedora at (100,159,1)
+[18:15:48]ACCESS: Login: Lydee/(Lydee) from 7.13.58.115-224893347 || BYOND v506
+[18:16:57]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/gloves/fingerless at (100,160,1)
+[18:17:19]ADMIN: IDeee/(Jason Nud) spawned /obj/item/clothing/shoes/laceup at (100,159,1)
+[18:18:14]ACCESS: Logout: *no key*/(Jason Nud)
+[18:18:14]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:18:44]ADMIN: BartNixon/(BartNixon) modified Jason Nud's key to @Dnivji
+[18:19:01]ACCESS: Logout: *no key*/(Jason Nud)
+[18:19:01]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:19:02]ACCESS: Login: HeadcrabKO/(HeadcrabKO) from 7.78.239.127-12920543 || BYOND v506
+[18:19:09]ADMIN: BartNixon/(BartNixon) modified Jason Nud's ckey to dnivji
+[18:19:13]ADMIN: BartNixon/(BartNixon) modified Jason Nud's key to Dnivji
+[18:19:45]ACCESS: Login: IDeee/(IDeee) from 7.84.93.29-517297346 || BYOND v501
+[18:19:45]ACCESS: Notice: IDeee/(IDeee) has the same IP (7.84.93.29) and ID (517297346) as Dnivji[DC]/(Jason Nud) (no longer logged in).
+[18:20:09]ACCESS: Logout: *no key*/(IDeee)
+[18:20:09]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:20:09]ACCESS: Notice: IDeee/(Jason Nud) has the same IP (7.84.93.29) and ID (517297346) as Dnivji[DC]/(Jason Nud) (no longer logged in).
+[18:20:29]ADMIN: IDeee/(Jason Nud) assumed direct control of Jason Nud.
+[18:20:29]ACCESS: Logout: *no key*/(Jason Nud)
+[18:20:29]ACCESS: Login: ideee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:20:47]ADMIN: BartNixon has started the game.
+[18:20:48]ACCESS: Logout: *no key*/(HeadcrabKO)
+[18:20:48]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:20:52]SAY: Tom/ : Squeek!
+[18:20:56]ACCESS: Logout: *no key*/(BartNixon)
+[18:20:56]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:21:07]ADMIN: BartNixon/(Gilroy Rudah) jumped to HeadcrabKO/(Spencer Tedrow)
+[18:21:10]ADMIN: ideee/(Jason Nud) deleted PDA-Jason Nud (Assistant) at (94,142,1)
+[18:21:45]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[18:21:47]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (120,76,1)
+[18:22:06]ACCESS: Logout: *no key*/(Jason Nud)
+[18:22:06]ACCESS: Login: ideee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:22:17]SAY: Runtime/ : Esp!
+[18:22:44]ACCESS: Logout: *no key*/(Jason Nud)
+[18:22:44]ACCESS: Login: ideee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:22:52]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/lighter/zippo at (117,162,1)
+[18:22:52]SAY: mouse/ : SQUEEK!
+[18:22:58]ADMIN: ideee/(Jason Nud) deleted the Zippo lighter at (117,162,1)
+[18:23:00]SAY: mouse/ : SQUEEK!
+[18:23:29]ADMIN: Lydee/(Lydee) modified [0x21006bf8] (/datum/configuration)'s alert_desc_blue_upto to здарова
+[18:23:39]ADMIN: ideee/(Jason Nud) jumped to 121,82,1 in Engineering
+[18:23:43]ADMIN: ideee/(Jason Nud) jumped to 114,76,1 in Engineering
+[18:23:56]SAY: mouse/ : Squeek!
+[18:24:06]EMOTE: monkey (23)/ : <B>The monkey (23)</B> jumps!
+[18:24:30]SAY: mouse/ : SQUEEK!
+[18:24:35]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[18:24:44]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:24:45]ADMIN: ideee/(Jason Nud) healed / Revived HeadcrabKO/(Spencer Tedrow)
+[18:24:56]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[18:25:04]SAY: mouse/ : Squeek!
+[18:25:37]ADMIN: BartNixon/(Gilroy Rudah) teleported Lydee/(Lydee)
+[18:26:00]SAY: mouse/ : Squeek?
+[18:26:01]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/gun/projectile/automatic/c20r/sc_c20r at (114,76,1)
+[18:26:16]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (107,80,1)
+[18:26:31]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:26:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[18:26:32]ADMIN: ideee/(Jason Nud) jumped to 107,74,1 in Engineering
+[18:26:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the plasma tank at the plating (107,70,1)
+[18:26:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the plasma tank at Jason Nud (107,71,1)
+[18:26:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the plasma tank at the floor (108,71,1)
+[18:26:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the plasma tank at the floor (108,73,1)
+[18:26:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the plasma tank at the floor (108,75,1)
+[18:26:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the plasma tank at the floor (108,76,1)
+[18:26:38]ADMIN: ideee/(Jason Nud) jumped to 108,79,1 in Engineering
+[18:26:38]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:26:39]ACCESS: Logout: *no key*/(Lydee)
+[18:26:39]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[18:26:47]SAY: mouse/ : Squeek?
+[18:26:52]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/gun/projectile/automatic/c20r/sc_c20r at (107,80,1)
+[18:26:53]EMOTE: monkey (66)/ : <B>The monkey (66)</B> jumps!
+[18:27:03]ADMIN: Lydee/(Grant Gibson) has used rudimentary transformation on Lydee/(Grant Gibson). Transforming to human; deletemob=1
+[18:27:03]ACCESS: Logout: *no key*/(Grant Gibson)
+[18:27:03]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[18:27:11]SAY: mouse/ : SQUEEK!
+[18:27:16]ADMIN: Lydee/(Grant Gibson) changed the equipment of Lydee/(Grant Gibson) to death commando.
+[18:27:28]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:27:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (109,79,1)
+[18:27:32]ADMIN: ideee/(Jason Nud) jumped to 108,76,1 in Engineering
+[18:27:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (110,79,1)
+[18:27:39]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:27:41]ADMIN: ideee/(Jason Nud) teleported HeadcrabKO/(Spencer Tedrow)
+[18:27:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (110,80,1)
+[18:27:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (109,80,1)
+[18:27:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (109,80,1)
+[18:27:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (110,80,1)
+[18:27:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (110,79,1)
+[18:27:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (109,79,1)
+[18:27:51]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:28:07]GAME: Explosion with size (1, 1, 1, 0) in area Engineering (108,80,1)
+[18:28:10]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:28:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (108,80,1)
+[18:28:12]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:28:16]ADMIN: ideee/(Jason Nud) has entered build mode.
+[18:28:20]SAY: grey baby slime (630)/ : Lonely...
+[18:28:20]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:21]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:21]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:21]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:22]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:22]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:23]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:23]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:24]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:24]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:24]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:28:24]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:24]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:24]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:25]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:25]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the reinforced wall (111,74,1)
+[18:28:25]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (110,75,1)
+[18:28:26]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the wall (111,77,1)
+[18:28:26]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (110,78,1)
+[18:28:26]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (110,78,1)
+[18:28:27]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (109,78,1)
+[18:28:27]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (109,78,1)
+[18:28:27]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (109,78,1)
+[18:28:27]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (110,78,1)
+[18:28:28]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (109,79,1)
+[18:28:28]ADMIN: Build Mode: ideee/(Jason Nud) threw Spencer Tedrow at the floor (109,78,1)
+[18:28:29]ADMIN: ideee/(Jason Nud) has left build mode.
+[18:28:30]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (1,1,1,2) at (109,79,1)
+[18:28:30]GAME: Explosion with size (1, 1, 1, 2) in area Engineering (109,79,1)
+[18:28:33]ADMIN: ideee/(Jason Nud) healed / Revived HeadcrabKO/(Spencer Tedrow)
+[18:28:35]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:28:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (109,79,1)
+[18:28:38]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:29:16]ADMIN: Lydee/(Grant Gibson) healed / revived Lydee/(Grant Gibson)
+[18:29:22]GAME: Explosion with size (1, 2, 3, 0) in area Engineering (109,81,1)
+[18:29:32]SAY: mouse/ : SQUEEK!
+[18:29:32]GAME: Explosion with size (1, 2, 3, 0) in area Engineering (107,80,1)
+[18:29:54]ADMIN: Lydee/(Grant Gibson) spawned /obj/item/weapon/shield/energy at (112,75,1)
+[18:30:13]ADMIN: BartNixon/(Gilroy Rudah) edited the admin rank of headcrabko to Elder
+[18:30:19]SAY: grey baby slime (332)/ : Blop...
+[18:30:37]GAME: Explosion with size (2, 3, 4, 0) in area Gravity Generator Room (113,124,1)
+[18:30:47]ADMIN: Lydee/(Grant Gibson) healed / revived Lydee/(Grant Gibson)
+[18:30:57]SAY: mouse/ : Squeek!
+[18:31:05]ADMIN: Lydee/(Grant Gibson) has toggled Lydee/(Grant Gibson)'s nodamage to On
+[18:31:09]ADMIN: ideee/(Jason Nud) has toggled HeadcrabKO/(Spencer Tedrow)'s nodamage to On
+[18:31:14]EMOTE: monkey (356)/ : <B>The monkey (356)</B> jumps!
+[18:31:20]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb at (114,75,1)
+[18:31:39]GAME: Lydee/(Grant Gibson) has primed a syndicate bomb (the bomb payload) for detonation at Engineering(114,75,1)
+[18:31:42]SAY: mouse/ : Squeek?
+[18:31:45]ADMIN: BartNixon/(Gilroy Rudah) modified syndicate bomb's timer to 5
+[18:31:50]ADMIN: Lydee/(Grant Gibson) modified syndicate bomb's timer to 10
+[18:31:58]SAY: grey baby slime (332)/ : Blop...
+[18:32:10]GAME: The syndicate bomb that Lydee/(Grant Gibson) had primed detonated!
+[18:32:10]GAME: Explosion with size (2, 5, 11, 11) in area Engineering (114,75,1)
+[18:32:15]SAY: mouse/ : Squeek?
+[18:32:40]ADMIN: ideee/(Jason Nud) jumped to 122,79,1 in Engineering
+[18:32:45]ADMIN: ideee/(Jason Nud) jumped to 115,86,1 in the Aft Primary Hallway
+[18:32:51]ADMIN: Lydee/(Grant Gibson) spawned /obj/item/weapon/bombcore/badmin/summon/clown at (117,76,1)
+[18:32:56]ADMIN: ideee/(Jason Nud) healed / Revived ideee/(Jason Nud)
+[18:32:56]SAY: mouse/ : Squeek?
+[18:33:03]ADMIN: Lydee/(Grant Gibson) jumped to 117,77,1 in Engineering
+[18:33:05]ADMIN: ideee/(Jason Nud) jumped to 113,114,1 in Gravity Generator Room
+[18:33:06]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:33:06]EMOTE: monkey (168)/ : <B>The monkey (168)</B> jumps!
+[18:33:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[18:33:09]ADMIN: ideee/(Jason Nud) jumped to 113,117,1 in Gravity Generator Room
+[18:33:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Spencer Tedrow at the floor (121,71,1)
+[18:33:10]SAY: mouse/ : Squeek!
+[18:33:10]SAY: mouse/ : Squeek?
+[18:33:13]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:33:22]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb/badmin/clown at (117,77,1)
+[18:33:29]GAME: Lydee/(Grant Gibson) has primed a clown bomb (the badmin payload) for detonation at Engineering(117,77,1)
+[18:33:35]ACCESS: Logout: *no key*/(Jason Nud)
+[18:33:35]ACCESS: Login: ideee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:33:44]ADMIN: Lydee/(Grant Gibson) deleted the clown bomb at (117,77,1)
+[18:33:53]GAME: Explosion with size (3, 5, 7, 0) in area Armory (115,180,1)
+[18:33:58]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb/badmin/clown at (121,73,1)
+[18:33:59]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (105,179,1)
+[18:34:02]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (98,186,1)
+[18:34:05]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (103,191,1)
+[18:34:05]GAME: Lydee/(Grant Gibson) has primed a clown bomb (the badmin payload) for detonation at Engineering(121,73,1)
+[18:34:08]GAME: Explosion with size (3, 5, 7, 0) in area Prison Wing (103,186,1)
+[18:34:11]GAME: Explosion with size (3, 5, 7, 0) in area Brig Control (117,175,1)
+[18:34:18]GAME: Explosion with size (3, 5, 7, 0) in area Security Office (120,182,1)
+[18:34:20]SAY: mouse/ : Squeek!
+[18:34:25]ADMIN: HeadcrabKO/(Spencer Tedrow) created 2ea /obj/item/weapon/extinguisher
+[18:34:31]ADMIN: Lydee/(Grant Gibson) modified clown bomb's timer to 10
+[18:34:35]EMOTE: monkey (168)/ : <B>The monkey (168)</B> jumps!
+[18:34:36]GAME: Explosion with size (1, 2, 3, 0) in area Armory (118,179,1)
+[18:34:42]GAME: Explosion with size (1, 2, 3, 0) in area Armory (112,179,1)
+[18:34:48]GAME: Explosion with size (1, 2, 3, 0) in area Security Office (121,179,1)
+[18:34:51]GAME: Explosion with size (1, 2, 3, 0) in area Armory (117,179,1)
+[18:34:53]SAY: Clown/ : Welcome to clown planet!
+[18:34:55]SAY: Clown/ : Honk!
+[18:34:56]GAME: Explosion with size (3, 5, 7, 0) in area Armory (117,179,1)
+[18:34:57]SAY: Clown/ : HONK
+[18:35:02]ADMIN: Lydee/(Grant Gibson) healed / revived Lydee/(Grant Gibson)
+[18:35:02]SAY: Clown/ : Welcome to clown planet!
+[18:35:04]SAY: Clown/ : HONK
+[18:35:05]ADMIN: HeadcrabKO/(Spencer Tedrow) gave HeadcrabKO/(Spencer Tedrow) the spell /obj/effect/proc_holder/spell/targeted/explosion/fireball.
+[18:35:06]SAY: Clown/ : HONK
+[18:35:08]ADMIN: Lydee/(Grant Gibson) healed / revived HeadcrabKO/(Spencer Tedrow)
+[18:35:13]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb at (121,74,1)
+[18:35:15]SAY: Clown/ : Welcome to clown planet!
+[18:35:15]SAY: Clown/ : HONK
+[18:35:19]GAME: Lydee/(Grant Gibson) has primed a syndicate bomb (the bomb payload) for detonation at Engineering(121,74,1)
+[18:35:26]SAY: Clown/ : HONK
+[18:35:37]ADMIN: Lydee/(Grant Gibson) modified syndicate bomb's timer to 5
+[18:35:40]ACCESS: Logout: *no key*/(Grant Gibson)
+[18:35:40]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[18:35:45]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:35:45]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:35:45]SAY: Clown/ : Honk!
+[18:35:49]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:35:49]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:35:54]GAME: The syndicate bomb that Lydee/(Grant Gibson) had primed detonated!
+[18:35:54]GAME: Explosion with size (2, 5, 11, 11) in area Engineering (121,74,1)
+[18:36:18]SAY: Clown/ : Honk!
+[18:36:23]ADMIN: HeadcrabKO/(Spencer Tedrow) changed the equipment of HeadcrabKO/(Spencer Tedrow) to red wizard.
+[18:36:29]GAME: Explosion with size (-1, -1, 2, 0) in area Engineering (120,72,1)
+[18:36:32]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:36:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (0,0,0) dir to 1
+[18:36:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (121,73,1)
+[18:36:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (121,73,1)
+[18:36:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at Spencer Tedrow (121,73,1)
+[18:36:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at the hazard vest (122,74,1)
+[18:36:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at the gibs (121,74,1)
+[18:36:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at Clown (119,73,1)
+[18:36:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at Spencer Tedrow (121,73,1)
+[18:36:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at Spencer Tedrow (121,73,1)
+[18:36:47]GAME: Explosion with size (3, 5, 7, 0) in area Engineering (119,73,1)
+[18:36:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (121,74,1)
+[18:36:49]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:36:49]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:36:50]SAY: Runtime/ : Meow!
+[18:36:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (121,75,1)
+[18:36:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at Clown (119,76,1)
+[18:36:54]GAME: Explosion with size (3, 5, 7, 0) in area Engineering (116,75,1)
+[18:36:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (121,77,1)
+[18:36:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the gibs at space (121,74,1)
+[18:36:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (121,75,1)
+[18:36:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (120,75,1)
+[18:36:59]GAME: Explosion with size (3, 5, 7, 0) in area Engineering (120,77,1)
+[18:37:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Clown at space (120,75,1)
+[18:37:02]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:37:04]GAME: Explosion with size (3, 5, 7, 0) in area Engineering (119,69,1)
+[18:37:05]ADMIN: Lydee/(Grant Gibson) has used rudimentary transformation on Lydee/(Grant Gibson). Transforming to human; deletemob=1
+[18:37:05]ACCESS: Logout: *no key*/(Grant Gibson)
+[18:37:05]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[18:37:06]GAME: Explosion with size (3, 5, 7, 0) in area Engineering (114,74,1)
+[18:37:10]GAME: Explosion with size (3, 5, 7, 0) in area Engineering (119,74,1)
+[18:37:11]ACCESS: Logout: *no key*/(Grant Gibson)
+[18:37:11]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[18:37:13]GAME: Explosion with size (3, 5, 7, 0) in area Engineering (117,77,1)
+[18:37:16]EMOTE: Grant Gibson/Lydee : <B>Grant Gibson</B> gasps!
+[18:37:20]ADMIN: Lydee/(Grant Gibson) healed / revived Lydee/(Grant Gibson)
+[18:37:34]ADMIN: HeadcrabKO/(Spencer Tedrow) created an explosion (1,1,1,1) at (112,80,1)
+[18:37:34]GAME: Explosion with size (1, 1, 1, 1) in area Engineering (112,80,1)
+[18:37:35]GAME: Explosion with size (3, 5, 7, 0) in area Labor Camp Shuttle (88,164,1)
+[18:37:36]ADMIN: Lydee/(Grant Gibson) has toggled Lydee/(Grant Gibson)'s nodamage to On
+[18:37:38]GAME: Explosion with size (3, 5, 7, 0) in area Labor Camp Shuttle (88,164,1)
+[18:37:40]GAME: Explosion with size (3, 5, 7, 0) in area Labor Camp Shuttle (88,164,1)
+[18:37:41]GAME: Explosion with size (3, 5, 7, 0) in area Labor Camp Shuttle (88,164,1)
+[18:37:44]GAME: Explosion with size (3, 5, 7, 0) in area Labor Camp Shuttle (88,167,1)
+[18:37:47]GAME: Explosion with size (3, 5, 7, 0) in area Labor Camp Shuttle (88,162,1)
+[18:37:52]ADMIN: Lydee/(Grant Gibson) changed the equipment of Lydee/(Grant Gibson) to death commando.
+[18:38:04]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[18:38:11]ADMIN: HeadcrabKO/(Spencer Tedrow) created an explosion (3,4,7,4) at (100,89,1)
+[18:38:11]GAME: Explosion with size (3, 4, 7, 4) in area Telecoms Server Room (100,89,1)
+[18:38:11]GAME: SMES deleted at (Telecoms Server Room)
+[18:38:22]SAY: mouse/ : SQUEEK!
+[18:38:30]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to hunter; deletemob=1
+[18:38:30]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:38:30]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:38:36]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:38:36]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:38:46]GAME: Explosion with size (3, 5, 7, 0) in area Gravity Generator Room (113,124,1)
+[18:38:46]GAME: SMES deleted at (Gravity Generator Room)
+[18:39:12]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[18:39:12]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:39:12]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:39:26]EMOTE: Jason Nud/@IDeee : <B>Jason Nud</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:39:32]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[18:39:34]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:39:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Gilroy Rudah at the floor (113,105,1)
+[18:39:42]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:39:46]EMOTE: monkey (936)/ : <B>The monkey (936)</B> jumps!
+[18:39:47]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:39:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Gilroy Rudah at the floor (114,86,1)
+[18:39:52]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:39:52]SAY: mouse/ : Squeek?
+[18:40:05]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:40:05]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:40:05]ADMIN: ideee/(Jason Nud) teleported @IDeee[DC]/(Jason Nud)
+[18:40:07]ACCESS: Logout: *no key*/(Jason Nud)
+[18:40:07]ACCESS: Login: ideee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[18:40:13]ADMIN: ideee/(Jason Nud) healed / Revived ideee/(Jason Nud)
+[18:40:21]ADMIN: ideee/(Jason Nud) jumped to 120,132,1 in the Captain's Office
+[18:40:26]ADMIN: ideee/(Jason Nud) jumped to 121,124,1 in the Captain's Office
+[18:40:31]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:40:31]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:40:41]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:40:47]SAY: mouse/ : Squeek?
+[18:40:49]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:40:51]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:40:51]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:40:56]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to adultslime; deletemob=1
+[18:40:57]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:41:02]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to observer; deletemob=1
+[18:41:02]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:41:02]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:41:05]ADMIN: HELP: BartNixon/(Gilroy Rudah): Lol - heard by 4 non-AFK admins who have +BAN.
+[18:41:33]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to adultslime; deletemob=1
+[18:41:42]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to constructarmored; deletemob=1
+[18:41:42]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:41:42]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:41:42]GAME: ideee/(Jason Nud) has changed the security level to green.
+[18:41:42]SAY: Ian/ : YAP
+[18:41:42]EMOTE: monkey (168)/ : <B>The monkey (168)</B> jumps!
+[18:41:50]ADMIN: HELP: Lydee/(Grant Gibson): чизбургер большую картошку и большую колу пожалуйста, с собой - heard by 4 non-AFK admins who have +BAN.
+[18:41:59]GAME: Explosion with size (1) in area Central Primary Hallway 
+[18:42:00]EMOTE: monkey (168)/ : <B>The monkey (168)</B> jumps!
+[18:42:05]ADMIN: HeadcrabKO/(Spencer Tedrow) jumped to 112,95,1 in the Aft Primary Hallway
+[18:42:12]SAY: mouse/ : Squeek!
+[18:42:25]ADMIN: HeadcrabKO/(Spencer Tedrow) jumped to the Aft Primary Hallway
+[18:42:30]GAME: ideee/(Jason Nud) enabled emergency maintenance access.
+[18:42:44]SAY: mouse/ : SQUEEK!
+[18:42:47]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:42:47]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:42:48]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:42:51]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:42:51]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:42:58]SAY: mouse/ : Squeek?
+[18:43:00]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:43:08]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[18:43:10]EMOTE: monkey (23)/ : <B>The monkey (23)</B> jumps!
+[18:43:10]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:43:12]ADMIN: Lydee/(Grant Gibson) made all areas powered
+[18:43:25]ADMIN: Lydee/(Grant Gibson) used secret power
+[18:43:27]ADMIN: HeadcrabKO/(Spencer Tedrow) jumped to the Central Primary Hallway
+[18:43:33]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:43:35]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[18:43:40]GAME: Lydee/(Grant Gibson) has changed the security level to blue.
+[18:43:55]EMOTE: monkey (66)/ : <B>The monkey (66)</B> jumps!
+[18:44:02]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:44:12]SAY: grey baby slime (332)/ : Lonely...
+[18:44:13]ADMIN: ideee/(Jason Nud) healed / Revived ideee/(Jason Nud)
+[18:44:18]ADMIN: ideee/(Jason Nud) jumped to 114,134,1 in the Bridge
+[18:44:20]ADMIN: HeadcrabKO/(Spencer Tedrow) jumped to the Bridge
+[18:44:32]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:44:44]SAY: grey baby slime (630)/ : Rawr...
+[18:44:44]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:44:44]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:44:51]EMOTE: monkey (356)/ : <B>The monkey (356)</B> jumps!
+[18:44:52]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:44:58]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to constructwraith; deletemob=1
+[18:44:58]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:44:58]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:45:02]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:45:02]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:45:03]SAY: grey baby slime (630)/ : Blorble...
+[18:45:05]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/screwdriver at (108,135,1)
+[18:45:11]SAY: Pete/ : eh?
+[18:45:17]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:45:27]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[18:45:29]SAY: mouse/ : SQUEEK!
+[18:45:31]ADMIN: ideee/(Jason Nud) spawned /obj/item/ammo_box/a357 at (105,135,1)
+[18:45:35]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:45:35]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:45:50]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to constructarmored; deletemob=1
+[18:45:50]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:45:50]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:45:56]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:45:56]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:46:07]ADMIN: ideee/(Jason Nud) healed / Revived ideee/(Jason Nud)
+[18:46:17]ADMIN: Lydee/(Grant Gibson) turned Lydee into a Space Ninja.
+[18:46:19]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/gun/projectile/revolver/mateba at (130,134,1)
+[18:46:20]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:46:25]ADMIN: ideee/(Jason Nud) spawned /obj/item/ammo_box/a357 at (130,133,1)
+[18:46:38]EMOTE: monkey (947)/ : <B>The monkey (947)</B> jumps!
+[18:46:43]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:46:43]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:46:54]SAY: mouse/ : Squeek?
+[18:46:55]ADMIN: ideee/(Jason Nud) spawned /obj/item/ammo_box/a357 at (117,134,1)
+[18:47:15]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/gun/projectile/revolver/detective at (130,134,1)
+[18:47:17]SAY: mouse/ : Squeek?
+[18:47:20]ADMIN: ideee/(Jason Nud) spawned /obj/item/weapon/screwdriver at (130,135,1)
+[18:47:35]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[18:47:41]ADMIN: BartNixon/(Gilroy Rudah) played sound b1_CompletedFallIn_1.ogg
+[18:47:45]ADMIN: BartNixon/(Gilroy Rudah) played sound b1_AnnouncedDoorClosed_2.ogg
+[18:47:47]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[18:47:58]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to crab; deletemob=1
+[18:47:58]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:47:58]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:48:00]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:48:00]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:48:03]ADMIN: BartNixon/(Gilroy Rudah) played sound s1_spottedteam_1.ogg
+[18:48:10]ADMIN: BartNixon/(Gilroy Rudah) played sound s1_spottedcontact_m01_1.ogg
+[18:48:21]ADMIN: BartNixon/(Gilroy Rudah) played sound s1_lostcontact_6.ogg
+[18:48:43]ADMIN: BartNixon/(Gilroy Rudah) played sound radio_Bach.ogg
+[18:48:56]ADMIN: ideee/(Jason Nud) healed / Revived ideee/(Jason Nud)
+[18:49:11]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to queen; deletemob=1
+[18:49:11]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:49:11]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:49:14]ADMIN: BartNixon/(Gilroy Rudah) played sound GunBattle3.ogg
+[18:49:29]EMOTE: monkey (969)/ : <B>The monkey (969)</B> jumps!
+[18:49:35]ADMIN: BartNixon/(Gilroy Rudah) played sound GunBattle2.ogg
+[18:49:47]EMOTE: Grant Gibson/Lydee : <B>Grant Gibson</B> coughs!
+[18:49:48]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> coughs!
+[18:49:52]SAY: Grant Gibson/Lydee : HµRT ME-ME-ME M¤¤¤RRREEE!
+[18:49:52]SAY: mouse/ : Squeek?
+[18:49:53]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> coughs!
+[18:49:56]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> coughs!
+[18:49:58]ADMIN: BartNixon/(Gilroy Rudah) played sound HelicopterTookOff1.ogg
+[18:50:24]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:50:25]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/mecha/combat/phazon at (100,159,1)
+[18:50:31]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[18:50:32]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:50:32]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:50:32]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:50:32]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to shade; deletemob=1
+[18:50:32]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:50:32]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:50:35]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:50:35]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:50:40]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[18:50:54]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:50:54]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:51:15]ADMIN: BartNixon/(Gilroy Rudah) modified Phazon's icon to vb-hull.dmi
+[18:51:15]ADMIN: Lydee/(Grant Gibson) modified high-capacity power cell's maxcharge to 1.#INF
+[18:51:15]ADMIN: HeadcrabKO/(Spencer Tedrow) has used rudimentary transformation on HeadcrabKO/(Spencer Tedrow). Transforming to human; deletemob=1
+[18:51:15]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:51:15]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:51:18]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[18:51:18]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:51:19]ADMIN: BartNixon/(Gilroy Rudah) modified Phazon's icon_state to vb-flight
+[18:51:24]ADMIN: Lydee/(Grant Gibson) modified high-capacity power cell's charge to 1.#INF
+[18:51:28]ADMIN: BartNixon/(Gilroy Rudah) modified Phazon's pixel_x to -128
+[18:51:31]ADMIN: HeadcrabKO/(Spencer Tedrow) changed the equipment of HeadcrabKO/(Spencer Tedrow) to special ops officer.
+[18:51:32]ADMIN: BartNixon/(Gilroy Rudah) modified Phazon's pixel_y to -96
+[18:51:37]ADMIN: BartNixon/(Gilroy Rudah) modified Phazon's pixel_y to -128
+[18:51:48]EMOTE: monkey (438)/ : <B>The monkey (438)</B> jumps!
+[18:51:54]SAY: mouse/ : SQUEEK!
+[18:51:58]ADMIN: HeadcrabKO/(Spencer Tedrow) changed the equipment of HeadcrabKO/(Spencer Tedrow) to assassin.
+[18:52:06]SAY: mouse/ : Squeek?
+[18:52:16]ADMIN: HeadcrabKO/(Spencer Tedrow) changed the equipment of HeadcrabKO/(Spencer Tedrow) to mobster.
+[18:52:17]ADMIN: BartNixon/(Gilroy Rudah) played sound vb-on.ogg
+[18:52:36]ADMIN: ideee/(Jason Nud) healed / Revived ideee/(Jason Nud)
+[18:52:51]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[18:53:00]ADMIN: BartNixon/(Gilroy Rudah) played sound vb-off.ogg
+[18:53:29]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[18:53:35]EMOTE: monkey (66)/ : <B>The monkey (66)</B> jumps!
+[18:53:35]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:53:41]EMOTE: monkey (969)/ : <B>The monkey (969)</B> jumps!
+[18:53:42]ADMIN: ideee/(Jason Nud) healed / Revived HeadcrabKO/(Spencer Tedrow)
+[18:54:01]ADMIN: HeadcrabKO/(Spencer Tedrow) changed the equipment of HeadcrabKO/(Spencer Tedrow) to death commando.
+[18:54:04]SAY: grey baby slime (630)/ : Lonely...
+[18:54:05]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (-1,-1,10,10) at (110,158,1)
+[18:54:05]GAME: Explosion with size (-1, -1, 10, 10) in area Law Office (110,158,1)
+[18:54:15]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:54:19]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[18:54:21]EMOTE: Spencer Tedrow/HeadcrabKO : <B>Spencer Tedrow</B> gasps!
+[18:54:27]ADMIN: HeadcrabKO/(Spencer Tedrow) healed / Revived HeadcrabKO/(Spencer Tedrow)
+[18:54:32]SAY: grey baby slime (630)/ : Blorble...
+[18:54:38]SAY: mouse/ : Squeek!
+[18:54:55]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:54:55]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:55:01]ADMIN: Lydee/(Grant Gibson) jumped to HeadcrabKO/(Spencer Tedrow)
+[18:55:10]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:55:10]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:55:49]SAY: mouse/ : Squeek?
+[18:55:52]ACCESS: Logout: HeadcrabKO[DC]/(Spencer Tedrow)
+[18:56:08]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[18:56:21]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:56:21]EMOTE: Jason Nud/ideee : <B>Jason Nud</B> gasps!
+[18:56:22]EMOTE: Jason Nud/ideee : <B>Jason Nud</B> gasps!
+[18:56:44]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:56:44]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[18:56:52]SAY: mouse/ : Squeek?
+[18:57:12]ADMIN: BartNixon/(Gilroy Rudah) played sound Mus_cg01playpen_lp.ogg
+[18:57:19]EMOTE: Jason Nud/ideee : <B>Jason Nud</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:57:20]ADMIN: ideee/(Jason Nud) healed / Revived ideee/(Jason Nud)
+[18:57:52]SAY: mouse/ : SQUEEK!
+[18:57:58]ADMIN: ideee/(Jason Nud) jumped to 128,127,1 in the Central Primary Hallway
+[18:58:12]SAY: Runtime/ : Meow!
+[18:58:13]ADMIN: ideee/(Jason Nud) jumped to 128,121,1 in the Central Primary Hallway
+[18:58:16]SAY: mouse/ : Squeek?
+[18:58:17]ADMIN: ideee/(Jason Nud) jumped to 133,118,1 in Medbay
+[18:58:30]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb at (130,112,1)
+[18:58:31]SAY: Pete/ : EHEHEHEHEH
+[18:58:33]ADMIN: ideee/(Jason Nud) jumped to 128,115,1 in the Central Primary Hallway
+[18:58:35]GAME: Lydee/(Grant Gibson) has primed a syndicate bomb (the bomb payload) for detonation at Central Primary Hallway(130,112,1)
+[18:58:43]EMOTE: monkey (23)/ : <B>The monkey (23)</B> jumps!
+[18:58:45]SAY: mouse/ : SQUEEK!
+[18:58:50]ACCESS: Logout: *no key*/(Grant Gibson)
+[18:58:50]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[18:59:00]ADMIN: Lydee/(Grant Gibson) has entered build mode.
+[18:59:09]ADMIN: ideee/(Jason Nud) jumped to 128,116,1 in the Central Primary Hallway
+[18:59:14]ADMIN: Lydee/(Grant Gibson) modified syndicate bomb's timer to 5
+[18:59:14]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (130,115,1)
+[18:59:16]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,117,1)
+[18:59:17]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,115,1)
+[18:59:17]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,113,1)
+[18:59:17]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,115,1)
+[18:59:17]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,116,1)
+[18:59:18]SAY: mouse/ : SQUEEK!
+[18:59:19]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,117,1)
+[18:59:19]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,117,1)
+[18:59:19]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,114,1)
+[18:59:19]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,113,1)
+[18:59:19]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,113,1)
+[18:59:19]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,115,1)
+[18:59:21]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (129,120,1)
+[18:59:21]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (128,114,1)
+[18:59:21]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (130,117,1)
+[18:59:23]GAME: The syndicate bomb that Lydee/(Grant Gibson) had primed detonated!
+[18:59:23]GAME: Explosion with size (2, 5, 11, 11) in area Central Primary Hallway (130,118,1)
+[18:59:23]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at Spencer Tedrow (130,112,1)
+[18:59:23]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (130,112,1)
+[18:59:24]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (130,112,1)
+[18:59:24]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (130,116,1)
+[18:59:24]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at Spencer Tedrow (130,112,1)
+[18:59:24]ADMIN: Build Mode: Lydee/(Grant Gibson) threw the syndicate bomb at the floor (130,112,1)
+[18:59:29]EMOTE: Jason Nud/ideee : <B>Jason Nud</B> gasps!
+[18:59:33]ADMIN: HeadcrabKO/(Spencer Tedrow) healed / Revived HeadcrabKO/(Spencer Tedrow)
+[18:59:34]ACCESS: Logout: *no key*/(Grant Gibson)
+[18:59:34]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[18:59:42]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[18:59:55]ADMIN: ideee/(Jason Nud) jumped to 135,118,1 in Medbay
+[19:00:06]SAY: Ian/ : Woof!
+[19:00:17]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (1000,1000,1000,1000) at (113,130,1)
+[19:00:17]GAME: Explosion with size (3, 7, 14, 14) in area AI Upload Chamber (113,130,1)
+[19:00:21]ADMIN: ideee/(Jason Nud) deleted Jason Nud at (150,109,1)
+[19:00:21]ACCESS: Logout: *no key*/(Jason Nud)
+[19:00:21]ACCESS: Login: ideee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[19:00:42]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (129,112,1)
+[19:00:44]ACCESS: Logout: *no key*/(Grant Gibson)
+[19:00:44]ACCESS: Login: Lydee/(Grant Gibson) from 7.13.58.115-224893347 || BYOND v506
+[19:00:44]ACCESS: Logout: *no key*/(Spencer Tedrow)
+[19:00:44]ACCESS: Login: HeadcrabKO/(Spencer Tedrow) from 7.78.239.127-12920543 || BYOND v506
+[19:00:49]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (10000,10000,10000,10000) at (113,125,1)
+[19:00:49]GAME: Explosion with size (3, 7, 14, 14) in area Gravity Generator Room (113,125,1)
+[19:01:31]ADMIN: Lydee/(Grant Gibson) changed the bomb cap to 4, 8, 16
+[19:01:31]ADMIN: Lydee/(Grant Gibson) used secret togglebombcap
+[19:01:32]ADMIN: Lydee/(Grant Gibson) changed the bomb cap to 5, 10, 20
+[19:01:32]ADMIN: Lydee/(Grant Gibson) used secret togglebombcap
+[19:01:34]ADMIN: Lydee/(Grant Gibson) changed the bomb cap to 7, 14, 28
+[19:01:34]ADMIN: Lydee/(Grant Gibson) used secret togglebombcap
+[19:01:35]ADMIN: Lydee/(Grant Gibson) changed the bomb cap to 14, 28, 56
+[19:01:35]ADMIN: Lydee/(Grant Gibson) used secret togglebombcap
+[19:01:36]SAY: grey baby slime (630)/ : I want to eat...
+[19:01:36]ADMIN: Lydee/(Grant Gibson) changed the bomb cap to 32, 64, 128
+[19:01:36]ADMIN: Lydee/(Grant Gibson) used secret togglebombcap
+[19:01:44]SAY: grey baby slime (332)/ : Lonely...
+[19:02:01]ADMIN: BartNixon/(Gilroy Rudah) created an explosion (1000,1000,1000,1000) at (113,125,1)
+[19:02:01]GAME: Explosion with size (32, 64, 128, 14) in area Gravity Generator Room (113,125,1)
+[19:02:02]GAME: SMES deleted at (AI Satellite Exterior)
+[19:02:03]GAME: SMES deleted at (Engineering SMES)
+[19:02:04]GAME: SMES deleted at (Aft Port Solar Maintenance)
+[19:02:49]GAME: All the communications consoles were destroyed and all AIs are inactive. Shuttle called.
+[19:02:51]GAME: The nuclear authentication disk has been destroyed.  Moving it to (154, 150, 1).
+[19:03:23]GAME: The nuclear authentication disk has been destroyed.  Moving it to (130, 146, 1).
+[19:03:40]GAME: SMES deleted at (Fore Starboard Solar Maintenance)
+[19:04:08]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering (100,69,1)
+[19:04:08]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering (106,69,1)
+[19:04:11]GAME: Explosion with size (-1, 0, 2, 2) in area Science Maintenance (184,74,1)
+[19:04:14]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering Maintenance (95,77,1)
+[19:04:17]GAME: Explosion with size (-1, 0, 2, 2) in area Science Maintenance (192,79,1)
+[19:04:21]GAME: Explosion with size (-1, 0, 2, 2) in area Science Maintenance (180,80,1)
+[19:04:37]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (161,84,1)
+[19:04:46]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering Maintenance (80,86,1)
+[19:05:21]GAME: Explosion with size (-1, 0, 2, 2) in area Testing Lab (185,91,1)
+[19:05:26]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (148,92,1)
+[19:05:27]GAME: Explosion with size (-1, 0, 2, 2) in area Testing Lab (185,92,1)
+[19:05:43]GAME: Explosion with size (-1, 0, 2, 2) in area Atmospherics (128,94,1)
+[19:05:46]GAME: Explosion with size (-1, 0, 2, 2) in area Incinerator (79,95,1)
+[19:07:06]GAME: Explosion with size (-1, 0, 2, 2) in area Science Maintenance (194,103,1)
+[19:07:09]GAME: Explosion with size (-1, 0, 2, 2) in area Mining Dock (83,104,1)
+[19:07:11]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (124,104,1)
+[19:08:41]GAME: Explosion with size (-1, 0, 2, 2) in area Medbay Maintenance (164,111,1)
+[19:09:25]GAME: Explosion with size (-1, 0, 2, 2) in area Mech Bay (167,118,1)
+[19:11:03]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room Maintenance (86,134,1)
+[19:11:03]GAME: Explosion with size (-1, 0, 2, 2) in area Auxiliary Tool Storage (91,134,1)
+[19:11:23]GAME: Explosion with size (-1, 0, 2, 2) in area Locker Room (69,138,1)
+[19:12:38]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (73,144,1)
+[19:13:16]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Storage (105,145,1)
+[19:13:37]GAME: Explosion with size (-1, 0, 2, 2) in area EVA Maintenance (97,146,1)
+[19:14:17]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (154,148,1)
+[19:14:53]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (182,149,1)
+[19:16:28]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (165,154,1)
+[19:16:51]GAME: Explosion with size (-1, 0, 2, 2) in area Arrivals North Maintenance (50,156,1)
+[19:17:07]GAME: Explosion with size (-1, 0, 2, 2) in area Bar Maintenance (159,156,1)
+[19:17:11]GAME: Explosion with size (-1, 0, 2, 2) in area Arrivals North Maintenance (70,157,1)
+[19:18:34]GAME: Explosion with size (-1, 0, 2, 2) in area Dormitory Maintenance (129,161,1)
+[19:18:58]ADMIN: BartNixon/(Gilroy Rudah) used 'kill air'.
+[19:23:48]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+[19:23:48]ACCESS: Logout: ideee[DC]/(Jason Nud)
+[19:23:48]ACCESS: Logout: Lydee[DC]/(Grant Gibson)
+[19:23:48]ACCESS: Logout: HeadcrabKO[DC]/(Spencer Tedrow)
+
+
+Starting up. 00:00.00
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[00:00:00]ADMIN: Loading Banlistjob
+[00:00:00]ADMIN: Loading jobban_rank
+[00:00:00]ADMIN: jobban_keylist was empty
+[00:00:00]ADMIN: Loading appearance_rank
+[00:00:00]ADMIN: appearance_keylist was empty
+[00:00:00]ADMIN: Updating jobbanfile!
+[00:00:00]ADMIN: Loading Banlist
+[00:01:01]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[00:02:12]ACCESS: Login: IDeee/(IDeee) from 7.84.93.29-517297346 || BYOND v501
+[00:02:44]ACCESS: Logout: *no key*/(IDeee)
+[00:02:44]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:03:22]ADMIN: IDeee/(Jason Nud) deleted all objects of type /obj/effect/decal/cleanable/dirt (978 objects deleted) 
+[00:03:30]SAY: mouse/ : Squeek?
+[00:03:34]SAY: mouse/ : Squeek?
+[00:04:03]ACCESS: Logout: *no key*/(BartNixon)
+[00:04:03]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:04:11]ADMIN: IDeee/(Jason Nud) deleted all objects of type /obj/effect/decal/cleanable/oil (62 objects deleted) 
+[00:04:13]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Cargo Office
+[00:04:14]EMOTE: monkey (138)/ : <B>The monkey (138)</B> jumps!
+[00:04:21]ADMIN: IDeee/(Jason Nud) has used rudimentary transformation on IDeee/(Jason Nud). Transforming to human; deletemob=1
+[00:04:21]ACCESS: Logout: *no key*/(Jason Nud)
+[00:04:21]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:04:24]SAY: mouse/ : Squeek!
+[00:04:34]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to Cargo Technician.
+[00:04:43]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (90,124,1)
+[00:04:57]SAY: grey baby slime (277)/ : Blop...
+[00:05:00]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/c20r at (92,124,1)
+[00:05:07]ADMIN: IDeee/(Jason Nud) spawned /obj/item/mecha_parts/mecha_equipment/weapon/ballistic/silenced at (91,123,1)
+[00:05:35]SAY: mouse/ : SQUEEK!
+[00:06:20]ADMIN: IDeee/(Jason Nud) spawned /obj/mecha/combat/gygax/dark/loaded at (91,124,1)
+[00:06:24]SAY: Ian/ : Woof!
+[00:06:24]SAY: mouse/ : Squeek!
+[00:06:39]ACCESS: Logout: *no key*/(Jason Nud)
+[00:06:39]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:06:42]ACCESS: Logout: *no key*/(Jason Nud)
+[00:06:42]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:06:44]SAY: mouse/ : Squeek?
+[00:06:48]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[00:07:10]EMOTE: monkey (329)/ : <B>The monkey (329)</B> jumps!
+[00:07:14]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/card/id/captains_spare at (92,124,1)
+[00:07:15]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:07:15]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:07:18]SAY: mouse/ : SQUEEK!
+[00:07:22]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[00:07:25]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/circuitboard/card/centcom at (93,124,1)
+[00:07:30]ADMIN: IDeee/(Jason Nud) deleted the circuit board (Centcom ID Console) at (93,124,1)
+[00:07:34]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Test Area (228,104,1)
+[00:07:38]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Test Area (228,103,1)
+[00:07:43]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Test Area (226,104,1)
+[00:07:44]EMOTE: monkey (463)/ : <B>The monkey (463)</B> jumps!
+[00:07:48]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Test Area (228,104,1)
+[00:07:51]GAME: Explosion with size (1, 2, 3, 0) in area Toxins Test Area (227,104,1)
+[00:07:55]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to centcom commander.
+[00:08:07]ADMIN: IDeee/(Jason Nud) deleted the captain's spare ID at (92,124,1)
+[00:08:09]ADMIN: IDeee/(Jason Nud) deleted the eyepatch at (94,124,1)
+[00:08:16]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:08:16]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:08:20]ADMIN: IDeee/(Jason Nud) changed the equipment of IDeee/(Jason Nud) to centcom commander.
+[00:08:30]SAY: mouse/ : Squeek!
+[00:08:38]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/storage/backpack/satchel at (92,123,1)
+[00:08:47]ADMIN: BartNixon/(Gilroy Rudah) modified Dark Gygax's add_req_access to 0
+[00:09:53]EMOTE: monkey (284)/ : <B>The monkey (284)</B> jumps!
+[00:10:11]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[00:10:24]GAME: ideee(Jason Nud) fired a the SGL-6 grenade launcher (97,135,1)
+[00:10:25]SAY: mouse/ : Squeek?
+[00:10:27]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[00:10:30]GAME: ideee(Jason Nud) fired a the SGL-6 grenade launcher (96,138,1)
+[00:10:32]ADMIN: BartNixon/(Gilroy Rudah) healed / Revived BartNixon/(Gilroy Rudah)
+[00:10:35]EMOTE: monkey (84)/ : <B>The monkey (84)</B> jumps!
+[00:10:37]GAME: ideee(Jason Nud) fired a the SGL-6 grenade launcher (96,137,1)
+[00:10:43]EMOTE: monkey (50)/ : <B>The monkey (50)</B> jumps!
+[00:10:43]SAY: mouse/ : SQUEEK!
+[00:11:02]ACCESS: Logout: *no key*/(Jason Nud)
+[00:11:02]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:11:13]ADMIN: IDeee/(Jason Nud) spawned /mob/living/carbon/human at (98,119,1)
+[00:11:16]ACCESS: Logout: *no key*/(Jason Nud)
+[00:11:16]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:12:03]EMOTE: Cristian Zalack/ : <B>Cristian Zalack</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:12:09]EMOTE: monkey (50)/ : <B>The monkey (50)</B> jumps!
+[00:12:51]EMOTE: monkey (138)/ : <B>The monkey (138)</B> jumps!
+[00:13:05]SAY: Poly/ : <i>Poly wanna cracker!</i>
+[00:13:15]EMOTE: monkey (50)/ : <B>The monkey (50)</B> jumps!
+[00:13:22]SAY: Tom/ : Squeek!
+[00:13:36]SAY: mouse/ : Squeek!
+[00:13:38]SAY: mouse/ : Squeek?
+[00:13:46]SAY: Pete/ : EHEHEHEHEH
+[00:13:53]ACCESS: Login: Lydee/(Lydee) from 25.86.5.21-224893347 || BYOND v506
+[00:14:03]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:14:03]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:14:20]EMOTE: monkey (329)/ : <B>The monkey (329)</B> jumps!
+[00:14:20]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[00:14:22]EMOTE: monkey (938)/ : <B>The monkey (938)</B> jumps!
+[00:14:24]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:15:12]ADMIN: IDeee/(Jason Nud) deleted the Dark Gygax at (88,116,1)
+[00:15:35]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:15:35]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:15:36]ADMIN: IDeee/(Jason Nud) healed / Revived BartNixon/(Gilroy Rudah)
+[00:15:37]SAY: mouse/ : SQUEEK!
+[00:15:43]ACCESS: Logout: *no key*/(Lydee)
+[00:15:43]ACCESS: Login: Lydee/(Grant Gibson) from 25.86.5.21-224893347 || BYOND v506
+[00:15:53]ACCESS: Logout: *no key*/(Jason Nud)
+[00:15:53]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:15:53]ADMIN: @IDeee[DC]/(Jason Nud) jumped to Lydee/(Grant Gibson)
+[00:16:00]ACCESS: Logout: *no key*/(Jason Nud)
+[00:16:00]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:16:20]EMOTE: monkey (329)/ : <B>The monkey (329)</B> jumps!
+[00:16:31]ADMIN: Lydee/(Grant Gibson) played sound aarug.wav
+[00:16:41]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:16:42]ACCESS: Logout: *no key*/(Jason Nud)
+[00:16:42]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:16:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the chair at (167,131,1)
+[00:16:43]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (167,131,1)
+[00:16:44]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (165,131,1)
+[00:16:46]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:16:48]GAME: Explosion with size (1, 2, 3, 0) in area Gravity Generator Room (113,124,1)
+[00:16:54]ACCESS: Logout: *no key*/(Jason Nud)
+[00:16:54]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:16:59]SAY: Jason Nud/IDeee : Капитано
+[00:17:00]ADMIN: Lydee/(Grant Gibson) changed the equipment of Lydee/(Grant Gibson) to special ops officer.
+[00:17:02]SAY: Jason Nud/IDeee : Все хуево
+[00:17:11]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/mineral_door/iron at (166,131,1)
+[00:17:19]SAY: Grant Gibson/Lydee : здорова!!
+[00:17:23]ADMIN: BartNixon/(Gilroy Rudah) modified metal door's icon to fdoors.dmi
+[00:17:26]SAY: Jason Nud/IDeee : Здарова
+[00:17:32]SAY: mouse/ : Squeek!
+[00:17:34]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[00:17:34]SAY: Jason Nud/IDeee : Пидорпл
+[00:17:41]ADMIN: BartNixon/(Gilroy Rudah) teleported Lydee/(Grant Gibson)
+[00:17:44]ADMIN: BartNixon/(Gilroy Rudah) teleported IDeee/(Jason Nud)
+[00:17:54]SAY: mouse/ : Squeek?
+[00:17:56]SAY: mouse/ : Squeek!
+[00:18:07]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[00:18:09]ADMIN: Lydee/(Grant Gibson) jumped to 166,127,1 in the Starboard Primary Hallway
+[00:18:24]ADMIN: Lydee/(Grant Gibson) spawned /obj/mecha/combat/phazon at (166,129,1)
+[00:18:25]SAY: mouse/ : SQUEEK!
+[00:18:48]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:18:48]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:18:55]SAY: Runtime/ : Meow!
+[00:18:56]ADMIN: Lydee/(Grant Gibson) modified Phazon's health to 1.#INF
+[00:19:14]ADMIN: Lydee/(Grant Gibson) modified power cell's maxcharge to 1.#INF
+[00:19:19]ADMIN: Lydee/(Grant Gibson) modified power cell's charge to 1.#INF
+[00:19:42]ADMIN: IDeee/(Jason Nud) spawned /obj/item/ammo_box/a357 at (149,128,1)
+[00:19:47]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:19:47]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:19:49]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:19:49]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:20:00]ADMIN: IDeee/(Jason Nud) spawned /obj/item/ammo_box/a357 at (165,128,1)
+[00:20:05]SAY: Runtime/ : HSSSSS
+[00:20:07]ADMIN: IDeee/(Jason Nud) has entered build mode.
+[00:20:08]ADMIN: Build Mode: IDeee/(Jason Nud) built the floor at (151,129,1)
+[00:20:10]ADMIN: IDeee/(Jason Nud) has left build mode.
+[00:20:10]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:20:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the paper bin at (103,186,1)
+[00:20:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the pen at (103,186,1)
+[00:20:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the pen at (103,187,1)
+[00:20:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (103,187,1)
+[00:20:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the bag of dice at (102,187,1)
+[00:20:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (102,187,1)
+[00:20:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the deck of cards at (102,186,1)
+[00:20:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (102,186,1)
+[00:20:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (103,186,1)
+[00:20:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the stool at (104,187,1)
+[00:20:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the stool at (103,188,1)
+[00:20:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the stool at (101,186,1)
+[00:20:20]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:20:21]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:20:22]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[00:20:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (102,186,1) dir to 1
+[00:20:30]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[00:20:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (103,186,1) dir to 1
+[00:20:36]EMOTE: monkey (50)/ : <B>The monkey (50)</B> jumps!
+[00:20:46]ADMIN: IDeee/(Jason Nud) has entered build mode.
+[00:20:47]ADMIN: Build Mode: IDeee/(Jason Nud) built the floor at (130,130,1)
+[00:20:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (104,186,1) dir to 1
+[00:20:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (103,186,1)
+[00:20:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (102,186,1)
+[00:20:49]ADMIN: IDeee/(Jason Nud) has left build mode.
+[00:20:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (104,186,1)
+[00:20:50]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:20:56]SAY: mouse/ : Squeek?
+[00:21:11]ADMIN: IDeee/(Jason Nud) spawned /obj/item/ammo_box/a357 at (135,130,1)
+[00:21:12]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:21:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the gravitational generator's (106,184,1) dir to 1
+[00:21:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the gravitational generator at (106,184,1)
+[00:21:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the gravitational generator's (105,184,1) dir to 1
+[00:21:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the gravitational generator at (105,184,1)
+[00:21:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the gravitational generator's (103,184,1) dir to 1
+[00:21:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the gravitational generator at (103,184,1)
+[00:21:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the gravitational generator's (101,184,1) dir to 1
+[00:21:22]ADMIN: IDeee/(Jason Nud) spawned /obj/item/ammo_box/a357 at (138,130,1)
+[00:21:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the glass airlock's (105,185,1) dir to 1
+[00:21:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the glass airlock at (105,185,1)
+[00:21:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the glass airlock's (103,185,1) dir to 1
+[00:21:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the glass airlock at (103,185,1)
+[00:21:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the glass airlock's (102,185,1) dir to 1
+[00:21:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the glass airlock at (102,185,1)
+[00:21:28]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified buildmode's name to derp
+[00:21:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified derp's name to derp
+[00:21:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the gravitational generator at the floor (102,185,1)
+[00:21:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the gravitational generator at the floor (101,184,1)
+[00:21:35]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:21:38]SAY: Ian/ : Woof!
+[00:21:40]SAY: Tom/ : SQUEEK!
+[00:21:43]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/machinery/gravity_generator/main/station/admin at (103,186,1)
+[00:21:49]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:21:49]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:22:08]ADMIN: IDeee/(Jason Nud) healed / Revived BartNixon/(Gilroy Rudah)
+[00:22:10]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/food/drinks/bottle/vodka at (141,137,1)
+[00:22:19]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/reagent_containers/glass/beaker at (141,137,1)
+[00:22:41]SAY: mouse/ : Squeek!
+[00:22:53]EMOTE: monkey (329)/ : <B>The monkey (329)</B> jumps!
+[00:22:53]EMOTE: monkey (731)/ : <B>The monkey (731)</B> jumps!
+[00:23:01]SAY: Tom/ : Squeek!
+[00:23:01]EMOTE: Pun Pun/ : <B>Pun Pun</B> gasps!
+[00:23:04]ADMIN: IDeee/(Jason Nud) deleted the blood at (138,139,1)
+[00:23:07]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (139,136,1)
+[00:23:12]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (135,147,1)
+[00:23:14]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (135,147,1)
+[00:23:15]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/asteroid/goldgrub at (135,137,1)
+[00:23:16]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (135,145,1)
+[00:23:37]EMOTE: monkey (463)/ : <B>The monkey (463)</B> jumps!
+[00:23:37]SAY: mouse/ : Squeek?
+[00:23:38]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (129,136,1)
+[00:23:42]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (129,122,1)
+[00:23:44]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (129,115,1)
+[00:23:47]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (121,111,1)
+[00:23:47]EMOTE: monkey (84)/ : <B>The monkey (84)</B> jumps!
+[00:23:49]ACCESS: Logout: *no key*/(Jason Nud)
+[00:23:49]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:23:49]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (113,112,1)
+[00:23:57]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (108,111,1)
+[00:23:59]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (102,111,1)
+[00:24:06]GAME: lydee(Grant Gibson) used a Gravitational Catapult in (97,113,1)
+[00:24:21]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:24:21]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:24:25]EMOTE: monkey (420)/ : <B>The monkey (420)</B> jumps!
+[00:24:51]ACCESS: Logout: *no key*/(Grant Gibson)
+[00:24:51]ACCESS: Login: Lydee/(Grant Gibson) from 25.86.5.21-224893347 || BYOND v506
+[00:24:54]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/asteroid/goldgrub at (113,142,1)
+[00:24:55]SAY: mouse/ : Squeek!
+[00:25:00]ACCESS: Logout: *no key*/(Grant Gibson)
+[00:25:00]ACCESS: Login: Lydee/(Grant Gibson) from 25.86.5.21-224893347 || BYOND v506
+[00:25:09]SAY: mouse/ : Squeek?
+[00:25:10]ACCESS: Logout: *no key*/(Jason Nud)
+[00:25:10]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:25:18]ADMIN: IDeee/(Jason Nud) admin-called the emergency shuttle.
+[00:25:32]ADMIN: BartNixon/(Gilroy Rudah) modified Jerry's icon to bender.dmi
+[00:25:36]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[00:25:38]ADMIN: BartNixon/(Gilroy Rudah) modified Jerry's icon_living to broboy
+[00:25:52]ADMIN: IDeee/(Jason Nud) admin-recalled the emergency shuttle.
+[00:26:11]ADMIN: IDeee/(Jason Nud) spawned /obj/item/weapon/gun/projectile/automatic/deagle/gold at (110,140,1)
+[00:26:18]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb/badmin/varplosion at (0,0,0)
+[00:26:22]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:26:22]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:26:24]SAY: mouse/ : Squeek?
+[00:26:31]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/simple_animal/hostile/asteroid/goldgrub at (130,134,1)
+[00:26:37]ADMIN: IDeee/(Jason Nud) spawned /mob/living/simple_animal/hostile/asteroid/goldgrub at (113,140,1)
+[00:26:40]SAY: mouse/ : SQUEEK!
+[00:26:42]ADMIN: Lydee/(Grant Gibson) spawned /obj/machinery/syndicatebomb/badmin/varplosion at (115,140,1)
+[00:26:48]GAME: Lydee/(Grant Gibson) has primed a generic summoning badmin bomb (the badmin payload) for detonation at Central Primary Hallway(115,140,1)
+[00:26:58]EMOTE: monkey (731)/ : <B>The monkey (731)</B> jumps!
+[00:27:08]ADMIN: Lydee/(Grant Gibson) modified generic summoning badmin bomb's timer to 1
+[00:27:10]GAME: Explosion with size (2, 5, 11, 11) in area Central Primary Hallway (115,140,1)
+[00:27:10]GAME: Explosion with size (0, 0, 1, 0) in area Central Primary Hallway (116,142,1)
+[00:27:12]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:27:12]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:27:15]ACCESS: Logout: *no key*/(Jason Nud)
+[00:27:15]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:27:18]ACCESS: Logout: *no key*/(Jason Nud)
+[00:27:18]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:27:22]SAY: mouse/ : Squeek?
+[00:27:24]ADMIN: IDeee/(Jason Nud) healed / Revived IDeee/(Jason Nud)
+[00:27:26]SAY: Runtime/ : Esp!
+[00:27:37]ADMIN: Lydee/(Grant Gibson) has entered build mode.
+[00:27:37]SAY: mouse/ : Squeek?
+[00:27:38]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (112,137,1)
+[00:27:39]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (113,138,1)
+[00:27:39]ACCESS: Logout: *no key*/(Jason Nud)
+[00:27:39]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:27:41]EMOTE: Grant Gibson/Lydee : <B>Grant Gibson</B> gasps!
+[00:27:42]ADMIN: Lydee/(Grant Gibson) has left build mode.
+[00:27:46]ACCESS: Logout: *no key*/(Grant Gibson)
+[00:27:46]ACCESS: Login: Lydee/(Grant Gibson) from 25.86.5.21-224893347 || BYOND v506
+[00:27:48]ADMIN: Lydee/(Grant Gibson) has entered build mode.
+[00:27:50]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,136,1)
+[00:27:50]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (116,136,1)
+[00:27:52]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (118,137,1)
+[00:27:53]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (118,138,1)
+[00:27:53]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:27:54]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (117,137,1)
+[00:27:54]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (116,139,1)
+[00:27:55]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (116,141,1)
+[00:27:56]ADMIN: Build Mode: Lydee/(Grant Gibson) deleted the Phazon wreckage at (116,142,1)
+[00:27:57]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (116,142,1)
+[00:27:58]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,144,1)
+[00:27:58]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,142,1)
+[00:27:59]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (109,143,1)
+[00:28:00]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (109,144,1)
+[00:28:00]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (108,145,1)
+[00:28:01]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (107,145,1)
+[00:28:02]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Ruskie DJ Station
+[00:28:02]ADMIN: Build Mode: Lydee/(Grant Gibson) deleted the metal at (109,145,1)
+[00:28:04]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (107,143,1)
+[00:28:04]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (108,143,1)
+[00:28:07]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (111,140,1)
+[00:28:08]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (112,140,1)
+[00:28:09]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (112,139,1)
+[00:28:13]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (113,139,1)
+[00:28:14]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (112,138,1)
+[00:28:15]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (114,139,1)
+[00:28:15]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:28:16]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (114,138,1)
+[00:28:16]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,137,1)
+[00:28:17]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:28:17]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (116,138,1)
+[00:28:18]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (120,138,1)
+[00:28:19]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (117,139,1)
+[00:28:19]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (117,140,1)
+[00:28:19]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (118,141,1)
+[00:28:20]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (118,144,1)
+[00:28:21]ACCESS: Logout: *no key*/(Jason Nud)
+[00:28:21]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:28:21]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (119,144,1)
+[00:28:22]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (118,143,1)
+[00:28:22]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,143,1)
+[00:28:23]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (112,143,1)
+[00:28:24]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (114,143,1)
+[00:28:24]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (113,142,1)
+[00:28:25]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (112,142,1)
+[00:28:26]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (111,141,1)
+[00:28:26]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (114,140,1)
+[00:28:26]ADMIN: BartNixon/(Gilroy Rudah) spawned /turf/simulated/floor/plating/ironsand at (33,218,4)
+[00:28:27]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (114,141,1)
+[00:28:28]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,141,1)
+[00:28:28]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,140,1)
+[00:28:29]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,138,1)
+[00:28:30]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (116,140,1)
+[00:28:30]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (115,139,1)
+[00:28:31]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (116,139,1)
+[00:28:32]ADMIN: Build Mode: Lydee/(Grant Gibson) built the floor at (106,138,1)
+[00:28:35]ADMIN: Lydee/(Grant Gibson) has left build mode.
+[00:28:41]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:28:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (33,216,4) to /turf/simulated/floor/plating/ironsand
+[00:28:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (33,217,4) to /turf/simulated/floor/plating/ironsand
+[00:28:45]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (32,217,4) to /turf/simulated/floor/plating/ironsand
+[00:28:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (34,217,4) to /turf/simulated/floor/plating/ironsand
+[00:28:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (34,216,4) to /turf/simulated/floor/plating/ironsand
+[00:28:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (35,216,4) to /turf/simulated/floor/plating/ironsand
+[00:28:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (35,217,4) to /turf/simulated/floor/plating/ironsand
+[00:28:47]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (35,218,4) to /turf/simulated/floor/plating/ironsand
+[00:28:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (34,218,4) to /turf/simulated/floor/plating/ironsand
+[00:28:48]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (32,218,4) to /turf/simulated/floor/plating/ironsand
+[00:28:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (31,218,4) to /turf/simulated/floor/plating/ironsand
+[00:28:49]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the wall (31,216,4) to /turf/simulated/floor/plating/ironsand
+[00:28:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the wall (31,217,4) to /turf/simulated/floor/plating/ironsand
+[00:28:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (31,219,4) to /turf/simulated/floor/plating/ironsand
+[00:28:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (31,220,4) to /turf/simulated/floor/plating/ironsand
+[00:28:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (31,221,4) to /turf/simulated/floor/plating/ironsand
+[00:28:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (31,222,4) to /turf/simulated/floor/plating/ironsand
+[00:28:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (32,222,4) to /turf/simulated/floor/plating/ironsand
+[00:28:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (33,222,4) to /turf/simulated/floor/plating/ironsand
+[00:28:52]SAY: mouse/ : Squeek?
+[00:28:52]ADMIN: Lydee/(Grant Gibson) has entered build mode.
+[00:28:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (34,222,4) to /turf/simulated/floor/plating/ironsand
+[00:28:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (35,222,4) to /turf/simulated/floor/plating/ironsand
+[00:28:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (35,221,4) to /turf/simulated/floor/plating/ironsand
+[00:28:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (35,220,4) to /turf/simulated/floor/plating/ironsand
+[00:28:54]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (105,139,1)
+[00:28:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (35,219,4) to /turf/simulated/floor/plating/ironsand
+[00:28:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (34,220,4) to /turf/simulated/floor/plating/ironsand
+[00:28:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (34,219,4) to /turf/simulated/floor/plating/ironsand
+[00:28:55]ADMIN: Build Mode: Lydee/(Grant Gibson) built the wall at (106,139,1)
+[00:28:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (33,219,4) to /turf/simulated/floor/plating/ironsand
+[00:28:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (32,219,4) to /turf/simulated/floor/plating/ironsand
+[00:28:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (32,220,4) to /turf/simulated/floor/plating/ironsand
+[00:28:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (33,220,4) to /turf/simulated/floor/plating/ironsand
+[00:28:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (34,220,4) to /turf/simulated/floor/plating/ironsand
+[00:28:57]ADMIN: Lydee/(Grant Gibson) has left build mode.
+[00:28:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (34,221,4) to /turf/simulated/floor/plating/ironsand
+[00:28:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (34,221,4) to /turf/simulated/floor/plating/ironsand
+[00:28:57]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (33,221,4) to /turf/simulated/floor/plating/ironsand
+[00:28:58]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (32,221,4) to /turf/simulated/floor/plating/ironsand
+[00:28:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (32,220,4)
+[00:28:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (32,220,4)
+[00:29:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the wall (30,217,4) to /turf/simulated/floor/plating/ironsand
+[00:29:02]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:29:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (30,217,4) to /turf/simulated/floor/plating/ironsand
+[00:29:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (29,217,4) to /turf/simulated/floor/plating/ironsand
+[00:29:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (29,216,4) to /turf/simulated/floor/plating/ironsand
+[00:29:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (30,216,4) to /turf/simulated/floor/plating/ironsand
+[00:29:08]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:29:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (37,215,4)
+[00:29:10]SAY: mouse/ : SQUEEK!
+[00:29:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (37,215,4)
+[00:29:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (38,215,4)
+[00:29:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (38,215,4)
+[00:29:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (39,215,4)
+[00:29:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (39,215,4)
+[00:29:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the reinforced wall at (39,215,4)
+[00:29:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (39,216,4)
+[00:29:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (39,217,4)
+[00:29:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (39,217,4)
+[00:29:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (39,216,4)
+[00:29:16]SAY: mouse/ : Squeek!
+[00:29:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced wall at (39,215,4)
+[00:29:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (39,215,4)
+[00:29:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (37,217,4)
+[00:29:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (38,217,4)
+[00:29:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (38,216,4)
+[00:29:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (37,216,4)
+[00:29:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (38,217,4)
+[00:29:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (38,216,4)
+[00:29:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the wall at (39,217,4)
+[00:29:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the wall at (39,216,4)
+[00:29:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the wall at (39,215,4)
+[00:29:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (39,215,4)
+[00:29:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (39,216,4)
+[00:29:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the floor at (39,217,4)
+[00:29:29]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the wall (36,217,4) to /turf/simulated/floor/plating/ironsand
+[00:29:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the wall (36,216,4) to /turf/simulated/floor/plating/ironsand
+[00:29:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (37,216,4) to /turf/simulated/floor/plating/ironsand
+[00:29:30]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (37,217,4) to /turf/simulated/floor/plating/ironsand
+[00:29:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (35,217,4)
+[00:29:32]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (34,217,4)
+[00:29:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the space heater at (34,217,4)
+[00:29:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the ushanka at (35,217,4)
+[00:29:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the rack at (35,217,4)
+[00:29:37]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the soviet uniform at (35,217,4)
+[00:29:38]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the chair at (32,217,4)
+[00:29:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (32,216,4) to /turf/simulated/floor/plating/ironsand
+[00:29:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the pen at (32,216,4)
+[00:29:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the paper bin at (32,216,4)
+[00:29:40]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (32,216,4)
+[00:29:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the toilet at (30,216,4)
+[00:29:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the sink at (29,216,4)
+[00:29:46]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Washroom at (29,218,4)
+[00:29:48]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:29:50]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the chair at (28,219,4)
+[00:29:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (28,219,4)
+[00:29:51]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (28,220,4)
+[00:29:52]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (28,221,4)
+[00:29:53]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the computer-frame at (37,219,4)
+[00:29:54]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the chair at (38,219,4)
+[00:29:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (38,219,4)
+[00:29:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (38,220,4)
+[00:29:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the wall at (38,221,4)
+[00:29:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,219,4)
+[00:29:59]ACCESS: Logout: *no key*/(Jason Nud)
+[00:29:59]ACCESS: Login: IDeee/(Jason Nud) from 7.84.93.29-517297346 || BYOND v501
+[00:29:59]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the plating at (36,219,4)
+[00:30:00]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,219,4)
+[00:30:01]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the grille at (36,219,4)
+[00:30:01]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) built the floor at (36,219,4)
+[00:30:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,219,4)
+[00:30:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,219,4)
+[00:30:02]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Rest Room at (36,220,4)
+[00:30:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,221,4)
+[00:30:03]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:30:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the grille at (36,221,4)
+[00:30:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,221,4)
+[00:30:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,221,4)
+[00:30:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (36,221,4)
+[00:30:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the wall at (30,218,4)
+[00:30:07]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the grille at (30,219,4)
+[00:30:07]EMOTE: monkey (84)/ : <B>The monkey (84)</B> jumps!
+[00:30:07]SAY: mouse/ : SQUEEK!
+[00:30:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,219,4)
+[00:30:08]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,219,4)
+[00:30:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,219,4)
+[00:30:09]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,219,4)
+[00:30:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Kitchen at (30,220,4)
+[00:30:10]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the grille at (30,221,4)
+[00:30:11]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,221,4)
+[00:30:12]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,221,4)
+[00:30:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,221,4)
+[00:30:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the reinforced window at (30,221,4)
+[00:30:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (32,220,4)
+[00:30:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (32,219,4)
+[00:30:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:15]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (34,219,4)
+[00:30:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (34,220,4)
+[00:30:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (34,220,4)
+[00:30:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the paper - 'DJ Listening Outpost' at (34,219,4)
+[00:30:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (34,220,4)
+[00:30:22]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the chair at (33,220,4)
+[00:30:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:25]EMOTE: monkey (420)/ : <B>The monkey (420)</B> jumps!
+[00:30:25]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:27]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:30:30]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:30:31]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (34,220,4)
+[00:30:33]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:30:33]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the light switch at (38,221,4)
+[00:30:34]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (34,220,4)
+[00:30:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (34,220,4)
+[00:30:36]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the table at (33,219,4)
+[00:30:37]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:30:37]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:30:40]ADMIN: BartNixon/(Gilroy Rudah) deleted Pirate Radio Broadcast Channel at (33,219,4)
+[00:30:41]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:30:43]SAY: mouse/ : Squeek?
+[00:30:44]ADMIN: BartNixon/(Gilroy Rudah) deleted Pirate Radio Listening Channel at (34,220,4)
+[00:30:47]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[00:30:51]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[00:30:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (30,218,4) dir to 1
+[00:30:55]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (29,218,4) dir to 1
+[00:30:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (30,218,4)
+[00:30:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (29,218,4)
+[00:31:02]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:31:03]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (29,218,4) dir to 1
+[00:31:04]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the closet's (30,218,4) dir to 1
+[00:31:04]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:31:05]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (29,218,4)
+[00:31:06]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the closet at (30,218,4)
+[00:31:10]SAY: grey baby slime (903)/ : Blop...
+[00:31:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified Iron Sand (35,219,4) to /turf/simulated/floor/plating/ironsand
+[00:31:16]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (37,219,4) to /turf/simulated/floor/plating/ironsand
+[00:31:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (36,219,4) to /turf/simulated/floor/plating/ironsand
+[00:31:17]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (36,220,4) to /turf/simulated/floor/plating/ironsand
+[00:31:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (37,220,4) to /turf/simulated/floor/plating/ironsand
+[00:31:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (37,221,4) to /turf/simulated/floor/plating/ironsand
+[00:31:18]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the plating (36,221,4) to /turf/simulated/floor/plating/ironsand
+[00:31:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (30,218,4) to /turf/simulated/floor/plating/ironsand
+[00:31:19]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (29,218,4) to /turf/simulated/floor/plating/ironsand
+[00:31:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (29,219,4) to /turf/simulated/floor/plating/ironsand
+[00:31:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the plating (30,219,4) to /turf/simulated/floor/plating/ironsand
+[00:31:20]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (30,220,4) to /turf/simulated/floor/plating/ironsand
+[00:31:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (29,220,4) to /turf/simulated/floor/plating/ironsand
+[00:31:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the floor (29,221,4) to /turf/simulated/floor/plating/ironsand
+[00:31:21]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the plating (30,221,4) to /turf/simulated/floor/plating/ironsand
+[00:31:23]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the emergency closet at (31,222,4)
+[00:31:24]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the Getmore Chocolate Corp at (32,222,4)
+[00:31:26]SAY: mouse/ : Squeek!
+[00:31:26]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the wall (36,218,4) to /turf/simulated/floor/plating/ironsand
+[00:31:27]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) modified the wall (37,218,4) to /turf/simulated/floor/plating/ironsand
+[00:31:28]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[00:31:28]EMOTE: monkey (463)/ : <B>The monkey (463)</B> jumps!
+[00:31:31]ADMIN: BartNixon/(Gilroy Rudah) has possessed the light fixture (/obj/machinery/light) at (35, 218, 4)
+[00:31:32]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:31:38]EMOTE: monkey (420)/ : <B>The monkey (420)</B> jumps!
+[00:31:43]ADMIN: BartNixon/(Gilroy Rudah) modified light fixture's luminosity to 12
+[00:31:46]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[00:32:02]SAY: grey baby slime (277)/ : Blorble...
+[00:32:06]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:32:08]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:32:18]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> gasps!
+[00:32:38]EMOTE: Grant Gibson/@Lydee : <B>Grant Gibson</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:32:54]EMOTE: monkey (138)/ : <B>The monkey (138)</B> jumps!
+[00:33:06]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen1.ogg
+[00:33:15]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen2.ogg
+[00:33:19]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen3.ogg
+[00:33:27]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen4.ogg
+[00:33:42]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen4.ogg
+[00:33:51]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen5.ogg
+[00:33:55]SAY: mouse/ : Squeek!
+[00:34:00]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen6.ogg
+[00:34:08]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen7.ogg
+[00:34:13]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen8.ogg
+[00:34:20]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen9.ogg
+[00:34:22]SAY: grey baby slime (277)/ : Blorble...
+[00:34:24]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen10.ogg
+[00:34:38]EMOTE: monkey (50)/ : <B>The monkey (50)</B> jumps!
+[00:34:40]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen11.ogg
+[00:34:47]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen12.ogg
+[00:34:50]SAY: mouse/ : Squeek!
+[00:34:54]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen13.ogg
+[00:34:56]SAY: mouse/ : Squeek!
+[00:35:04]ADMIN: BartNixon/(Gilroy Rudah) played sound sound/ambience/ambigen14.ogg
+[00:35:06]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[00:35:28]EMOTE: monkey (731)/ : <B>The monkey (731)</B> jumps!
+[00:35:38]SAY: Tom/ : Squeek!
+[00:35:49]ADMIN: BartNixon/(Gilroy Rudah) modified power cell's maxcharge to 999999
+[00:35:51]ADMIN: BartNixon/(Gilroy Rudah) modified power cell's charge to 999999
+[00:36:00]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[00:36:01]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:36:01]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:36:03]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:36:03]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:36:25]EMOTE: monkey (138)/ : <B>The monkey (138)</B> jumps!
+[00:36:31]ACCESS: Logout: IDeee[DC]/(Jason Nud)
+[00:36:45]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> collapses!
+[00:36:53]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[00:36:53]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[00:36:53]EMOTE: Gilroy Rudah/@BartNixon : <B>Gilroy Rudah</B> gasps!
+[00:37:15]SAY: Tom/ : Squeek?
+[00:37:17]SAY: mouse/ : SQUEEK!
+[00:37:33]EMOTE: monkey (463)/ : <B>The monkey (463)</B> jumps!
+[00:37:35]ACCESS: Logout: Lydee[DC]/(Grant Gibson)
+[00:37:38]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
