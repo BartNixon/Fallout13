@@ -91,8 +91,8 @@
 	icon_state = "secsoft"
 	item_color = "sec"
 
-/obj/item/clothing/head/soft/enclaveoh
+/obj/item/clothing/head/soft/enclaveof
 	name = "Enclave officer hat"
-	desc = "It's a standard piece of Enclave officer's apparel."
+	desc = "It's a Enclave standard-issue officer's cap."
 	icon_state = "enclavesoft"
 	item_color = "enclave"
