@@ -180,7 +180,7 @@
 
 /obj/item/clothing/suit/armor/advpowerarmor
 	name = "advanced power armor Mk I"
-	desc = "It is composed of lightweight metal alloys, reinforced with ceramic castings at key stress points.<br>Additionally, like the T-51b power armor, it includes a recycling system that can convert human waste into drinkable water, enhancing survival and an air conditioning system for comfort."
+	desc = "An advanced suit of armor typically used by the Enclave. It is composed of lightweight metal alloys, reinforced with ceramic castings at key stress points.<br>Additionally, like the T-51b power armor, it includes a recycling system that can convert human waste into drinkable water, and an air conditioning system for it's user's comfort."
 	icon_state = "advpowerarmor"
 	item_state = "advpowerarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
@@ -207,7 +207,7 @@
 
 /obj/item/clothing/suit/armor/t45bpowerarmor
 	name = "NCR salvaged power armor"
-	desc = "It's a T-45d power armor recovered by the NCR during the NCR-Brotherhood War.<br>NCR technicians have restored it to working order by replacing the back-mounted cylinders with a custom air conditioning module and stripping out the joint servomotors.<br>If you wear this, it feels like you're carrying a brahmin on your back."
+	desc = "It's a set of T-45d power armor recovered by the NCR during the NCR-Brotherhood War.<br>NCR technicians have restored it to working order by replacing the back-mounted cylinders with a custom air conditioning module and stripping out the joint servomotors.<br>Due to the lack of servomotors in the limbs, this armor is so heavy that it feels like you're carrying a brahmin on your back!"
 	icon_state = "t45bpowerarmor"
 	item_state = "t45bpowerarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
@@ -217,8 +217,8 @@
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
 
 /obj/item/clothing/suit/armor/bmetalarmor
-	name = "black metal armor"
-	desc = "A craft metal armor created from a variety of scrap pieces put on a black leather armor. Looks like it might impair movement."
+	name = "metal armor"
+	desc = "A set of sturdy metal armor made from various bits of scrap metal. It looks like it might impair movement"
 	icon_state = "bmetalarmor"
 	item_state = "bmetalarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
@@ -229,7 +229,7 @@
 
 /obj/item/clothing/suit/armor/leatherarmor
 	name = "leather armor"
-	desc = "An enhanced, one long sleeved, black leather jacket."
+	desc = "A set of light armor made of boiled brahmin leather. It should protect you against your average 9mm peashooter, but anything higher caliber will punch through it like butter."
 	icon_state = "leatherarmor"
 	item_state = "leatherarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
@@ -239,7 +239,7 @@
 
 /obj/item/clothing/suit/armor/autumn //Based of Colonel Autumn's uniform.
 	name = "tan trenchcoat"
-	desc = "A resistant, tan trenchcoat, probably part of pre-War LAS-009 General's overcoat."
+	desc = "A resistant, tan trenchcoat, typically worn by pre-War generals."
 	icon_state = "autumn"
 	item_state = "autumn"
 	body_parts_covered = CHEST|LEGS|FEET|ARMS
@@ -251,14 +251,14 @@
 
 /obj/item/clothing/suit/armor/cowboybvest //Originally cowboy stuff by Nienhaus
 	name = "brown vest"
-	desc = "It has pockets for tiny items."
+	desc = "A brown vest, typically worn by wannabe cowboys and prospectors. It has a few pockets for tiny items."
 	icon_state = "cowboybvest"
 	item_state = "cowboybvest"
 	allowed = list(/obj/item/weapon/stamp, /obj/item/weapon/reagent_containers/food/drinks/flask, /obj/item/weapon/melee, /obj/item/weapon/storage/box/matches, /obj/item/weapon/lighter, /obj/item/clothing/mask/cigarette, /obj/item/weapon/storage/fancy/cigarettes, /obj/item/device/flashlight, /obj/item/ammo_box, /obj/item/ammo_casing, /obj/item/weapon/scalpel, /obj/item/weapon/surgical_drapes, /obj/item/weapon/cautery, /obj/item/weapon/hemostat, /obj/item/weapon/retractor)
 
 /obj/item/clothing/suit/armor/cowboygvest
 	name = "gray vest"
-	desc = "It has pockets for tiny items."
+	desc = "A brown vest, typically worn by wannabe cowboys and prospectors. It has a few pockets for tiny items."
 	icon_state = "cowboygvest"
 	item_state = "cowboygvest"
 	allowed = list(/obj/item/weapon/stamp, /obj/item/weapon/reagent_containers/food/drinks/flask, /obj/item/weapon/melee, /obj/item/weapon/storage/box/matches, /obj/item/weapon/lighter, /obj/item/clothing/mask/cigarette, /obj/item/weapon/storage/fancy/cigarettes, /obj/item/device/flashlight, /obj/item/ammo_box, /obj/item/ammo_casing, /obj/item/weapon/scalpel, /obj/item/weapon/surgical_drapes, /obj/item/weapon/cautery, /obj/item/weapon/hemostat, /obj/item/weapon/retractor)

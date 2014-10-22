@@ -322,15 +322,15 @@
 //The following wears were sprited and coded by BartNixon, Nienhaus and MrSnapwalk.
 
 /obj/item/clothing/under/vault13 //Goonstation? Never heard of it!
-	name = "standard Vault 13 jumpsuit"
-	desc = "The regulation clothing carried by the vault dwellers of Vault-Tec vaults. It's made of leather."
+	name = "Vault 13 jumpsuit"
+	desc = "The regulation clothing worn by the vault dwellers of Vault-Tec vaults. It's made of sturdy leather."
 	icon_state = "vault13"
 	item_state = "vault13"
 	item_color = "vault13"
 
 /obj/item/clothing/under/vault13ut
-	name = "the Vault utility jumpsuit"
-	desc = "A modified version of the standard Vault Jumpsuit, designed for manual labor and routine repair. It's made of leather."
+	name = "Vault 13 utility jumpsuit"
+	desc = "A modified version of the standard Vault 13 Jumpsuit, designed for manual labor and routine repair. It's made of sturdy leather."
 	icon_state = "vault13ut"
 	item_state = "vault13ut"
 	item_color = "vault13ut"
@@ -344,7 +344,7 @@
 
 /obj/item/clothing/under/springm
 	name = "pre-War male spring outfit"
-	desc = "It's a dirty long-sleeve beige shirt with a red sweater-vest and brown trousers"
+	desc = "It's a dirty long-sleeve beige shirt with a red sweater-vest and brown trousers."
 	icon_state = "springm"
 	item_state = "springm"
 	item_color = "springm"
@@ -357,22 +357,22 @@
 	item_color = "bennys"
 
 /obj/item/clothing/under/enclaveo
-	name = "the Enclave officer uniform"
-	desc = "It's a standard Enclave officer apparel.<br>The outer layer is made of a sturdy material designed to withstand the harsh conditions of the wasteland."
+	name = "Enclave officer uniform"
+	desc = "It's a standard Enclave officer uniform.<br>The outer layer is made of a sturdy material designed to withstand the harsh conditions of the wasteland."
 	icon_state = "enclaveo"
 	item_state = "enclaveo"
 	item_color = "enclaveo"
 
-/obj/item/clothing/under/mercam
-	name = "male merc adventurer outfit"
-	desc = "It's a large leather jacket with torn-off sleeves, a red sweater underneath, a brown bandolier, a pair of brown pants.<br>A necklace with three teeth on it make up this suit of clothing."
+/obj/item/clothing/under/mercadv/male //Male version
+	name = "merc adventurer outfit"
+	desc = "It's a large leather jacket with torn-off sleeves, paired with a red sweater, a necklace with three teeth of unknown origin strung on, and a pair of brown leather pants.<br>There is also a rough leather bandolier for additional storage capacity."
 	icon_state = "mercam"
 	item_state = "mercam"
 	item_color = "mercam"
 
-/obj/item/clothing/under/mercaf
-	name = "female merc adventurer outfit"
-	desc = "It's a large leather jacket with torn-off sleeves, a bare midriff red/black top, a pair of brown pants.<br>There is also a leather belt and a leather strap on the top."
+/obj/item/clothing/under/mercadv/female //Female version
+	name = "merc adventurer outfit"
+	desc = "It's a large leather jacket with torn-off sleeves, paired with a midriff-revealing red and black top and a pair of brown leather pants.<br>There is also a rough leather bandolier and belt for additional storage capacity."
 	icon_state = "mercaf"
 	item_state = "mercaf"
 	item_color = "mercaf"
@@ -456,8 +456,8 @@
 	heat_protection = CHEST|GROIN|LEGS|FEET|ARMS|HEAD
 
 /obj/item/clothing/under/agent47
-	name = "the Suit"
-	desc = "It was made by a blind man named Tommy, who runed a tailor shop in Chicago."
+	name = "mysterious suit"
+	desc = "This dark suit was made by a blind man named Tommy, who ran a tailor shop in the ruins of Old Chicago. It seems to be reinforced with an unknown material."
 	icon_state = "agent47"
 	item_state = "agent47"
 	item_color = "agent47"

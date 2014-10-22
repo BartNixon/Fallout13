@@ -115,7 +115,7 @@ obj/item/clothing/head/helmet/bluetaghelm
 
 /obj/item/clothing/head/helmet/advhelmet
 	name = "advanced Mk I power helmet"
-	desc = "It's a helmet of Enclave's advanced power armor Mk I. Terrific!"
+	desc = "It's an advanced power armor Mk I helmet, typically used by the Enclave. It looks somewhat threatening."
 	icon_state = "advhelmet"
 	item_state = "advhelmet"
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | STOPSPRESSUREDMAGE | BLOCKHAIR
@@ -139,7 +139,7 @@ obj/item/clothing/head/helmet/bluetaghelm
 
 /obj/item/clothing/head/helmet/t45bhelmet
 	name = "salvaged power helmet"
-	desc = "It's a pre-War power armor helmet previously recovered and maintained by the NCR troops."
+	desc = "It's a pre-War power armor helmet, recovered and maintained by NCR engineers."
 	icon_state = "t45bhelmet"
 	item_state = "t45bhelmet"
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
