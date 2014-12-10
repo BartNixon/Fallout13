@@ -12,7 +12,7 @@
 	faction = list("alien")
 	ventcrawler = 2
 	languages = ALIEN
-
+	nightvision = 1
 	var/storedPlasma = 250
 	var/max_plasma = 500
 
@@ -30,7 +30,7 @@
 	var/fire_alert = 0
 
 	var/heat_protection = 0.5
-
+	var/leaping = 0
 
 /mob/living/carbon/alien/New()
 	verbs += /mob/living/proc/mob_sleep
@@ -158,9 +158,6 @@
 /mob/living/carbon/alien/SpeciesCanConsume()
 	return 1 // Aliens can eat, and they can be fed food/drink
 
-/mob/living/carbon/alien/Process_Spaceslipping()
-	return 0 // Don't slip in space.
-
 /mob/living/carbon/alien/Stat()
 
 	statpanel("Status")
@@ -192,6 +189,21 @@
 /mob/living/carbon/alien/cuff_break(obj/item/I, mob/living/carbon/C)
 	playsound(C, 'sound/voice/hiss5.ogg', 40, 1, 1)  //Alien roars when breaking free.
 	..()
+
+/mob/living/carbon/alien/verb/nightvisiontoggle()
+	set name = "Toggle Night Vision"
+	set category = "Alien"
+
+	if(!nightvision)
+		see_in_dark = 8
+		see_invisible = SEE_INVISIBLE_MINIMUM
+		nightvision = 1
+		hud_used.nightvisionicon.icon_state = "nightvision1"
+	else if(nightvision == 1)
+		see_in_dark = 4
+		see_invisible = 45
+		nightvision = 0
+		hud_used.nightvisionicon.icon_state = "nightvision0"
 
 /*----------------------------------------
 Proc: AddInfectionImages()

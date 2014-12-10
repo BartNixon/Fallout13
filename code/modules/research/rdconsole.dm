@@ -175,10 +175,7 @@ won't update every console in existence) but it's more of a hassle to do. Also, 
 	usr.set_machine(src)
 	if(href_list["menu"]) //Switches menu screens. Converts a sent text string into a number. Saves a LOT of code.
 		var/temp_screen = text2num(href_list["menu"])
-		if(temp_screen <= 1.1 || (3 <= temp_screen && 4.9 >= temp_screen) || src.allowed(usr) || emagged) //Unless you are making something, you need access.
-			screen = temp_screen
-		else
-			usr << "Unauthorized Access."
+		screen = temp_screen
 
 	else if(href_list["updt_tech"]) //Update the research holder with information from the technology disk.
 		screen = 0.0
@@ -189,11 +186,13 @@ won't update every console in existence) but it's more of a hassle to do. Also, 
 			griefProtection() //Update centcom too
 
 	else if(href_list["clear_tech"]) //Erase data on the technology disk.
-		t_disk.stored = null
+		if(t_disk)
+			t_disk.stored = null
 
 	else if(href_list["eject_tech"]) //Eject the technology disk.
-		t_disk:loc = src.loc
-		t_disk = null
+		if(t_disk)
+			t_disk.loc = src.loc
+			t_disk = null
 		screen = 1.0
 
 	else if(href_list["copy_tech"]) //Copys some technology data from the research holder to the disk.
@@ -212,11 +211,13 @@ won't update every console in existence) but it's more of a hassle to do. Also, 
 			griefProtection() //Update centcom too
 
 	else if(href_list["clear_design"]) //Erases data on the design disk.
-		d_disk.blueprint = null
+		if(d_disk)
+			d_disk.blueprint = null
 
 	else if(href_list["eject_design"]) //Eject the design disk.
-		d_disk:loc = src.loc
-		d_disk = null
+		if(d_disk)
+			d_disk.loc = src.loc
+			d_disk = null
 		screen = 1.0
 
 	else if(href_list["copy_design"]) //Copy design data from the research holder to the design disk.
@@ -395,14 +396,14 @@ won't update every console in existence) but it's more of a hassle to do. Also, 
 					spawn(32*amount/coeff)
 						if(g2g) //And if we only fail the material requirements, we still spend time and power
 							for(var/i = 0, i<amount, i++)
-								var/obj/new_item = new P(src)
+								var/obj/item/new_item = new P(src)
 								if( new_item.type == /obj/item/weapon/storage/backpack/holding )
 									new_item.investigate_log("built by [key]","singulo")
 								new_item.reliability = R
 								new_item.m_amt /= coeff
 								new_item.g_amt /= coeff
 								if(linked_lathe.hacked)
-									R = max((reliability / 2), 0)
+									R = max((new_item.reliability/2), 0)
 								if(O)
 									var/obj/item/weapon/storage/lockbox/L = new/obj/item/weapon/storage/lockbox(linked_lathe.loc)
 									new_item.loc = L
@@ -458,7 +459,7 @@ won't update every console in existence) but it's more of a hassle to do. Also, 
 					var/R = being_built.reliability
 					spawn(16)
 						if(g2g)
-							var/obj/new_item = new P(src)
+							var/obj/item/new_item = new P(src)
 							new_item.reliability = R
 							new_item.loc = linked_imprinter.loc
 						linked_imprinter.busy = 0
@@ -503,7 +504,7 @@ won't update every console in existence) but it's more of a hassle to do. Also, 
 				type = /obj/item/stack/sheet/mineral/diamond
 				res_amount = "diamond_amount"
 			if("clown")
-				type = /obj/item/stack/sheet/mineral/clown
+				type = /obj/item/stack/sheet/mineral/bananium
 				res_amount = "clown_amount"
 		if(ispath(type) && hasvar(linked_lathe, res_amount))
 			var/obj/item/stack/sheet/sheet = new type(linked_lathe.loc)
@@ -935,10 +936,12 @@ won't update every console in existence) but it's more of a hassle to do. Also, 
 
 /obj/machinery/computer/rdconsole/robotics
 	name = "Robotics R&D Console"
+	desc = "A console used to interface with R&D tools."
 	id = 2
 	req_access = null
 	req_access_txt = "29"
 
 /obj/machinery/computer/rdconsole/core
 	name = "Core R&D Console"
+	desc = "A console used to interface with R&D tools."
 	id = 1

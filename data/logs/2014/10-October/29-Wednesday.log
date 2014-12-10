@@ -1,0 +1,280 @@
+
+
+Starting up. 04:54.36
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[04:54:36]ADMIN: Loading Banlistjob
+[04:54:36]ADMIN: Banlistjob is empty.
+[04:54:36]ADMIN: Banlistjob missing base dir.
+[04:54:36]ADMIN: Loading jobban_rank
+[04:54:36]ADMIN: jobban_keylist was empty
+[04:54:36]ADMIN: Loading appearance_rank
+[04:54:36]ADMIN: appearance_keylist was empty
+[04:54:36]ADMIN: Updating jobbanfile!
+[04:54:36]ADMIN: Loading Banlist
+[04:54:36]ADMIN: Banlist is empty.
+[04:54:36]ADMIN: Banlist missing base dir.
+[04:56:02]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[04:56:26]ACCESS: Logout: *no key*/(BartNixon)
+[04:56:26]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[04:57:09]ACCESS: Logout: BartNixon[DC]/(Leeann Briggs)
+
+
+Starting up. 06:33.11
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[06:33:11]ADMIN: Loading Banlistjob
+[06:33:11]ADMIN: Loading jobban_rank
+[06:33:11]ADMIN: jobban_keylist was empty
+[06:33:11]ADMIN: Loading appearance_rank
+[06:33:11]ADMIN: appearance_keylist was empty
+[06:33:11]ADMIN: Updating jobbanfile!
+[06:33:11]ADMIN: Loading Banlist
+[06:34:35]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[06:35:11]ACCESS: Logout: *no key*/(BartNixon)
+[06:35:11]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[06:35:20]ADMIN: BartNixon has started the game.
+[06:35:26]SAY: mouse/ : Squeek?
+[06:35:26]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:35:28]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:35:55]SAY: mouse/ : Squeek!
+[06:35:55]EMOTE: monkey (8)/ : <B>The monkey (8)</B> jumps!
+[06:36:17]SAY: Tom/ : SQUEEK!
+[06:36:23]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the bruise pack.
+[06:36:23]EMOTE: monkey (8)/ : <B>The monkey (8)</B> jumps!
+[06:36:27]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[06:36:27]SAY: mouse/ : SQUEEK!
+[06:37:03]SAY: mouse/ : SQUEEK!
+[06:37:29]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[06:37:29]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:37:31]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:37:37]SAY: mouse/ : Squeek?
+[06:37:57]EMOTE: monkey (64)/ : <B>The monkey (64)</B> jumps!
+[06:38:11]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[06:38:25]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[06:38:47]SAY: grey baby slime (926)/ : Blorble...
+[06:38:47]EMOTE: monkey (128)/ : <B>The monkey (128)</B> jumps!
+[06:39:03]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[06:39:21]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[06:39:25]EMOTE: monkey (8)/ : <B>The monkey (8)</B> jumps!
+[06:39:39]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[06:39:39]SAY: mouse/ : Squeek?
+[06:40:17]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[06:40:26]EMOTE: monkey (128)/ : <B>The monkey (128)</B> jumps!
+[06:40:38]SAY: grey baby slime (926)/ : Blorble...
+[06:40:48]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[06:40:54]SAY: Runtime/ : HSSSSS
+[06:40:56]SAY: Tom/ : Squeek!
+[06:41:06]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[06:41:12]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[06:41:48]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[06:41:52]SAY: mouse/ : SQUEEK!
+[06:42:00]EMOTE: Pete/ : <B>Pete</B> stamps a foot
+[06:42:22]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[06:42:29]ACCESS: Logout: BartNixon[DC]/(Leeann Briggs)
+
+
+Starting up. 09:48.36
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[09:48:37]ADMIN: Loading Banlistjob
+[09:48:37]ADMIN: Loading jobban_rank
+[09:48:37]ADMIN: jobban_keylist was empty
+[09:48:37]ADMIN: Loading appearance_rank
+[09:48:37]ADMIN: appearance_keylist was empty
+[09:48:37]ADMIN: Updating jobbanfile!
+[09:48:37]ADMIN: Loading Banlist
+[09:50:34]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[09:52:03]ADMIN: BartNixon/(BartNixon) modified Space Station 13's icon to icons/misc/fullscreen.dmi
+[09:52:40]SAY: Poly/ : Poly wanna cracker!
+[09:52:54]EMOTE: monkey (647)/ : <B>The monkey (647)</B> jumps!
+[09:53:10]EMOTE: monkey (545)/ : <B>The monkey (545)</B> jumps!
+[09:53:22]SAY: mouse/ : Squeek?
+[09:53:32]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[09:53:34]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[09:53:49]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[09:54:27]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[09:54:27]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[09:54:37]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[09:54:41]SAY: mouse/ : Squeek?
+[09:54:45]SAY: mouse/ : Squeek!
+[09:54:47]SAY: Runtime/ : Purr!
+[09:54:51]EMOTE: Ian/ : <B>Ian</B> shivers.
+[09:54:51]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[09:55:07]ACCESS: Logout: *no key*/(BartNixon)
+[09:55:07]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[09:55:10]EMOTE: Poly/ : <B>Poly</B> squawks.
+[09:55:30]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[09:55:36]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[09:55:58]SAY: Tom/ : Squeek!
+[09:56:20]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[09:56:22]EMOTE: Ian/ : <B>Ian</B> yaps.
+[09:56:31]ACCESS: Logout: BartNixon[DC]/(Leeann Briggs)
+
+
+Starting up. 10:10.05
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[10:10:05]ADMIN: Loading Banlistjob
+[10:10:05]ADMIN: Loading jobban_rank
+[10:10:05]ADMIN: jobban_keylist was empty
+[10:10:05]ADMIN: Loading appearance_rank
+[10:10:05]ADMIN: appearance_keylist was empty
+[10:10:05]ADMIN: Updating jobbanfile!
+[10:10:05]ADMIN: Loading Banlist
+[10:12:14]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[10:13:07]ADMIN: BartNixon has started the game.
+[10:13:13]SAY: Kentucky/ : Bwaak bwak.
+[10:13:26]SAY: mouse/ : Squeek?
+[10:13:38]SAY: Tom/ : SQUEEK!
+[10:13:55]ACCESS: Logout: *no key*/(BartNixon)
+[10:13:55]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[10:14:03]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[10:14:30]SAY: Runtime/ : HSSSSS
+[10:14:46]SAY: Betsy/ : moo
+[10:14:56]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:14:58]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[10:15:14]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[10:15:52]EMOTE: monkey (702)/ : <B>The monkey (702)</B> jumps!
+[10:15:54]SAY: grey baby slime (729)/ : Rawr...
+[10:16:00]SAY: Tom/ : Squeek?
+[10:16:14]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:16:14]SAY: Tom/ : Squeek?
+[10:16:27]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[10:16:38]ACCESS: Logout: *no key*/(Leeann Briggs)
+[10:16:38]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[10:16:41]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[10:16:47]ADMIN: BartNixon/(Leeann Briggs) made all SMESs powered
+[10:16:47]ADMIN: BartNixon/(Leeann Briggs) used secret quickpower
+[10:17:15]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:17:49]EMOTE: Runtime/ : <B>Runtime</B> mews
+[10:18:01]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:18:01]EMOTE: monkey (207)/ : <B>The monkey (207)</B> jumps!
+[10:18:07]SAY: grey baby slime (729)/ : Lonely...
+[10:18:11]SAY: Betsy/ : MOOOOOO
+[10:18:19]EMOTE: Featherbottom/ : <B>Featherbottom</B> clucks
+[10:18:26]SAY: Tom/ : SQUEEK!
+[10:18:32]SAY: mouse/ : SQUEEK!
+[10:18:34]EMOTE: Pugley III/ : <B>Pugley III</B> yaps.
+[10:18:38]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:18:42]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[10:19:02]EMOTE: monkey (702)/ : <B>The monkey (702)</B> jumps!
+[10:19:04]SAY: Kentucky/ : Cluck!
+[10:20:13]SAY: mouse/ : Squeek?
+[10:20:31]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:20:54]SAY: mouse/ : SQUEEK!
+[10:20:58]EMOTE: monkey (867)/ : <B>The monkey (867)</B> jumps!
+[10:21:06]EMOTE: Kentucky/ : <B>Kentucky</B> flaps its wings viciously
+[10:21:16]SAY: mouse/ : Squeek?
+[10:21:18]SAY: Pugley III/ : Bark!
+[10:21:28]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[10:21:32]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:21:36]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:22:03]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[10:22:09]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[10:22:37]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:22:43]EMOTE: Ian/ : <B>Ian</B> dances around.
+[10:22:51]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[10:22:53]EMOTE: Kentucky/ : <B>Kentucky</B> flaps its wings viciously
+[10:23:21]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[10:23:37]SAY: mouse/ : SQUEEK!
+[10:23:48]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:23:56]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[10:24:56]SAY: mouse/ : Squeek!
+[10:25:06]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:25:06]SAY: Tom/ : Squeek?
+[10:25:10]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:25:18]EMOTE: Betsy/ : <B>Betsy</B> shakes its head
+[10:25:20]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[10:25:21]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[10:25:43]SAY: Runtime/ : Purr!
+[10:25:53]EMOTE: monkey (889)/ : <B>The monkey (889)</B> jumps!
+[10:26:13]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:26:23]SAY: mouse/ : SQUEEK!
+[10:26:31]SAY: Runtime/ : Purr!
+[10:26:57]EMOTE: mouse/ : <B>The mouse</B> shakes
+[10:27:05]SAY: Ian/ : YAP!
+[10:27:13]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:27:21]EMOTE: Runtime/ : <B>Runtime</B> mews
+[10:27:33]EMOTE: Pete/ : <B>Pete</B> brays
+[10:27:41]EMOTE: monkey (867)/ : <B>The monkey (867)</B> jumps!
+[10:27:43]EMOTE: Tom/ : <B>Tom</B> runs in a circle
+[10:28:01]EMOTE: Pete/ : <B>Pete</B> brays
+[10:28:07]EMOTE: mouse/ : <B>The mouse</B> shakes
+[10:28:13]EMOTE: Hudson Warren/ : <B>Hudson Warren</B> coughs!
+[10:28:14]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:28:16]SAY: mouse/ : Squeek?
+[10:28:32]EMOTE: mouse/ : <B>The mouse</B> shakes
+[10:28:36]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[10:28:44]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[10:28:46]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[10:28:48]EMOTE: Pugley III/ : <B>Pugley III</B> yaps.
+[10:28:50]EMOTE: Pugley III/ : <B>Pugley III</B> shakes its head.
+[10:29:13]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:29:27]EMOTE: mouse/ : <B>The mouse</B> shakes
+[10:29:49]SAY: mouse/ : Squeek?
+[10:29:49]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[10:29:55]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[10:30:33]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[10:30:41]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[10:30:50]ACCESS: Logout: BartNixon[DC]/(Leeann Briggs)

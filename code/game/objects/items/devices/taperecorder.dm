@@ -26,10 +26,9 @@
 	update_icon()
 
 
-/obj/item/device/taperecorder/examine()
-	set src in view(1)
+/obj/item/device/taperecorder/examine(mob/user)
 	..()
-	usr << "The wire panel is [open_panel ? "opened" : "closed"]."
+	user << "The wire panel is [open_panel ? "opened" : "closed"]."
 
 
 /obj/item/device/taperecorder/attackby(obj/item/I, mob/user)
@@ -68,11 +67,18 @@
 	..()
 
 
+/obj/item/device/taperecorder/proc/can_use(mob/user)
+	if(user && ismob(user))
+		if(!user.stat && user.canmove && !user.restrained())
+			return 1
+	return 0
+
+
 /obj/item/device/taperecorder/verb/ejectverb()
 	set name = "Eject Tape"
 	set category = "Object"
 
-	if(usr.stat)
+	if(!can_use(usr))
 		return
 	if(!mytape)
 		return
@@ -94,14 +100,13 @@
 /obj/item/device/taperecorder/Hear(message, atom/movable/speaker, message_langs, raw_message, radio_freq)
 	if(mytape && recording)
 		mytape.timestamp += mytape.used_capacity
-		mytape.storedinfo += "\[[time2text(mytape.used_capacity * 10,"mm:ss")]\] [message]"
-
+		mytape.storedinfo += "\[[time2text(mytape.used_capacity * 10,"mm:ss")]\] [strip_html_properly(message)]"
 
 /obj/item/device/taperecorder/verb/record()
 	set name = "Start Recording"
 	set category = "Object"
 
-	if(usr.stat)
+	if(!can_use(usr))
 		return
 	if(!mytape || mytape.ruined)
 		return
@@ -138,7 +143,7 @@
 	set name = "Stop"
 	set category = "Object"
 
-	if(usr.stat)
+	if(!can_use(usr))
 		return
 
 	if(recording)
@@ -158,7 +163,7 @@
 	set name = "Play Tape"
 	set category = "Object"
 
-	if(usr.stat)
+	if(!can_use(usr))
 		return
 	if(!mytape || mytape.ruined)
 		return
@@ -213,7 +218,7 @@
 	set name = "Print Transcript"
 	set category = "Object"
 
-	if(usr.stat)
+	if(!can_use(usr))
 		return
 	if(!mytape)
 		return

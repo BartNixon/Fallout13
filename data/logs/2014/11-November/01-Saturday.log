@@ -1,0 +1,1830 @@
+
+
+Starting up. 05:33.51
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[05:33:51]ADMIN: Loading Banlistjob
+[05:33:51]ADMIN: Loading jobban_rank
+[05:33:51]ADMIN: jobban_keylist was empty
+[05:33:51]ADMIN: Loading appearance_rank
+[05:33:51]ADMIN: appearance_keylist was empty
+[05:33:51]ADMIN: Updating jobbanfile!
+[05:33:51]ADMIN: Loading Banlist
+[05:35:54]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[05:36:28]ACCESS: Logout: *no key*/(BartNixon)
+[05:36:28]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[05:37:50]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:37:52]SAY: mouse/ : Squeek!
+[05:37:52]EMOTE: mouse/ : <B>The mouse</B> shakes
+[05:38:04]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[05:38:06]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[05:38:20]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:38:28]EMOTE: monkey (249)/ : <B>The monkey (249)</B> jumps!
+[05:38:32]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[05:38:36]SAY: mouse/ : Squeek?
+[05:38:36]SAY: grey baby slime (511)/ : Blop...
+[05:38:38]EMOTE: Poly/ : <B>Poly</B> bawks!
+[05:39:28]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[05:39:44]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:40:39]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[05:40:46]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[05:40:55]SAY: mouse/ : SQUEEK!
+[05:41:05]EMOTE: Pete/ : <B>Pete</B> stamps a foot
+[05:41:07]SAY: grey baby slime (511)/ : Blop...
+[05:41:21]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:41:33]EMOTE: monkey (635)/ : <B>The monkey (635)</B> jumps!
+[05:41:41]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[05:41:46]ADMIN: BartNixon/(Leeann Briggs) jumped to the Thunderdome (Admin.)
+[05:41:52]ADMIN: BartNixon/(Leeann Briggs) has entered build mode.
+[05:41:53]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted Thunderdome Flash at (128,77,2)
+[05:41:54]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the security camera at (128,76,2)
+[05:41:55]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the igniter at (121,73,2)
+[05:41:56]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the igniter at (121,80,2)
+[05:41:57]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the igniter at (135,73,2)
+[05:41:58]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the igniter at (135,80,2)
+[05:42:00]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the Telescreen at (132,83,2)
+[05:42:01]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the Telescreen at (124,83,2)
+[05:42:02]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (122,82,2)
+[05:42:03]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (123,82,2)
+[05:42:03]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (123,82,2)
+[05:42:04]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (122,82,2)
+[05:42:04]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (122,84,2)
+[05:42:05]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (123,84,2)
+[05:42:06]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (124,84,2)
+[05:42:06]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (124,82,2)
+[05:42:07]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (125,82,2)
+[05:42:07]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (126,82,2)
+[05:42:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (124,82,2)
+[05:42:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (125,84,2)
+[05:42:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the comfy chair at (128,71,2)
+[05:42:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the Telescreen at (127,71,2)
+[05:42:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the table at (127,71,2)
+[05:42:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (127,71,2)
+[05:42:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the table at (129,71,2)
+[05:42:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the flasher button at (129,71,2)
+[05:42:15]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (130,71,2)
+[05:42:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (131,71,2)
+[05:42:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (131,71,2)
+[05:42:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (131,71,2)
+[05:42:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (132,71,2)
+[05:42:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (132,71,2)
+[05:42:17]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (133,71,2)
+[05:42:18]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (134,71,2)
+[05:42:19]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (126,71,2)
+[05:42:19]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (125,71,2)
+[05:42:20]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (125,71,2)
+[05:42:20]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (124,71,2)
+[05:42:20]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (124,71,2)
+[05:42:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (123,71,2)
+[05:42:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (123,71,2)
+[05:42:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (122,71,2)
+[05:42:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (122,71,2)
+[05:42:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (122,71,2)
+[05:42:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (134,82,2)
+[05:42:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (133,82,2)
+[05:42:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (132,82,2)
+[05:42:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (132,82,2)
+[05:42:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (131,82,2)
+[05:42:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (130,82,2)
+[05:42:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (130,82,2)
+[05:42:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (130,84,2)
+[05:42:28]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (126,84,2)
+[05:42:28]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (131,84,2)
+[05:42:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the floor at (132,84,2)
+[05:42:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (132,84,2)
+[05:42:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (131,84,2)
+[05:42:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (133,84,2)
+[05:42:31]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the chair at (134,84,2)
+[05:42:35]ADMIN: BartNixon/(Leeann Briggs) has left build mode.
+[05:42:37]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[05:42:43]ADMIN: BartNixon/(Leeann Briggs) spawned /turf/unsimulated/floor/wasteland at (128,77,2)
+[05:42:44]SAY: mouse/ : Squeek?
+[05:42:46]SAY: Tom/ : Squeek?
+[05:42:56]ADMIN: BartNixon/(Leeann Briggs) has entered build mode.
+[05:42:59]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,77,2) to /turf/unsimulated/floor/wasteland
+[05:42:59]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:00]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:43:00]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:00]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:01]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:01]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:02]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:03]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:03]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:04]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:04]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:05]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:05]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:05]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (123,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:06]SAY: Ian/ : YAP!
+[05:43:06]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:06]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:06]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:07]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:07]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:08]EMOTE: monkey (180)/ : <B>The monkey (180)</B> jumps!
+[05:43:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (121,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:09]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (122,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:09]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:09]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:10]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:10]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:10]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:11]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:11]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (123,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (124,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (125,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (126,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:15]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:15]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:15]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:17]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (127,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:17]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (128,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:18]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:18]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (128,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:18]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:19]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:19]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:19]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:20]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:20]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (129,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (130,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (131,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (132,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:23]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (133,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:23]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (134,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:23]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (135,81,2) to /turf/unsimulated/floor/wasteland
+[05:43:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,80,2) to /turf/unsimulated/floor/wasteland
+[05:43:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:28]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (135,79,2) to /turf/unsimulated/floor/wasteland
+[05:43:28]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:28]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (133,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,78,2) to /turf/unsimulated/floor/wasteland
+[05:43:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:31]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:31]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:31]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:32]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:32]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (134,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:32]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,77,2) to /turf/unsimulated/floor/wasteland
+[05:43:33]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:33]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (135,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:34]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:34]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:34]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:35]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (135,72,2) to /turf/unsimulated/floor/wasteland
+[05:43:35]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (134,72,2) to /turf/unsimulated/floor/wasteland
+[05:43:35]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:36]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:36]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:36]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:37]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:37]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:38]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:38]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:38]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (133,72,2) to /turf/unsimulated/floor/wasteland
+[05:43:39]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,71,2) to /turf/unsimulated/floor/wasteland
+[05:43:39]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,70,2) to /turf/unsimulated/floor/wasteland
+[05:43:40]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,70,2) to /turf/unsimulated/floor/wasteland
+[05:43:40]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,71,2) to /turf/unsimulated/floor/wasteland
+[05:43:40]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,71,2) to /turf/unsimulated/floor/wasteland
+[05:43:40]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,70,2) to /turf/unsimulated/floor/wasteland
+[05:43:42]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,70,2) to /turf/unsimulated/floor/wasteland
+[05:43:42]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,70,2) to /turf/unsimulated/floor/wasteland
+[05:43:43]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,71,2) to /turf/unsimulated/floor/wasteland
+[05:43:44]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:45]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:45]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,76,2) to /turf/unsimulated/floor/wasteland
+[05:43:45]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:46]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:46]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:46]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:46]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (129,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:47]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:47]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (128,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:47]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:48]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[05:43:48]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (127,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:48]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:48]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:48]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:49]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:49]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:49]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:50]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (121,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:50]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:50]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (121,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:50]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:51]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (122,75,2) to /turf/unsimulated/floor/wasteland
+[05:43:52]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:52]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:52]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:52]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:53]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (125,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:53]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:54]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:54]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:55]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:55]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:55]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (130,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:55]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:56]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,74,2) to /turf/unsimulated/floor/wasteland
+[05:43:56]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:56]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:57]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:57]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,73,2) to /turf/unsimulated/floor/wasteland
+[05:43:59]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[05:44:00]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:01]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:01]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:02]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:02]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:02]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (124,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:03]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:03]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,73,2) to /turf/unsimulated/floor/wasteland
+[05:44:03]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (121,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:04]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:04]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:05]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:05]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (122,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:06]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[05:44:06]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (122,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:06]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:07]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (123,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:07]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:08]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (124,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:09]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (125,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:09]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:09]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:10]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:10]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:11]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (126,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:11]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (126,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:11]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (126,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:11]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:11]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (127,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:12]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (126,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (127,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (128,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:13]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:14]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (129,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:15]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (129,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:15]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (130,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:15]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,70,2) to /turf/unsimulated/floor/wasteland
+[05:44:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,71,2) to /turf/unsimulated/floor/wasteland
+[05:44:16]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (132,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:17]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the window (131,72,2) to /turf/unsimulated/floor/wasteland
+[05:44:19]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (131,74,2) to /turf/unsimulated/floor/wasteland
+[05:44:20]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:20]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (135,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:21]EMOTE: Pete/ : <B>Pete</B> brays
+[05:44:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (134,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:23]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (133,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (132,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (131,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:26]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (130,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:27]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[05:44:27]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (129,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (128,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:29]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (127,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (127,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:30]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:31]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:31]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (126,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:31]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:32]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:32]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (125,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:33]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:33]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:33]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (124,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:34]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:35]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (124,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:35]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:35]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (123,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:36]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:36]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:36]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (122,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:37]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (122,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:37]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,84,2) to /turf/unsimulated/floor/wasteland
+[05:44:37]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:38]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the wasteland (121,82,2) to /turf/unsimulated/floor/wasteland
+[05:44:38]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the floor (121,83,2) to /turf/unsimulated/floor/wasteland
+[05:44:39]ADMIN: BartNixon/(Leeann Briggs) has left build mode.
+[05:44:43]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[05:45:15]SAY: mouse/ : Squeek?
+[05:45:27]SAY: mouse/ : Squeek!
+[05:45:31]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/road/horizontalinnermain
+[05:45:32]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/road/horizontalinnermain
+[05:45:33]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[05:45:35]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:37]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:37]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:38]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:39]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[05:45:39]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:40]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:41]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:42]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:42]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:43]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:44]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:45]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:45]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:46]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:47]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:49]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:49]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:50]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:51]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:51]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:52]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:53]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:54]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:54]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:55]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:56]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:57]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:58]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:59]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:45:59]SAY: Runtime/ : HSSSSS
+[05:46:00]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:01]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:02]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:03]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:03]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:04]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:05]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:05]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:06]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:07]SAY: mouse/ : Squeek!
+[05:46:07]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:11]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:12]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:13]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:13]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:14]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:15]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:18]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalinnermain
+[05:46:20]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:22]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:23]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:46:24]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:25]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:26]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:26]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:27]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:28]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:29]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:29]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:30]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:32]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:32]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:33]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:34]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:35]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderright
+[05:46:37]SAY: mouse/ : Squeek?
+[05:46:39]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:40]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:41]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:41]SAY: grey baby slime (665)/ : Rawr...
+[05:46:42]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:42]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:43]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[05:46:43]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:44]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:45]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:45]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:47]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:48]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:48]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:50]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:50]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalrightborderleft
+[05:46:55]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:46:56]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:46:57]SAY: mouse/ : Squeek?
+[05:46:57]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:46:58]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:46:59]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:46:59]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:00]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:05]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:06]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:07]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:08]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:09]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:10]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:11]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:12]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:13]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:14]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderright
+[05:47:18]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:19]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:20]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:21]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:22]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:23]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:24]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:25]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:26]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:27]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:27]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:28]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:29]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:30]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:31]ADMIN: BartNixon/(Leeann Briggs) created a /turf/unsimulated/floor/verticalleftborderleft
+[05:47:33]EMOTE: monkey (27)/ : <B>The monkey (27)</B> jumps!
+[05:47:37]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:38]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:39]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:40]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:40]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:41]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[05:47:41]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:42]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:43]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:44]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:45]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:46]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:47]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:47]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:47:47]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:48]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:49]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/greengrid
+[05:47:57]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:47:58]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:47:59]EMOTE: Poly/ : <B>Poly</B> bawks!
+[05:47:59]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:00]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:01]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:48:01]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:03]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:04]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:07]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:16]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:17]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:18]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:19]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:20]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:22]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:23]ADMIN: BartNixon/(Leeann Briggs) created a /turf/simulated/floor/yellowgrid
+[05:48:24]EMOTE: Tom/ : <B>Tom</B> shakes
+[05:48:38]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[05:48:49]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's icon_state to outerpavement
+[05:48:50]SAY: mouse/ : SQUEEK!
+[05:48:56]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 3
+[05:49:00]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 4
+[05:49:04]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[05:49:05]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 1
+[05:49:10]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 6
+[05:49:12]EMOTE: monkey (16)/ : <B>The monkey (16)</B> jumps!
+[05:49:14]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 5
+[05:49:17]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 1
+[05:49:21]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 2
+[05:49:24]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 3
+[05:49:36]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[05:49:39]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 4
+[05:49:43]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 5
+[05:49:47]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 6
+[05:49:50]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 7
+[05:49:54]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 8
+[05:49:58]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[05:50:04]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's icon_state to outerpavement
+[05:50:09]EMOTE: Ian/ : <B>Ian</B> pants.
+[05:50:10]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 3
+[05:50:14]ADMIN: BartNixon/(Leeann Briggs) mass modified floor's dir to 4
+[05:50:17]EMOTE: monkey (16)/ : <B>The monkey (16)</B> jumps!
+[05:50:19]EMOTE: monkey (106)/ : <B>The monkey (106)</B> jumps!
+[05:50:29]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to hole
+[05:50:34]EMOTE: Poly/ : <B>Poly</B> looks in the bruise pack's direction and takes flight.
+[05:50:34]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:50:44]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to hole
+[05:50:49]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:50:54]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderleft1
+[05:51:03]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderright2top
+[05:51:05]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:51:11]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:51:16]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderright2bottom
+[05:51:24]EMOTE: monkey (180)/ : <B>The monkey (180)</B> jumps!
+[05:51:28]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain1
+[05:51:32]EMOTE: Poly/ : <B>Poly</B> looks in the kelotane pill's direction and takes flight.
+[05:51:32]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[05:51:42]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain1
+[05:52:00]SAY: grey baby slime (665)/ : Lonely...
+[05:52:10]EMOTE: monkey (16)/ : <B>The monkey (16)</B> jumps!
+[05:52:26]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to innermaincornerinner
+[05:52:26]SAY: mouse/ : Squeek?
+[05:52:26]SAY: grey baby slime (511)/ : Blorble...
+[05:52:30]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[05:52:33]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to innermaincornerinner
+[05:52:45]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to innermaincornerinner
+[05:52:54]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to innermaincornerinner
+[05:53:02]SAY: mouse/ : Squeek!
+[05:53:05]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to innermaincornerinner
+[05:53:08]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[05:53:14]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:53:25]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticaloutermainbottom
+[05:53:32]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[05:53:34]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermainbottom
+[05:53:42]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermaintop
+[05:53:55]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain4
+[05:53:57]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain3
+[05:54:09]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2
+[05:54:19]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain1
+[05:54:24]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2bottom
+[05:54:32]SAY: mouse/ : Squeek?
+[05:54:34]EMOTE: Ian/ : <B>Ian</B> shivers.
+[05:54:35]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2bottom
+[05:54:46]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderright1
+[05:54:52]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[05:55:08]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[05:55:08]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:55:14]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:55:20]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:55:22]EMOTE: Pete/ : <B>Pete</B> stamps a foot
+[05:55:32]EMOTE: Ian/ : <B>Ian</B> yaps.
+[05:55:40]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderright2top
+[05:55:44]EMOTE: monkey (937)/ : <B>The monkey (937)</B> jumps!
+[05:55:52]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderright1
+[05:55:57]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[05:56:02]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2top
+[05:56:14]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalrightborderleft1
+[05:56:19]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[05:56:23]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:56:27]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2top
+[05:56:29]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:56:33]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:56:35]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2
+[05:56:37]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:56:37]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:56:44]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2top
+[05:56:47]EMOTE: mouse/ : <B>The mouse</B> shakes
+[05:57:02]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalrightborderright3
+[05:57:19]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2
+[05:57:23]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain1
+[05:57:25]SAY: mouse/ : SQUEEK!
+[05:57:31]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderright1
+[05:57:39]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalleftborderleft1
+[05:57:40]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[05:57:44]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[05:57:44]SAY: grey baby slime (511)/ : Rawr...
+[05:57:48]SAY: mouse/ : Squeek!
+[05:57:50]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2
+[05:57:59]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain2bottom
+[05:58:08]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain1
+[05:58:16]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalinnermain1
+[05:58:29]ADMIN: BartNixon/(Leeann Briggs) modified road's icon_state to verticalrightborderright1
+[05:58:42]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:58:52]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[05:59:00]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[05:59:14]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:59:16]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to outerpavement
+[05:59:18]EMOTE: Ian/ : <B>Ian</B> dances around.
+[05:59:24]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to outerpavement
+[05:59:31]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to outerpavement
+[05:59:36]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[05:59:36]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[05:59:43]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to outerpavement
+[05:59:59]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to house1
+[06:00:05]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:00:07]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:00:15]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:00:20]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to housewasteland
+[06:00:39]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to outerpavementcorner
+[06:00:49]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to outerpavementcorner
+[06:00:53]EMOTE: Poly/ : <B>Poly</B> bawks!
+[06:01:09]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to housewasteland
+[06:01:15]SAY: mouse/ : Squeek?
+[06:01:17]SAY: mouse/ : Squeek!
+[06:01:20]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to housewasteland
+[06:01:23]EMOTE: monkey (180)/ : <B>The monkey (180)</B> jumps!
+[06:01:29]SAY: mouse/ : Squeek?
+[06:01:31]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to housewastelandcorner
+[06:01:39]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:01:47]ADMIN: BartNixon/(Leeann Briggs) modified wasteland's icon_state to housewastelandcorner
+[06:02:13]SAY: mouse/ : Squeek!
+[06:02:23]SAY: mouse/ : SQUEEK!
+[06:02:25]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/structure/flora/grass at (123,80,2)
+[06:03:00]ADMIN: BartNixon/(Leeann Briggs) modified grass's icon to Fallout stuff.dmi
+[06:03:03]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:03:11]SAY: Tom/ : SQUEEK!
+[06:03:14]ADMIN: BartNixon/(Leeann Briggs) modified grass's icon_state to Barrel cactus 1
+[06:03:49]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:03:52]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/item/weapon/ore/gold at (121,73,2)
+[06:04:01]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[06:04:03]ADMIN: BartNixon/(Leeann Briggs) modified gold ore's icon to Chems.dmi
+[06:04:09]ADMIN: BartNixon/(Leeann Briggs) modified gold ore's icon_state to Mentats
+[06:04:11]EMOTE: monkey (937)/ : <B>The monkey (937)</B> jumps!
+[06:04:23]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:04:24]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/structure/table at (132,79,2)
+[06:04:44]ADMIN: BartNixon/(Leeann Briggs) modified table's icon to test12.png
+[06:04:48]GAME: Explosion with size (-1, 3, 5, 0) in area Law Office (107,157,1)
+[06:04:56]ADMIN: BartNixon/(Leeann Briggs) has possessed the table (/obj/structure/table) at (132, 79, 2)
+[06:05:03]SAY: mouse/ : Squeek?
+[06:05:10]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/structure/table at (132,73,2)
+[06:05:21]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:05:24]ADMIN: BartNixon/(Leeann Briggs) modified table's icon to test12.png
+[06:05:25]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[06:05:35]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:05:39]EMOTE: monkey (27)/ : <B>The monkey (27)</B> jumps!
+[06:05:40]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/effect/decal/remains/robot at (122,84,2)
+[06:05:45]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:05:50]ADMIN: BartNixon/(Leeann Briggs) modified remains's icon_state to remainshuman
+[06:05:53]ADMIN: BartNixon/(Leeann Briggs) modified remains's icon_state to remains
+[06:05:59]ADMIN: BartNixon/(Leeann Briggs) deleted the remains at (122,84,2)
+[06:06:06]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[06:06:07]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/effect/decal/remains/human at (122,84,2)
+[06:06:25]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/effect/decal/cleanable/blood/old at (127,82,2)
+[06:06:55]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/structure/table/woodentable at (125,75,2)
+[06:06:56]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:07:04]EMOTE: Ian/ : <B>Ian</B> dances around.
+[06:07:29]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:07:53]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:08:09]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:08:09]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:08:15]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:08:23]ADMIN: BartNixon/(Leeann Briggs) modified wooden table's icon to fbike.dmi
+[06:08:31]EMOTE: monkey (106)/ : <B>The monkey (106)</B> jumps!
+[06:08:31]ADMIN: BartNixon/(Leeann Briggs) modified wooden table's icon_state to bikerustmednowheel
+[06:08:43]SAY: mouse/ : Squeek?
+[06:08:43]ADMIN: BartNixon/(Leeann Briggs) has possessed the wooden table (/obj/structure/table/woodentable) at (125, 75, 2)
+[06:09:08]ADMIN: BartNixon/(Leeann Briggs) has possessed the wooden table (/obj/structure/table/woodentable) at (126, 76, 2)
+[06:09:19]ADMIN: BartNixon/(Leeann Briggs) has entered build mode.
+[06:09:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) deleted the remains at (122,84,2)
+[06:09:21]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified the closet's (0,0,0) dir to 1
+[06:09:22]ADMIN: Build Mode: BartNixon/(Leeann Briggs) modified buildmode's name to derp
+[06:09:24]ADMIN: Build Mode: BartNixon/(Leeann Briggs) threw the grass at the wasteland (123,81,2)
+[06:09:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) threw the grass at the wasteland (122,81,2)
+[06:09:25]ADMIN: Build Mode: BartNixon/(Leeann Briggs) threw the grass at the wasteland (122,82,2)
+[06:09:26]ADMIN: BartNixon/(Leeann Briggs) has left build mode.
+[06:09:33]ADMIN: BartNixon/(Leeann Briggs) has possessed the dried blood (/obj/effect/decal/cleanable/blood/old) at (127, 82, 2)
+[06:09:40]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:09:57]ADMIN: BartNixon/(Leeann Briggs) has used rudimentary transformation on BartNixon/(Leeann Briggs). Transforming to human; deletemob=1
+[06:09:57]ACCESS: Logout: *no key*/(Leeann Briggs)
+[06:09:57]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[06:10:14]EMOTE: Pete/ : <B>Pete</B> brays
+[06:10:17]ADMIN: BartNixon/(Leeann Briggs) spawned /obj/item/clothing/suit/armor/supafly at (128,77,2)
+[06:10:36]ADMIN: BartNixon/(Leeann Briggs) deleted Leeann Briggs at (127,82,2)
+[06:10:36]ACCESS: Logout: *no key*/(Leeann Briggs)
+[06:10:36]ACCESS: Login: BartNixon/(Leeann Briggs) from 127.0.0.1-3529772718 || BYOND v506
+[06:10:44]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:45]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:46]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:47]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:48]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:10:49]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:50]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:51]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:52]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[06:10:52]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:53]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:54]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:55]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:56]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:57]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:57]SAY: Runtime/ : Esp!
+[06:10:57]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[06:10:58]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:59]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:10:59]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:00]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:01]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:02]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:04]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:05]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:06]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:07]ADMIN: BartNixon/(Leeann Briggs) created a /mob/living/carbon/human
+[06:11:11]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[06:11:17]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:11:23]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:11:27]ADMIN: BartNixon/(Leeann Briggs) teleported *no key*/(Austin Zoucks)
+[06:11:29]SAY: mouse/ : Squeek?
+[06:11:34]ADMIN: BartNixon/(Leeann Briggs) assumed direct control of Austin Zoucks.
+[06:11:34]ACCESS: Logout: *no key*/(Leeann Briggs)
+[06:11:34]ACCESS: Login: bartnixon/(Austin Zoucks) from 127.0.0.1-3529772718 || BYOND v506
+[06:11:39]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:11:46]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/item/clothing/head/helmet/supaflyhelmet at (128,80,2)
+[06:11:49]EMOTE: monkey (635)/ : <B>The monkey (635)</B> jumps!
+[06:11:51]SAY: mouse/ : Squeek!
+[06:11:53]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:12:17]SAY: mouse/ : Squeek?
+[06:12:20]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/item/clothing/shoes/cyborg at (123,76,2)
+[06:12:25]EMOTE: monkey (635)/ : <B>The monkey (635)</B> jumps!
+[06:12:27]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:12:27]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/item/weapon/kitchenknife at (123,76,2)
+[06:12:31]EMOTE: Ian/ : <B>Ian</B> dances around.
+[06:12:41]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:12:41]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/item/toy/sword at (123,78,2)
+[06:12:44]ADMIN: bartnixon/(Austin Zoucks) has entered build mode.
+[06:12:47]ADMIN: Build Mode: bartnixon/(Austin Zoucks) deleted the toy sword at (123,78,2)
+[06:12:47]ADMIN: Build Mode: bartnixon/(Austin Zoucks) deleted the kitchen knife at (123,76,2)
+[06:12:48]ADMIN: bartnixon/(Austin Zoucks) has left build mode.
+[06:12:50]SAY: Poly/ : Check the singlo, you chucklefucks!
+[06:13:00]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/item/weapon/katana at (123,77,2)
+[06:13:12]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:13:17]ACCESS: Logout: *no key*/(Austin Zoucks)
+[06:13:17]ACCESS: Login: bartnixon/(Austin Zoucks) from 127.0.0.1-3529772718 || BYOND v506
+[06:13:28]ADMIN: bartnixon/(Austin Zoucks) teleported bartnixon/(Austin Zoucks)
+[06:13:34]ADMIN: bartnixon/(Austin Zoucks) teleported @BartNixon[DC]/(Austin Zoucks)
+[06:13:36]ACCESS: Logout: *no key*/(Austin Zoucks)
+[06:13:36]ACCESS: Login: bartnixon/(Austin Zoucks) from 127.0.0.1-3529772718 || BYOND v506
+[06:13:36]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:13:40]SAY: mouse/ : Squeek!
+[06:13:44]EMOTE: Moses Earl/ : <B>Moses Earl</B> gasps!
+[06:13:46]EMOTE: Moses Earl/ : <B>Moses Earl</B> seizes up and falls limp, his eyes dead and lifeless...
+[06:13:58]EMOTE: monkey (635)/ : <B>The monkey (635)</B> jumps!
+[06:14:00]ACCESS: Logout: *no key*/(Austin Zoucks)
+[06:14:00]ACCESS: Login: bartnixon/(Austin Zoucks) from 127.0.0.1-3529772718 || BYOND v506
+[06:14:11]ADMIN: bartnixon/(Austin Zoucks) teleported @BartNixon[DC]/(Austin Zoucks)
+[06:14:12]EMOTE: monkey (27)/ : <B>The monkey (27)</B> jumps!
+[06:14:46]ADMIN: bartnixon/(Austin Zoucks) teleported *no key*/(Moses Earl)
+[06:14:51]ACCESS: Logout: *no key*/(Austin Zoucks)
+[06:14:51]ACCESS: Login: bartnixon/(Austin Zoucks) from 127.0.0.1-3529772718 || BYOND v506
+[06:14:54]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:14:58]SAY: mouse/ : SQUEEK!
+[06:15:00]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[06:15:02]EMOTE: Unknown/bartnixon : <B>Unknown</B> gasps!
+[06:15:06]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:15:06]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:15:06]EMOTE: Unknown/bartnixon : <B>Unknown</B> gasps!
+[06:15:10]EMOTE: Unknown/bartnixon : <B>Unknown</B> gasps!
+[06:15:16]ADMIN: bartnixon/(Austin Zoucks) healed / Revived bartnixon/(Austin Zoucks)
+[06:15:23]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:15:32]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[06:15:33]SAY: mouse/ : Squeek?
+[06:15:37]ADMIN: bartnixon/(Austin Zoucks) healed / Revived bartnixon/(Austin Zoucks)
+[06:15:37]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:15:43]ADMIN: bartnixon/(Austin Zoucks) has toggled bartnixon/(Austin Zoucks)'s nodamage to On
+[06:15:49]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:15:49]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:15:53]EMOTE: monkey (249)/ : <B>The monkey (249)</B> jumps!
+[06:15:59]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:15:59]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:15:59]SAY: mouse/ : Squeek!
+[06:16:29]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[06:16:33]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:16:35]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:16:43]SAY: mouse/ : Squeek?
+[06:16:49]SAY: mouse/ : SQUEEK!
+[06:16:53]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:16:53]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:17:01]SAY: mouse/ : Squeek!
+[06:17:17]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/item/weapon/soap at (124,74,2)
+[06:17:23]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:17:41]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:17:47]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[06:18:02]ADMIN: BartNixon/(Austin Zoucks) modified Austin Zoucks's bodytemperature to 9999
+[06:18:13]EMOTE: monkey (106)/ : <B>The monkey (106)</B> jumps!
+[06:18:22]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/effect/decal/cleanable/blood at (123,73,2)
+[06:18:39]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:18:45]ADMIN: bartnixon/(Austin Zoucks) spawned /obj/item/weapon/gun/projectile/automatic/pistol at (128,71,2)
+[06:18:56]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:19:17]ADMIN: bartnixon/(Austin Zoucks) has entered build mode.
+[06:19:18]ADMIN: Build Mode: bartnixon/(Austin Zoucks) deleted the soap at (130,76,2)
+[06:19:20]ADMIN: bartnixon/(Austin Zoucks) has left build mode.
+[06:19:26]ACCESS: Logout: *no key*/(Austin Zoucks)
+[06:19:26]ACCESS: Login: bartnixon/(Austin Zoucks) from 127.0.0.1-3529772718 || BYOND v506
+[06:19:26]EMOTE: monkey (100)/ : <B>The monkey (100)</B> jumps!
+[06:19:39]ADMIN: bartnixon/(Austin Zoucks) teleported *no key*/(Tel Kanaga)
+[06:19:40]SAY: Tom/ : SQUEEK!
+[06:19:44]ADMIN: bartnixon/(Austin Zoucks) assumed direct control of Tel Kanaga.
+[06:19:44]ACCESS: Logout: *no key*/(Austin Zoucks)
+[06:19:44]ACCESS: Login: bartnixon/(Tel Kanaga) from 127.0.0.1-3529772718 || BYOND v506
+[06:19:48]ADMIN: bartnixon/(Tel Kanaga) has toggled bartnixon/(Tel Kanaga)'s nodamage to On
+[06:19:52]ADMIN: bartnixon/(Tel Kanaga) deleted Austin Zoucks at (128,77,2)
+[06:19:56]SAY: mouse/ : Squeek!
+[06:20:30]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:20:47]ADMIN: bartnixon/(Tel Kanaga) spawned /obj/item/clothing/under/mercadv/male at (128,77,2)
+[06:21:01]ADMIN: bartnixon/(Tel Kanaga) spawned /obj/item/clothing/shoes/jackboots at (128,76,2)
+[06:21:18]SAY: mouse/ : SQUEEK!
+[06:21:18]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[06:21:34]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:21:34]SAY: Pete/ : EHEHEHEHEH
+[06:21:34]ADMIN: bartnixon/(Tel Kanaga) spawned /obj/item/clothing/head/bowler at (128,76,2)
+[06:21:41]SAY: grey baby slime (665)/ : Where is the food?
+[06:21:50]ADMIN: bartnixon/(Tel Kanaga) spawned /obj/item/clothing/head/stormchaser at (128,76,2)
+[06:21:52]SAY: mouse/ : Squeek!
+[06:21:57]SAY: mouse/ : SQUEEK!
+[06:22:00]ADMIN: bartnixon/(Tel Kanaga) has entered build mode.
+[06:22:01]ADMIN: Build Mode: bartnixon/(Tel Kanaga) deleted the bowler-hat at (128,75,2)
+[06:22:03]ADMIN: bartnixon/(Tel Kanaga) has left build mode.
+[06:22:16]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:22:16]ACCESS: Logout: *no key*/(Tel Kanaga)
+[06:22:17]ACCESS: Login: bartnixon/(Tel Kanaga) from 127.0.0.1-3529772718 || BYOND v506
+[06:22:20]EMOTE: Ian/ : <B>Ian</B> dances around.
+[06:22:24]ACCESS: Logout: *no key*/(Tel Kanaga)
+[06:22:24]ACCESS: Login: bartnixon/(Tel Kanaga) from 127.0.0.1-3529772718 || BYOND v506
+[06:22:25]EMOTE: monkey (142)/ : <B>The monkey (142)</B> jumps!
+[06:22:32]ADMIN: bartnixon/(Tel Kanaga) spawned /obj/item/weapon/gun/projectile/revolver/mateba at (128,76,2)
+[06:22:41]ACCESS: Logout: *no key*/(Tel Kanaga)
+[06:22:41]ACCESS: Login: bartnixon/(Tel Kanaga) from 127.0.0.1-3529772718 || BYOND v506
+[06:22:43]SAY: Runtime/ : Meow!
+[06:23:05]SAY: mouse/ : Squeek?
+[06:23:12]ADMIN: BartNixon/(Tel Kanaga) modified Tel Kanaga's icon to blank.gif
+[06:23:21]EMOTE: monkey (142)/ : <B>The monkey (142)</B> jumps!
+[06:23:26]ACCESS: Logout: *no key*/(Tel Kanaga)
+[06:23:26]ACCESS: Login: bartnixon/(Tel Kanaga) from 127.0.0.1-3529772718 || BYOND v506
+[06:23:30]ADMIN: bartnixon/(Tel Kanaga) has possessed the wooden table (/obj/structure/table/woodentable) at (126, 74, 2)
+[06:23:39]SAY: mouse/ : SQUEEK!
+[06:23:47]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:23:47]ACCESS: Logout: *no key*/(Tel Kanaga)
+[06:23:47]ACCESS: Login: bartnixon/(Tel Kanaga) from 127.0.0.1-3529772718 || BYOND v506
+[06:24:07]EMOTE: monkey (180)/ : <B>The monkey (180)</B> jumps!
+[06:24:20]ADMIN: BartNixon/(Tel Kanaga) modified Tel Kanaga's icon to blank.gif
+[06:24:29]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:24:51]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:25:45]EMOTE: Pete/ : <B>Pete</B> brays
+[06:25:47]EMOTE: Ian/ : <B>Ian</B> barks!
+[06:25:57]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[06:26:07]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:26:09]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[06:26:15]EMOTE: mouse/ : <B>The mouse</B> shakes
+[06:26:16]SAY: grey baby slime (665)/ : Blorble...
+[06:26:16]EMOTE: monkey (16)/ : <B>The monkey (16)</B> jumps!
+[06:26:52]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[06:27:02]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:27:04]EMOTE: monkey (142)/ : <B>The monkey (142)</B> jumps!
+[06:27:04]SAY: mouse/ : SQUEEK!
+[06:27:16]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:27:16]EMOTE: monkey (27)/ : <B>The monkey (27)</B> jumps!
+[06:27:20]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[06:27:38]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[06:27:46]EMOTE: monkey (16)/ : <B>The monkey (16)</B> jumps!
+[06:27:48]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[06:28:08]SAY: Poly/ : Poly wanna cracker!
+[06:28:16]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[06:28:30]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[06:28:36]SAY: mouse/ : SQUEEK!
+[06:29:02]EMOTE: monkey (249)/ : <B>The monkey (249)</B> jumps!
+[06:29:12]EMOTE: Ian/ : <B>Ian</B> dances around.
+[06:29:28]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[06:29:40]EMOTE: monkey (180)/ : <B>The monkey (180)</B> jumps!
+[06:29:42]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[06:29:46]EMOTE: monkey (27)/ : <B>The monkey (27)</B> jumps!
+[06:29:46]ACCESS: Logout: bartnixon[DC]/(Tel Kanaga)
+
+
+Starting up. 07:12.54
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[07:12:54]ADMIN: Loading Banlistjob
+[07:12:54]ADMIN: Loading jobban_rank
+[07:12:54]ADMIN: jobban_keylist was empty
+[07:12:54]ADMIN: Loading appearance_rank
+[07:12:54]ADMIN: appearance_keylist was empty
+[07:12:54]ADMIN: Updating jobbanfile!
+[07:12:55]ADMIN: Loading Banlist
+[07:14:16]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[07:15:45]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+[07:24:04]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[07:24:17]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 07:31.26
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[07:31:26]ADMIN: Loading Banlistjob
+[07:31:26]ADMIN: Loading jobban_rank
+[07:31:26]ADMIN: jobban_keylist was empty
+[07:31:26]ADMIN: Loading appearance_rank
+[07:31:26]ADMIN: appearance_keylist was empty
+[07:31:26]ADMIN: Updating jobbanfile!
+[07:31:26]ADMIN: Loading Banlist
+[07:32:19]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[07:33:24]ADMIN: BartNixon has started the game.
+[07:33:28]ACCESS: Logout: *no key*/(BartNixon)
+[07:33:28]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[07:33:30]EMOTE: Ian/ : <B>Ian</B> dances around.
+[07:33:36]SAY: Ian/ : YAP!
+[07:33:42]EMOTE: monkey (984)/ : <B>The monkey (984)</B> jumps!
+[07:33:52]EMOTE: monkey (136)/ : <B>The monkey (136)</B> jumps!
+[07:33:56]EMOTE: monkey (136)/ : <B>The monkey (136)</B> jumps!
+[07:34:00]EMOTE: monkey (608)/ : <B>The monkey (608)</B> jumps!
+[07:34:08]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/royal at (132,141,1)
+[07:34:26]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/structure/royal at (135,135,1)
+[07:34:30]SAY: mouse/ : Squeek?
+[07:34:40]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[07:34:41]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the grand piano at (132,141,1)
+[07:34:42]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted the space minimoog at (132,142,1)
+[07:34:43]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[07:34:46]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[07:34:48]SAY: mouse/ : Squeek!
+[07:34:56]EMOTE: monkey (608)/ : <B>The monkey (608)</B> jumps!
+[07:35:00]EMOTE: mouse/ : <B>The mouse</B> shakes
+[07:35:42]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[07:35:52]EMOTE: monkey (136)/ : <B>The monkey (136)</B> jumps!
+[07:35:54]SAY: mouse/ : SQUEEK!
+[07:35:58]EMOTE: mouse/ : <B>The mouse</B> shakes
+[07:36:24]SAY: mouse/ : Squeek?
+[07:36:30]EMOTE: monkey (608)/ : <B>The monkey (608)</B> jumps!
+[07:36:44]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[07:36:54]SAY: mouse/ : Squeek!
+[07:37:19]SAY: Runtime/ : Esp!
+[07:37:39]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[07:37:47]ADMIN: BartNixon/(Gilroy Rudah) modified grand piano's icon_state to oldshattered
+[07:37:59]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[07:38:09]EMOTE: Pete/ : <B>Pete</B> brays
+[07:38:27]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/device/guitar at (135,137,1)
+[07:38:35]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[07:38:41]EMOTE: monkey (608)/ : <B>The monkey (608)</B> jumps!
+[07:39:07]SAY: mouse/ : Squeek!
+[07:39:13]SAY: mouse/ : Squeek?
+[07:39:31]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[07:39:39]SAY: mouse/ : Squeek?
+[07:40:01]SAY: mouse/ : Squeek?
+[07:40:26]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[07:40:36]EMOTE: Ian/ : <B>Ian</B> barks!
+[07:40:36]EMOTE: Ian/ : <B>Ian</B> dances around.
+[07:40:47]SAY: grey baby slime (350)/ : Blop...
+[07:41:04]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[07:41:08]SAY: mouse/ : SQUEEK!
+[07:41:12]EMOTE: monkey (608)/ : <B>The monkey (608)</B> jumps!
+[07:41:22]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[07:41:48]SAY: Ian/ : Bark!
+[07:41:50]EMOTE: Pete/ : <B>Pete</B> glares around
+[07:42:22]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[07:42:38]EMOTE: Poly/ : <B>Poly</B> bawks!
+[07:42:48]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[07:42:50]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/device/harmonica at (91,141,1)
+[07:42:56]SAY: mouse/ : Squeek?
+[07:43:02]EMOTE: Ian/ : <B>Ian</B> woofs!
+[07:43:12]SAY: Runtime/ : Meow!
+[07:43:14]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[07:43:16]EMOTE: monkey (136)/ : <B>The monkey (136)</B> jumps!
+[07:43:16]EMOTE: Ian/ : <B>Ian</B> dances around.
+[07:43:18]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[07:43:22]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[07:43:50]EMOTE: Ian/ : <B>Ian</B> dances around.
+[07:43:52]EMOTE: Ian/ : <B>Ian</B> dances around.
+[07:44:08]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[07:44:16]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[07:45:04]SAY: grey baby slime (729)/ : Blop...
+[07:45:13]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[07:45:49]SAY: mouse/ : Squeek!
+[07:45:59]EMOTE: Ian/ : <B>Ian</B> dances around.
+[07:46:03]SAY: mouse/ : Squeek!
+[07:46:05]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[07:46:09]EMOTE: Runtime/ : <B>Runtime</B> mews
+[07:46:11]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[07:46:31]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[07:46:45]SAY: mouse/ : Squeek!
+[07:46:57]SAY: mouse/ : Squeek?
+[07:47:09]EMOTE: Poly/ : <B>Poly</B> looks in the bruise pack's direction and takes flight.
+[07:47:43]ADMIN: BartNixon/(Gilroy Rudah) spawned /mob/living/carbon/human at (144,113,1)
+[07:47:55]SAY: mouse/ : Squeek?
+[07:48:07]EMOTE: Poly/ : <B>Poly</B> looks in the kelotane pill's direction and takes flight.
+[07:48:29]SAY: Poly/ : Poly wanna cracker!
+[07:48:35]SAY: Poly/ : <i>OH GOD ITS FREE CALL THE SHUTTLE</i>
+[07:48:43]EMOTE: Runtime/ : <B>Runtime</B> mews
+[07:48:45]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[07:49:01]EMOTE: mouse/ : <B>The mouse</B> shakes
+[07:49:05]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[07:49:05]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[07:49:28]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[07:50:06]SAY: mouse/ : SQUEEK!
+[07:50:10]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[07:50:20]SAY: mouse/ : Squeek?
+[07:50:31]EMOTE: mouse/ : <B>The mouse</B> shakes
+[07:50:44]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[07:51:01]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[07:51:11]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[07:51:21]EMOTE: monkey (846)/ : <B>The monkey (846)</B> jumps!
+[07:51:43]EMOTE: monkey (534)/ : <B>The monkey (534)</B> jumps!
+[07:52:03]EMOTE: mouse/ : <B>The mouse</B> shakes
+[07:52:17]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[07:52:19]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 13:35.57
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[13:35:57]ADMIN: Loading Banlistjob
+[13:35:57]ADMIN: Loading jobban_rank
+[13:35:57]ADMIN: jobban_keylist was empty
+[13:35:57]ADMIN: Loading appearance_rank
+[13:35:57]ADMIN: appearance_keylist was empty
+[13:35:57]ADMIN: Updating jobbanfile!
+[13:35:57]ADMIN: Loading Banlist
+[13:37:46]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[13:39:43]ACCESS: Logout: *no key*/(BartNixon)
+[13:39:43]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[13:39:57]SAY: mouse/ : SQUEEK!
+[13:40:01]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[13:40:08]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk01 at (98,112,1)
+[13:40:23]EMOTE: monkey (762)/ : <B>The monkey (762)</B> jumps!
+[13:40:37]SAY: mouse/ : Squeek?
+[13:40:47]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[13:40:59]EMOTE: Tom/ : <B>Tom</B> squeeks
+[13:41:03]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodiskcursed at (116,142,1)
+[13:41:05]EMOTE: monkey (299)/ : <B>The monkey (299)</B> jumps!
+[13:41:07]SAY: mouse/ : Squeek?
+[13:41:07]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[13:41:15]EMOTE: monkey (961)/ : <B>The monkey (961)</B> jumps!
+[13:41:24]EMOTE: monkey (299)/ : <B>The monkey (299)</B> jumps!
+[13:41:50]SAY: mouse/ : Squeek?
+[13:42:01]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[13:42:01]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[13:42:02]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[13:42:24]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[13:42:24]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[13:42:24]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[13:42:27]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[13:42:27]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[13:42:30]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:42:32]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[13:42:39]EMOTE: monkey (299)/ : <B>The monkey (299)</B> jumps!
+[13:42:46]ADMIN: BartNixon/(Gilroy Rudah) has gibbed BartNixon/(Gilroy Rudah)
+[13:42:48]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[13:42:48]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[13:43:02]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[13:43:14]EMOTE: monkey (645)/ : <B>The monkey (645)</B> jumps!
+[13:43:26]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[13:43:57]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[13:44:05]SAY: mouse/ : Squeek!
+[13:44:53]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[13:45:23]SAY: mouse/ : SQUEEK!
+[13:45:25]EMOTE: monkey (299)/ : <B>The monkey (299)</B> jumps!
+[13:45:39]EMOTE: Ian/ : <B>Ian</B> dances around.
+[13:45:57]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[13:46:01]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:46:03]SAY: mouse/ : Squeek?
+[13:46:47]SAY: mouse/ : Squeek?
+[13:46:53]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:47:15]EMOTE: monkey (645)/ : <B>The monkey (645)</B> jumps!
+[13:47:23]SAY: Poly/ : Poly wanna cracker!
+[13:47:44]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:47:52]SAY: Tom/ : Squeek?
+[13:48:14]SAY: Poly/ : Check the singlo, you chucklefucks!
+[13:48:34]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[13:48:46]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:48:46]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[13:49:24]SAY: mouse/ : Squeek?
+[13:49:24]SAY: mouse/ : SQUEEK!
+[13:49:44]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:49:50]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[13:50:41]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:50:55]SAY: mouse/ : Squeek?
+[13:50:57]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[13:50:57]SAY: Pete/ : EHEHEHEHEH
+[13:51:35]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[13:51:39]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[13:51:55]EMOTE: monkey (961)/ : <B>The monkey (961)</B> jumps!
+[13:51:59]SAY: mouse/ : Squeek?
+[13:52:37]EMOTE: Poly/ : <B>Poly</B> looks in the bruise pack's direction and takes flight.
+[13:53:27]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:53:35]EMOTE: Poly/ : <B>Poly</B> looks in the kelotane pill's direction and takes flight.
+[13:54:02]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[13:54:16]SAY: mouse/ : Squeek!
+[13:54:32]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[13:54:36]SAY: mouse/ : Squeek!
+[13:55:06]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[13:55:30]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:55:32]EMOTE: monkey (574)/ : <B>The monkey (574)</B> jumps!
+[13:55:32]EMOTE: Ian/ : <B>Ian</B> pants.
+[13:55:54]EMOTE: Ian/ : <B>Ian</B> dances around.
+[13:56:04]SAY: Runtime/ : Purr!
+[13:56:08]EMOTE: monkey (986)/ : <B>The monkey (986)</B> jumps!
+[13:56:24]EMOTE: monkey (961)/ : <B>The monkey (961)</B> jumps!
+[13:56:38]EMOTE: Ian/ : <B>Ian</B> dances around.
+[13:56:42]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[13:56:57]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:57:05]EMOTE: monkey (299)/ : <B>The monkey (299)</B> jumps!
+[13:57:15]SAY: mouse/ : Squeek?
+[13:57:17]SAY: mouse/ : Squeek?
+[13:57:19]SAY: mouse/ : Squeek!
+[13:57:29]SAY: mouse/ : SQUEEK!
+[13:57:33]EMOTE: monkey (961)/ : <B>The monkey (961)</B> jumps!
+[13:57:45]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[13:58:13]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[13:58:22]SAY: mouse/ : Squeek?
+[13:58:31]SAY: mouse/ : Squeek!
+[13:58:36]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:58:40]EMOTE: monkey (299)/ : <B>The monkey (299)</B> jumps!
+[13:58:44]EMOTE: mouse/ : <B>The mouse</B> shakes
+[13:58:55]EMOTE: monkey (299)/ : <B>The monkey (299)</B> jumps!
+[13:58:59]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[13:59:22]SAY: mouse/ : Squeek?
+[13:59:38]SAY: mouse/ : Squeek?
+[14:00:02]SAY: mouse/ : Squeek?
+[14:00:02]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[14:00:12]EMOTE: monkey (762)/ : <B>The monkey (762)</B> jumps!
+[14:00:16]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[14:00:22]EMOTE: Ian/ : <B>Ian</B> dances around.
+[14:00:26]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[14:00:32]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[14:00:38]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[14:00:56]EMOTE: mouse/ : <B>The mouse</B> shakes
+[14:01:18]EMOTE: monkey (762)/ : <B>The monkey (762)</B> jumps!
+[14:01:49]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[14:01:57]SAY: mouse/ : Squeek!
+[14:02:05]EMOTE: Ian/ : <B>Ian</B> dances around.
+[14:02:09]EMOTE: Tom/ : <B>Tom</B> shakes
+[14:02:19]EMOTE: monkey (412)/ : <B>The monkey (412)</B> jumps!
+[14:02:27]EMOTE: Pete/ : <B>Pete</B> glares around
+[14:02:29]SAY: Tom/ : Squeek?
+[14:03:11]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[14:03:33]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 14:09.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[14:09:45]ADMIN: Loading Banlistjob
+[14:09:45]ADMIN: Loading jobban_rank
+[14:09:45]ADMIN: jobban_keylist was empty
+[14:09:45]ADMIN: Loading appearance_rank
+[14:09:45]ADMIN: appearance_keylist was empty
+[14:09:45]ADMIN: Updating jobbanfile!
+[14:09:45]ADMIN: Loading Banlist
+[14:11:07]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[14:13:26]SAY: mouse/ : Squeek?
+[14:13:37]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[14:13:39]SAY: mouse/ : Squeek?
+[14:13:57]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[14:14:05]SAY: mouse/ : Squeek?
+[14:14:07]EMOTE: mouse/ : <B>The mouse</B> shakes
+[14:14:34]SAY: mouse/ : Squeek?
+[14:14:34]SAY: Tom/ : Squeek?
+[14:14:36]EMOTE: monkey (837)/ : <B>The monkey (837)</B> jumps!
+[14:14:40]SAY: mouse/ : Squeek!
+[14:14:40]ACCESS: Logout: *no key*/(BartNixon)
+[14:14:40]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[14:14:46]SAY: Ian/ : YAP!
+[14:14:54]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[14:14:58]EMOTE: monkey (325)/ : <B>The monkey (325)</B> jumps!
+[14:14:59]SAY: mouse/ : Squeek?
+[14:15:08]SAY: Poly/ : Poly wanna cracker!
+[14:16:03]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[14:16:19]EMOTE: monkey (142)/ : <B>The monkey (142)</B> jumps!
+[14:16:41]EMOTE: mouse/ : <B>The mouse</B> shakes
+[14:16:47]SAY: grey baby slime (27)/ : Blop...
+[14:16:47]EMOTE: mouse/ : <B>The mouse</B> shakes
+[14:16:59]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[14:17:05]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[14:17:19]EMOTE: Ian/ : <B>Ian</B> shivers.
+[14:17:39]SAY: mouse/ : Squeek!
+[14:17:55]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[14:18:07]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[14:18:07]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[14:18:25]SAY: mouse/ : Squeek?
+[14:18:44]SAY: Tom/ : Squeek?
+[14:18:50]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[14:20:07]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[14:20:16]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 14:59.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[14:59:58]ADMIN: Loading Banlistjob
+[14:59:58]ADMIN: Loading jobban_rank
+[14:59:58]ADMIN: jobban_keylist was empty
+[14:59:58]ADMIN: Loading appearance_rank
+[14:59:58]ADMIN: appearance_keylist was empty
+[14:59:58]ADMIN: Updating jobbanfile!
+[14:59:58]ADMIN: Loading Banlist
+
+
+Starting up. 18:05.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[18:05:44]ADMIN: Loading Banlistjob
+[18:05:44]ADMIN: Loading jobban_rank
+[18:05:44]ADMIN: jobban_keylist was empty
+[18:05:44]ADMIN: Loading appearance_rank
+[18:05:44]ADMIN: appearance_keylist was empty
+[18:05:44]ADMIN: Updating jobbanfile!
+[18:05:44]ADMIN: Loading Banlist
+[18:06:56]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[18:08:54]EMOTE: monkey (165)/ : <B>The monkey (165)</B> jumps!
+[18:09:22]SAY: mouse/ : Squeek!
+[18:09:34]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:09:36]EMOTE: monkey (235)/ : <B>The monkey (235)</B> jumps!
+[18:10:10]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:10:22]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:10:34]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:10:40]EMOTE: Tom/ : <B>Tom</B> squeeks
+[18:10:49]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 18:16.50
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[18:16:50]ADMIN: Loading Banlistjob
+[18:16:50]ADMIN: Loading jobban_rank
+[18:16:50]ADMIN: jobban_keylist was empty
+[18:16:50]ADMIN: Loading appearance_rank
+[18:16:50]ADMIN: appearance_keylist was empty
+[18:16:50]ADMIN: Updating jobbanfile!
+[18:16:50]ADMIN: Loading Banlist
+[18:18:26]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[18:21:00]EMOTE: monkey (6)/ : <B>The monkey (6)</B> jumps!
+[18:21:02]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the bruise pack.
+[18:21:06]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[18:21:30]SAY: mouse/ : Squeek?
+[18:21:36]EMOTE: Pete/ : <B>Pete</B> brays
+[18:21:50]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:22:08]SAY: mouse/ : SQUEEK!
+[18:22:22]SAY: mouse/ : SQUEEK!
+[18:22:24]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[18:22:42]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:23:11]EMOTE: Runtime/ : <B>Runtime</B> meows
+[18:23:15]EMOTE: Poly/ : <B>Poly</B> squawks.
+[18:23:19]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:23:29]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:23:37]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[18:23:53]SAY: mouse/ : Squeek!
+[18:24:19]SAY: mouse/ : Squeek?
+[18:24:31]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:24:53]EMOTE: monkey (870)/ : <B>The monkey (870)</B> jumps!
+[18:25:05]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[18:25:13]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[18:25:21]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:25:23]SAY: mouse/ : Squeek!
+[18:25:37]EMOTE: Pete/ : <B>Pete</B> glares around
+[18:25:53]EMOTE: monkey (626)/ : <B>The monkey (626)</B> jumps!
+[18:26:09]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[18:26:09]SAY: mouse/ : Squeek!
+[18:26:43]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:27:02]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:27:04]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[18:27:06]SAY: mouse/ : Squeek!
+[18:27:10]EMOTE: monkey (33)/ : <B>The monkey (33)</B> jumps!
+[18:27:10]EMOTE: Pete/ : <B>Pete</B> glares around
+[18:27:22]SAY: mouse/ : Squeek!
+[18:27:28]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:27:55]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:27:55]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:28:31]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[18:28:35]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:29:03]SAY: mouse/ : SQUEEK!
+[18:29:27]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[18:29:29]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:29:46]EMOTE: Ian/ : <B>Ian</B> woofs!
+[18:29:58]SAY: mouse/ : SQUEEK!
+[18:30:00]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[18:30:22]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[18:30:24]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:30:26]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:30:30]SAY: mouse/ : Squeek!
+[18:30:41]SAY: mouse/ : SQUEEK!
+[18:30:47]EMOTE: monkey (870)/ : <B>The monkey (870)</B> jumps!
+[18:30:51]EMOTE: monkey (566)/ : <B>The monkey (566)</B> jumps!
+[18:30:53]EMOTE: monkey (21)/ : <B>The monkey (21)</B> jumps!
+[18:31:09]SAY: grey baby slime (894)/ : Blorble...
+[18:31:13]SAY: mouse/ : Squeek?
+[18:31:23]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[18:31:39]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:31:43]SAY: mouse/ : Squeek?
+[18:31:45]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:31:49]SAY: Pete/ : EHEHEHEHEH
+[18:31:51]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:31:55]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:32:05]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[18:32:16]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[18:32:34]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:32:48]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:33:02]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[18:33:22]EMOTE: monkey (870)/ : <B>The monkey (870)</B> jumps!
+[18:33:59]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[18:34:01]SAY: Ian/ : Bark!
+[18:34:09]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:34:17]EMOTE: monkey (641)/ : <B>The monkey (641)</B> jumps!
+[18:34:19]EMOTE: monkey (6)/ : <B>The monkey (6)</B> jumps!
+[18:34:31]EMOTE: Poly/ : <B>Poly</B> squawks.
+[18:34:31]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:34:35]SAY: Ian/ : Bark!
+[18:34:57]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[18:35:03]SAY: mouse/ : Squeek?
+[18:35:13]SAY: mouse/ : Squeek!
+[18:35:22]EMOTE: Ian/ : <B>Ian</B> barks!
+[18:35:26]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:35:50]SAY: mouse/ : Squeek!
+[18:35:54]EMOTE: Poly/ : <B>Poly</B> looks in the kelotane pill's direction and takes flight.
+[18:36:02]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:36:42]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:36:52]EMOTE: Poly/ : <B>Poly</B> looks in the earmuffs's direction and takes flight.
+[18:37:08]SAY: mouse/ : Squeek?
+[18:37:21]EMOTE: monkey (33)/ : <B>The monkey (33)</B> jumps!
+[18:37:25]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:37:46]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 18:47.00
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[18:47:00]ADMIN: Loading Banlistjob
+[18:47:00]ADMIN: Loading jobban_rank
+[18:47:00]ADMIN: jobban_keylist was empty
+[18:47:00]ADMIN: Loading appearance_rank
+[18:47:00]ADMIN: appearance_keylist was empty
+[18:47:00]ADMIN: Updating jobbanfile!
+[18:47:00]ADMIN: Loading Banlist
+[18:49:02]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[18:51:09]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[18:51:29]SAY: mouse/ : Squeek?
+[18:51:36]SAY: Pete/ : EHEHEHEHEH
+[18:51:49]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:51:55]EMOTE: monkey (909)/ : <B>The monkey (909)</B> jumps!
+[18:52:07]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[18:52:09]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:52:09]EMOTE: monkey (66)/ : <B>The monkey (66)</B> jumps!
+[18:52:11]SAY: Ian/ : YAP!
+[18:52:11]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:52:21]EMOTE: monkey (251)/ : <B>The monkey (251)</B> jumps!
+[18:52:22]ACCESS: Logout: BartNixon[DC]/(BartNixon)
+
+
+Starting up. 19:20.02
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[19:20:02]ADMIN: Loading Banlistjob
+[19:20:02]ADMIN: Loading jobban_rank
+[19:20:02]ADMIN: jobban_keylist was empty
+[19:20:02]ADMIN: Loading appearance_rank
+[19:20:02]ADMIN: appearance_keylist was empty
+[19:20:02]ADMIN: Updating jobbanfile!
+[19:20:02]ADMIN: Loading Banlist
+[19:21:38]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[19:23:14]ADMIN: BartNixon has started the game.
+[19:23:18]ACCESS: Logout: *no key*/(BartNixon)
+[19:23:18]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[19:23:40]SAY: Runtime/ : HSSSSS
+[19:23:41]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk01 at (116,112,1)
+[19:23:54]SAY: Ian/ : AUUUUUU!
+[19:24:10]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[19:24:40]EMOTE: monkey (181)/ : <B>The monkey (181)</B> jumps!
+[19:24:52]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[19:24:52]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[19:25:18]EMOTE: Ian/ : <B>Ian</B> woofs!
+[19:25:47]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[19:25:55]EMOTE: Ian/ : <B>Ian</B> yaps.
+[19:26:07]SAY: Runtime/ : Esp!
+[19:26:12]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+[19:26:18]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[19:26:29]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodiskcursed at (71,137,1)
+[19:26:56]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[19:26:56]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[19:26:59]SAY: mouse/ : Squeek?
+[19:27:03]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[19:27:13]SAY: mouse/ : Squeek!
+[19:27:39]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[19:27:41]SAY: mouse/ : Squeek!
+[19:27:58]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[19:27:58]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[19:28:08]EMOTE: Ian/ : <B>Ian</B> dances around.
+[19:28:10]EMOTE: monkey (867)/ : <B>The monkey (867)</B> jumps!
+[19:28:22]EMOTE: mouse/ : <B>The mouse</B> shakes
+[19:28:47]SAY: mouse/ : SQUEEK!
+[19:28:55]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[19:29:50]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 20:24.16
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[20:24:16]ADMIN: Loading Banlistjob
+[20:24:17]ADMIN: Loading jobban_rank
+[20:24:17]ADMIN: jobban_keylist was empty
+[20:24:17]ADMIN: Loading appearance_rank
+[20:24:17]ADMIN: appearance_keylist was empty
+[20:24:17]ADMIN: Updating jobbanfile!
+[20:24:17]ADMIN: Loading Banlist
+[20:26:24]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[20:27:57]ADMIN: BartNixon/(BartNixon) deleted Fallout 13 at (1,167,2)
+[20:28:13]ADMIN: BartNixon has started the game.
+[20:28:17]ACCESS: Logout: *no key*/(BartNixon)
+[20:28:17]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[20:28:41]SAY: mouse/ : Squeek?
+[20:28:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk at (113,96,1)
+[20:28:54]SAY: mouse/ : Squeek!
+[20:29:01]SAY: mouse/ : Squeek!
+[20:29:09]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[20:29:23]EMOTE: monkey (897)/ : <B>The monkey (897)</B> jumps!
+[20:29:25]SAY: Tom/ : Squeek?
+[20:29:40]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk/holodiskrussian at (76,134,1)
+[20:29:55]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[20:30:01]SAY: grey baby slime (122)/ : Blorble...
+[20:30:05]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[20:30:23]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk/holodiskcursed at (129,133,1)
+[20:30:27]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[20:30:27]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[20:30:35]EMOTE: monkey (394)/ : <B>The monkey (394)</B> jumps!
+[20:30:37]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[20:31:27]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:31:31]EMOTE: monkey (7)/ : <B>The monkey (7)</B> jumps!
+[20:31:37]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[20:31:45]EMOTE: monkey (897)/ : <B>The monkey (897)</B> jumps!
+[20:31:57]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[20:32:05]SAY: mouse/ : Squeek?
+[20:32:09]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[20:32:15]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:32:19]EMOTE: monkey (860)/ : <B>The monkey (860)</B> jumps!
+[20:32:29]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[20:32:39]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:32:43]EMOTE: monkey (860)/ : <B>The monkey (860)</B> jumps!
+[20:32:52]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[20:33:24]EMOTE: Tom/ : <B>Tom</B> runs in a circle
+[20:33:48]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[20:34:08]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:34:26]EMOTE: monkey (897)/ : <B>The monkey (897)</B> jumps!
+[20:34:32]EMOTE: mouse/ : <B>The mouse</B> shakes
+[20:35:02]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:35:16]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[20:35:54]EMOTE: mouse/ : <B>The mouse</B> shakes
+[20:36:02]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[20:36:02]EMOTE: monkey (282)/ : <B>The monkey (282)</B> jumps!
+[20:36:12]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[20:36:14]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:36:22]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[20:36:34]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[20:36:50]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[20:36:56]SAY: Tom/ : Squeek?
+[20:37:02]SAY: Ian/ : AUUUUUU!
+[20:37:08]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[20:37:08]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[20:37:32]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[20:37:34]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[20:38:14]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:38:20]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[20:38:22]EMOTE: Ian/ : <B>Ian</B> woofs!
+[20:38:24]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[20:38:28]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[20:38:36]EMOTE: monkey (394)/ : <B>The monkey (394)</B> jumps!
+[20:39:18]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[20:39:20]EMOTE: Poly/ : <B>Poly</B> bawks!
+[20:39:22]SAY: Pete/ : eh?
+[20:39:44]EMOTE: monkey (11)/ : <B>The monkey (11)</B> jumps!
+[20:39:44]EMOTE: Ian/ : <B>Ian</B> barks!
+[20:39:46]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[20:40:02]SAY: Runtime/ : Meow!
+[20:40:14]SAY: Pete/ : eh?
+[20:40:16]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[20:40:22]SAY: mouse/ : Squeek!
+[20:40:26]SAY: mouse/ : Squeek!
+[20:40:32]EMOTE: monkey (860)/ : <B>The monkey (860)</B> jumps!
+[20:41:05]EMOTE: Ian/ : <B>Ian</B> woofs!
+[20:41:07]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[20:41:13]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[20:41:29]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[20:41:53]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[20:41:55]EMOTE: Ian/ : <B>Ian</B> dances around.
+[20:42:11]EMOTE: Poly/ : <B>Poly</B> looks in the bruise pack's direction and takes flight.
+[20:42:33]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:42:56]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[20:43:08]EMOTE: Poly/ : <B>Poly</B> looks in the kelotane pill's direction and takes flight.
+[20:43:22]EMOTE: monkey (394)/ : <B>The monkey (394)</B> jumps!
+[20:43:27]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 20:57.03
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[20:57:03]ADMIN: Loading Banlistjob
+[20:57:03]ADMIN: Loading jobban_rank
+[20:57:03]ADMIN: jobban_keylist was empty
+[20:57:03]ADMIN: Loading appearance_rank
+[20:57:03]ADMIN: appearance_keylist was empty
+[20:57:03]ADMIN: Updating jobbanfile!
+[20:57:03]ADMIN: Loading Banlist
+[20:57:48]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[20:59:37]ADMIN: BartNixon has started the game.
+[20:59:40]ACCESS: Logout: *no key*/(BartNixon)
+[20:59:40]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:00:12]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[21:00:22]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 21:07.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[21:07:08]ADMIN: Loading Banlistjob
+[21:07:08]ADMIN: Loading jobban_rank
+[21:07:08]ADMIN: jobban_keylist was empty
+[21:07:08]ADMIN: Loading appearance_rank
+[21:07:08]ADMIN: appearance_keylist was empty
+[21:07:08]ADMIN: Updating jobbanfile!
+[21:07:08]ADMIN: Loading Banlist
+[21:08:54]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[21:09:50]ADMIN: BartNixon has started the game.
+[21:09:54]ACCESS: Logout: *no key*/(BartNixon)
+[21:09:54]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:10:07]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk at (104,118,1)
+[21:10:26]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk/holodiskabducted at (105,117,1)
+[21:10:50]SAY: mouse/ : SQUEEK!
+[21:10:52]SAY: mouse/ : Squeek!
+[21:10:52]EMOTE: Tom/ : <B>Tom</B> squeeks
+[21:10:58]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[21:10:58]EMOTE: monkey (151)/ : <B>The monkey (151)</B> jumps!
+[21:11:02]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[21:11:06]EMOTE: mouse/ : <B>The mouse</B> shakes
+[21:11:20]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk/holodiskrussian at (103,118,1)
+[21:11:41]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[21:11:53]EMOTE: Poly/ : <B>Poly</B> looks in the cigarette packet's direction and takes flight.
+[21:11:55]EMOTE: monkey (922)/ : <B>The monkey (922)</B> jumps!
+[21:12:07]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk/holodiskcursed at (105,118,1)
+[21:12:14]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[21:12:14]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:12:23]SAY: mouse/ : Squeek!
+[21:12:23]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[21:12:35]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[21:12:45]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 21:21.03
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[21:21:03]ADMIN: Loading Banlistjob
+[21:21:03]ADMIN: Loading jobban_rank
+[21:21:03]ADMIN: jobban_keylist was empty
+[21:21:03]ADMIN: Loading appearance_rank
+[21:21:03]ADMIN: appearance_keylist was empty
+[21:21:03]ADMIN: Updating jobbanfile!
+[21:21:03]ADMIN: Loading Banlist
+[21:22:53]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v506
+[21:23:18]ADMIN: BartNixon has started the game.
+[21:23:22]ACCESS: Logout: *no key*/(BartNixon)
+[21:23:22]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:23:24]SAY: mouse/ : SQUEEK!
+[21:23:34]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk/holodiskcursed at (105,118,1)
+[21:23:40]EMOTE: monkey (443)/ : <B>The monkey (443)</B> jumps!
+[21:23:42]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the Power-ON cartridge.
+[21:23:43]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk at (106,118,1)
+[21:24:21]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[21:24:21]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:24:25]EMOTE: mouse/ : <B>The mouse</B> shakes
+[21:24:25]SAY: mouse/ : SQUEEK!
+[21:24:35]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[21:24:35]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[21:24:35]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:24:35]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[21:24:39]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[21:24:39]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:24:59]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[21:25:01]ADMIN: BartNixon/(Gilroy Rudah) changed the equipment of BartNixon/(Gilroy Rudah) to Head of Personnel.
+[21:25:15]SAY: grey baby slime (627)/ : Blorble...
+[21:25:27]EMOTE: monkey (659)/ : <B>The monkey (659)</B> jumps!
+[21:25:29]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[21:25:29]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v506
+[21:25:31]SAY: Tom/ : SQUEEK!
+[21:25:45]SAY: Poly/ : Check the singlo, you chucklefucks!
+[21:25:46]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

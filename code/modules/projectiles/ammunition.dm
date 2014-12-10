@@ -7,6 +7,7 @@
 	slot_flags = SLOT_BELT
 	throwforce = 0
 	w_class = 1.0
+	var/fire_sound = null						//What sound should play when this ammo is fired
 	var/caliber = null							//Which kind of guns it can be loaded into
 	var/projectile_type = null					//The bullet type to create when New() is called
 	var/obj/item/projectile/BB = null 			//The loaded bullet
@@ -105,6 +106,13 @@
 		update_icon()
 		return num_loaded
 	return 0
+
+/obj/item/ammo_box/attack_self(mob/user as mob)
+	var/obj/item/ammo_casing/A = get_round()
+	if(A)
+		user.put_in_hands(A)
+		user << "<span class='notice'>You remove a round from \the [src]!</span>"
+		update_icon()
 
 /obj/item/ammo_box/update_icon()
 	switch(multiple_sprites)

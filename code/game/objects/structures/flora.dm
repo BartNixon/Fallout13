@@ -197,12 +197,13 @@
 	icon_state = "fullgrass_[rand(1, 3)]"
 	..()
 
-/obj/structure/flora/kirbyplants
-	name = "Potted plant"
+/obj/structure/flora/kirbyplants/New()
+	name = "potted plant"
 	icon = 'icons/obj/flora/plants.dmi'
-	icon_state = "plant-01"
+	icon_state = "plant-[rand(1, 25)]"
+	..()
 
 /obj/structure/flora/kirbyplants/dead
 	name = "RD's potted plant"
 	desc = "A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says \"Y'all come back now, y'hear?\"\nIt doesn't look very healthy..."
-	icon_state = "plant-25"
+	icon_state = "plant-26"

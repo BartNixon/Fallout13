@@ -5,6 +5,9 @@
 	icon_state = "centcom"
 	desc = "It's good to be emperor."
 	item_state = "that"
+	flags_inv = 0
+	armor = list(melee = 50, bullet = 15, laser = 50, energy = 10, bomb = 25, bio = 0, rad = 0)
+	strip_delay = 80
 
 /obj/item/clothing/head/powdered_wig
 	name = "powdered wig"
@@ -53,14 +56,6 @@
 	flags = BLOCKHAIR
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
-/obj/item/clothing/head/cueball
-	name = "cueball helmet"
-	desc = "A large, featureless white orb mean to be worn on your head. How do you even see out of this thing?"
-	icon_state = "cueball"
-	flags = HEADCOVERSEYES|HEADCOVERSMOUTH|BLOCKHAIR
-	item_state="cueball"
-	flags_inv = 0
-
 /obj/item/clothing/head/that
 	name = "sturdy top-hat"
 	desc = "It's an amish looking armored top hat."
@@ -80,7 +75,7 @@
 	desc = "A helmet made out of a box."
 	icon_state = "cardborg_h"
 	item_state = "cardborg_h"
-	flags = HEADCOVERSEYES | HEADCOVERSMOUTH
+	flags = HEADCOVERSEYES
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/justice
@@ -88,7 +83,7 @@
 	desc = "fight for what's righteous!"
 	icon_state = "justicered"
 	item_state = "justicered"
-	flags = HEADCOVERSEYES|HEADCOVERSMOUTH|BLOCKHAIR
+	flags = HEADCOVERSEYES|BLOCKHAIR
 
 /obj/item/clothing/head/justice/blue
 	icon_state = "justiceblue"
@@ -195,6 +190,19 @@
 	desc = "Once it's on, it never comes off."
 	flags = NODROP
 
+/obj/item/clothing/head/cone
+	desc = "This cone is trying to warn you of something!"
+	name = "warning cone"
+	icon = 'icons/obj/janitor.dmi'
+	icon_state = "cone"
+	item_state = "cone"
+	force = 1.0
+	throwforce = 3.0
+	throw_speed = 2
+	throw_range = 5
+	w_class = 2.0
+	attack_verb = list("warned", "cautioned", "smashed")
+
 //Fallout 13 stuff starts here.
 
 /obj/item/clothing/head/stormchaser
@@ -203,3 +211,9 @@
 	item_state = "stormchaser"
 	desc = "Home, home on the wastes,<br>Where the mole rat and the fire gecko play.<br>Where seldom is heard a discouraging word,<br>And my skin is not glowing all day."
 	flags = BLOCKHAIR
+
+/obj/item/clothing/head/battlecruiser
+	name = "captain's hat"
+	icon_state = "battlecruiser"
+	item_state = "battlecruiser"
+	desc = "The Yamato is loaded. And so am I."

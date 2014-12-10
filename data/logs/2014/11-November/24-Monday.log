@@ -1,0 +1,120 @@
+
+
+Starting up. 03:19.33
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[03:19:33]ADMIN: Loading Banlistjob
+[03:19:33]ADMIN: Loading jobban_rank
+[03:19:33]ADMIN: jobban_keylist was empty
+[03:19:33]ADMIN: Loading appearance_rank
+[03:19:33]ADMIN: appearance_keylist was empty
+[03:19:33]ADMIN: Updating jobbanfile!
+[03:19:33]ADMIN: Loading Banlist
+[03:26:16]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v507
+[03:27:12]ADMIN: BartNixon has started the game.
+[03:27:21]EMOTE: Ian/ : <B>Ian</B> barks!
+[03:27:25]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[03:27:29]ACCESS: Logout: *no key*/(BartNixon)
+[03:27:29]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[03:27:35]EMOTE: mouse/ : <B>The mouse</B> shakes
+[03:27:43]SAY: grey baby slime (272)/ : Blorble...
+[03:27:44]ADMIN: BartNixon/(Gilroy Rudah) jumped to the Bridge
+[03:28:03]EMOTE: monkey (91)/ : <B>The monkey (91)</B> jumps!
+[03:28:13]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/head/battlecruiser at (106,137,1)
+[03:28:15]SAY: grey baby slime (272)/ : Rawr...
+[03:28:16]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[03:28:20]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/battlecruiser at (105,137,1)
+[03:28:28]SAY: grey baby slime (53)/ : Lonely...
+[03:28:36]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[03:29:11]EMOTE: Poly/ : <B>Poly</B> looks in the premium cigar's direction and takes flight.
+[03:29:13]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/lawyer/blacksuit at (106,137,1)
+[03:29:13]SAY: Runtime/ : Esp!
+[03:29:17]EMOTE: monkey (411)/ : <B>The monkey (411)</B> jumps!
+[03:29:17]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[03:29:19]SAY: grey baby slime (53)/ : Blop...
+[03:29:27]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[03:29:28]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/lawyer/black at (106,137,1)
+[03:30:05]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/shoes/laceup at (105,137,1)
+[03:30:07]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:30:07]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:30:11]SAY: mouse/ : Squeek!
+[03:30:11]SAY: mouse/ : Squeek!
+[03:30:16]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/glasses/thermal/monocle at (105,137,1)
+[03:30:23]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[03:30:33]EMOTE: Featherbottom/ : <B>Featherbottom</B> flaps its wings viciously
+[03:31:03]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:31:21]SAY: mouse/ : Squeek?
+[03:31:39]SAY: Tom/ : Squeek?
+[03:31:47]SAY: Ian/ : Bark!
+[03:32:03]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:32:11]SAY: mouse/ : SQUEEK!
+[03:32:29]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[03:32:41]EMOTE: monkey (914)/ : <B>The monkey (914)</B> jumps!
+[03:33:01]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:33:07]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:33:31]SAY: mouse/ : Squeek!
+[03:33:57]SAY: Runtime/ : HSSSSS
+[03:34:07]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:34:26]SAY: mouse/ : SQUEEK!
+[03:34:32]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[03:35:00]EMOTE: monkey (40)/ : <B>The monkey (40)</B> jumps!
+[03:35:22]SAY: mouse/ : SQUEEK!
+[03:35:24]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:35:30]SAY: Ian/ : AUUUUUU!
+[03:35:32]SAY: mouse/ : SQUEEK!
+[03:36:14]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[03:36:24]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[03:36:26]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:36:34]EMOTE: Ian/ : <B>Ian</B> dances around.
+[03:36:36]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[03:36:44]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[03:36:46]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[03:36:54]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[03:37:08]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[03:37:18]SAY: Tom/ : SQUEEK!
+[03:37:32]SAY: grey baby slime (53)/ : Rawr...
+[03:37:34]SAY: mouse/ : Squeek!
+[03:37:38]EMOTE: Featherbottom/ : <B>Featherbottom</B> clucks
+[03:37:48]EMOTE: mouse/ : <B>The mouse</B> shakes
+[03:37:48]SAY: Poly/ : Poly wanna cracker!
+[03:37:48]SAY: Betsy/ : MOOOOOO
+[03:37:58]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:38:33]EMOTE: Kentucky/ : <B>Kentucky</B> flaps its wings viciously
+[03:38:57]EMOTE: monkey (340)/ : <B>The monkey (340)</B> jumps!
+[03:38:59]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[03:39:09]EMOTE: monkey (40)/ : <B>The monkey (40)</B> jumps!
+[03:39:11]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:39:15]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[03:39:15]EMOTE: Kentucky/ : <B>Kentucky</B> pecks at the ground
+[03:39:19]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[03:39:55]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[03:39:55]EMOTE: monkey (91)/ : <B>The monkey (91)</B> jumps!
+[03:39:59]EMOTE: monkey (411)/ : <B>The monkey (411)</B> jumps!
+[03:40:07]EMOTE: Tom/ : <B>Tom</B> squeeks
+[03:40:21]EMOTE: Pugley III/ : <B>Pugley III</B> woofs!
+[03:40:23]EMOTE: Pugley III/ : <B>Pugley III</B> barks!
+[03:40:25]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:40:31]EMOTE: monkey (91)/ : <B>The monkey (91)</B> jumps!
+[03:40:45]EMOTE: Pete/ : <B>Pete</B> glares around
+[03:40:49]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[03:40:51]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[03:41:35]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[03:41:37]EMOTE: Featherbottom/ : <B>Featherbottom</B> pecks at the ground
+[03:41:39]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[03:41:55]EMOTE: Tom/ : <B>Tom</B> runs in a circle
+[03:42:10]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

@@ -54,12 +54,11 @@
 		the_disk = locate()
 	point_at(the_disk)
 
-/obj/item/weapon/pinpointer/examine()
+/obj/item/weapon/pinpointer/examine(mob/user)
 	..()
 	for(var/obj/machinery/nuclearbomb/bomb in world)
 		if(bomb.timing)
-			usr << "Extreme danger.  Arming signal detected.   Time remaining: [bomb.timeleft]"
-
+			user << "Extreme danger.  Arming signal detected.   Time remaining: [bomb.timeleft]"
 
 /obj/item/weapon/pinpointer/advpinpointer
 	name = "advanced pinpointer"
@@ -235,3 +234,186 @@
 				icon_state = "pinonfar"
 
 	spawn(5) .()
+
+
+//ALIEN TRACKER
+
+/obj/item/weapon/motiontracker
+	name = "motion tracker"
+	desc = "A high-powered ultrasound scanner that uses doppler-shift discrimination to filter out moving objects from its stationary background."
+	icon = 'icons/obj/device.dmi'
+	icon_state = "trackeroff"
+	flags = CONDUCT
+	slot_flags = SLOT_BELT
+	w_class = 2.0
+	item_state = "electronic"
+	throw_speed = 3
+	throw_range = 7
+	m_amt = 500
+	var/obj/item/weapon/disk/nuclear/the_disk = null
+	var/active = 0
+
+
+/obj/item/weapon/motiontracker/attack_self()
+	if(!active)
+		active = 1
+		src.loop_sound()
+		workdisk()
+		usr << "<span class='notice'>You activate the motion tracker.</span>"
+	else
+		active = 0
+		icon_state = "trackeroff"
+		usr << "<span class='notice'>You deactivate the motion tracker.</span>"
+
+/obj/item/weapon/motiontracker/var/sound = 'sound/f13items/trackerfar.ogg'
+/obj/item/weapon/motiontracker/var/delay = 20
+
+/obj/item/weapon/motiontracker/proc/point_at(atom/target)
+	if(!active)
+		return
+	if(!target)
+		icon_state = "trackeronnull"
+		return
+
+	var/turf/T = get_turf(target)
+	var/turf/L = get_turf(src)
+
+	if(T.z != L.z)
+		icon_state = "trackeronnull"
+	else
+		dir = get_dir(L, T)
+		switch(get_dist(L, T))
+			if(-1)
+				icon_state = "trackerondirect"
+				sound = 'sound/f13items/trackerdirect.ogg'
+				delay = 15
+			if(1 to 3)
+				icon_state = "trackeronclosedirect"
+				sound = 'sound/f13items/trackerdirect.ogg'
+				delay = 20
+			if(4 to 6)
+				icon_state = "trackeronclose"
+				sound = 'sound/f13items/trackerclosedirect.ogg'
+				delay = 20
+			if(7 to 9)
+				icon_state = "trackeronmediumclose" //this must be medium close
+				sound = 'sound/f13items/trackerclose.ogg'
+				delay = 20
+			if(10 to 12)
+				icon_state = "trackeronmedium"
+				sound = 'sound/f13items/trackermediumclose.ogg'
+				delay = 20
+			if(13 to 15)
+				icon_state = "trackeronmedium"
+				sound = 'sound/f13items/trackermedium.ogg'
+				delay = 20
+			if(15 to INFINITY)
+				icon_state = "trackeronfar"
+				sound = 'sound/f13items/trackerfar.ogg'
+				delay = 20
+	spawn(5)
+		.()
+
+/obj/item/weapon/motiontracker/proc/loop_sound()
+	if(active)
+		playsound(get_turf(src), sound, 80, 0) //0 has disabled sound modulation.
+		spawn(delay)
+			.()
+
+/obj/item/weapon/motiontracker/proc/workdisk()
+	if(!the_disk)
+		the_disk = locate()
+	point_at(the_disk)
+
+/obj/item/weapon/motiontracker/examine(mob/user)
+	..()
+	for(var/obj/machinery/nuclearbomb/bomb in world)
+		if(bomb.timing)
+			user << "Extreme danger.  Arming signal detected.   Time remaining: [bomb.timeleft]"
+
+/obj/item/weapon/motiontracker/advanced
+	name = "advanced motion tracker"
+	icon = 'icons/obj/device.dmi'
+	desc = "A high-powered ultrasound scanner that uses doppler-shift discrimination to filter out moving objects from its stationary background."
+	var/mode = 0  // Mode 0 locates disk, mode 1 locates coordinates.
+	var/turf/location = null
+	var/obj/target = null
+
+/obj/item/weapon/motiontracker/advanced/attack_self()
+	if(!active)
+		active = 1
+		src.loop_sound()
+		if(mode == 0)
+			workdisk()
+		if(mode == 1)
+			point_at(location)
+		if(mode == 2)
+			point_at(target)
+		usr << "<span class='notice'>You activate the motion tracker.</span>"
+	else
+		active = 0
+		icon_state = "pinoff"
+		usr << "<span class='notice'>You deactivate the motion tracker.</span>"
+
+
+/obj/item/weapon/motiontracker/advanced/verb/toggle_mode()
+	set category = "Object"
+	set name = "Toggle Tracker Mode"
+	set src in view(1)
+
+	if(usr.stat || usr.restrained() || !usr.canmove)
+		return
+
+	active = 0
+	icon_state = "pinoff"
+	target=null
+	location = null
+
+	switch(alert("Please select the mode you want to put the motion tracker in.", "Tracker Mode Select", "Location", "Disk Recovery", "Other Signature"))
+		if("Location")
+			mode = 1
+
+			var/locationx = input(usr, "Please input the x coordinate to search for.", "Location?" , "") as num
+			if(!locationx || !(usr in view(1,src)))
+				return
+			var/locationy = input(usr, "Please input the y coordinate to search for.", "Location?" , "") as num
+			if(!locationy || !(usr in view(1,src)))
+				return
+
+			var/turf/Z = get_turf(src)
+
+			location = locate(locationx,locationy,Z.z)
+
+			usr << "You set the motion tracker to locate [locationx],[locationy]"
+
+
+			return attack_self()
+
+		if("Disk Recovery")
+			mode = 0
+			return attack_self()
+
+		if("Other Signature")
+			mode = 2
+			switch(alert("Search for item signature or DNA fragment?" , "Signature Mode Select" , "" , "Item" , "DNA"))
+				if("Item")
+					var/targetitem = input("Select item to search for.", "Item Mode Select","") as null|anything in possible_items
+					if(!targetitem)
+						return
+					target=locate(possible_items[targetitem])
+					if(!target)
+						usr << "Failed to locate [targetitem]!"
+						return
+					usr << "You set the motion tracker to locate [targetitem]"
+				if("DNA")
+					var/DNAstring = input("Input DNA string to search for." , "Please Enter String." , "")
+					if(!DNAstring)
+						return
+					for(var/mob/living/carbon/M in mob_list)
+						if(!M.dna)
+							continue
+						if(M.dna.unique_enzymes == DNAstring)
+							target = M
+							break
+
+			return attack_self()

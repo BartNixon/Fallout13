@@ -14,6 +14,7 @@ var/list/admin_verbs_default = list(
 	/client/proc/investigate_show,		/*various admintools for investigation. Such as a singulo grief-log*/
 	/client/proc/secrets,
 	/client/proc/reload_admins,
+	/client/proc/reestablish_db_connection,/*reattempt a connection to the database*/
 	/client/proc/cmd_admin_pm_context,	/*right-click adminPM interface*/
 	/client/proc/cmd_admin_pm_panel		/*admin-pm list*/
 	)
@@ -56,7 +57,8 @@ var/list/admin_verbs_admin = list(
 	/client/proc/cmd_admin_direct_narrate,	/*send text directly to a player with no padding. Useful for narratives and fluff-text*/
 	/client/proc/cmd_admin_world_narrate,	/*sends text to all players with no padding*/
 	/client/proc/cmd_admin_create_centcom_report,
-	/client/proc/check_words			/*displays cult-words*/
+	/client/proc/check_words,			/*displays cult-words*/
+	/client/proc/reset_all_tcs			/*resets all telecomms scripts*/
 	)
 var/list/admin_verbs_ban = list(
 	/client/proc/unban_panel,
@@ -70,7 +72,6 @@ var/list/admin_verbs_sounds = list(
 	/client/proc/stop_sounds
 	)
 var/list/admin_verbs_fun = list(
-	/client/proc/object_talk,
 	/client/proc/cmd_admin_dress,
 	/client/proc/cmd_admin_gib_self,
 	/client/proc/drop_bomb,
@@ -79,10 +80,11 @@ var/list/admin_verbs_fun = list(
 	/client/proc/send_space_ninja,
 	/client/proc/cmd_admin_add_freeform_ai_law,
 	/client/proc/cmd_admin_add_random_ai_law,
-	/client/proc/make_sound,
+	/client/proc/object_say,
 	/client/proc/toggle_random_events,
 	/client/proc/set_ooc,
-	/client/proc/forceEvent
+	/client/proc/forceEvent,
+	/client/proc/editappear
 	)
 var/list/admin_verbs_spawn = list(
 	/datum/admins/proc/spawn_atom,		/*allows us to spawn instances*/
@@ -113,7 +115,8 @@ var/list/admin_verbs_debug = list(
 	/client/proc/cmd_debug_del_all,
 	/client/proc/restart_controller,
 	/client/proc/enable_debug_verbs,
-	/client/proc/callproc
+	/client/proc/callproc,
+	/client/proc/SDQL2_query
 	)
 var/list/admin_verbs_possess = list(
 	/proc/possess,
@@ -152,7 +155,6 @@ var/list/admin_verbs_hideable = list(
 	/client/proc/check_words,
 	/client/proc/play_local_sound,
 	/client/proc/play_sound,
-	/client/proc/object_talk,
 	/client/proc/cmd_admin_dress,
 	/client/proc/cmd_admin_gib_self,
 	/client/proc/drop_bomb,
@@ -161,7 +163,7 @@ var/list/admin_verbs_hideable = list(
 	/client/proc/cmd_admin_add_freeform_ai_law,
 	/client/proc/cmd_admin_add_random_ai_law,
 	/client/proc/cmd_admin_create_centcom_report,
-	/client/proc/make_sound,
+	/client/proc/object_say,
 	/client/proc/toggle_random_events,
 	/client/proc/cmd_admin_add_random_ai_law,
 	/datum/admins/proc/startnow,
@@ -185,7 +187,9 @@ var/list/admin_verbs_hideable = list(
 	/client/proc/cmd_debug_del_all,
 	/client/proc/enable_debug_verbs,
 	/proc/possess,
-	/proc/release
+	/proc/release,
+	/client/proc/reload_admins,
+	/client/proc/reset_all_tcs
 	)
 
 /client/proc/add_admin_verbs()
@@ -393,7 +397,7 @@ var/list/admin_verbs_hideable = list(
 				new_key = copytext(new_key, 1, 26)
 			holder.fakekey = new_key
 		log_admin("[key_name(usr)] has turned stealth mode [holder.fakekey ? "ON" : "OFF"]")
-		message_admins("[key_name_admin(usr)] has turned stealth mode [holder.fakekey ? "ON" : "OFF"]", 1)
+		message_admins("[key_name_admin(usr)] has turned stealth mode [holder.fakekey ? "ON" : "OFF"]")
 	feedback_add_details("admin_verb","SM") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
 
 /client/proc/drop_bomb()
@@ -431,13 +435,13 @@ var/list/admin_verbs_hideable = list(
 		return
 	feedback_add_details("admin_verb","GS") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
 	log_admin("[key_name(usr)] gave [key_name(T)] the spell [S].")
-	message_admins("<span class='adminnotice'>[key_name_admin(usr)] gave [key_name(T)] the spell [S].</span>", 1)
+	message_admins("<span class='adminnotice'>[key_name_admin(usr)] gave [key_name(T)] the spell [S].</span>")
 
 	if(T.mind)
 		T.mind.spell_list += new S
 	else
 		T.mob_spell_list += new S
-		message_admins("<span class='danger'>Spells given to mindless mobs will not be transferred in mindswap or cloning!</span>", 1)
+		message_admins("<span class='danger'>Spells given to mindless mobs will not be transferred in mindswap or cloning!</span>")
 
 
 /client/proc/give_disease(mob/T as mob in mob_list)
@@ -446,44 +450,31 @@ var/list/admin_verbs_hideable = list(
 	set desc = "Gives a Disease to a mob."
 	var/datum/disease/D = input("Choose the disease to give to that guy", "ACHOO") as null|anything in diseases
 	if(!D) return
-	T.contract_disease(new D, 1)
+	T.ForceContractDisease(new D,)
 	feedback_add_details("admin_verb","GD") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
 	log_admin("[key_name(usr)] gave [key_name(T)] the disease [D].")
-	message_admins("<span class='adminnotice'>[key_name_admin(usr)] gave [key_name(T)] the disease [D].</span>", 1)
+	message_admins("<span class='adminnotice'>[key_name_admin(usr)] gave [key_name(T)] the disease [D].</span>")
 
-/client/proc/make_sound(var/obj/O in world)
+/client/proc/object_say(var/obj/O in world)
 	set category = "Special Verbs"
-	set name = "Osay"
+	set name = "OSay"
 	set desc = "Makes an object say something."
-	if(istype(O))
-		var/message = input("What do you want the message to be?", "Make Sound") as text | null
-		if(!message)
-			return
-		var/templanguages = O.languages
-		O.languages |= ALL
-		O.say(message)
-		O.languages = templanguages
-		log_admin("[key_name(usr)] made [O] at [O.x], [O.y], [O.z] say [message]")
-		message_admins("<span class='adminnotice'>[key_name_admin(usr)] made [O] at [O.x], [O.y], [O.z]. say [message]</span>", 1)
-		feedback_add_details("admin_verb","MS") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
-
+	var/message = input(usr, "What do you want the message to be?", "Make Sound") as text | null
+	if(!message)
+		return
+	var/templanguages = O.languages
+	O.languages |= ALL
+	O.say(message)
+	O.languages = templanguages
+	log_admin("[key_name(usr)] made [O] at [O.x], [O.y], [O.z] say \"[message]\"")
+	message_admins("<span class='adminnotice'>[key_name_admin(usr)] made [O] at [O.x], [O.y], [O.z]. say \"[message]\"</span>")
+	feedback_add_details("admin_verb","OS") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
 /client/proc/togglebuildmodeself()
 	set name = "Toggle Build Mode Self"
 	set category = "Special Verbs"
 	if(src.mob)
 		togglebuildmode(src.mob)
 	feedback_add_details("admin_verb","TBMS") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
-
-/client/proc/object_talk(var/msg as text)
-	set category = "Special Verbs"
-	set name = "oSay"
-	set desc = "Display a message to everyone who can hear the target"
-	if(mob.control_object)
-		if(!msg)
-			return
-		for (var/mob/V in hearers(mob.control_object))
-			V.show_message("<b>[mob.control_object.name]</b> says: \"" + msg + "\"", 2)
-	feedback_add_details("admin_verb","OT") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
 
 /client/proc/kill_air()
 	set category = "Debug"
@@ -497,7 +488,7 @@ var/list/admin_verbs_hideable = list(
 		usr << "<b>Disabled air processing.</b>"
 	feedback_add_details("admin_verb","KA") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
 	log_admin("[key_name(usr)] used 'kill air'.")
-	message_admins("<span class='adminnotice'>[key_name_admin(usr)] used 'kill air'.</span>", 1)
+	message_admins("<span class='adminnotice'>[key_name_admin(usr)] used 'kill air'.</span>")
 
 /client/proc/deadmin_self()
 	set name = "De-admin self"
@@ -506,7 +497,7 @@ var/list/admin_verbs_hideable = list(
 	if(holder)
 		if(alert("Confirm self-deadmin for the round? You can't re-admin yourself without someont promoting you.",,"Yes","No") == "Yes")
 			log_admin("[src] deadmined themself.")
-			message_admins("[src] deadmined themself.", 1)
+			message_admins("[src] deadmined themself.")
 			deadmin()
 			src << "<span class='interface'>You are now a normal player.</span>"
 	feedback_add_details("admin_verb","DAS") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
@@ -528,4 +519,59 @@ var/list/admin_verbs_hideable = list(
 	set category = "Admin"
 	if(holder)
 		src.holder.output_ai_laws()
+
+/client/proc/editappear(mob/living/carbon/human/M as mob in world)
+	set name = "Edit Appearance"
+	set category = "Fun"
+
+	if(!check_rights(R_FUN))	return
+	if(!istype(M, /mob/living/carbon/human))
+		usr << "\red You can only do this to humans!"
+		return
+	switch(alert("Are you sure you wish to edit this mob's appearance? Skrell, Unathi, Vox and Tajaran can result in unintended consequences.",,"Yes","No"))
+		if("No")
+			return
+// GENDER
+	var/new_gender = alert("Please select gender.", "Character Generation", "Male", "Female")
+	if (new_gender)
+		if(new_gender == "Male")
+			M.gender = MALE
+		else
+			M.gender = FEMALE
+// HAIR
+	var/new_hair = input("Choose your character's hair colour:", "Character Preference") as null|color
+	if(new_hair)
+		M.hair_color = sanitize_hexcolor(new_hair)
+
+	var/new_hair_style
+	if(gender == MALE)
+		new_hair_style = input("Choose your character's hair style:", "Character Preference")  as null|anything in hair_styles_male_list
+	else
+		new_hair_style = input("Choose your character's hair style:", "Character Preference")  as null|anything in hair_styles_female_list
+	if(new_hair_style)
+		M.hair_style = new_hair_style
+// FACIAL
+	var/new_facial = input("Choose your character's facial-hair colour:", "Character Preference") as null|color
+	if(new_facial)
+		M.facial_hair_color = sanitize_hexcolor(new_facial)
+
+	var/new_facial_hair_style
+	if(gender == MALE)
+		new_facial_hair_style = input("Choose your character's facial-hair style:", "Character Preference")  as null|anything in facial_hair_styles_male_list
+	else
+		new_facial_hair_style = input("Choose your character's facial-hair style:", "Character Preference")  as null|anything in facial_hair_styles_female_list
+	if(new_facial_hair_style)
+		M.facial_hair_style = new_facial_hair_style
+// EYES
+	var/new_eyes = input("Choose your character's eye colour:", "Character Preference") as color|null
+	if(new_eyes)
+		M.eye_color = sanitize_hexcolor(new_eyes)
+// SKIN
+	var/new_s_tone = input("Choose your character's skin-tone:", "Character Preference")  as null|anything in skin_tones
+	if(new_s_tone)
+		M.skin_tone = new_s_tone
+
+	M.update_hair()
+	M.update_body()
+
 

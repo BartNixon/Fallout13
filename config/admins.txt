@@ -12,5 +12,7 @@ Lydee = Elder
 Nienhaus = Elder
 MrSnapwalk = Elder
 Ivan_mrr = Elder
+WalterJe = Sentinel
+Gyaviste = Sentinel
 HITHISISFRONK = Sentinel
 Ideee = Paladin

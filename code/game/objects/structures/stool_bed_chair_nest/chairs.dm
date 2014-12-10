@@ -4,20 +4,19 @@
 	icon_state = "chair"
 
 /obj/structure/stool/bed/chair/New()
-	if(anchored)
-		src.verbs -= /atom/movable/verb/pull
 	..()
 	spawn(3)	//sorry. i don't think there's a better way to do this.
 		handle_layer()
 	return
 
+/obj/structure/stool/bed/chair/Move(atom/newloc, direct)
+	..()
+	handle_rotation()
+
 /obj/structure/stool/bed/chair/attackby(obj/item/weapon/W as obj, mob/user as mob)
 	..()
 	if(istype(W, /obj/item/assembly/shock_kit))
 		var/obj/item/assembly/shock_kit/SK = W
-		if(!SK.status)
-			user << "<span class='notice'>[SK] is not ready to be attached!</span>"
-			return
 		user.drop_item()
 		var/obj/structure/stool/bed/chair/e_chair/E = new /obj/structure/stool/bed/chair/e_chair(src.loc)
 		playsound(src.loc, 'sound/items/Deconstruct.ogg', 50, 1)
@@ -33,10 +32,10 @@
 		rotate()
 	return
 
-/obj/structure/stool/bed/chair/proc/handle_rotation(direction)	//making this into a seperate proc so office chairs can call it on Move()
+/obj/structure/stool/bed/chair/proc/handle_rotation(direction)
 	if(buckled_mob)
 		buckled_mob.buckled = null //Temporary, so Move() succeeds.
-		if(!buckled_mob.Move(direction))
+		if(!direction || !buckled_mob.Move(get_step(src, direction), direction))
 			buckled_mob.buckled = src
 			dir = buckled_mob.dir
 			return 0
@@ -65,7 +64,7 @@
 	else
 		if(!usr || !isturf(usr.loc))
 			return
-		if(usr.stat || usr.restrained())
+		if(usr.stat || usr.restrained() || !usr.canmove)
 			return
 		spin()
 
@@ -130,13 +129,46 @@
 /obj/structure/stool/bed/chair/office
 	anchored = 0
 
-/obj/structure/stool/bed/chair/office/Move(direction)
-	if(handle_rotation(direction))
-		..()
-	handle_layer()
-
 /obj/structure/stool/bed/chair/office/light
 	icon_state = "officechair_white"
 
 /obj/structure/stool/bed/chair/office/dark
 	icon_state = "officechair_dark"
+
+//Fallout 13 shuttle chair?! Da fuq...
+
+/obj/structure/stool/bed/chair/shuttle
+	name = "shuttle seat"
+	desc = "Everyone buckle up! Warp 9!"
+	icon_state = "shuttle"
+	var/image/armrest = null
+
+/obj/structure/stool/bed/chair/shuttle/New()
+	armrest = image("icons/obj/objects.dmi", "shuttle_armrest")
+	armrest.layer = MOB_LAYER + 0.1
+
+	return ..()
+
+/obj/structure/stool/bed/chair/shuttle/afterbuckle()
+	if(buckled_mob)
+		overlays += armrest
+	else
+		overlays -= armrest
+
+/obj/structure/stool/bed/chair/dropship
+	name = "dropship seat"
+	desc = "Look at you! Absolute badasses!"
+	icon_state = "dropship"
+	var/image/armrest = null
+
+/obj/structure/stool/bed/chair/dropship/New()
+	armrest = image("icons/obj/objects.dmi", "dropship_armrest")
+	armrest.layer = MOB_LAYER + 0.1
+
+	return ..()
+
+/obj/structure/stool/bed/chair/dropship/afterbuckle()
+	if(buckled_mob)
+		overlays += armrest
+	else
+		overlays -= armrest

@@ -1,10 +1,12 @@
 /obj/item/clothing/suit/armor
-	allowed = list(/obj/item/weapon/gun/energy,/obj/item/weapon/reagent_containers/spray/pepper,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing,/obj/item/weapon/melee/baton,/obj/item/weapon/handcuffs,/obj/item/device/flashlight/seclite)
+	allowed = list(/obj/item/weapon/gun/energy,/obj/item/weapon/reagent_containers/spray/pepper,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing,/obj/item/weapon/melee/baton,/obj/item/weapon/restraints/handcuffs,/obj/item/device/flashlight/seclite,/obj/item/weapon/melee/telebaton)
 	body_parts_covered = CHEST
 	cold_protection = CHEST|GROIN
 	min_cold_protection_temperature = ARMOR_MIN_TEMP_PROTECT
 	heat_protection = CHEST|GROIN
 	max_heat_protection_temperature = ARMOR_MAX_TEMP_PROTECT
+	strip_delay = 60
+	put_on_delay = 60
 
 /obj/item/clothing/suit/armor/vest
 	name = "armor"
@@ -15,8 +17,8 @@
 	armor = list(melee = 50, bullet = 15, laser = 50, energy = 10, bomb = 25, bio = 0, rad = 0)
 
 /obj/item/clothing/suit/armor/hos
-	name = "armored coat"
-	desc = "A greatcoat enchanced with a special alloy for some protection and style."
+	name = "armored greatcoat"
+	desc = "A greatcoat enchanced with a special alloy for some protection and style for those with a commanding presence."
 	icon_state = "hos"
 	item_state = "hos"
 	body_parts_covered = CHEST|GROIN|ARMS|LEGS
@@ -24,6 +26,17 @@
 	flags_inv = HIDEJUMPSUIT
 	cold_protection = CHEST|GROIN|LEGS|ARMS
 	heat_protection = CHEST|GROIN|LEGS|ARMS
+	strip_delay = 80
+	put_on_delay = 40
+
+/obj/item/clothing/suit/armor/hos/trenchcoat
+	name = "armored trenchoat"
+	desc = "A trenchcoat enchanced with a special lightweight kevlar. The epitome of tactical plainclothes."
+	icon_state = "jensencoat"
+	item_state = "jensencoat"
+	flags_inv = 0
+	strip_delay = 80
+	put_on_delay = 40
 
 /obj/item/clothing/suit/armor/vest/warden
 	name = "warden's jacket"
@@ -54,7 +67,8 @@
 	flags_inv = HIDEJUMPSUIT
 	cold_protection = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
 	heat_protection = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-
+	strip_delay = 80
+	put_on_delay = 80
 
 /obj/item/clothing/suit/armor/bulletproof
 	name = "bulletproof vest"
@@ -63,6 +77,8 @@
 	item_state = "armor"
 	blood_overlay_type = "armor"
 	armor = list(melee = 10, bullet = 80, laser = 10, energy = 10, bomb = 0, bio = 0, rad = 0)
+	strip_delay = 40
+	put_on_delay = 40
 
 
 /obj/item/clothing/suit/armor/laserproof
@@ -73,6 +89,8 @@
 	blood_overlay_type = "armor"
 	armor = list(melee = 10, bullet = 10, laser = 80, energy = 50, bomb = 0, bio = 0, rad = 0)
 	reflect_chance = 40
+	strip_delay = 40
+	put_on_delay = 40
 
 /obj/item/clothing/suit/armor/laserproof/IsReflect(var/def_zone)
 	var/hit_reflect_chance = reflect_chance
@@ -86,7 +104,7 @@
 	name = "armor"
 	desc = "An armored vest with a detective's badge on it."
 	icon_state = "detective-armor"
-	allowed = list(/obj/item/weapon/tank/emergency_oxygen,/obj/item/weapon/reagent_containers/spray/pepper,/obj/item/device/flashlight,/obj/item/weapon/gun/energy,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing,/obj/item/weapon/melee/baton,/obj/item/weapon/handcuffs,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/weapon/lighter,/obj/item/device/detective_scanner,/obj/item/device/taperecorder)
+	allowed = list(/obj/item/weapon/tank/emergency_oxygen,/obj/item/weapon/reagent_containers/spray/pepper,/obj/item/device/flashlight,/obj/item/weapon/gun/energy,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing,/obj/item/weapon/melee/baton,/obj/item/weapon/restraints/handcuffs,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/weapon/lighter,/obj/item/device/detective_scanner,/obj/item/device/taperecorder)
 
 
 
@@ -101,6 +119,8 @@
 	blood_overlay_type = "armor"
 	slowdown = 1
 	armor = list(melee = 0, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 0, rad = 0)
+	action_button_name = "Toggle Armor"
+	unacidable = 1
 
 /obj/item/clothing/suit/armor/reactive/IsShield()
 	if(active)
@@ -137,7 +157,7 @@
 	item_state = "centcom"
 	w_class = 4//bulky item
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	allowed = list(/obj/item/weapon/gun/energy,/obj/item/weapon/melee/baton,/obj/item/weapon/handcuffs,/obj/item/weapon/tank/emergency_oxygen)
+	allowed = list(/obj/item/weapon/gun/energy,/obj/item/weapon/melee/baton,/obj/item/weapon/restraints/handcuffs,/obj/item/weapon/tank/emergency_oxygen)
 	flags = THICKMATERIAL
 	flags_inv = HIDEGLOVES|HIDESHOES|HIDEJUMPSUIT
 	cold_protection = CHEST | GROIN | LEGS | FEET | ARMS | HANDS
@@ -176,7 +196,7 @@
 	icon_state = "tdgreen"
 	item_state = "tdgreen"
 
-//Fallout 13 armors here! More down the list - the worth protection they give.
+	//Fallout 13 armors here! More down the list - the worth protection they give.
 
 /obj/item/clothing/suit/armor/advpowerarmor
 	name = "advanced power armor Mk I"
@@ -223,9 +243,29 @@
 	item_state = "bmetalarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
 	slowdown = 1
-	armor = list(melee = 60, bullet = 20, laser = 10, energy = 10, bomb = 10, bio = 0, rad = 0)
+	armor = list(melee = 60, bullet = 30, laser = 10, energy = 10, bomb = 10, bio = 0, rad = 0)
 	flags_inv = HIDEJUMPSUIT
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+
+/obj/item/clothing/suit/armor/yankee
+	name = "yankee raider armor"
+	desc = "A set of armor made from football player protective wear. Together we play."
+	icon_state = "yankee"
+	item_state = "yankee"
+	body_parts_covered = CHEST|GROIN|LEGS|ARMS
+	armor = list(melee = 60, bullet = 20, laser = 5, energy = 5, bomb = 5, bio = 0, rad = 0)
+	flags_inv = HIDEJUMPSUIT
+	body_parts_covered = CHEST|GROIN|LEGS|ARMS
+
+/obj/item/clothing/suit/armor/supafly
+	name = "supa-fly raider armor"
+	desc = "Fabulous mutant powers were revealed to me the day I held aloft my bumper sword and said...<br>BY THE POWER OF NUKA-COLA, I AM RAIDER MAN!"
+	icon_state = "supafly"
+	item_state = "supafly"
+	body_parts_covered = CHEST|GROIN|LEGS|ARMS
+	armor = list(melee = 50, bullet = 20, laser = 5, energy = 5, bomb = 5, bio = 0, rad = 0)
+	flags_inv = HIDEJUMPSUIT
+	body_parts_covered = CHEST|GROIN|LEGS|ARMS
 
 /obj/item/clothing/suit/armor/leatherarmor
 	name = "leather armor"
@@ -233,19 +273,9 @@
 	icon_state = "leatherarmor"
 	item_state = "leatherarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
-	armor = list(melee = 40, bullet = 10, laser = 3, energy = 3, bomb = 3, bio = 0, rad = 0)
+	armor = list(melee = 40, bullet = 10, laser = 5, energy = 5, bomb = 5, bio = 0, rad = 0)
 	flags_inv = HIDEJUMPSUIT
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
-
-/obj/item/clothing/suit/armor/autumn //Based of Colonel Autumn's uniform.
-	name = "tan trenchcoat"
-	desc = "A resistant, tan trenchcoat, typically worn by pre-War generals."
-	icon_state = "autumn"
-	item_state = "autumn"
-	body_parts_covered = CHEST|LEGS|FEET|ARMS
-	armor = list(melee = 20, bullet = 20, laser = 5, energy = 5, bomb = 5, bio = 0, rad = 10)
-	body_parts_covered = CHEST|LEGS|FEET|ARMS
-	allowed = list(/obj/item/weapon/kitchenknife, /obj/item/weapon/butch, /obj/item/weapon/stamp, /obj/item/weapon/reagent_containers/food/drinks/flask, /obj/item/weapon/melee, /obj/item/device/flash, /obj/item/weapon/storage/box/matches, /obj/item/weapon/lighter, /obj/item/clothing/mask/cigarette, /obj/item/weapon/storage/fancy/cigarettes, /obj/item/weapon/tank/emergency_oxygen,/obj/item/device/flashlight,/obj/item/weapon/gun/energy,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing, /obj/item/weapon/scalpel, /obj/item/weapon/surgical_drapes, /obj/item/weapon/cautery, /obj/item/weapon/hemostat, /obj/item/weapon/retractor)
 
 //The following don't provide any armor, but Fallout related, and used as a storage. Don't want to put it into "misc", not to spread the content.
 
@@ -262,3 +292,62 @@
 	icon_state = "cowboygvest"
 	item_state = "cowboygvest"
 	allowed = list(/obj/item/weapon/stamp, /obj/item/weapon/reagent_containers/food/drinks/flask, /obj/item/weapon/melee, /obj/item/weapon/storage/box/matches, /obj/item/weapon/lighter, /obj/item/clothing/mask/cigarette, /obj/item/weapon/storage/fancy/cigarettes, /obj/item/device/flashlight, /obj/item/ammo_box, /obj/item/ammo_casing, /obj/item/weapon/scalpel, /obj/item/weapon/surgical_drapes, /obj/item/weapon/cautery, /obj/item/weapon/hemostat, /obj/item/weapon/retractor)
+
+/obj/item/clothing/suit/armor/autumn //Based of Colonel Autumn's uniform.
+	name = "tan trenchcoat"
+	desc = "A resistant, tan trenchcoat, typically worn by pre-War generals."
+	icon_state = "autumn"
+	item_state = "autumn"
+	body_parts_covered = CHEST|LEGS|FEET|ARMS
+	armor = list(melee = 20, bullet = 20, laser = 5, energy = 5, bomb = 5, bio = 0, rad = 10)
+	body_parts_covered = CHEST|LEGS|FEET|ARMS
+	allowed = list(/obj/item/weapon/kitchenknife, /obj/item/weapon/butch, /obj/item/weapon/stamp, /obj/item/weapon/reagent_containers/food/drinks/flask, /obj/item/weapon/melee, /obj/item/device/flash, /obj/item/weapon/storage/box/matches, /obj/item/weapon/lighter, /obj/item/clothing/mask/cigarette, /obj/item/weapon/storage/fancy/cigarettes, /obj/item/weapon/tank/emergency_oxygen,/obj/item/device/flashlight,/obj/item/weapon/gun/energy,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing, /obj/item/weapon/scalpel, /obj/item/weapon/surgical_drapes, /obj/item/weapon/cautery, /obj/item/weapon/hemostat, /obj/item/weapon/retractor)
+
+//US Colonial Marines?!
+
+/obj/item/clothing/suit/armor/uscmc/m3ppa
+	name = "M3 PPA"
+	desc = "Pattern Personal Armor is a standard ballistic protective armor system employed by the United States Colonial Marine Corps.<br>It is designed to balance lightness and comfort with optimum protection."
+	icon_state = "m3ppa"
+	item_state = "m3ppa"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+	armor = list(melee = 40, bullet = 30, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 0)
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+
+/obj/item/clothing/suit/armor/uscmc/m3ppamedic
+	name = "M3 medic PPA"
+	desc = "Pattern Personal Armor is a standard ballistic protective armor system employed by the United States Colonial Marine Corps.<br>It is designed to balance lightness and comfort with optimum protection."
+	icon_state = "m3ppamedic"
+	item_state = "m3ppamedic"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+	armor = list(melee = 40, bullet = 30, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 0)
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+
+/obj/item/clothing/suit/armor/uscmc/m3ppaengineer
+	name = "M3 engineer PPA"
+	desc = "Pattern Personal Armor is a standard ballistic protective armor system employed by the United States Colonial Marine Corps.<br>It is designed to balance lightness and comfort with optimum protection."
+	icon_state = "m3ppaengineer"
+	item_state = "m3ppaengineer"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+	armor = list(melee = 40, bullet = 30, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 0)
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+
+/obj/item/clothing/suit/armor/uscmc/m3ppaofficer
+	name = "M3 officer PPA"
+	desc = "Pattern Personal Armor is a standard ballistic protective armor system employed by the United States Colonial Marine Corps.<br>It is designed to balance lightness and comfort with optimum protection.<br>This variant is additionaly reinforced for protection of command personnel."
+	icon_state = "m3ppaofficer"
+	item_state = "m3ppaofficer"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+	armor = list(melee = 50, bullet = 40, laser = 30, energy = 30, bomb = 30, bio = 0, rad = 0)
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+
+//And fucking Star Craft here as well?!
+/obj/item/clothing/suit/armor/battlecruiser
+	name = "captain's coat"
+	desc = "Battlecruiser operational!"
+	icon_state = "battlecruiser"
+	item_state = "battlecruiser"
+	body_parts_covered = CHEST|LEGS|FEET|ARMS
+	armor = list(melee = 20, bullet = 10, laser = 5, energy = 5, bomb = 5, bio = 0, rad = 0)
+	body_parts_covered = CHEST|ARMS
+	allowed = list(/obj/item/weapon/kitchenknife, /obj/item/weapon/butch, /obj/item/weapon/stamp, /obj/item/weapon/reagent_containers/food/drinks/flask, /obj/item/weapon/melee, /obj/item/device/flash, /obj/item/weapon/storage/box/matches, /obj/item/weapon/lighter, /obj/item/clothing/mask/cigarette, /obj/item/weapon/storage/fancy/cigarettes, /obj/item/weapon/tank/emergency_oxygen,/obj/item/device/flashlight,/obj/item/weapon/gun/energy,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing, /obj/item/weapon/scalpel, /obj/item/weapon/surgical_drapes, /obj/item/weapon/cautery, /obj/item/weapon/hemostat, /obj/item/weapon/retractor)

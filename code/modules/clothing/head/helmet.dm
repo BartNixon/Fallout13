@@ -10,28 +10,7 @@
 	min_cold_protection_temperature = HELMET_MIN_TEMP_PROTECT
 	heat_protection = HEAD
 	max_heat_protection_temperature = HELMET_MAX_TEMP_PROTECT
-
-/obj/item/clothing/head/helmet/HoS
-	name = "head of security hat"
-	desc = "The robust hat of the Head of Security. For showing the officers who's in charge."
-	icon_state = "hoscap"
-	armor = list(melee = 80, bullet = 60, laser = 50,energy = 10, bomb = 25, bio = 10, rad = 0)
-	flags = 0
-	flags_inv = HIDEEARS
-
-/obj/item/clothing/head/helmet/HoS/dermal
-	name = "Dermal Armor Patch"
-	desc = "An armored implant that automatically integrates just below the scalp for robust protection without sacrificing style."
-	icon_state = "dermal"
-	item_state = "dermal"
-	flags_inv = 0
-
-/obj/item/clothing/head/helmet/warden
-	name = "warden's hat"
-	desc = "It's a special armored hat issued to the Warden of a security force. Protects the head from impacts."
-	icon_state = "policehelm"
-	flags = 0
-	flags_inv = HIDEEARS
+	strip_delay = 60
 
 /obj/item/clothing/head/helmet/riot
 	name = "riot helmet"
@@ -41,6 +20,27 @@
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH
 	armor = list(melee = 82, bullet = 15, laser = 5,energy = 5, bomb = 5, bio = 2, rad = 0)
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
+	strip_delay = 80
+	action_button_name = "Toggle Helmet Visor"
+	visor_flags = HEADCOVERSEYES | HEADCOVERSMOUTH
+	visor_flags_inv = HIDEMASK|HIDEEYES|HIDEFACE
+
+/obj/item/clothing/head/helmet/riot/attack_self()
+	if(usr.canmove && !usr.stat && !usr.restrained())
+		if(up)
+			up = !up
+			flags |= (visor_flags)
+			flags_inv |= (visor_flags_inv)
+			icon_state = initial(icon_state)
+			usr << "You pull the [src] down."
+			usr.update_inv_head(0)
+		else
+			up = !up
+			flags &= ~(visor_flags)
+			flags_inv &= ~(visor_flags_inv)
+			icon_state = "[initial(icon_state)]up"
+			usr << "You push the [src] up."
+			usr.update_inv_head(0)
 
 /obj/item/clothing/head/helmet/swat
 	name = "\improper SWAT helmet"
@@ -52,6 +52,7 @@
 	min_cold_protection_temperature = SPACE_HELM_MIN_TEMP_PROTECT
 	heat_protection = HEAD
 	max_heat_protection_temperature = SPACE_HELM_MAX_TEMP_PROTECT
+	strip_delay = 80
 
 /obj/item/clothing/head/helmet/swat/syndicate
 	name = "blood-red helmet"
@@ -69,6 +70,7 @@
 	min_cold_protection_temperature = SPACE_HELM_MIN_TEMP_PROTECT
 	heat_protection = HEAD
 	max_heat_protection_temperature = SPACE_HELM_MAX_TEMP_PROTECT
+	strip_delay = 80
 
 /obj/item/clothing/head/helmet/roman
 	name = "roman helmet"
@@ -76,6 +78,7 @@
 	armor = list(melee = 25, bullet = 0, laser = 25, energy = 10, bomb = 10, bio = 0, rad = 0)
 	icon_state = "roman"
 	item_state = "roman"
+	strip_delay = 100
 
 /obj/item/clothing/head/helmet/roman/legionaire
 	name = "roman legionaire helmet"
@@ -87,7 +90,7 @@
 	name = "gladiator helmet"
 	desc = "Ave, Imperator, morituri te salutant."
 	icon_state = "gladiator"
-	flags = HEADCOVERSEYES|HEADCOVERSMOUTH|BLOCKHAIR
+	flags = HEADCOVERSEYES|BLOCKHAIR
 	item_state = "gladiator"
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES
 
@@ -145,3 +148,40 @@ obj/item/clothing/head/helmet/bluetaghelm
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
 	armor = list(melee = 70, bullet = 50, laser = 50,energy = 50, bomb = 40, bio = 100, rad = 0)
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
+
+/obj/item/clothing/head/helmet/yankee
+	name = "yankee raider helmet"
+	desc = "Long time ago, it has belonged to a football player, now it belongs to Wasteland."
+	icon_state = "yankee"
+	item_state = "yankee"
+	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
+	armor = list(melee = 70, bullet = 15, laser = 5,energy = 5, bomb = 5, bio = 0, rad = 0)
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
+
+/obj/item/clothing/head/helmet/supafly
+	name = "supa-fly raider helmet"
+	desc = "It's a makeshift raider helmet, made of leather. It heavily smells with chems and sweat."
+	icon_state = "supafly"
+	item_state = "supafly"
+	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
+	armor = list(melee = 10, bullet = 0, laser = 0,energy = 0, bomb = 5, bio = 0, rad = 0)
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
+
+//USMC ROCKS!!!
+// P.S. Helmets need "extra" slot for putting cigarette packs - the icons are present in main icon files.
+
+/obj/item/clothing/head/helmet/uscmc/m10pbh
+	name = "M10 PBH"
+	desc = "Pattern Ballistic Helmet is the standard head protection issued by the United States Colonial Marine Corps."
+	icon_state = "m10pbh"
+	item_state = "m10pbh"
+	armor = list(melee = 60, bullet = 50, laser = 20,energy = 20, bomb = 50, bio = 0, rad = 0)
+	flags_inv = HIDEEARS
+
+/obj/item/clothing/head/helmet/uscmc/m10pbhcamo
+	name = "M10 camouflage PBH"
+	desc = "It's the Camouflage Pattern Ballistic Helmet issued by the United States Colonial Marine Corps."
+	icon_state = "m10pbhcamo"
+	item_state = "m10pbhcamo"
+	armor = list(melee = 60, bullet = 50, laser = 20,energy = 20, bomb = 50, bio = 0, rad = 0)
+	flags_inv = HIDEEARS

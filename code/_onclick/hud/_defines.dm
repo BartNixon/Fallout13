@@ -60,6 +60,11 @@
 #define ui_alien_storage_l "CENTER-2:14,SOUTH:5"//alien
 #define ui_alien_storage_r "CENTER+1:18,SOUTH:5"//alien
 
+#define ui_drone_drop "CENTER+1:18,SOUTH:5"     //maintenance drones
+#define ui_drone_pull "CENTER+2:2,SOUTH:5"      //maintenance drones
+#define ui_drone_storage "CENTER-2:14,SOUTH:5"  //maintenance drones
+#define ui_drone_head "CENTER-3:14,SOUTH:5"     //maintenance drones
+
 //Lower right, persistant menu
 #define ui_drop_throw "EAST-1:28,SOUTH+1:7"
 #define ui_pull_resist "EAST-2:26,SOUTH+1:7"
@@ -81,6 +86,7 @@
 #define ui_alien_toxin "EAST-1:28,CENTER+5:25"
 #define ui_alien_fire "EAST-1:28,CENTER+4:25"
 #define ui_alien_oxygen "EAST-1:28,CENTER+3:25"
+#define ui_alien_nightvision "EAST-1:28,CENTER+2:25"
 
 //Middle right (status indicators)
 #define ui_nutrition "EAST-1:28,CENTER-3:11"

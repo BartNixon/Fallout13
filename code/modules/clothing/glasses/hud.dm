@@ -26,6 +26,14 @@
 	desc = "A heads-up display that scans the humans in view and provides accurate data about their health status."
 	icon_state = "healthhud"
 
+/obj/item/clothing/glasses/hud/health/battlecruiser
+	name = "augmented eye"
+	desc = "Stick it directly in your eye. It might sting a little..."
+	icon_state = "battlecruiser"
+	darkness_view = 1
+	vision_flags = SEE_TURFS
+	invis_view = SEE_INVISIBLE_MINIMUM
+	flags = NODROP
 
 /obj/item/clothing/glasses/hud/health/process_hud(var/mob/M)
 	process_data_hud(M,DATA_HUD_MEDICAL,DATA_HUD_ADVANCED)
@@ -43,6 +51,11 @@
 	name = "Security HUD"
 	desc = "A heads-up display that scans the humans in view and provides accurate data about their ID status and security records."
 	icon_state = "securityhud"
+
+/obj/item/clothing/glasses/hud/security/eyepatch
+	name = "Eyepatch HUD"
+	desc = "A heads-up display that connects directly to the optical nerve of the user, replacing the need for that useless eyeball."
+	icon_state = "hudpatch"
 
 /obj/item/clothing/glasses/hud/security/sunglasses
 	name = "HUDSunglasses"
@@ -62,14 +75,6 @@
 	if(emagged == 0)
 		emagged = 1
 		desc = desc + " The display flickers slightly."
-
-/obj/item/clothing/glasses/hud/security/jensenshades
-	name = "Augmented shades"
-	desc = "Polarized bioneural eyewear, designed to augment your vision."
-	icon_state = "jensenshades"
-	item_state = "jensenshades"
-	vision_flags = SEE_MOBS
-	invis_view = 2
 
 /obj/item/clothing/glasses/hud/security/process_hud(var/mob/M)
 	process_data_hud(M,DATA_HUD_SECURITY,DATA_HUD_ADVANCED)

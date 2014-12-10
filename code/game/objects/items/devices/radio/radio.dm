@@ -1,8 +1,3 @@
-var/GLOBAL_RADIO_TYPE = 1 // radio type to use
-	// 0 = old radios
-	// 1 = new radios (subspace technology)
-
-
 /obj/item/device/radio
 	icon = 'icons/obj/radio.dmi'
 	name = "station bounced radio"
@@ -21,8 +16,11 @@ var/GLOBAL_RADIO_TYPE = 1 // radio type to use
 	var/b_stat = 0
 	var/broadcasting = 0
 	var/listening = 1
+	var/translate_binary = 0
+	var/translate_hive = 0
 	var/freerange = 0 // 0 - Sanitize frequencies, 1 - Full range
 	var/list/channels = list() //see communications.dm for full list. First channes is a "default" for :h
+	var/obj/item/device/encryptionkey/keyslot //To allow the radio to accept encryption keys.
 	var/subspace_transmission = 0
 	var/syndie = 0//Holder to see if it's a syndicate encrpyed radio
 	var/maxf = 1499
@@ -54,8 +52,43 @@ var/GLOBAL_RADIO_TYPE = 1 // radio type to use
 	if(radio_controller)
 		initialize()
 
+
+/obj/item/device/radio/proc/recalculateChannels()
+	channels = list()
+	translate_binary = 0
+	translate_hive = 0
+	syndie = 0
+
+	if(keyslot)
+		for(var/ch_name in keyslot.channels)
+			if(ch_name in src.channels)
+				continue
+			channels += ch_name
+			channels[ch_name] = keyslot.channels[ch_name]
+
+		if(keyslot.translate_binary)
+			translate_binary = 1
+
+		if(keyslot.translate_hive)
+			translate_hive = 1
+
+		if(keyslot.syndie)
+			syndie = 1
+
+	for(var/ch_name in channels)
+		secure_radio_connections[ch_name] = add_radio(src, radiochannels[ch_name])
+
+/obj/item/device/radio/proc/make_syndie() //Turns normal radios into Syndicate radios!
+	qdel(keyslot)
+	keyslot = new /obj/item/device/encryptionkey/syndicate
+	syndie = 1
+	recalculateChannels()
+
 /obj/item/device/radio/Destroy()
-	remove_radio_all(src) //Just to be sure.
+	qdel(wires)
+	wires = null
+	remove_radio_all(src) //Just to be sure
+	..()
 
 /obj/item/device/radio/MouseDrop(obj/over_object as obj, src_location, over_location)
 	var/mob/M = usr
@@ -223,7 +256,7 @@ var/GLOBAL_RADIO_TYPE = 1 // radio type to use
 		the signal gets processed and logged, and an audible transmission gets sent
 		to each individual headset.
 	*/
-		
+
 	/*
 		be prepared to disregard any comments in all of tcomms code. i tried my best to keep them somewhat up-to-date, but eh
 	*/
@@ -448,16 +481,12 @@ var/GLOBAL_RADIO_TYPE = 1 // radio type to use
 		return get_hearers_in_view(canhear_range, src)
 
 
-/obj/item/device/radio/examine()
-	set src in view()
-
+/obj/item/device/radio/examine(mob/user)
 	..()
-	if ((in_range(src, usr) || loc == usr))
-		if (b_stat)
-			usr.show_message("<span class='notice'>\the [src] can be attached and modified!</span>")
-		else
-			usr.show_message("<span class='notice'>\the [src] can not be modified or attached!</span>")
-	return
+	if (b_stat)
+		user << "<span class='notice'>[name] can be attached and modified.</span>"
+	else
+		user << "<span class='notice'>[name] can not be modified or attached.</span>"
 
 /obj/item/device/radio/attackby(obj/item/weapon/W as obj, mob/user as mob)
 	..()
@@ -499,7 +528,6 @@ var/GLOBAL_RADIO_TYPE = 1 // radio type to use
 //Giving borgs their own radio to have some more room to work with -Sieve
 
 /obj/item/device/radio/borg
-	var/obj/item/device/encryptionkey/keyslot = null//Borg radios can handle a single encryption key
 
 /obj/item/device/radio/borg/syndicate
 	syndie = 1
@@ -549,32 +577,6 @@ var/GLOBAL_RADIO_TYPE = 1 // radio type to use
 
 	return
 
-/obj/item/device/radio/borg/proc/recalculateChannels()
-	src.channels = list()
-	src.syndie = 0
-
-	if(keyslot)
-		for(var/ch_name in keyslot.channels)
-			if(ch_name in src.channels)
-				continue
-			src.channels += ch_name
-			src.channels[ch_name] = keyslot.channels[ch_name]
-
-		if(keyslot.syndie)
-			src.syndie = 1
-
-
-	for (var/ch_name in channels)
-		if(!radio_controller)
-			sleep(30) // Waiting for the radio_controller to be created.
-		if(!radio_controller)
-			src.name = "broken radio"
-			return
-
-		secure_radio_connections[ch_name] = add_radio(src, radiochannels[ch_name])
-
-	return
-
 /obj/item/device/radio/borg/Topic(href, href_list)
 	if(usr.stat || !on)
 		return
@@ -610,8 +612,6 @@ var/GLOBAL_RADIO_TYPE = 1 // radio type to use
 	user << browse(dat, "window=radio")
 	onclose(user, "radio")
 	return
-
-
 
 /obj/item/device/radio/off	// Station bounced radios, their only difference is spawning with the speakers off, this was made to help the lag.
 	listening = 0			// And it's nice to have a subtype too for future features.

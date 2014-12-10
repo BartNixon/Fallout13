@@ -1,0 +1,134 @@
+
+
+Starting up. 13:18.47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[13:18:48]ADMIN: Loading Banlistjob
+[13:18:48]ADMIN: Loading jobban_rank
+[13:18:48]ADMIN: jobban_keylist was empty
+[13:18:48]ADMIN: Loading appearance_rank
+[13:18:48]ADMIN: appearance_keylist was empty
+[13:18:48]ADMIN: Updating jobbanfile!
+[13:18:48]ADMIN: Loading Banlist
+[13:20:48]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v507
+[13:21:53]ADMIN: BartNixon has started the game.
+[13:21:57]ACCESS: Logout: *no key*/(BartNixon)
+[13:21:57]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[13:22:06]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[13:22:15]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/head/helmet/yankee at (93,133,1)
+[13:22:19]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/yankee at (93,132,1)
+[13:22:21]EMOTE: monkey (411)/ : <B>The monkey (411)</B> jumps!
+[13:22:23]SAY: mouse/ : Squeek?
+[13:22:39]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:22:41]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[13:22:59]EMOTE: monkey (122)/ : <B>The monkey (122)</B> jumps!
+[13:23:18]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/head/helmet/supaflyhelmet at (107,98,1)
+[13:23:19]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[13:23:23]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/supafly at (107,97,1)
+[13:23:35]EMOTE: Pugley III/ : <B>Pugley III</B> shakes its head.
+[13:24:03]EMOTE: monkey (934)/ : <B>The monkey (934)</B> jumps!
+[13:24:09]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)
+
+
+Starting up. 13:47.59
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[13:47:59]ADMIN: Loading Banlistjob
+[13:47:59]ADMIN: Loading jobban_rank
+[13:47:59]ADMIN: jobban_keylist was empty
+[13:47:59]ADMIN: Loading appearance_rank
+[13:47:59]ADMIN: appearance_keylist was empty
+[13:47:59]ADMIN: Updating jobbanfile!
+[13:47:59]ADMIN: Loading Banlist
+[13:51:25]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v507
+[13:52:18]ADMIN: BartNixon has started the game.
+[13:52:21]SAY: Featherbottom/ : Bwaak bwak.
+[13:52:22]ACCESS: Logout: *no key*/(BartNixon)
+[13:52:22]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[13:52:56]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/missile at (97,133,1)
+[13:53:17]SAY: Runtime/ : Esp!
+[13:54:01]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[13:54:09]SAY: mouse/ : Squeek?
+[13:54:09]EMOTE: Poly/ : <B>Poly</B> looks in the premium cigar's direction and takes flight.
+[13:54:11]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[13:54:13]EMOTE: monkey (200)/ : <B>The monkey (200)</B> jumps!
+[13:54:23]EMOTE: monkey (200)/ : <B>The monkey (200)</B> jumps!
+[13:54:23]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[13:54:27]EMOTE: monkey (397)/ : <B>The monkey (397)</B> jumps!
+[13:54:37]SAY: Runtime/ : Esp!
+[13:55:02]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:55:06]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[13:55:08]EMOTE: monkey (131)/ : <B>The monkey (131)</B> jumps!
+[13:55:18]SAY: mouse/ : SQUEEK!
+[13:55:20]SAY: grey baby slime (85)/ : Rawr...
+[13:55:20]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[13:55:26]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[13:55:36]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[13:55:44]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[13:55:58]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:56:04]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:56:16]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[13:56:22]SAY: mouse/ : SQUEEK!
+[13:56:54]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[13:56:58]EMOTE: monkey (397)/ : <B>The monkey (397)</B> jumps!
+[13:57:08]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:57:22]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:57:38]EMOTE: monkey (397)/ : <B>The monkey (397)</B> jumps!
+[13:57:58]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:58:04]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:58:14]EMOTE: Featherbottom/ : <B>Featherbottom</B> pecks at the ground
+[13:58:18]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:58:40]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:58:44]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:59:02]EMOTE: Ian/ : <B>Ian</B> dances around.
+[13:59:14]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[13:59:14]SAY: Kentucky/ : Bwaak bwak.
+[13:59:16]SAY: mouse/ : Squeek?
+[13:59:24]EMOTE: Featherbottom/ : <B>Featherbottom</B> pecks at the ground
+[13:59:32]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[13:59:38]EMOTE: mouse/ : <B>The mouse</B> shakes
+[14:00:03]EMOTE: monkey (851)/ : <B>The monkey (851)</B> jumps!
+[14:00:09]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[14:00:10]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[14:00:13]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the item at Carpet (98,132,1)
+[14:00:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the item at Head of Personnel's Desk (98,130,1)
+[14:00:14]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw the item at the floor (98,129,1)
+[14:00:18]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[14:00:49]EMOTE: mouse/ : <B>The mouse</B> shakes
+[14:01:05]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[14:01:23]EMOTE: Pete/ : <B>Pete</B> glares around
+[14:01:33]SAY: Kentucky/ : Bwaak bwak.
+[14:01:39]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[14:01:53]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[14:02:01]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[14:02:16]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

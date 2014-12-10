@@ -15,15 +15,11 @@
 	if((istype(user,/mob/living/silicon/robot)) && (!(viewing.Find(user))))
 		return null
 	user.reset_view(current)
-	attack_hand(user)
 	return 1
 
 
 /obj/machinery/computer/security/attack_hand(var/mob/user as mob)
 	if(!stat)
-		if (src.z > 6)
-			user << "<span class='userdanger'>Unable to establish a connection</span>: \black You're too far away from the station!"
-			return
 
 		if (!network)
 			ERROR("A computer lacks a network at [x],[y],[z].")
@@ -37,6 +33,8 @@
 
 		var/list/L = list()
 		for (var/obj/machinery/camera/C in cameranet.cameras)
+			if((z > 7 || C.z > 7) && (C.z != z))//if on away mission, can only recieve feed from same z_level cameras
+				continue
 			L.Add(C)
 
 		camera_sort(L)
@@ -45,10 +43,10 @@
 		D["Cancel"] = "Cancel"
 		for(var/obj/machinery/camera/C in L)
 			if(!C.network)
-				world.log << "[C.c_tag] has no camera network."
+				ERROR("[C.c_tag] has no camera network.")
 				continue
 			if(!(istype(C.network,/list)))
-				world.log << "[C.c_tag]'s camera network is not a list!"
+				ERROR("[C.c_tag]'s camera network is not a list!")
 				continue
 			var/list/tempnetwork = C.network&network
 			if(tempnetwork.len)
@@ -114,6 +112,11 @@
 	name = "security camera monitor"
 	desc = "An old TV hooked into the stations camera network."
 	icon_state = "security_det"
+
+/obj/machinery/computer/security/dropship
+	name = "camera monitor"
+	desc = "Allows Colonial Marines to access camera network."
+	icon_state = "dropshipbottom"
 
 
 /obj/machinery/computer/security/mining

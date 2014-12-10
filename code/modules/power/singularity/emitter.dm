@@ -27,7 +27,9 @@
 	set category = "Object"
 	set src in oview(1)
 
-	if (src.anchored || usr:stat)
+	if(usr.stat || !usr.canmove || usr.restrained())
+		return
+	if (src.anchored)
 		usr << "It is fastened to the floor!"
 		return 0
 	src.dir = turn(src.dir, 90)
@@ -119,13 +121,17 @@
 		else
 			src.fire_delay = rand(20,100)
 			src.shot_number = 0
-		var/obj/item/projectile/beam/emitter/A = new /obj/item/projectile/beam/emitter( src.loc )
+
+		var/obj/item/projectile/beam/emitter/A = PoolOrNew(/obj/item/projectile/beam/emitter,src.loc)
+
+		A.dir = src.dir
 		playsound(src.loc, 'sound/weapons/emitter.ogg', 25, 1)
+
 		if(prob(35))
 			var/datum/effect/effect/system/spark_spread/s = new /datum/effect/effect/system/spark_spread
 			s.set_up(5, 1, src)
 			s.start()
-		A.dir = src.dir
+
 		switch(dir)
 			if(NORTH)
 				A.yo = 20

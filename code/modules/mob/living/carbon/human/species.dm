@@ -176,11 +176,19 @@
 		img_eyes_s.color = "#" + H.eye_color
 		standing	+= img_eyes_s
 
-	//Underwear
+	//Underwear & Undershirts
 	if(H.underwear)
-		var/datum/sprite_accessory/underwear/U = underwear_all[H.underwear]
+		var/datum/sprite_accessory/underwear/U = underwear_list[H.underwear]
 		if(U)
 			standing	+= image("icon"=U.icon, "icon_state"="[U.icon_state]_s", "layer"=-BODY_LAYER)
+
+	if(H.undershirt)
+		var/datum/sprite_accessory/undershirt/U2 = undershirt_list[H.undershirt]
+		if(U2)
+			if(H.dna && H.dna.species.sexes && H.gender == FEMALE)
+				standing	+=	H.wear_female_version(U2.icon_state, U2.icon, BODY_LAYER)
+			else
+				standing	+= image("icon"=U2.icon, "icon_state"="[U2.icon_state]_s", "layer"=-BODY_LAYER)
 
 	if(standing.len)
 		H.overlays_standing[BODY_LAYER] = standing
@@ -337,13 +345,13 @@
 		if(slot_handcuffed)
 			if(H.handcuffed)
 				return 0
-			if(!istype(I, /obj/item/weapon/handcuffs))
+			if(!istype(I, /obj/item/weapon/restraints/handcuffs))
 				return 0
 			return 1
 		if(slot_legcuffed)
 			if(H.legcuffed)
 				return 0
-			if(!istype(I, /obj/item/weapon/legcuffs))
+			if(!istype(I, /obj/item/weapon/restraints/legcuffs))
 				return 0
 			return 1
 		if(slot_in_backpack)
@@ -570,13 +578,13 @@
 
 		else
 			switch(H.radiation)
-				if(1 to 49)
+				if(0 to 50)
 					H.radiation--
 					if(prob(25))
 						H.adjustToxLoss(1)
 						H.updatehealth()
 
-				if(50 to 74)
+				if(50 to 75)
 					H.radiation -= 2
 					H.adjustToxLoss(1)
 					if(prob(5))
@@ -609,13 +617,24 @@
 
 /datum/species/proc/movement_delay(var/mob/living/carbon/human/H)
 	var/mspeed = 0
+	if(H.status_flags & GOTTAGOFAST)
+		mspeed -= 1
 
 	if(!has_gravity(H))
-		return -1	//It's hard to be slowed down in space by... anything
-	else if(H.status_flags & GOTTAGOFAST)
-		return -1
+		mspeed += 1.5 //Carefully propelling yourself along the walls is actually quite slow
 
-	mspeed = 0
+		if(istype(H.back, /obj/item/weapon/tank/jetpack))
+			var/obj/item/weapon/tank/jetpack/J = H.back
+			if(J.allow_thrust(0.01, H))
+				mspeed -= 2.5
+
+		if(H.l_hand) //Having your hands full makes movement harder when you're weightless. You try climbing around while holding a gun!
+			mspeed += 0.5
+		if(H.r_hand)
+			mspeed += 0.5
+		if(H.r_hand && H.l_hand)
+			mspeed += 0.5
+
 	var/health_deficiency = (100 - H.health + H.staminaloss)
 	if(health_deficiency >= 40)
 		mspeed += (health_deficiency / 25)
@@ -668,8 +687,10 @@
 
 			if(H.cpr_time < world.time + 30)
 				add_logs(H, M, "CPRed")
-				H.visible_message("<span class='notice'>[M] is trying to perform CPR on [H]!</span>")
+				M.visible_message("<span class='notice'>[M] is trying to perform CPR on [H]!</span>", \
+								"<span class='notice'>You try to perform CPR on [H]. Hold still!</span>")
 				if(!do_mob(M, H))
+					M << "<span class='warning'>You fail to perform CPR on [H]!</span>"
 					return 0
 				if((H.health >= -99 && H.health <= 0))
 					H.cpr_time = world.time
@@ -680,29 +701,12 @@
 					H << "<span class='unconscious'>You feel a breath of fresh air enter your lungs. It feels good.</span>"
 
 		if("grab")
-			if(M == H || H.anchored)
-				return 0
-
-			add_logs(M, H, "grabbed", addition="passively")
-
-			if(H.w_uniform)
-				H.w_uniform.add_fingerprint(M)
-
-			var/obj/item/weapon/grab/G = new /obj/item/weapon/grab(M, H)
-			if(H.buckled)
-				M << "<span class='notice'>You cannot grab [H], \he is buckled in!</span>"
-			if(!G)	//the grab will delete itself in New if affecting is anchored
-				return
-			M.put_in_active_hand(G)
-			G.synch()
-			H.LAssailant = M
-
-			playsound(H.loc, 'sound/weapons/thudswoosh.ogg', 50, 1, -1)
-			H.visible_message("<span class='warning'>[M] has grabbed [H] passively!</span>")
+			H.grabbedby(M)
 			return 1
 
 		if("harm")
 			add_logs(M, H, "punched")
+			M.do_attack_animation(H)
 
 			var/atk_verb = "punch"
 			if(H.lying)
@@ -748,6 +752,7 @@
 				H.forcesay(hit_appends)
 
 		if("disarm")
+			M.do_attack_animation(H)
 			add_logs(M, H, "disarmed")
 
 			if(H.w_uniform)
@@ -803,6 +808,8 @@
 
 /datum/species/proc/spec_attacked_by(var/obj/item/I, var/mob/living/user, var/def_zone, var/obj/item/organ/limb/affecting, var/hit_area, var/intent, var/obj/item/organ/limb/target_limb, target_area, var/mob/living/carbon/human/H)
 	// Allows you to put in item-specific reactions based on species
+	if(user != src)
+		user.do_attack_animation(H)
 	if((user != H) && H.check_shields(I.force, "the [I.name]"))
 		return 0
 
@@ -822,7 +829,7 @@
 	apply_damage(I.force, I.damtype, affecting, armor, H)
 
 	var/bloody = 0
-	if(((I.damtype == BRUTE) && prob(25 + (I.force * 2))))
+	if(((I.damtype == BRUTE) && I.force && prob(25 + (I.force * 2))))
 		if(affecting.status == ORGAN_ORGANIC)
 			I.add_blood(H)	//Make the weapon bloody, not the person.
 			if(prob(I.force * 2))	//blood spatter!
@@ -853,6 +860,7 @@
 					H.apply_effect(20, PARALYZE, armor)
 					if(H != user && I.damtype == BRUTE)
 						ticker.mode.remove_revolutionary(H.mind)
+						ticker.mode.remove_gangster(H.mind)
 
 				if(bloody)	//Apply blood
 					if(H.wear_mask)
@@ -866,7 +874,7 @@
 						H.update_inv_glasses(0)
 
 			if("chest")	//Easier to score a stun but lasts less time
-				if(H.stat == CONSCIOUS && prob(I.force + 10))
+				if(H.stat == CONSCIOUS && I.force && prob(I.force + 10))
 					H.visible_message("<span class='danger'>[H] has been knocked down!</span>", \
 									"<span class='userdanger'>[H] has been knocked down!</span>")
 					H.apply_effect(5, WEAKEN, armor)
@@ -894,6 +902,8 @@
 	var/showname = "."
 	if(user)
 		showname = " by [user]!"
+		if(user != src)
+			user.do_attack_animation(H)
 	if(!(user in viewers(I, null)))
 		showname = "."
 
@@ -1027,14 +1037,9 @@
 	if((H.status_flags & GODMODE))
 		return
 
-	if(!breath || (breath.total_moles() == 0) || H.suiciding)
+	if(!breath || (breath.total_moles() == 0))
 		if(H.reagents.has_reagent("inaprovaline"))
 			return
-		if(H.suiciding)
-			H.adjustOxyLoss(2)//If you are suiciding, you should die a little bit faster
-			H.failed_last_breath = 1
-			H.oxygen_alert = max(H.oxygen_alert, 1)
-			return 0
 		if(H.health >= config.health_threshold_crit)
 			if(NOBREATH in specflags)	return 1
 			H.adjustOxyLoss(HUMAN_MAX_OXYLOSS)
@@ -1264,7 +1269,7 @@
 		return
 	var/datum/gas_mixture/G = H.loc.return_air() // Check if we're standing in an oxygenless environment
 	if(G.oxygen < 1)
-		ExtinguishMob() //If there's no oxygen in the tile we're on, put out the fire
+		ExtinguishMob(H) //If there's no oxygen in the tile we're on, put out the fire
 		return
 	var/turf/location = get_turf(H)
 	location.hotspot_expose(700, 50, 1)

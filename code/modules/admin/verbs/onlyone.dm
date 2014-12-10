@@ -12,7 +12,7 @@
 
 		var/datum/objective/steal/steal_objective = new
 		steal_objective.owner = H.mind
-		steal_objective.set_target("nuclear authentication disk")
+		steal_objective.set_target(new /datum/objective_item/steal/nukedisc)
 		H.mind.objectives += steal_objective
 
 		var/datum/objective/hijack/hijack_objective = new
@@ -46,5 +46,5 @@
 		W.update_label(H.real_name)
 		H.equip_to_slot_or_del(W, slot_wear_id)
 
-	message_admins("<span class='adminnotice'>[key_name_admin(usr)] used THERE CAN BE ONLY ONE!</span>", 1)
+	message_admins("<span class='adminnotice'>[key_name_admin(usr)] used THERE CAN BE ONLY ONE!</span>")
 	log_admin("[key_name(usr)] used there can be only one.")

@@ -1,0 +1,480 @@
+
+
+Starting up. 17:46.03
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[17:46:03]ADMIN: Loading Banlistjob
+[17:46:03]ADMIN: Loading jobban_rank
+[17:46:03]ADMIN: jobban_keylist was empty
+[17:46:03]ADMIN: Loading appearance_rank
+[17:46:03]ADMIN: appearance_keylist was empty
+[17:46:03]ADMIN: Updating jobbanfile!
+[17:46:03]ADMIN: Loading Banlist
+[17:47:35]ACCESS: Login: BartNixon/(BartNixon) from 127.0.0.1-3529772718 || BYOND v507
+[17:48:15]ACCESS: Login: Hold_Me_Please/(Hold_Me_Please) from 25.96.232.235-1717034465 || BYOND v506
+[17:48:34]OOC: BartNixon/BartNixon : Ohai.
+[17:48:55]OOC: Hold_Me_Please/Hold_Me_Please : Hai
+[17:49:01]OOC: BartNixon/BartNixon : Вот сейчас играет Harry James Orchestra - All Or Nothing.
+[17:49:34]ACCESS: Logout: *no key*/(Hold_Me_Please)
+[17:49:34]ACCESS: Login: Hold_Me_Please/(Zeke Pinney) from 25.96.232.235-1717034465 || BYOND v506
+[17:49:42]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[17:49:54]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[17:50:18]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:50:24]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[17:50:30]SAY: Ian/ : YAP!
+[17:50:38]OOC: Zeke Pinney/Hold_Me_Please : So?
+[17:50:44]SAY: grey baby slime (254)/ : Blorble...
+[17:50:51]ACCESS: Logout: *no key*/(BartNixon)
+[17:50:51]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:50:52]SAY: mouse/ : Squeek!
+[17:50:52]EMOTE: mouse/ : <B>The mouse</B> shakes
+[17:51:05]ADMIN: BartNixon/(Gilroy Rudah) jumped to Hold_Me_Please/(Zeke Pinney)
+[17:51:11]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[17:51:26]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/storage/firstaid/o2 at (87,100,1)
+[17:51:33]SAY: Ian/ : Woof!
+[17:51:37]ADMIN: BartNixon/(Gilroy Rudah) dealt 2000 amount of oxygen damage to Gilroy Rudah 
+[17:51:37]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:51:43]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[17:51:47]SAY: Zeke Pinney/Hold_Me_Please : Разр!
+[17:51:57]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> gasps!
+[17:51:57]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[17:51:59]SAY: Ian/ : Woof!
+[17:52:05]SAY: mouse/ : Squeek!
+[17:52:21]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:52:21]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:52:27]EMOTE: Tom/ : <B>Tom</B> squeeks
+[17:52:33]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[17:52:36]OOC: Gilroy Rudah/BartNixon : Ты крио не подключил. МенЯ сейчас завалит внутри.
+[17:52:37]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[17:52:40]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:52:40]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:52:46]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:52:46]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:52:47]EMOTE: Tom/ : <B>Tom</B> squeeks
+[17:52:49]SAY: mouse/ : Squeek?
+[17:52:59]OOC: Gilroy Rudah/BartNixon : Ключем по канистрам! У теб10 секунд!
+[17:53:03]EMOTE: monkey (133)/ : <B>The monkey (133)</B> jumps!
+[17:53:11]OOC: Gilroy Rudah/BartNixon : Открывай кислород!
+[17:53:14]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:53:14]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:53:18]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:53:18]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:53:23]SAY: mouse/ : SQUEEK!
+[17:53:33]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[17:53:33]OOC: Gilroy Rudah/BartNixon : Криоксандон воткни если не воткнул еще.
+[17:53:47]OOC: Zeke Pinney/Hold_Me_Please : Воткнул, да. Забыл что тут ничего не подключено.
+[17:53:53]SAY: Pugley III/ : YAP
+[17:54:03]SAY: grey baby slime (13)/ : Rawr...
+[17:54:05]SAY: mouse/ : SQUEEK!
+[17:54:09]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[17:54:26]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:54:26]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:54:33]OOC: Gilroy Rudah/BartNixon : Есть отхил.
+[17:54:35]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[17:54:53]EMOTE: Featherbottom/ : <B>Featherbottom</B> clucks
+[17:54:55]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[17:55:08]OOC: Zeke Pinney/Hold_Me_Please : http://puu.sh/d10Li/f1f629debe.png
+[17:55:17]OOC: Zeke Pinney/Hold_Me_Please : Там так. Можешь сам зайти и посмотреть.
+[17:55:23]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[17:55:30]OOC: Zeke Pinney/Hold_Me_Please : Конечности могут быть сломаными?
+[17:55:39]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:55:53]EMOTE: Poly/ : <B>Poly</B> looks in the premium cigar's direction and takes flight.
+[17:55:55]EMOTE: monkey (133)/ : <B>The monkey (133)</B> jumps!
+[17:56:35]SAY: Kentucky/ : Cluck!
+[17:56:36]OOC: Gilroy Rudah/BartNixon : Не могут быть сломаными. Здесь нет переломов, пули не застрЯют итд. Тут только самый простой робаст и мед.
+[17:56:51]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[17:57:01]OOC: Zeke Pinney/Hold_Me_Please : А херургитогда зачем?
+[17:57:08]OOC: Zeke Pinney/Hold_Me_Please : херургиЯ*
+[17:57:28]SAY: mouse/ : Squeek?
+[17:57:32]OOC: Zeke Pinney/Hold_Me_Please : А пон.
+[17:57:37]OOC: Zeke Pinney/Hold_Me_Please : понЯл.
+[17:57:48]EMOTE: Poly/ : <B>Poly</B> looks in the bruise pack's direction and takes flight.
+[17:57:53]OOC: Gilroy Rudah/BartNixon : Тут есть много чего на Бэе нет.
+[17:57:54]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[17:58:08]SAY: mouse/ : SQUEEK!
+[17:58:13]OOC: Zeke Pinney/Hold_Me_Please : Например?
+[17:58:22]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[17:58:26]EMOTE: mouse/ : <B>The mouse</B> shakes
+[17:58:28]SAY: mouse/ : Squeek!
+[17:58:30]OOC: Gilroy Rudah/BartNixon : Хирурги занимаютсЯ имплантами, полной аугментацией тела - тут живот можно вырезать. И стандартные операции вроде аппендикса.
+[17:58:46]EMOTE: Poly/ : <B>Poly</B> looks in the kelotane pill's direction and takes flight.
+[17:58:50]OOC: Gilroy Rudah/BartNixon : Тут кстати нет под-профы хирурга, медики всем занимаютсЯ.
+[17:59:20]SAY: Poly/ : Poly wanna cracker!
+[17:59:32]EMOTE: mouse/ : <B>The mouse</B> shakes
+[17:59:34]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:59:34]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:59:37]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[17:59:37]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[17:59:40]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[17:59:44]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[17:59:52]EMOTE: monkey (477)/ : <B>The monkey (477)</B> jumps!
+[17:59:58]SAY: mouse/ : Squeek!
+[18:00:41]EMOTE: Pete/ : <B>Pete</B> brays
+[18:00:41]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[18:00:51]ADMIN: BartNixon/(Gilroy Rudah) played sound outofspace.ogg
+[18:00:53]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> snores.
+[18:00:59]SAY: Featherbottom/ : Cluck!
+[18:01:09]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[18:01:11]EMOTE: Gilroy Rudah/BartNixon : <B>Gilroy Rudah</B> snores.
+[18:01:13]EMOTE: Kentucky/ : <B>Kentucky</B> pecks at the ground
+[18:01:15]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:01:17]SAY: Gilroy Rudah/BartNixon : Жив, цел, орел!
+[18:01:27]EMOTE: Ian/ : <B>Ian</B> shivers.
+[18:01:32]SAY: Zeke Pinney/Hold_Me_Please : PAPERS, PLEASE!
+[18:01:39]SAY: Zeke Pinney/Hold_Me_Please : Any1 english?
+[18:01:39]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[18:01:41]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[18:01:51]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[18:02:01]SAY: mouse/ : SQUEEK!
+[18:02:13]SAY: mouse/ : Squeek?
+[18:02:16]SAY: Gilroy Rudah/BartNixon : Glory to Arstotzka!
+[18:02:29]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/motiontracker at (88,100,1)
+[18:02:35]SAY: Kentucky/ : Cluck!
+[18:02:37]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[18:02:43]EMOTE: Kentucky/ : <B>Kentucky</B> flaps its wings viciously
+[18:02:44]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/m41a at (89,100,1)
+[18:02:45]SAY: Pugley III/ : Bark!
+[18:02:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/head/helmet/uscmc/m10pbh at (89,101,1)
+[18:02:59]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/head/helmet/uscmc/m10pbhcamo at (88,101,1)
+[18:03:03]SAY: Pete/ : eh?
+[18:03:06]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/uscmc/bducamo at (88,99,1)
+[18:03:12]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/under/uscmc/bdu at (89,99,1)
+[18:03:19]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/uscmc/m3ppa at (90,101,1)
+[18:03:23]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/uscmc/m3ppamedic at (90,100,1)
+[18:03:27]SAY: grey baby slime (254)/ : Rawr...
+[18:03:27]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/uscmc/m3ppamedic at (90,99,1)
+[18:03:32]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/uscmc/m3ppaengineer at (90,98,1)
+[18:03:35]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:03:35]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:03:35]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) deleted M3 medic PPA at (90,99,1)
+[18:03:39]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw M3 engineer PPA at the floor (90,99,1)
+[18:03:40]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:03:41]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:03:45]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/suit/armor/uscmc/m3ppaofficer at (89,98,1)
+[18:03:51]SAY: Poly/ : <i>Check the singlo, you chucklefucks!</i>
+[18:04:10]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/shoes/swat/combat at (88,98,1)
+[18:04:10]EMOTE: monkey (734)/ : <B>The monkey (734)</B> jumps!
+[18:04:17]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:04:17]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[18:04:26]SAY: mouse/ : Squeek!
+[18:04:29]ADMIN: BartNixon/(Gilroy Rudah) has possessed the nuclear authentication disk (/obj/item/weapon/disk/nuclear) at (118, 141, 1)
+[18:04:32]SAY: grey baby slime (254)/ : Blop...
+[18:04:37]ADMIN: BartNixon/(nuclear authentication disk) modified nuclear authentication disk's icon_state to void
+[18:05:06]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:05:10]SAY: grey baby slime (13)/ : Lonely...
+[18:05:12]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:05:41]ADMIN: BartNixon/(nuclear authentication disk) modified nuclear authentication disk's icon_state to nucleardisk
+[18:05:42]EMOTE: Pete/ : <B>Pete</B> shakes its head
+[18:05:47]SAY: Zeke Pinney/Hold_Me_Please : Надо же
+[18:05:50]SAY: Zeke Pinney/Hold_Me_Please : Круто
+[18:06:04]SAY: mouse/ : Squeek?
+[18:06:05]ADMIN: BartNixon/(Gilroy Rudah) made the nuclear authentication disk at 89, 95, 1 say "Lol"
+[18:06:16]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:06:16]ADMIN: BartNixon/(Gilroy Rudah) made the nuclear authentication disk at 89, 95, 1 say "Owned."
+[18:06:20]EMOTE: Pugley III/ : <B>Pugley III</B> woofs!
+[18:06:30]SAY: mouse/ : SQUEEK!
+[18:06:34]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[18:06:37]OOC: Gilroy Rudah/BartNixon : Звук залагал?
+[18:06:42]OOC: Zeke Pinney/Hold_Me_Please : Ага
+[18:06:47]OOC: Gilroy Rudah/BartNixon : А выруби его.
+[18:06:48]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:06:58]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:07:33]OOC: Zeke Pinney/Hold_Me_Please : Безгильзова Вау.
+[18:07:46]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:07:52]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:08:01]OOC: Gilroy Rudah/BartNixon : Э.. А та гильза откуда?
+[18:08:10]EMOTE: monkey (133)/ : <B>The monkey (133)</B> jumps!
+[18:08:12]SAY: Featherbottom/ : Cluck!
+[18:08:16]OOC: Zeke Pinney/Hold_Me_Please : Вытащил из оружи
+[18:08:17]OOC: Gilroy Rudah/BartNixon : Лол, лаг какой то.
+[18:08:20]EMOTE: Pete/ : <B>Pete</B> glares around
+[18:08:22]OOC: Gilroy Rudah/BartNixon : А, хаха
+[18:08:31]OOC: Gilroy Rudah/BartNixon : Стоп, как это вытащил? Хаха
+[18:08:44]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[18:08:57]OOC: Zeke Pinney/Hold_Me_Please : Да вот так. Загрузил пулю в оружие, сделал выстрел, другую вытащил так же, как и магазин.
+[18:09:05]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:09:15]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:09:23]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:09:35]SAY: mouse/ : Squeek!
+[18:09:35]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:09:36]OOC: Gilroy Rudah/BartNixon : Но но... Ведь она безгильзоваЯ... Или только если читерски их доставать?
+[18:09:37]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[18:09:39]EMOTE: Betsy/ : <B>Betsy</B> brays
+[18:09:45]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:09:46]OOC: Zeke Pinney/Hold_Me_Please : Это не гильзы, это пули.
+[18:09:47]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:09:47]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[18:09:55]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/gun/projectile/automatic/m41a at (89,102,1)
+[18:10:06]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/holodisk/holodiskmarinesru at (88,102,1)
+[18:10:14]OOC: Zeke Pinney/Hold_Me_Please : Нажми два раза пейдж даун.
+[18:10:19]EMOTE: Pugley III/ : <B>Pugley III</B> shivers.
+[18:10:30]SAY: Zeke Pinney/Hold_Me_Please : Черт, как круто!
+[18:10:33]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:10:33]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:10:33]SAY: Ian/ : YAP!
+[18:10:39]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:10:51]EMOTE: monkey (477)/ : <B>The monkey (477)</B> jumps!
+[18:11:05]EMOTE: Pugley III/ : <B>Pugley III</B> yaps.
+[18:11:07]SAY: Pugley III/ : Bark!
+[18:11:09]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[18:11:25]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:11:25]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[18:11:35]SAY: Runtime/ : Purr!
+[18:11:35]ADMIN: BartNixon/(Gilroy Rudah) has possessed Blast doors (/obj/machinery/door_control) at (41, 122, 1)
+[18:11:41]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:11:42]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:11:42]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[18:11:45]EMOTE: Betsy/ : <B>Betsy</B> shakes its head
+[18:11:54]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/clothing/shoes/swat/combat at (88,101,1)
+[18:12:16]EMOTE: monkey (133)/ : <B>The monkey (133)</B> jumps!
+[18:12:38]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:12:38]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[18:12:56]ADMIN: BartNixon/(Gilroy Rudah) moved the centcom ferry
+[18:12:56]ADMIN: BartNixon/(Gilroy Rudah) used secret moveferry
+[18:13:08]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:13:11]SAY: Zeke Pinney/Hold_Me_Please : Какие анимации
+[18:13:12]SAY: Zeke Pinney/Hold_Me_Please : Вау
+[18:13:12]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:13:18]EMOTE: Ian/ : <B>Ian</B> shivers.
+[18:13:24]SAY: mouse/ : Squeek!
+[18:13:32]SAY: Runtime/ : Purr!
+[18:13:37]ADMIN: BartNixon/(Gilroy Rudah) moved the centcom ferry
+[18:13:37]ADMIN: BartNixon/(Gilroy Rudah) used secret moveferry
+[18:13:54]OOC: Gilroy Rudah/BartNixon : Я базу еще не склеивал. Но шатол летает.
+[18:14:11]OOC: Gilroy Rudah/BartNixon : А! Я вспомнил что забыл! Я забыл самое главное - штурвал.
+[18:14:16]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:14:20]EMOTE: Kentucky/ : <B>Kentucky</B> flaps its wings viciously
+[18:14:21]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/effect/fakespace at (117,99,2)
+[18:14:40]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[18:14:42]SAY: Featherbottom/ : Bwaak bwak.
+[18:14:43]ADMIN: BartNixon/(Gilroy Rudah) modified space's icon to icons/turf/walterje.dmi
+[18:14:47]ADMIN: BartNixon/(Gilroy Rudah) modified space's icon_state to controls
+[18:14:50]ADMIN: BartNixon/(Gilroy Rudah) modified space's name to helm
+[18:14:56]SAY: Pugley III/ : YAP
+[18:14:58]EMOTE: Ian/ : <B>Ian</B> woofs!
+[18:14:59]SAY: Zeke Pinney/Hold_Me_Please : Ground control to Major Tom...
+[18:15:08]OOC: Gilroy Rudah/BartNixon : Вот. Другое дело. И лампочки сюда другие запилю.
+[18:15:12]SAY: mouse/ : SQUEEK!
+[18:15:14]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[18:15:18]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:15:20]ADMIN: BartNixon/(Gilroy Rudah) mass modified light fixture's icon_state to tube1
+[18:15:28]ADMIN: BartNixon/(Gilroy Rudah) moved the centcom ferry
+[18:15:28]ADMIN: BartNixon/(Gilroy Rudah) used secret moveferry
+[18:15:30]EMOTE: Runtime/ : <B>Runtime</B> mews
+[18:15:36]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:15:38]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:15:43]OOC: Gilroy Rudah/BartNixon : Сейчас еще прикол покажу.
+[18:15:56]SAY: Betsy/ : moo
+[18:16:10]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:16:10]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:16:12]OOC: Gilroy Rudah/BartNixon : Можно на шатоле заваритсЯ.
+[18:16:16]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:16:32]SAY: mouse/ : SQUEEK!
+[18:16:37]OOC: Zeke Pinney/Hold_Me_Please : Когда следующий ивонт, кстати?
+[18:16:46]OOC: Gilroy Rudah/BartNixon : Числа 28.
+[18:16:48]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:16:50]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:16:52]ADMIN: BartNixon/(Gilroy Rudah) has entered build mode.
+[18:16:56]ADMIN: Build Mode: BartNixon/(Gilroy Rudah) threw Zeke Pinney at the plating (42,123,1)
+[18:16:56]ADMIN: BartNixon/(Gilroy Rudah) has left build mode.
+[18:16:59]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's req_access_txt to 101
+[18:17:13]OOC: Gilroy Rudah/BartNixon : Штоа?! Как?! Не сработало?!
+[18:17:22]SAY: Featherbottom/ : Cluck!
+[18:17:33]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's req_access_txt to 228
+[18:17:40]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's req_one_access_txt to 228
+[18:17:42]EMOTE: monkey (133)/ : <B>The monkey (133)</B> jumps!
+[18:17:46]EMOTE: Kentucky/ : <B>Kentucky</B> pecks at the ground
+[18:17:50]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's req_access: ADDED=228
+[18:18:12]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:18:20]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to robot; deletemob=1
+[18:18:20]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:18:20]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[18:18:24]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:18:28]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:18:34]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[18:18:36]OOC: Gilroy Rudah/BartNixon : Ахахах, лолшта
+[18:19:02]SAY: Kentucky/ : Bwaak bwak.
+[18:19:02]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's icon_state to door_closed
+[18:19:10]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:19:16]OOC: Gilroy Rudah/BartNixon : Так, сейчас чекну иконки...
+[18:19:22]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:19:22]EMOTE: Kentucky/ : <B>Kentucky</B> pecks at the ground
+[18:19:40]EMOTE: Tom/ : <B>Tom</B> squeeks
+[18:19:44]EMOTE: Pete/ : <B>Pete</B> glares around
+[18:19:58]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[18:20:06]EMOTE: Ian/ : <B>Ian</B> yaps.
+[18:20:07]OOC: Gilroy Rudah/BartNixon : Если попробуешь нижнюю дверь открыть - увидишь как ручка входнадергаетс
+[18:20:28]EMOTE: Featherbottom/ : <B>Featherbottom</B> clucks
+[18:20:31]OOC: Zeke Pinney/Hold_Me_Please : И действительно!
+[18:20:34]OOC: Gilroy Rudah/BartNixon : А желтые огоньки - должны означать что дверь на болтах.
+[18:20:36]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:21:12]SAY: grey baby slime (254)/ : Blop...
+[18:21:18]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[18:21:22]SAY: mouse/ : Squeek?
+[18:21:28]SAY: Featherbottom/ : Cluck!
+[18:21:31]OOC: Gilroy Rudah/BartNixon : А! Пон! Я один стейт запорол!
+[18:21:36]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:21:36]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:21:45]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's icon to icons/obj/doors/Door2x1marine.dmi
+[18:21:45]SAY: Featherbottom/ : Bwaak bwak.
+[18:21:59]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's icon to icons/obj/doors/Door2x1marine.dmi
+[18:22:10]ADMIN: BartNixon/(Gilroy Rudah) modified dropship airlock's icon to Door2x1marine.dmi
+[18:22:31]SAY: Tom/ : Squeek!
+[18:22:32]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/card/emag at (42,126,1)
+[18:22:37]EMOTE: Ian/ : <B>Ian</B> woofs!
+[18:22:37]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:22:40]OOC: Gilroy Rudah/BartNixon : Эмагни нижнюю
+[18:22:55]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[18:22:58]ADMIN: BartNixon/(Gilroy Rudah) has used rudimentary transformation on BartNixon/(Gilroy Rudah). Transforming to human; deletemob=1
+[18:22:58]ACCESS: Logout: *no key*/(Gilroy Rudah)
+[18:22:58]ACCESS: Login: BartNixon/(Gilroy Rudah) from 127.0.0.1-3529772718 || BYOND v507
+[18:23:02]OOC: Zeke Pinney/Hold_Me_Please : Зеленые огоньки, да.
+[18:23:12]ADMIN: BartNixon/(Gilroy Rudah) spawned /obj/item/weapon/paper at (44,125,1)
+[18:23:19]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:23:32]ADMIN: BartNixon/(Gilroy Rudah) modified paper's icon to pda111.gif
+[18:23:37]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:23:43]SAY: Runtime/ : Esp!
+[18:23:53]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:24:03]SAY: Pete/ : eh?
+[18:24:07]ADMIN: BartNixon/(Gilroy Rudah) modified paper's info to <object width="800" height="494"><param name="movie" value="http://www.classicgamesarcade.com/games/doom.swf"></param><embed src="http://www.classicgamesarcade.com/games/doom.swf" type="application/x-shockwave-flash" width="400" height="247"></embed></object><br />
+[18:24:10]ADMIN: BartNixon/(Gilroy Rudah) modified paper's name to DOOM
+[18:24:19]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[18:24:30]ADMIN: BartNixon/(Gilroy Rudah) modified DOOM's pixel_x to 0
+[18:24:33]ADMIN: BartNixon/(Gilroy Rudah) modified DOOM's pixel_y to 0
+[18:24:33]EMOTE: Ian/ : <B>Ian</B> yaps.
+[18:24:45]EMOTE: Featherbottom/ : <B>Featherbottom</B> clucks
+[18:24:59]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:24:59]SAY: mouse/ : Squeek!
+[18:25:25]ADMIN: BartNixon/(Gilroy Rudah) modified equip's icon to doom1.gif
+[18:25:27]EMOTE: Featherbottom/ : <B>Featherbottom</B> flaps its wings viciously
+[18:25:31]ADMIN: BartNixon/(Gilroy Rudah) mass modified equip's icon to doom1.gif
+[18:25:33]EMOTE: Ian/ : <B>Ian</B> barks!
+[18:25:39]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:25:55]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:26:07]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:26:09]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[18:26:17]OOC: Zeke Pinney/Hold_Me_Please : И на Орионе такое тоже есть штоль?
+[18:26:19]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:26:41]OOC: Gilroy Rudah/BartNixon : Да, на Орионе тоже такое можно. Лол.
+[18:26:43]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:26:52]SAY: Pete/ : eh?
+[18:26:55]SAY: Featherbottom/ : Cluck!
+[18:27:01]SAY: mouse/ : Squeek!
+[18:27:16]ADMIN: BartNixon/(Gilroy Rudah) mass modified equip's icon to vaultsnoo.png
+[18:27:16]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:27:19]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:27:24]OOC: Zeke Pinney/Hold_Me_Please : Каким-то кодом надо всунуть, huh?
+[18:27:29]OOC: Gilroy Rudah/BartNixon : Тау Кэйти и Бета парашка сасают со своим Бэем.
+[18:27:31]OOC: Zeke Pinney/Hold_Me_Please : Эсэска в эсэске!
+[18:27:37]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:27:43]OOC: Gilroy Rudah/BartNixon : Хочешь попробовать ССку в ССке?
+[18:27:56]OOC: Gilroy Rudah/BartNixon : Я еще не пробовал, но похоже можно.
+[18:28:16]EMOTE: Featherbottom/ : <B>Featherbottom</B> pecks at the ground
+[18:28:27]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:28:48]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[18:28:58]EMOTE: monkey (512)/ : <B>The monkey (512)</B> jumps!
+[18:28:58]SAY: Kentucky/ : Cluck!
+[18:29:07]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:29:16]SAY: grey baby slime (254)/ : Blorble...
+[18:29:30]OOC: Gilroy Rudah/BartNixon : А нет, не получитс там механизм похожий но другой.
+[18:29:34]EMOTE: monkey (477)/ : <B>The monkey (477)</B> jumps!
+[18:29:36]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:30:01]ADMIN: BartNixon/(Gilroy Rudah) modified DOOM's info to <object width="303" height="261"><param name="movie" value="http://megaswf.com/file/2697658.swf"></param><embed src="http://megaswf.com/file/2697658.swf" type="application/x-shockwave-flash" width="303" height="261"></embed></object><br />
+[18:30:06]SAY: Betsy/ : moo
+[18:30:08]ADMIN: BartNixon/(Gilroy Rudah) modified DOOM's name to RICE FIELDS
+[18:30:16]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[18:30:19]ADMIN: BartNixon/(Gilroy Rudah) modified RICE FIELDS's icon to pda112.gif
+[18:30:38]OOC: Gilroy Rudah/BartNixon : У мениде
+[18:30:44]OOC: Gilroy Rudah/BartNixon : ИдеЯ у менЯ.
+[18:30:50]SAY: Poly/ : <i>WHO TOOK THE DAMN HARDSUITS?</i>
+[18:30:56]OOC: Gilroy Rudah/BartNixon : Я могу тот голодиск превратить в видео-диск.
+[18:31:06]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:31:11]OOC: Gilroy Rudah/BartNixon : Он разово проиграет капрала Хиггса с его печальным сообщением.
+[18:31:12]EMOTE: Pugley III/ : <B>Pugley III</B> shakes its head.
+[18:31:22]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[18:31:29]OOC: Gilroy Rudah/BartNixon : Хотнеканонично получаетс ну да ладно. Можно еще другие хрени делать.
+[18:31:36]SAY: Betsy/ : moo?
+[18:31:42]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:31:46]EMOTE: Pugley III/ : <B>Pugley III</B> yaps.
+[18:31:51]OOC: Gilroy Rudah/BartNixon : Ахаха, можно найти каких нибудь Алиэнов на флеше.
+[18:31:56]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[18:32:06]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:32:29]OOC: Gilroy Rudah/BartNixon : Следующее по морпехам - это ремень дламуниции, и база на ЦК.
+[18:32:50]EMOTE: mouse/ : <B>The mouse</B> runs in a circle
+[18:32:52]EMOTE: Pete/ : <B>Pete</B> brays
+[18:33:04]EMOTE: Featherbottom/ : <B>Featherbottom</B> pecks at the ground
+[18:33:24]EMOTE: Pugley III/ : <B>Pugley III</B> woofs!
+[18:33:32]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:33:50]OOC: Zeke Pinney/Hold_Me_Please : Тоесть вы просто засовываете флешку на листок?
+[18:34:00]EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:34:13]EMOTE: monkey (133)/ : <B>The monkey (133)</B> jumps!
+[18:34:17]SAY: mouse/ : Squeek?
+[18:34:17]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:34:37]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:34:42]OOC: Gilroy Rudah/BartNixon : Дыа, хахах
+[18:34:49]EMOTE: Kentucky/ : <B>Kentucky</B> clucks
+[18:34:57]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:35:03]EMOTE: monkey (512)/ : <B>The monkey (512)</B> jumps!
+[18:35:12]OOC: Zeke Pinney/Hold_Me_Please : Просто кодом?
+[18:35:26]OOC: Gilroy Rudah/BartNixon : Но Я постараюсь стационарный обьект сделать. Типу игровой автомат.
+[18:35:41]OOC: Gilroy Rudah/BartNixon : &lt;object width=&#34;800&#34; height=&#34;494&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.classicgamesarcade.com/games/doom.swf&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.classicgamesarcade.com/games/doom.swf&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;400&#34; height=&#34;247&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;
+[18:35:43]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:35:49]SAY: Poly/ : <i>Wire the solars, you lazy bums!</i>
+[18:36:16]OOC: Gilroy Rudah/BartNixon : На Бэтапараше не сработает - Волас сломал все коды намеренно.
+[18:36:17]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:36:29]OOC: Gilroy Rudah/BartNixon : Сколько упущеных возможностей...
+[18:36:47]OOC: Gilroy Rudah/BartNixon : Ведь в ССке можно было бы играть в Doom, Pacman, Super Mario Bros...
+[18:36:53]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:36:53]SAY: Featherbottom/ : Cluck!
+[18:36:57]SAY: grey baby slime (13)/ : Hungry...
+[18:37:07]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[18:37:11]OOC: Gilroy Rudah/BartNixon : Библиотекарю хотЯ бы не было бы так скучно.
+[18:38:07]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:38:16]ADMIN: BartNixon/(Gilroy Rudah) played sound darkfuture.ogg
+[18:38:33]SAY: Pugley III/ : Woof!
+[18:38:48]SAY: Zeke Pinney/Hold_Me_Please : Нужно сделать флешку с &#34;WELCOME TO THE RICE FIELDS&#34;
+[18:39:17]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:39:21]SAY: Featherbottom/ : Cluck!
+[18:39:25]ADMIN: BartNixon/(Gilroy Rudah) played sound torunaway.ogg
+[18:39:29]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:39:33]ADMIN: BartNixon/(Gilroy Rudah) played sound piratesof.ogg
+[18:39:48]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:39:57]SAY: Zeke Pinney/Hold_Me_Please : WE ARE ALREADY FIGHTING
+[18:39:58]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:40:01]OOC: Gilroy Rudah/BartNixon : Надо будет как нибудь еще годный ивонт с пиратами замутить, космические пираты это всё таки тема.
+[18:40:08]EMOTE: mouse/ : <B>The mouse</B> shakes
+[18:40:09]OOC: Zeke Pinney/Hold_Me_Please : Новый пират!
+[18:40:12]EMOTE: mouse/ : <B>The mouse</B> squeeks
+[18:40:15]OOC: Gilroy Rudah/BartNixon : Просто никто не развил достойно.
+[18:40:26]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:40:42]SAY: Betsy/ : MOOOOOO
+[18:41:00]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:41:08]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[18:41:14]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[18:41:22]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[18:42:00]EMOTE: Pugley III/ : <B>Pugley III</B> chases its tail.
+[18:42:00]SAY: mouse/ : Squeek?
+[18:42:02]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[18:42:22]OOC: Gilroy Rudah/BartNixon : Ладно. Как видишь - дефибы работают, остальной контент особенно уникальный тоже работает. Я еще ничего не ел как проснулсЯ, и собственно сервер грузит оперативу, так что вырублю сервачек пожалуй.
+[18:42:30]OOC: Zeke Pinney/Hold_Me_Please : Ладушки.
+[18:42:34]SAY: Runtime/ : Purr!
+[18:42:37]ACCESS: Logout: Hold_Me_Please[DC]/(Zeke Pinney)
+[18:42:40]EMOTE: Pete/ : <B>Pete</B> glares around
+[18:42:42]SAY: mouse/ : Squeek!
+[18:42:43]ADMIN: BartNixon/(Gilroy Rudah) played sound duke nukem- game over.ogg
+[18:42:48]ACCESS: Logout: BartNixon[DC]/(Gilroy Rudah)

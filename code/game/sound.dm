@@ -56,7 +56,7 @@ var/const/SURROUND_CAP = 7
 /client/proc/playtitlemusic()
 	if(!ticker || !ticker.login_music)	return
 	if(prefs.toggles & SOUND_LOBBY)
-		src << sound(ticker.login_music, repeat = 0, wait = 0, volume = 50, channel = 1) // MAD JAMS
+		src << sound(ticker.login_music, repeat = 0, wait = 0, volume = 70, channel = 1) // MAD JAMS
 
 /proc/get_rand_frequency()
 	return rand(32000, 55000) //Frequency stuff only works with 45kbps oggs.
@@ -77,5 +77,5 @@ var/const/SURROUND_CAP = 7
 			if ("pageturn") soundin = pick('sound/effects/pageturn1.ogg', 'sound/effects/pageturn2.ogg','sound/effects/pageturn3.ogg')
 			if ("gunshot") soundin = pick('sound/f13weapons/10mmfire01.ogg', 'sound/f13weapons/10mmfire02.ogg','sound/f13weapons/10mmfire03.ogg')
 			if ("krotchy") soundin = pick('sound/krotchy/daddysaidonly.wav', 'sound/krotchy/donttouchme.wav','sound/krotchy/mommysaiddont.wav')
-
+			if ("harmonica") soundin = pick('sound/harmonica/fharp1.ogg','sound/harmonica/fharp2.ogg','sound/harmonica/fharp3.ogg','sound/harmonica/fharp4.ogg','sound/harmonica/fharp5.ogg','sound/harmonica/fharp6.ogg','sound/harmonica/fharp7.ogg','sound/harmonica/fharp8.ogg')
 	return soundin

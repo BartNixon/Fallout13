@@ -184,16 +184,24 @@ macro "borghotkeymode"
 		command = ".options"
 		is-disabled = false
 	elem 
-		name = "F2+REP"
-		command = ".screenshot auto"
+		name = "F2"
+		command = "ooc"
 		is-disabled = false
 	elem 
-		name = "SHIFT+F2+REP"
+		name = "SHIFT+F2"
 		command = ".screenshot"
 		is-disabled = false
 	elem 
+		name = "F3"
+		command = "say"
+		is-disabled = false
+	elem 
+		name = "F4"
+		command = "me"
+		is-disabled = false
+	elem 
 		name = "F5"
-		command = "Aghost"
+		command = "asay"
 		is-disabled = false
 	elem 
 		name = "F6"
@@ -206,6 +214,10 @@ macro "borghotkeymode"
 	elem 
 		name = "F8"
 		command = "Invisimin"
+		is-disabled = false
+	elem 
+		name = "F9"
+		command = "Aghost"
 		is-disabled = false
 	elem 
 		name = "F12"
@@ -349,17 +361,25 @@ macro "macro"
 		name = "CTRL+SHIFT+F1+REP"
 		command = ".options"
 		is-disabled = false
-	elem 
-		name = "F2+REP"
-		command = ".screenshot auto"
+	elem "1337"
+		name = "F2"
+		command = "ooc"
 		is-disabled = false
 	elem 
-		name = "SHIFT+F2+REP"
+		name = "SHIFT+F2"
 		command = ".screenshot"
 		is-disabled = false
+	elem "1338"
+		name = "F3"
+		command = "say"
+		is-disabled = false
 	elem 
+		name = "F4"
+		command = "me"
+		is-disabled = false
+	elem "1339"
 		name = "F5"
-		command = "Aghost"
+		command = "asay"
 		is-disabled = false
 	elem 
 		name = "F6"
@@ -372,6 +392,10 @@ macro "macro"
 	elem 
 		name = "F8"
 		command = "Invisimin"
+		is-disabled = false
+	elem 
+		name = "F9"
+		command = "Aghost"
 		is-disabled = false
 	elem 
 		name = "F12"
@@ -584,12 +608,20 @@ macro "hotkeymode"
 		command = ".options"
 		is-disabled = false
 	elem 
-		name = "F2+REP"
-		command = ".screenshot auto"
+		name = "F2"
+		command = "OOC"
 		is-disabled = false
 	elem 
-		name = "SHIFT+F2+REP"
+		name = "SHIFT+F2"
 		command = ".screenshot"
+		is-disabled = false
+	elem 
+		name = "F3"
+		command = "say"
+		is-disabled = false
+	elem 
+		name = "F4"
+		command = "me"
 		is-disabled = false
 	elem 
 		name = "F5"
@@ -738,16 +770,24 @@ macro "borgmacro"
 		command = ".options"
 		is-disabled = false
 	elem 
-		name = "F2+REP"
-		command = ".screenshot auto"
+		name = "F2"
+		command = "ooc"
 		is-disabled = false
 	elem 
-		name = "SHIFT+F2+REP"
+		name = "SHIFT+F2"
 		command = ".screenshot"
 		is-disabled = false
 	elem 
+		name = "F3"
+		command = "say"
+		is-disabled = false
+	elem 
+		name = "F4"
+		command = "me"
+		is-disabled = false
+	elem 
 		name = "F5"
-		command = "Aghost"
+		command = "asay"
 		is-disabled = false
 	elem 
 		name = "F6"
@@ -760,6 +800,10 @@ macro "borgmacro"
 	elem 
 		name = "F8"
 		command = "Invisimin"
+		is-disabled = false
+	elem 
+		name = "F9"
+		command = "Aghost"
 		is-disabled = false
 	elem 
 		name = "F12"
@@ -1307,7 +1351,7 @@ window "chemdispenser"
 		button-type = pushbutton
 	elem "amount1"
 		type = BUTTON
-		pos = 112,4
+		pos = 112,8
 		size = 24x20
 		anchor1 = none
 		anchor2 = none
@@ -1361,7 +1405,7 @@ window "chemdispenser"
 		text-wrap = false
 	elem "child1"
 		type = CHILD
-		pos = 0,40
+		pos = -4,40
 		size = 340x440
 		anchor1 = none
 		anchor2 = none
@@ -1690,6 +1734,8 @@ window "mapwindow"
 		on-size = ""
 		icon-size = 0
 		text-mode = false
+		letterbox = true
+		zoom = 0
 		on-show = ".winset\"mainwindow.mainvsplit.left=mapwindow\""
 		on-hide = ".winset\"mainwindow.mainvsplit.left=\""
 		style = ""
@@ -2102,11 +2148,11 @@ window "browserwindow"
 		saved-params = "pos;size;is-minimized;is-maximized"
 		on-size = ""
 		title = "Browser"
-		titlebar = true
-		statusbar = true
-		can-close = true
-		can-minimize = true
-		can-resize = true
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
 		is-pane = true
 		is-minimized = false
 		is-maximized = false
@@ -2123,7 +2169,7 @@ window "browserwindow"
 	elem "browser"
 		type = BROWSER
 		pos = 0,0
-		size = 640x499
+		size = 638x475
 		anchor1 = 0,0
 		anchor2 = 100,100
 		font-family = ""
@@ -2218,4 +2264,6 @@ window "infowindow"
 		on-show = ".winset\"rpane.infob.is-visible=true;rpane.browseb.is-visible=true?rpane.infob.pos=130,0:rpane.infob.pos=65,0 rpane.textb.is-visible=true rpane.infob.is-checked=true rpane.rpanewindow.pos=0,30 rpane.rpanewindow.size=0x0 rpane.rpanewindow.left=infowindow\""
 		on-hide = ".winset\"rpane.infob.is-visible=false;rpane.browseb.is-visible=true?rpane.browseb.is-checked=true rpane.rpanewindow.left=browserwindow:rpane.textb.is-visible=true rpane.rpanewindow.pos=0,30 rpane.rpanewindow.size=0x0 rpane.rpanewindow.left=\""
 		on-tab = ""
+		prefix-color = none
+		suffix-color = none
 

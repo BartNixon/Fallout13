@@ -4,6 +4,7 @@
 	icon_state = "red_pyjamas"
 	item_color = "red_pyjamas"
 	item_state = "w_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/pj/blue
 	name = "blue pj's"
@@ -11,19 +12,14 @@
 	icon_state = "blue_pyjamas"
 	item_color = "blue_pyjamas"
 	item_state = "w_suit"
-
-/obj/item/clothing/under/scratch
-	name = "white suit"
-	desc = "A white suit, suitable for an excellent host"
-	icon_state = "scratch"
-	item_state = "scratch"
-	item_color = "scratch"
+	can_adjust = 0
 
 /obj/item/clothing/under/sl_suit
 	desc = "It's a very amish looking suit."
 	name = "amish suit"
 	icon_state = "sl_suit"
 	item_color = "sl_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/roman
 	name = "roman armor"
@@ -31,6 +27,8 @@
 	icon_state = "roman"
 	item_color = "roman"
 	item_state = "armor"
+	can_adjust = 0
+	strip_delay = 100
 
 /obj/item/clothing/under/waiter
 	name = "waiter's outfit"
@@ -38,6 +36,16 @@
 	icon_state = "waiter"
 	item_state = "waiter"
 	item_color = "waiter"
+	can_adjust = 0
+
+/obj/item/clothing/under/rank/prisoner
+	name = "prison jumpsuit"
+	desc = "It's standardised Nanotrasen prisoner-wear. Its suit sensors are stuck in the \"Fully On\" position."
+	icon_state = "prisoner"
+	item_state = "o_suit"
+	item_color = "prisoner"
+	has_sensor = 2
+	sensor_mode = 3
 
 /obj/item/clothing/under/rank/mailman
 	name = "mailman's jumpsuit"
@@ -46,6 +54,13 @@
 	item_state = "b_suit"
 	item_color = "mailman"
 
+/obj/item/clothing/under/rank/psyche
+	name = "psychedelic jumpsuit"
+	desc = "Groovy!"
+	icon_state = "psyche"
+	item_state = "p_suit"
+	item_color = "psyche"
+
 /obj/item/clothing/under/sexyclown
 	name = "sexy-clown suit"
 	desc = "It makes you look HONKable!"
@@ -53,6 +68,7 @@
 	item_state = "sexyclown"
 	item_color = "sexyclown"
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/rank/vice
 	name = "vice officer's jumpsuit"
@@ -60,6 +76,7 @@
 	icon_state = "vice"
 	item_state = "gy_suit"
 	item_color = "vice"
+	can_adjust = 0
 
 /obj/item/clothing/under/rank/centcom_officer
 	desc = "It's a jumpsuit worn by Centcom Officers."
@@ -67,6 +84,7 @@
 	icon_state = "officer"
 	item_state = "g_suit"
 	item_color = "officer"
+	can_adjust = 0
 
 /obj/item/clothing/under/rank/centcom_commander
 	desc = "It's a jumpsuit worn by Centcom's highest-tier Commanders."
@@ -74,6 +92,7 @@
 	icon_state = "centcom"
 	item_state = "dg_suit"
 	item_color = "centcom"
+	can_adjust = 0
 
 /obj/item/clothing/under/space
 	name = "\improper NASA jumpsuit"
@@ -89,6 +108,7 @@
 	min_cold_protection_temperature = SPACE_SUIT_MIN_TEMP_PROTECT
 	heat_protection = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
 	max_heat_protection_temperature = SPACE_SUIT_MAX_TEMP_PROTECT
+	can_adjust = 0
 
 /obj/item/clothing/under/acj
 	name = "administrative cybernetic jumpsuit"
@@ -104,6 +124,7 @@
 	min_cold_protection_temperature = SPACE_SUIT_MIN_TEMP_PROTECT
 	heat_protection = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
 	max_heat_protection_temperature = SPACE_SUIT_MAX_TEMP_PROTECT
+	can_adjust = 0
 
 /obj/item/clothing/under/owl
 	name = "owl uniform"
@@ -111,12 +132,14 @@
 	icon_state = "owl"
 	item_color = "owl"
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/johnny
 	name = "johnny~~ jumpsuit"
 	desc = "Johnny~~"
 	icon_state = "johnny"
 	item_color = "johnny"
+	can_adjust = 0
 
 /obj/item/clothing/under/rainbow
 	name = "rainbow"
@@ -124,12 +147,14 @@
 	icon_state = "rainbow"
 	item_state = "rainbow"
 	item_color = "rainbow"
+	can_adjust = 0
 
 /obj/item/clothing/under/cloud
 	name = "cloud"
 	desc = "cloud"
 	icon_state = "cloud"
 	item_color = "cloud"
+	can_adjust = 0
 
 /obj/item/clothing/under/gimmick/rank/captain/suit
 	name = "captain's suit"
@@ -137,6 +162,7 @@
 	icon_state = "green_suit"
 	item_state = "dg_suit"
 	item_color = "green_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/gimmick/rank/head_of_personnel/suit
 	name = "head of personnel's suit"
@@ -144,6 +170,7 @@
 	icon_state = "teal_suit"
 	item_state = "g_suit"
 	item_color = "teal_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/suit_jacket
 	name = "black suit"
@@ -151,6 +178,7 @@
 	icon_state = "black_suit"
 	item_state = "bl_suit"
 	item_color = "black_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/suit_jacket/really_black
 	name = "executive suit"
@@ -158,6 +186,7 @@
 	icon_state = "really_black_suit"
 	item_state = "bl_suit"
 	item_color = "black_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/suit_jacket/female
 	name = "executive suit"
@@ -172,6 +201,7 @@
 	icon_state = "red_suit"
 	item_state = "r_suit"
 	item_color = "red_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/suit_jacket/charcoal
 	name = "charcoal suit"
@@ -179,6 +209,7 @@
 	icon_state = "charcoal_suit"
 	item_state = "charcoal_suit"
 	item_color = "charcoal_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/suit_jacket/navy
 	name = "navy suit"
@@ -186,6 +217,7 @@
 	icon_state = "navy_suit"
 	item_state = "navy_suit"
 	item_color = "navy_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/suit_jacket/burgundy
 	name = "burgundy suit"
@@ -193,6 +225,7 @@
 	icon_state = "burgundy_suit"
 	item_state = "burgundy_suit"
 	item_color = "burgundy_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/suit_jacket/checkered
 	name = "checkered suit"
@@ -200,6 +233,7 @@
 	icon_state = "checkered_suit"
 	item_state = "checkered_suit"
 	item_color = "checkered_suit"
+	can_adjust = 0
 
 /obj/item/clothing/under/blackskirt
 	name = "black skirt"
@@ -208,6 +242,7 @@
 	item_color = "blackskirt"
 	body_parts_covered = CHEST|GROIN|ARMS
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/schoolgirl
 	name = "schoolgirl uniform"
@@ -217,6 +252,7 @@
 	item_color = "schoolgirl"
 	body_parts_covered = CHEST|GROIN|ARMS
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/overalls
 	name = "laborer's overalls"
@@ -224,6 +260,7 @@
 	icon_state = "overalls"
 	item_state = "lb_suit"
 	item_color = "overalls"
+	can_adjust = 0
 
 /obj/item/clothing/under/pirate
 	name = "pirate outfit"
@@ -231,6 +268,7 @@
 	icon_state = "pirate"
 	item_state = "pirate"
 	item_color = "pirate"
+	can_adjust = 0
 
 /obj/item/clothing/under/soviet
 	name = "soviet uniform"
@@ -238,6 +276,7 @@
 	icon_state = "soviet"
 	item_state = "soviet"
 	item_color = "soviet"
+	can_adjust = 0
 
 /obj/item/clothing/under/redcoat
 	name = "redcoat uniform"
@@ -245,6 +284,7 @@
 	icon_state = "redcoat"
 	item_state = "redcoat"
 	item_color = "redcoat"
+	can_adjust = 0
 
 /obj/item/clothing/under/kilt
 	name = "kilt"
@@ -254,6 +294,7 @@
 	item_color = "kilt"
 	body_parts_covered = CHEST|GROIN|FEET
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/sexymime
 	name = "sexy mime outfit"
@@ -263,6 +304,7 @@
 	item_color = "sexymime"
 	body_parts_covered = CHEST|GROIN|LEGS
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/gladiator
 	name = "gladiator uniform"
@@ -272,6 +314,7 @@
 	item_color = "gladiator"
 	body_parts_covered = CHEST|GROIN|ARMS
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/sundress
 	name = "sundress"
@@ -281,6 +324,7 @@
 	item_color = "sundress"
 	body_parts_covered = CHEST|GROIN
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/captainformal
 	name = "captain's formal uniform"
@@ -288,6 +332,7 @@
 	icon_state = "captain_formal"
 	item_state = "by_suit"
 	item_color = "captain_formal"
+	can_adjust = 0
 
 /obj/item/clothing/under/hosformalmale
 	name = "head of security's formal uniform"
@@ -295,6 +340,7 @@
 	icon_state = "hos_formal_male"
 	item_state = "r_suit"
 	item_color = "hos_formal_male"
+	can_adjust = 0
 
 /obj/item/clothing/under/hosformalfem
 	name = "head of security's formal uniform"
@@ -303,6 +349,7 @@
 	item_state = "r_suit"
 	item_color = "hos_formal_fem"
 	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/assistantformal
 	name = "assistant's formal uniform"
@@ -310,6 +357,7 @@
 	icon_state = "assistant_formal"
 	item_state = "gy_suit"
 	item_color = "assistant_formal"
+	can_adjust = 0
 
 /obj/item/clothing/under/blacktango
 	name = "black tango dress"
@@ -318,6 +366,7 @@
 	item_state = "wcoat"
 	item_color = "black_tango"
 	fitted = 0
+	can_adjust = 0
 
 //The following wears were sprited and coded by BartNixon, Nienhaus and MrSnapwalk.
 
@@ -341,6 +390,7 @@
 	icon_state = "relaxedwearm"
 	item_state = "relaxedwearm"
 	item_color = "relaxedwearm"
+	can_adjust = 0
 
 /obj/item/clothing/under/springm
 	name = "pre-War male spring outfit"
@@ -348,6 +398,7 @@
 	icon_state = "springm"
 	item_state = "springm"
 	item_color = "springm"
+	can_adjust = 0
 
 /obj/item/clothing/under/bennys //Benny's suit from Fallout: New Vegas. But Benny was just a kid back in 2255, so it's just a fancy suit for you.
 	name = "fancy suit"
@@ -355,6 +406,7 @@
 	icon_state = "bennys"
 	item_state = "bennys"
 	item_color = "bennys"
+	can_adjust = 0
 
 /obj/item/clothing/under/enclaveo
 	name = "Enclave officer uniform"
@@ -362,6 +414,7 @@
 	icon_state = "enclaveo"
 	item_state = "enclaveo"
 	item_color = "enclaveo"
+	can_adjust = 0
 
 /obj/item/clothing/under/mercadv/male //Male version
 	name = "merc adventurer outfit"
@@ -369,6 +422,7 @@
 	icon_state = "mercam"
 	item_state = "mercam"
 	item_color = "mercam"
+	can_adjust = 0
 
 /obj/item/clothing/under/mercadv/female //Female version
 	name = "merc adventurer outfit"
@@ -376,6 +430,8 @@
 	icon_state = "mercaf"
 	item_state = "mercaf"
 	item_color = "mercaf"
+	fitted = 0
+	can_adjust = 0
 
 /obj/item/clothing/under/roving
 	name = "roving trader outfit "
@@ -383,6 +439,7 @@
 	icon_state = "roving"
 	item_state = "roving"
 	item_color = "roving"
+	can_adjust = 0
 
 /obj/item/clothing/under/doctor
 	name = "wasteland doctor fatigues"
@@ -390,7 +447,7 @@
 	icon_state = "doctor"
 	item_state = "doctor"
 	item_color = "doctor"
-	allowed = list(/obj/item/weapon/scalpel, /obj/item/weapon/surgical_drapes, /obj/item/weapon/cautery, /obj/item/weapon/hemostat, /obj/item/weapon/retractor)
+	can_adjust = 0
 
 /obj/item/clothing/under/doomsday
 	name = "doomsday cult outfit"
@@ -398,6 +455,7 @@
 	icon_state = "doomsday"
 	item_state = "doomsday"
 	item_color = "doomsday"
+	can_adjust = 0
 
 /obj/item/clothing/under/shiny //Firefly, yay!
 	name = "shiny outfit"
@@ -405,6 +463,7 @@
 	icon_state = "shiny"
 	item_state = "shiny"
 	item_color = "shiny"
+	can_adjust = 0
 
 /obj/item/clothing/under/cowboyb //Originally cowboy and mafia stuff by Nienhaus
 	name = "dusty prospector outfit"
@@ -412,6 +471,7 @@
 	icon_state = "cowboyb"
 	item_state = "cowboyb"
 	item_color = "cowboyb"
+	can_adjust = 0
 
 /obj/item/clothing/under/cowboyg
 	name = "well-heeled prospector outfit"
@@ -419,6 +479,7 @@
 	icon_state = "cowboyg"
 	item_state = "cowboyg"
 	item_color = "cowboyg"
+	can_adjust = 0
 
 /obj/item/clothing/under/tangambler
 	name = "fancy gambler suit"
@@ -426,6 +487,7 @@
 	icon_state = "tangambler"
 	item_state = "tangambler"
 	item_color = "tangambler"
+	can_adjust = 0
 
 /obj/item/clothing/under/suegambler
 	name = "sharp gambler suit"
@@ -433,6 +495,7 @@
 	icon_state = "suegambler"
 	item_state = "suegambler"
 	item_color = "suegambler"
+	can_adjust = 0
 
 /obj/item/clothing/under/flapper
 	name = "flapper dress"
@@ -440,6 +503,8 @@
 	icon_state = "flapper"
 	item_state = "flapper"
 	item_color = "flapper"
+	fitted = 0
+	can_adjust = 0
 
 //Fallout 13 goes rampage at this point. The following uniforms provide decent deffence bonus.
 
@@ -454,6 +519,7 @@
 	armor = list(melee = 40, bullet = 30, laser = 10, energy = 10, bomb = 10, bio = 0, rad = 0)
 	cold_protection = CHEST|GROIN|LEGS|FEET|ARMS|HEAD
 	heat_protection = CHEST|GROIN|LEGS|FEET|ARMS|HEAD
+	can_adjust = 0
 
 /obj/item/clothing/under/agent47
 	name = "mysterious suit"
@@ -463,3 +529,24 @@
 	item_color = "agent47"
 	body_parts_covered = CHEST|GROIN|LEGS|ARMS
 	armor = list(melee = 20, bullet = 10, laser = 10,energy = 10, bomb = 50, bio = 0, rad = 0)
+	can_adjust = 0
+
+//ALIENS IN FALLOUT?! Who cares anyway...
+
+/obj/item/clothing/under/uscmc/bdu
+	name = "BDU"
+	desc = "It's a standart USCMC Battle Dress Uniform.<br<>This uniform is one of two fatigues worn by Colonial Marines."
+	icon_state = "bdu"
+	item_state = "bdu"
+	item_color = "bdu"
+	body_parts_covered = CHEST|GROIN|LEGS|ARMS
+	armor = list(melee = 5, bullet = 0, laser = 0,energy = 0, bomb = 0, bio = 0, rad = 0)
+
+/obj/item/clothing/under/uscmc/bducamo
+	name = "camouflage BDU"
+	desc = "It's a USCMC Camouflage Battle Dress Uniform.<br>This uniform is one of two fatigues worn by Colonial Marines."
+	icon_state = "bducamo"
+	item_state = "bducamo"
+	item_color = "bducamo"
+	body_parts_covered = CHEST|GROIN|LEGS|ARMS
+	armor = list(melee = 5, bullet = 0, laser = 0,energy = 0, bomb = 0, bio = 0, rad = 0)

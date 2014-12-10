@@ -6,6 +6,14 @@
 	anchored = 1.0
 	pressure_resistance = 15
 
+//Should bar stool be here? I guess it should. - Bart
+
+/obj/structure/stool/bar
+	name = "bar stool"
+	desc = "It looks classy!"
+	icon_state = "bar"
+	pixel_y = -2
+
 /obj/structure/stool/ex_act(severity)
 	switch(severity)
 		if(1.0)
