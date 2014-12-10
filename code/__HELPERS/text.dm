@@ -36,14 +36,26 @@
 			index = findtext(t, char)
 	return t
 
-//Removes a few problematic characters
-/proc/sanitize_simple(var/t,var/list/repl_chars = list("\n"="#","\t"="#","�"="�"))
+/proc/sanitize_simple(var/t,var/list/repl_chars = list("\n"="#","\t"="#","ï¿½"="ï¿½"))
 	for(var/char in repl_chars)
 		var/index = findtext(t, char)
 		while(index)
 			t = copytext(t, 1, index) + repl_chars[char] + copytext(t, index+1)
 			index = findtext(t, char)
 	return t
+
+//Runs byond's sanitization proc along-side sanitize_simple
+/proc/sanitize(var/t,var/list/repl_chars = null)
+	t =  (sanitize_simple(t,repl_chars))
+	var/index = findtext(t, "ÿ")
+	while(index)
+		t = copytext(t, 1, index) + "____255_" + copytext(t, index + 1)
+		index = findtext(t, "ÿ")
+	t = html_encode(t)
+	index = findtext(t, "____255_")
+	while(index)
+		t = copytext(t, 1, index) + "&#255;" + copytext(t, index + 8)
+		index = findtext(t, "____255_")
 
 //Runs byond's sanitization proc along-side sanitize_simple
 /proc/sanitize(var/t,var/list/repl_chars = null)
