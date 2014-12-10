@@ -26,7 +26,7 @@
 turf/unsimulated/wall/splashscreen/New()
 	.=..()
 	name = "Fallout 13"
-	desc = "Welcome to Fallout 13!<br>Meet our laborious team:<br>BartNixon (Creator, Manager, Spriter, Coder)<br>Ivan_mrr (Spriter, Creative Director)<br>WB (Coder)<br>Nienhaus (Spriter, Ambassador)<br>MrSnapwalk(Spriter, Voice Actor)<br>WalterJe(Spriter)<br>And all the others who made our dream come true."
+	desc = "Welcome to Fallout 13!<br>Meet our laborious team:<br>BartNixon (Creator, Manager, Spriter, Coder)<br>Ivan_mrr (Spriter, Creative Director)<br>WB (Coder)<br>Nienhaus (Spriter, Ambassador)<br>MrSnapwalk (Spriter, Voice Actor)<br>WalterJe (Spriter)<br>And all the others who made our dream come true."
 	icon = 'icons/misc/fullscreen.dmi'
 	icon_state = "title[rand(1,13)]"
 	layer = 60
