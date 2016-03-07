@@ -1,8 +1,12 @@
-##Fallout 13 Alpha 0.2
+##Very old build of Fallout 13 - Alpha 0.2
 
-**Website:** http://www.fallout13.com <BR>
+**Website:** http://www.wasteland.expert <BR>
 **Devblog:** https://www.reddit.com/r/Fallout13 <BR>
 **Code:** https://github.com/BartNixon/Fallout13 <BR>
+
+##Legacy info
+The following repository branch is a legacy build, safely preserved for historic purpose. <BR>
+It is optimised to run on Byond 509. But be aware that it won't run on version 510 though.
 
 ##Credits
 BartNixon (Creator, Manager, Spriter, Coder) <BR>
