@@ -13,6 +13,7 @@ You can get any of previous editions of Byond engine at [official Byond versions
 Also you can [get Byond 508.1299](http://www.byond.com/download/build/508/) for the best gaming experience. <BR>
 
 ##Credits
+_To find out the great deeds of the following people, read the full [Fallout 13 changelog](https://github.com/BartNixon/Fallout13/blob/master/F13-CHANGELOG.txt)._ <BR>
 
 **Code:** KorPhaeron, RemieRichards, WB, AnturK, BartNixon, A3lex33, Gyaviste, Hold_Me_Please. <BR>
 
@@ -21,6 +22,8 @@ Also you can [get Byond 508.1299](http://www.byond.com/download/build/508/) for 
 **Origins:** <BR>
 Currently the build contains code, graphics, sounds and specific build features of several Space Station 13 communities listed below. <BR>
 Fallout 13 would not exist without the efforts of creative people who did their best to make a game of spessmen more fun. <BR>
+_Praise our Overlords!_ <BR>
+**_/tg/ Station 13, Goon Station 13, Baystation 12, Animus Station, Tau Ceti Station, Soviet Station, Urist McStation, Atlas Station_** <BR>
 And all the others who made our dreams come true.
 
 ##Soundtrack
