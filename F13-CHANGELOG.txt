@@ -134,25 +134,31 @@ A person who made the whole Fallout 13 possible by inspiring some people to begi
 *Holodisk icons with animation sequence.
 *Classic military stimpack.
 
-#13 - Alexlox
+#13 - HITHISISFRONK
+
+An open-hearted gentleman who created the very first F13 related armor set for the build.
+
+*Fallout-ish metal armor and Mad Max style leather armor.
+
+#14 - Alexlox
 
 A spriter who could create so much more good things if he wanted to.
 
 *We have two guitars now. Which is great, for some Lonesome Drifters.
 
-#14 - Harvester
+#15 - Harvester
 
 An artist with a strong desire to make his own version of Fallout 13 the way he wants it to be.
 
 *Burn barrel with animation
 
-#15 - DoctorWho08
+#16 - DoctorWho08
 
 Shady entity with specific style and behaviour, but nevertheless - it is here, and it can do some good deeds.
 
 MFP jacket from Mad Max 1979
 
-#16 - Incoming5643
+#17 - Incoming5643
 
 Someone who doesn't even know of Fallout 13 (yet), but sure can join our lovely team any time. 
 
@@ -295,7 +301,7 @@ If it's gibbed, a new wasteland legend is born from a scratch.
 *Fixed HandOfGod ghost image.
 *Fixed bot topics.
 *Fixes teleporter hub working without power.
-*Fixed mule crate.
+*Fixed mule crate (it didn't spawn MULE on opening).
 *Hallucinations code cleanup.
 *Added helper for creating human looking simple animals.
 *code/datums/datacore.dm code cleanup: made manifest entries use get_flat_human_icon
