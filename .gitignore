@@ -4,7 +4,11 @@
 *.int
 *.lk
 /data/*
-/config/*.txt
+!/config
+!/config/example/*
+!/config/names/*
+/config/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

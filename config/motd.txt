@@ -1,9 +1,0 @@
-<!-- Most valid html will work in here, excluding images. -->
-
-<h1>Welcome to Fallout 13</h1>
-
-<i><b>The development is on early Alpha stage, so don't expect the full size wasteland or lots of other post-nuclear miracles you dream of.
-More info at our <a href="http://www.reddit.com/r/Fallout13/">devblog</a> and <a href="http://wasteland.expert">site</a></b></i> .
-
-<i>The server is running a <a href="https://github.com/BartNixon/Fallout13">Fallout 13 Git build</a>, based off /tg/ Station 13.</i>
-<i>Enjoy the results of our work, and be sure to support us.</i>
