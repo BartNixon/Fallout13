@@ -37,7 +37,7 @@
 	return t
 
 //Removes a few problematic characters
-/proc/sanitize_simple(var/t,var/list/repl_chars = list("\n"="#","\t"="#"))//cyka
+/proc/sanitize_simple(var/t,var/list/repl_chars = list("\n"="#","\t"="#")) //teper vsyo horosho
 	for(var/char in repl_chars)
 		var/index = findtext(t, char)
 		while(index)
