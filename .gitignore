@@ -1,3 +1,10 @@
+#compiled build and data files not needed in src code
+*.dmb
+*.rsc
+*.int
+*.lk
+/data/*
+/config/*.txt
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
