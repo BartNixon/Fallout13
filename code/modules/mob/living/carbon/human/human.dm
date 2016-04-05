@@ -761,20 +761,6 @@
 
 			..()
 
-/*/mob/living/carbon/human/proc/handle_heart_beat()   //Someone pls. Make the shit work.
-
-	if(pulse == PULSE_NONE) return
-
-	if(pulse == PULSE_2FAST || shock_stage >= 10 || istype(get_turf(src), /turf/space))
-
-		var/temp = (5 - pulse)/2
-
-		if(heart_beat >= temp)
-			heart_beat = 0
-			src << sound('sound/effects/heartbeat.ogg',0,0,0,50)
-		else if(temp != 0)
-			heart_beat++   */
-
 /mob/living/carbon/human/proc/do_cpr(mob/living/carbon/C)
 	if(C.stat == DEAD)
 		src << "<span class='warning'>[C.name] is dead!</span>"

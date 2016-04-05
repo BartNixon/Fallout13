@@ -35,6 +35,20 @@
 	status = CB_MESS
 	update()
 
+/proc/count_occurrences(string, substring)
+	var/count = 0
+	var/found = 0
+	var/length = length(substring)
+
+	found = findtext(string, substring)
+
+	while(found)
+		count++
+		found += length
+		found = findtext(string, substring, found)
+
+	return count
+
 /obj/structure/chalkboard/verb/wrtite()
 	set src in oview(1)
 	set name = "Write"
