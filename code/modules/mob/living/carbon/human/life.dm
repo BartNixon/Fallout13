@@ -23,15 +23,30 @@
 #define COLD_GAS_DAMAGE_LEVEL_2 1.5 //Amount of damage applied when the current breath's temperature passes the 200K point
 #define COLD_GAS_DAMAGE_LEVEL_3 3 //Amount of damage applied when the current breath's temperature passes the 120K point
 
+// Pulse levels, very simplified.
+#define PULSE_NONE    0 // So !M.pulse checks would be possible.
+#define PULSE_SLOW    1 // <60     bpm
+#define PULSE_NORM    2 //  60-90  bpm
+#define PULSE_FAST    3 //  90-120 bpm
+#define PULSE_2FAST   4 // >120    bpm
+#define PULSE_THREADY 5 // Occurs during hypovolemic shock
+#define GETPULSE_HAND 0 // Less accurate. (hand)
+#define GETPULSE_TOOL 1 // More accurate. (med scanner, sleeper, etc.)
+
 /mob/living/carbon/human
 	var/tinttotal = 0				// Total level of visualy impairing items
+	var/heartpulse
+	var/heart_beat
+	var/life_tick = 0
 
 
 
 /mob/living/carbon/human/Life()
 	set invisibility = 0
 	set background = BACKGROUND_ENABLED
-
+	life_tick++
+	if (life_tick>=50)
+		life_tick -= 50
 	if (notransform)
 		return
 
@@ -318,7 +333,42 @@
 				if(!has_embedded_objects())
 					clear_alert("embeddedobject")
 
+/mob/living/carbon/human/proc/handle_pulse()
+
+	if(life_tick % 5)
+		return heartpulse	//update pulse every 5 life ticks (~1 tick/sec, depending on server load)
+
+	if(stat == DEAD)
+		return PULSE_NONE	//that's it, you're dead, nothing can influence your pulse
+
+	var/temp = PULSE_NORM
+
+	if(round(vessel.get_reagent_amount("blood")) <= BLOOD_VOLUME_BAD)	//how much blood do we have
+		temp = PULSE_THREADY	//not enough :(
+
+	if(status_flags & FAKEDEATH)
+		temp = PULSE_NONE		//pretend that we're dead. unlike actual death, can be inflienced by meds
+
+	return temp
+
+/mob/living/carbon/human/proc/handle_heart_beat()   //Todo: chemicals adjust pulse in handle_pulse
+
+	if(heartpulse == PULSE_NONE) return
+
+	if(heartpulse == PULSE_2FAST || istype(get_turf(src), /turf/space))
+
+		var/temp = (5 - heartpulse)/2
+
+		if(heart_beat >= temp)
+			heart_beat = 0
+			src << sound('sound/effects/heartbeat.ogg',0,0,0,50)
+		else if(temp != 0)
+			heart_beat++
+
 /mob/living/carbon/human/proc/handle_heart()
+	heartpulse = handle_pulse()
+	handle_heart_beat()
+
 	if(!heart_attack)
 		return
 	else

@@ -77,6 +77,7 @@ Our dear friend from Urist McStation, one of the most notable Space Station 13 s
 
 *Wasteland piano sprites.
 *Mr.Handy and Mr.Gutsy!
+*Eyebot robot with neat animations for idle and movement states + fancy eyebot helmet.
 *Barrel cactus at wasteland.dmi and barrel cactus fruit in food.dmi
 *Grand food update. Pre-war foods added to food.dmi and remaining junk in janitor.dmi
 *Added various clothing for characters, pre-War outfits and such.
@@ -84,12 +85,12 @@ Our dear friend from Urist McStation, one of the most notable Space Station 13 s
 
 #6 - MrSnapwalk
 
-We wish there were more people who have heard of MrSnapwalk, aside from Baystation 12 or UristMcStation. Skilled and creative spriter with impressive music talent.
+NT Station - noli umquam oblivisci. We wish there were more people who have heard of MrSnapwalk, aside from Baystation 12 or UristMcStation. Skilled and creative spriter with impressive musical talent.
 
 *Stimpack and Med-X (syringes), Radaway (bloodpack), Hydra, Psycho, Jet, Rebound (syringes), Mentats, Turbo, rad-x, steady (chemical)
 *Replaced syringes to a med-x similar variant. 
 *Classic fallout terminal in computers.dmi
-*Protectron, Robobrain and Eyebot robots!
+*Protectron, Robobrain and Cyclone robots! (Cyclone is actually an advanced protectron, referencing Cylons from Battlestar Galactica)
 
 #7 - A3lex33
 
@@ -98,6 +99,7 @@ Some people believe this particular coder is the future of the project. Sure thi
 *obstacles.dm for some wasteland related objects.
 *Coded fences (can cut through the specific parts of these with wirecutters), and fence doors. 
 *Total remake of NanoUI style! Now it's more of an 80's computer terminal.
+*Crossover codebases compatibility maintenance.
 
 #8 - Uboaaaaaa
 
@@ -295,7 +297,7 @@ If it's gibbed, a new wasteland legend is born from a scratch.
 
 #8 - AnturK
 
-*Low Midichlorians: Added cooldown on tk throwing.
+*Low Midi-chlorians: Added cooldown on tk throwing.
 *Made Ghost HUD toggle persistent.
 *Fixed anomalies spawning same place.
 *Fixed HandOfGod ghost image.
@@ -444,7 +446,7 @@ ATTENTION!
 
 #36 - Gyaviste
 
-*Nerfed restriction on client uploads to the server, from 1MB to 2MB (you can now normaly uppload slightly larger music files and images)
+*Nerfed restriction on client uploads to the server, from 1MB to 2MB (you can now normally uppload slightly larger music files and images)
 *Added the Edit Appearance admintool.
 
 #37 - HoldMePlease: 
@@ -465,6 +467,16 @@ f9 - aghost
 f10 - null (really, it has no function yet)
 f11 - buildmode
 f12 - HUD mode for all the players.
+
+Tau Ceti Station gold:
+
+*Chalkboard for writing and messing around.
+*Badmins have discovered Midi-chlorians in their blood, allowing them to use the Force.
+*Library Janitor admin tool, allowing top-rank admins to work with books database via debug. (debug.dm)
+*The global game of D&D, where admins are the Game Master (single).
+*Roll Credits button at Special Verbs for admins with +Fun to show all the players a credit roll at will.
+Credits include the player logins, character names and uncover if they were an antagonist during the round.
+This feature was made for the round end, but it's not automatic in F13 to give admins a choice if they consider a round really special.
 
 Atlas Station awesomeness:
 
