@@ -59,7 +59,7 @@ Bart's code stuff:
 *Moved all skirts and female uniforms to a dedicated subtype - under/female/
 *Coded the specific Fallout 13 clothing - can be discovered searching for "f13" in item spawn search.
 *Restored legacy body bags.
-*New text formating style for ingame chat, and new colors for admin chat etc.
+*New text formatting style for ingame chat, and new colors for admin chat etc.
 *Moved all vehicle icons to a special folder. 
 All vehicle icons are now called small_vehicles.dmi and medium_vehicles.dmi
 *Cops can be dirty too - allowed Security Officer and Detective to be an antag.
@@ -90,14 +90,14 @@ NT Station - noli umquam oblivisci. We wish there were more people who have hear
 *Stimpack and Med-X (syringes), Radaway (bloodpack), Hydra, Psycho, Jet, Rebound (syringes), Mentats, Turbo, rad-x, steady (chemical)
 *Replaced syringes to a med-x similar variant. 
 *Classic fallout terminal in computers.dmi
-*Protectron, Robobrain and Cyclone robots! (Cyclone is actually an advanced protectron, referencing Cylons from Battlestar Galactica)
+*Protectron, Robobrain and Cyclone robots! (Cyclone is actually an advanced Protectron, referencing Cylons from Battlestar Galactica)
 
 #7 - A3lex33
 
 Some people believe this particular coder is the future of the project. Sure thing he got some skills, and the rumors can be true. If he won't stop coding the cool stuff of course. 
 
 *obstacles.dm for some wasteland related objects.
-*Coded fences (can cut through the specific parts of these with wirecutters), and fence doors. 
+*Coded fences (can cut through the specific parts of these with wire cutters), and fence doors. 
 *Total remake of NanoUI style! Now it's more of an 80's computer terminal.
 *Crossover codebases compatibility maintenance.
 
@@ -203,7 +203,7 @@ ATTENTION!
 *Fixed successive generations of Grey Tide clones not despawning.
 *Revive now removes hallucination.
 *Walls are now a slightly higher layer than floors.
-*Made practice lasers a lot scarier.
+*Made practise lasers a lot scarier.
 *Lusty Xenomorph Maid spawns from slime core. Badmins can spawn: alien/maid.
 *pAI can use internal PDA again.
 *Chaplain has got theatre access.
@@ -231,7 +231,7 @@ Do you feel lucky now, punk?
 *Removed stealthmins from the orbit list and makes them invisible. Remember to always use dsay instead of say to avoid the (F) links!
 *Checking antagonists will now message admins.
 *Added a message_admins() when a flamethrower is lit.
-*Fixed create revolutionares bugs.
+*Fixed create revolutionaries bugs.
 *Janitor belt can hold janicart keys, while utility belt and secbelt can hold any keys.
 *Added a "no power" warning emote to cyborgs.
 *Admin moreinfo links to antags in ahelp are now red.
@@ -288,7 +288,7 @@ This allowed us to create various fallout vehicles with sounds.
 
 ATTENTION!
 *Very special monkey has gained a few persistence save file features.
-If Caesar / Toecutter / Humungus / Immortan is alive till the end of the round - it will return in the next one keeping the items it had on the head and in mouth slots. If it dies - it's sucessor will appear bearing the family name and keeping the loot.
+If Caesar / Toecutter / Humungus / Immortan is alive till the end of the round - it will return in the next one keeping the items it had on the head and in mouth slots. If it dies - it's successor will appear bearing the family name and keeping the loot.
 If it's gibbed, a new wasteland legend is born from a scratch.
 
 #7 - Chnkr
@@ -297,7 +297,7 @@ If it's gibbed, a new wasteland legend is born from a scratch.
 
 #8 - AnturK
 
-*Low Midi-chlorians: Added cooldown on tk throwing.
+*Low midi-chlorians: Added cooldown on tk throwing.
 *Made Ghost HUD toggle persistent.
 *Fixed anomalies spawning same place.
 *Fixed HandOfGod ghost image.
@@ -372,7 +372,7 @@ There are three types of these: makeshift bola, raider bola, and tribal bola wit
 *HUD icons for cooks.
 *Added shots of wine and other things.
 *More emojis.
-*Use wirecutters to completely remove the poster.
+*Use wire cutters to completely remove the poster.
 *Cat fixes and fully functional space cat!
 
 #20 - okaw
@@ -471,11 +471,11 @@ f12 - HUD mode for all the players.
 Tau Ceti Station gold:
 
 *Chalkboard for writing and messing around.
-*Badmins have discovered Midi-chlorians in their blood, allowing them to use the Force.
+*Badmins have discovered midi-chlorians in their blood, allowing them to use the Force.
 *Library Janitor admin tool, allowing top-rank admins to work with books database via debug. (debug.dm)
 *The global game of D&D, where admins are the Game Master (single).
 *Roll Credits button at Special Verbs for admins with +Fun to show all the players a credit roll at will.
-Credits include the player logins, character names and uncover if they were an antagonist during the round.
+Credits include the players logins, character names and uncover if they were an antagonist during the round.
 This feature was made for the round end, but it's not automatic in F13 to give admins a choice if they consider a round really special.
 
 Atlas Station awesomeness:
