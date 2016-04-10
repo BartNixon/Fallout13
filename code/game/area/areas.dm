@@ -16,12 +16,12 @@
 // ===
 /area
 	var/global/global_uid = 0
-	var/uid
-	var/list/ambientsounds = list('sound/ambience/ambigen1.ogg','sound/ambience/ambigen2.ogg',\  //1 - 2 : outside the structures
+	var/uid //1 - 2 : outside the structures, 3 - 9 : inside the structures, 10 - 14 : vault specific
+	var/list/ambientsounds = list('sound/ambience/ambigen1.ogg','sound/ambience/ambigen2.ogg',\
 									'sound/ambience/ambigen3.ogg','sound/ambience/ambigen4.ogg',\
-									'sound/ambience/ambigen5.ogg','sound/ambience/ambigen6.ogg',\  //3 - 9 : inside the structures
+									'sound/ambience/ambigen5.ogg','sound/ambience/ambigen6.ogg',\
 									'sound/ambience/ambigen7.ogg','sound/ambience/ambigen8.ogg',\
-									'sound/ambience/ambigen9.ogg','sound/ambience/ambigen10.ogg',\ //10 - 14 : vault specific
+									'sound/ambience/ambigen9.ogg','sound/ambience/ambigen10.ogg',\
 									'sound/ambience/ambigen11.ogg','sound/ambience/ambigen12.ogg',\
 									'sound/ambience/ambigen13.ogg','sound/ambience/ambigen14.ogg')
 

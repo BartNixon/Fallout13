@@ -705,25 +705,30 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	refill_canister = /obj/item/weapon/vending_refill/cola
 
 //Fallout 13
-/obj/machinery/vending/nukacolavend/New()
-	..()
+/obj/machinery/vending/nukacolavend
 	name = "\improper Nuka-Cola vending machine"
-	desc = pick("You can barely read the engravement on the side of a machine.<br>Warning: If you tamper with this unit you will have to answer to the Nuka-Cola Corporation.","The machine makes you nostalgic for the best days of your childhood.<br>What if there are still some bottles left? Or maybe not.","If there is anything left from humanity after all the decades of rage and stagnation, that sure is Nuka-Cola.")
 	icon_state = "nuka_vending"
 	icon_deny = "nuka_vending-deny"
 	products = list(/obj/item/weapon/reagent_containers/food/drinks/nukacola/radioactive = 3)
 	contraband = list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 2)
 	refill_canister = /obj/item/weapon/vending_refill/cola
 
-/obj/machinery/vending/nukacolavendfull/New()
-	..()
+/obj/machinery/vending/nukacolavendfull
 	name = "\improper pristine Nuka-Cola vending machine"
-	desc = pick("You can clearly read the engravement on the side of a machine.<br>Warning: If you tamper with this unit you will have to answer to the Nuka-Cola Corporation.","This particular machine seems to be in a better condition than something you could see out in the wastes.<br>What if there are still some bottles left?","Cola. Cola never changes.<br>The Romans waged war because they didn't try Nuka-Cola. Spain built an empire from its lust for everything but Nuka-Cola.<br>All the empires on Earth have fallen, but Cola never changes.")
 	icon_state = "nuka_vending"
 	icon_deny = "nuka_vending-deny"
 	products = list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 20)
 	contraband = list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 10)
 	refill_canister = /obj/item/weapon/vending_refill/cola
+
+/obj/machinery/vending/nukacolavend/New()
+	..()
+	desc = pick("You can barely read the engravement on the side of a machine.<br>Warning: If you tamper with this unit you will have to answer to the Nuka-Cola Corporation.","The machine makes you nostalgic for the best days of your childhood.<br>What if there are still some bottles left? Or maybe not.","If there is anything left from humanity after all the decades of rage and stagnation, that sure is Nuka-Cola.")
+
+/obj/machinery/vending/nukacolavendfull/New()
+	..()
+	desc = pick("You can clearly read the engravement on the side of a machine.<br>Warning: If you tamper with this unit you will have to answer to the Nuka-Cola Corporation.","This particular machine seems to be in a better condition than something you could see out in the wastes.<br>What if there are still some bottles left?","Cola. Cola never changes.<br>The Romans waged war because they didn't try Nuka-Cola. Spain built an empire from its lust for everything but Nuka-Cola.<br>All the empires on Earth have fallen, but Cola never changes.")
+
 
 //This one's from bay12
 /obj/machinery/vending/cart

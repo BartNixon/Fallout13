@@ -54,20 +54,6 @@
 	charges = list(20, 2, 0)//of 60 standard, 6 contraband
 	init_charges = list(20, 2, 0)
 
-//Fallout 13
-
-/obj/item/weapon/vending_refill/nukacolavend
-	machine_name = "Nuka-Cola vending machine"
-	icon_state = "refill_cola"
-	charges = list(0, 10, 0)//of 3 standard
-	init_charges = list(0, 10, 0)
-
-/obj/item/weapon/vending_refill/nukacolavendfull
-	machine_name = "pristine Nuka-Cola vending machine"
-	icon_state = "refill_cola"
-	charges = list(10, 0, 0)//of 20 standard
-	init_charges = list(10, 0, 0)
-
 //Other normal refills
 
 /obj/item/weapon/vending_refill/cigarette
