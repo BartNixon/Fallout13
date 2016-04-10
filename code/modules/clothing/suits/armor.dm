@@ -439,5 +439,6 @@
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
 	cold_protection = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
 	heat_protection = CHEST|GROIN|LEGS|FEET|ARMS
+	unacidable = 1
 	put_on_delay = 100
 	strip_delay = 200

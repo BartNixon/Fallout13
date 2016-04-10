@@ -59,7 +59,7 @@ Bart's code stuff:
 *Moved all skirts and female uniforms to a dedicated subtype - under/female/
 *Coded the specific Fallout 13 clothing - can be discovered searching for "f13" in item spawn search.
 *Restored legacy body bags.
-*New text formatting style for ingame chat, and new colors for admin chat etc.
+*Minor stylesheet.dm changes.
 *Moved all vehicle icons to a special folder. 
 All vehicle icons are now called small_vehicles.dmi and medium_vehicles.dmi
 *Cops can be dirty too - allowed Security Officer and Detective to be an antag.
@@ -79,13 +79,14 @@ Our dear friend from Urist McStation, one of the most notable Space Station 13 s
 *Mr.Handy and Mr.Gutsy!
 *Eyebot robot with neat animations for idle and movement states + fancy eyebot helmet.
 *Barrel cactus at wasteland.dmi and barrel cactus fruit in food.dmi
+*Neat tree log at wasteland.dmi
 *Grand food update. Pre-war foods added to food.dmi and remaining junk in janitor.dmi
 *Added various clothing for characters, pre-War outfits and such.
 *Also added content from other of his projects, mafia and cowboy stuff.
 
 #6 - MrSnapwalk
 
-NT Station - noli umquam oblivisci. We wish there were more people who have heard of MrSnapwalk, aside from Baystation 12 or UristMcStation. Skilled and creative spriter with impressive musical talent.
+NT Station - noli umquam oblivisci. We wish there were more people who have heard of MrSnapwalk, aside from UristMcStation or Baystation 12. Skilled and creative spriter with impressive musical talent.
 
 *Stimpack and Med-X (syringes), Radaway (bloodpack), Hydra, Psycho, Jet, Rebound (syringes), Mentats, Turbo, rad-x, steady (chemical)
 *Replaced syringes to a med-x similar variant. 
@@ -471,6 +472,7 @@ f12 - HUD mode for all the players.
 Tau Ceti Station gold:
 
 *Chalkboard for writing and messing around.
+*Rough base for crawling - allowing mobs to slowly move while laying down, and crawl under the certain structures like beds or tables.
 *Badmins have discovered midi-chlorians in their blood, allowing them to use the Force.
 *Library Janitor admin tool, allowing top-rank admins to work with books database via debug. (debug.dm)
 *The global game of D&D, where admins are the Game Master (single).

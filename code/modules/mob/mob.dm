@@ -744,6 +744,9 @@ var/list/slot_equipment_priority = list( \
 			layer = initial(layer)
 	update_transform()
 	lying_prev = lying
+	if (crawling)
+		lying = 1
+		canmove = 1
 	return canmove
 
 

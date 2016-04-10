@@ -268,10 +268,10 @@
 	min_cold_protection_temperature = SPACE_HELM_MIN_TEMP_PROTECT
 	heat_protection = HEAD
 	max_heat_protection_temperature = SPACE_HELM_MAX_TEMP_PROTECT
+	unacidable = 1
 	put_on_delay = 20
 	strip_delay = 200
 	burn_state = FIRE_PROOF
-	unacidable = 1
 
 /obj/item/clothing/head/helmet/f13/t45bhelmet
 	name = "salvaged power helmet"
